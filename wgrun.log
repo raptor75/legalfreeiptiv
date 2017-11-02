@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 02/11/2017 13:59:13
+Job started at 02/11/2017 16:49:05
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 processing /data/legalfreeiptv/guide.xml ...
@@ -39,9 +39,9 @@ Found existing channel (xmltv_id=ТНТ4) in the config file
 
 
 Group (0) :
-update requested for - 21 - out of - 21 - channels for 6 day(s)
+update requested for - 21 - out of - 21 - channels for 8 day(s)
 (   1/21  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiii........c
+iiiiiiii........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 15:15:00 stop = 02/11/2017 16:00:00 title = Давай поженимся!
@@ -116,10 +116,20 @@ iiiiii........c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 21:35:00 stop = 07/11/2017 23:40:00 title = Троцкий
       Replaces ----- start = 07/11/2017 21:35:00 stop = 07/11/2017 23:40:00 title = Троцкий
+....................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/11/2017 21:35:00 stop = 08/11/2017 23:40:00 title = Троцкий
+      Replaces ----- start = 08/11/2017 21:35:00 stop = 08/11/2017 23:40:00 title = Троцкий
+.....................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 09/11/2017 21:35:00 stop = 09/11/2017 23:40:00 title = Троцкий
+      Replaces ----- start = 09/11/2017 21:35:00 stop = 09/11/2017 23:40:00 title = Троцкий
 .
 
 (   2/21  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiii..........................................................c
+iiiiiiii..........................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 05/11/2017 07:35:00 stop = 05/11/2017 08:05:00 title = "Смехопанорама" Евгения Петросяна
@@ -134,10 +144,10 @@ iiiiii..........................................................c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 21:00:00 stop = 07/11/2017 22:50:00 title = Демон революции
       Replaces ----- start = 07/11/2017 21:00:00 stop = 07/11/2017 22:50:00 title = Демон революции
-.
+.............................................
 
 (   3/21  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
-iiiiii..............c
+iiiiiiii..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 18:55:00 stop = 02/11/2017 19:55:00 title = Пляжный футбол. Межконтинентальный кубок. Прямая трансляция из ОАЭ
@@ -302,13 +312,13 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 21:00:00 stop = 07/11/2017 23:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Трансляция из Монако
       Replaces ----- start = 07/11/2017 21:00:00 stop = 07/11/2017 23:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Трансляция из Монако
-..
+..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/21  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiii...............................................................................................................................................................................................................................................................................................
+iiiiiiii...............................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   5/21  ) S-TV.RU -- chan. (xmltv_id=Культура) -- mode Incremental
-iiiiii..............c
+iiiiiiii..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 12:05:00 stop = 02/11/2017 12:45:00 title = "Игра в бисер" с Игорем Волгиным
@@ -333,9 +343,10 @@ iiiiii..............c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 23:55:00 stop = 08/11/2017 00:35:00 title = "Тем временем" с Александром Архангельским
       Replaces ----- start = 07/11/2017 23:55:00 stop = 08/11/2017 00:35:00 title = "Тем временем" с Александром Архангельским
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   6/21  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiii....c
+iiiiiiii....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 09:00:00 stop = 02/11/2017 10:00:00 title = Возвращение Мухтара-2
@@ -475,10 +486,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 19:40:00 stop = 07/11/2017 20:40:00 title = "Специальный выпуск" с Вадимом Такменевым
       Replaces ----- start = 07/11/2017 19:40:00 stop = 07/11/2017 20:40:00 title = "Специальный выпуск" с Вадимом Такменевым
-..
+..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   7/21  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiii...........................c
+iiiiiiii...........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 03/11/2017 00:00:00 stop = 03/11/2017 01:00:00 title = Дом-2. После заката
@@ -513,10 +524,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 01:00:00 stop = 07/11/2017 01:30:00 title = Такое Кино!
       Replaces ----- start = 07/11/2017 01:00:00 stop = 07/11/2017 01:30:00 title = Такое Кино!
-...........................
+...........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   8/21  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiii.............c
+iiiiiiii.............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 20:00:00 stop = 02/11/2017 21:00:00 title = Ивановы-Ивановы
@@ -546,7 +557,29 @@ iiiiii.............c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 21:00:00 stop = 05/11/2017 22:45:00 title = Успех
       Replaces ----- start = 05/11/2017 21:00:00 stop = 05/11/2017 22:45:00 title = Успех
-.............c
+........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/11/2017 08:00:00 stop = 06/11/2017 09:00:00 title = Приключения Кота в сапогах
+      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 09:30:00 title = Приключения Кота в сапогах
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/11/2017 09:00:00 stop = 06/11/2017 09:25:00 title = Уральские пельмени
+      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 09:30:00 title = Приключения Кота в сапогах
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/11/2017 09:25:00 stop = 06/11/2017 11:20:00 title = Успех
+      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 09:30:00 title = Приключения Кота в сапогах
+      Replaces ----- start = 06/11/2017 09:30:00 stop = 06/11/2017 11:10:00 title = Турбо
+      Replaces ----- start = 06/11/2017 11:10:00 stop = 06/11/2017 13:05:00 title = Успех
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/11/2017 11:20:00 stop = 06/11/2017 13:05:00 title = Турбо
+      Replaces ----- start = 06/11/2017 11:10:00 stop = 06/11/2017 13:05:00 title = Успех
+..c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/11/2017 17:25:00 stop = 06/11/2017 19:00:00 title = Снупи и мелочь пузатая в кино
@@ -561,9 +594,10 @@ iiiiii.............c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 23:35:00 stop = 08/11/2017 00:30:00 title = "Кино в деталях" с Фёдором Бондарчуком
       Replaces ----- start = 07/11/2017 23:35:00 stop = 08/11/2017 00:30:00 title = "Кино в деталях" с Фёдором Бондарчуком
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   9/21  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiii...c
+iiiiiiii...c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 11:00:00 stop = 02/11/2017 14:00:00 title = Давай разведёмся!
@@ -573,10 +607,10 @@ iiiiii...c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 11:05:00 stop = 07/11/2017 14:05:00 title = Давай разведёмся!
       Replaces ----- start = 07/11/2017 11:05:00 stop = 07/11/2017 14:05:00 title = Давай разведёмся!
-.........
+.........nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  10/21  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiic
+iiiiiiiic
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 05:00:00 stop = 02/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
@@ -646,10 +680,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 09:00:00 stop = 07/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
       Replaces ----- start = 07/11/2017 09:00:00 stop = 07/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
-..............
+..............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  11/21  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiii.....c
+iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 11:30:00 stop = 02/11/2017 12:30:00 title = Не ври мне!
@@ -694,10 +728,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 12:30:00 stop = 07/11/2017 13:30:00 title = Не ври мне!
       Replaces ----- start = 07/11/2017 12:30:00 stop = 07/11/2017 13:30:00 title = Не ври мне!
-...............
+...............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  12/21  ) S-TV.RU -- chan. (xmltv_id=Карусель) -- mode Incremental
-iiiiii..........c
+iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 10:50:00 stop = 02/11/2017 11:40:00 title = Малыш и Карлсон
@@ -737,13 +771,13 @@ iiiiii..........c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 10:50:00 stop = 07/11/2017 11:35:00 title = Котёнок по имени Гав
       Replaces ----- start = 07/11/2017 10:50:00 stop = 07/11/2017 11:35:00 title = Котёнок по имени Гав
-.......................
+.......................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  13/21  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
-iiiiii...............................................................................................................................................................
+iiiiiiii...............................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  14/21  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiii...................c
+iiiiiiii...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 03/11/2017 00:00:00 stop = 03/11/2017 00:35:00 title = События. 25-й час
@@ -768,10 +802,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 22:30:00 stop = 07/11/2017 23:05:00 title = Осторожно, мошенники!
       Replaces ----- start = 07/11/2017 22:30:00 stop = 07/11/2017 23:05:00 title = Осторожно, мошенники!
-.
+.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  15/21  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiii...........c
+iiiiiiii...........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 17:10:00 stop = 02/11/2017 18:05:00 title = Возвращение Мухтара-2
@@ -811,10 +845,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 18:05:00 stop = 07/11/2017 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 07/11/2017 18:05:00 stop = 07/11/2017 19:00:00 title = Возвращение Мухтара-2
-....
+....nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  16/21  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiii...............................................................c
+iiiiiiii...............................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/11/2017 19:00:00 stop = 06/11/2017 20:00:00 title = Орел и решка. Рай и ад-2
@@ -824,10 +858,10 @@ c
  CHANGED show corrected,
       show with ---- start = 06/11/2017 20:00:00 stop = 06/11/2017 21:00:00 title = Орел и решка. Перезагрузка
       Replaces ----- start = 06/11/2017 20:00:00 stop = 06/11/2017 21:00:00 title = Орел и решка. Перезагрузка
-.............
+.............nnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  17/21  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiii....................c
+iiiiiiii....................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 23:15:00 stop = 03/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
@@ -852,7 +886,12 @@ iiiiii....................c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 09:00:00 stop = 05/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
       Replaces ----- start = 05/11/2017 09:00:00 stop = 05/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
-.............................c
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/11/2017 10:45:00 stop = 05/11/2017 11:10:00 title = Научный детектив
+      Replaces ----- start = 05/11/2017 10:45:00 stop = 05/11/2017 11:10:00 title = Политический детектив
+..........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 07/11/2017 08:00:00 stop = 07/11/2017 09:00:00 title = Военная разведка. Первый удар
@@ -887,9 +926,10 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 23:15:00 stop = 08/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
       Replaces ----- start = 07/11/2017 23:15:00 stop = 08/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  18/21  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
-iiiiii..........c
+iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 11:05:00 stop = 02/11/2017 12:00:00 title = Живая история
@@ -939,17 +979,17 @@ c
  CHANGED show corrected,
       show with ---- start = 07/11/2017 11:30:00 stop = 07/11/2017 12:00:00 title = 1917. Судьбы
       Replaces ----- start = 07/11/2017 11:30:00 stop = 07/11/2017 12:00:00 title = 1917. Судьбы
-................
+................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  19/21  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiii................................................................................
+iiiiiiii................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  20/21  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiii................................................................
+iiiiiiii................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  21/21  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.....................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 
 
-Job finished at 02/11/2017 14:01:54 done in 2m 40s
+Job finished at 02/11/2017 16:53:51 done in 4m 45s
