@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 01/11/2017 23:00:09
+Job started at 02/11/2017 11:00:11
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 processing /data/legalfreeiptv/guide.xml ...
@@ -38,7 +38,12 @@ Found existing channel (xmltv_id=Общественное телевидение
 Group (0) :
 update requested for - 18 - out of - 18 - channels for 6 day(s)
 (   1/18  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiii...............c
+iiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 02/11/2017 15:15:00 stop = 02/11/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 02/11/2017 15:15:00 stop = 02/11/2017 16:00:00 title = Давай поженимся!
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/11/2017 21:35:00 stop = 02/11/2017 23:40:00 title = Непокорная
@@ -93,7 +98,7 @@ iiiiii...............c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 22:30:00 stop = 06/11/2017 00:00:00 title = Герой
       Replaces ----- start = 05/11/2017 22:30:00 stop = 06/11/2017 00:00:00 title = Герой
-...
+...nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/18  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiii..........................................................c
@@ -101,7 +106,7 @@ iiiiii..........................................................c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 07:35:00 stop = 05/11/2017 08:05:00 title = "Смехопанорама" Евгения Петросяна
       Replaces ----- start = 05/11/2017 07:35:00 stop = 05/11/2017 08:05:00 title = "Смехопанорама" Евгения Петросяна
-............
+............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/18  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
 iiiiii..............c
@@ -229,10 +234,10 @@ c
  CHANGED show corrected,
       show with ---- start = 06/11/2017 00:30:00 stop = 06/11/2017 02:30:00 title = Футбол. Чемпионат Англии
       Replaces ----- start = 06/11/2017 00:30:00 stop = 06/11/2017 02:30:00 title = Футбол. Чемпионат Англии
-..
+..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/18  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiii...............................................................................................................................................................................................
+iiiiii...............................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   5/18  ) S-TV.RU -- chan. (xmltv_id=Культура) -- mode Incremental
 iiiiii..............c
@@ -250,7 +255,7 @@ iiiiii..............c
  CHANGED show corrected,
       show with ---- start = 04/11/2017 08:50:00 stop = 04/11/2017 09:25:00 title = Мультфильмы
       Replaces ----- start = 04/11/2017 08:50:00 stop = 04/11/2017 09:25:00 title = Мультфильмы
-................................
+................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   6/18  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiii....c
@@ -333,7 +338,7 @@ c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 19:00:00 stop = 05/11/2017 20:10:00 title = "Итоги недели" с Ирадой Зейналовой
       Replaces ----- start = 05/11/2017 19:00:00 stop = 05/11/2017 20:10:00 title = "Итоги недели" с Ирадой Зейналовой
-....
+....nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   7/18  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiii...........................c
@@ -361,7 +366,7 @@ c
  CHANGED show corrected,
       show with ---- start = 06/11/2017 00:00:00 stop = 06/11/2017 01:00:00 title = Дом-2. После заката
       Replaces ----- start = 06/11/2017 00:00:00 stop = 06/11/2017 01:00:00 title = Дом-2. После заката
-......
+......nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   8/18  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiii.............c
@@ -394,7 +399,7 @@ iiiiii.............c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 21:00:00 stop = 05/11/2017 22:45:00 title = Успех
       Replaces ----- start = 05/11/2017 21:00:00 stop = 05/11/2017 22:45:00 title = Успех
-....
+....nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   9/18  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiii...c
@@ -402,7 +407,7 @@ iiiiii...c
  CHANGED show corrected,
       show with ---- start = 02/11/2017 11:00:00 stop = 02/11/2017 14:00:00 title = Давай разведёмся!
       Replaces ----- start = 02/11/2017 11:00:00 stop = 02/11/2017 14:00:00 title = Давай разведёмся!
-................................................
+................................................nnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  10/18  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 iiiiiic
@@ -450,7 +455,7 @@ c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 05:00:00 stop = 05/11/2017 06:40:00 title = "Территория заблуждений" с Игорем Прокопенко
       Replaces ----- start = 05/11/2017 05:00:00 stop = 05/11/2017 06:40:00 title = "Территория заблуждений" с Игорем Прокопенко
-............
+............nnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  11/18  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiii.....c
@@ -488,7 +493,7 @@ c
  CHANGED show corrected,
       show with ---- start = 04/11/2017 13:45:00 stop = 04/11/2017 14:30:00 title = Настоящая МакКой
       Replaces ----- start = 04/11/2017 13:45:00 stop = 04/11/2017 14:30:00 title = Настоящая МакКой
-..........................
+..........................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  12/18  ) S-TV.RU -- chan. (xmltv_id=Карусель) -- mode Incremental
 iiiiii..........c
@@ -521,10 +526,10 @@ iiiiii..........c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 14:55:00 stop = 05/11/2017 15:40:00 title = Ну, погоди!
       Replaces ----- start = 05/11/2017 14:55:00 stop = 05/11/2017 15:40:00 title = Ну, погоди!
-...........
+...........nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  13/18  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
-iiiiii................................................................................................................
+iiiiii................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  14/18  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiii...................c
@@ -547,7 +552,7 @@ c
  CHANGED show corrected,
       show with ---- start = 03/11/2017 19:30:00 stop = 03/11/2017 20:40:00 title = "В центре событий" с Анной Прохоровой
       Replaces ----- start = 03/11/2017 19:30:00 stop = 03/11/2017 20:40:00 title = "В центре событий" с Анной Прохоровой
-......................................................
+......................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  15/18  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
 iiiiii...........c
@@ -575,10 +580,10 @@ c
  CHANGED show corrected,
       show with ---- start = 04/11/2017 09:30:00 stop = 04/11/2017 10:00:00 title = Наше кино. История большой любви
       Replaces ----- start = 04/11/2017 09:30:00 stop = 04/11/2017 10:00:00 title = Наше кино. История большой любви
-.............................
+.............................nnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  16/18  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiii...........................................................
+iiiiii...........................................................nnnnnnnnnnnnnnnnnnn
 
 (  17/18  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
 iiiiii....................c
@@ -606,7 +611,7 @@ iiiiii....................c
  CHANGED show corrected,
       show with ---- start = 05/11/2017 09:00:00 stop = 05/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
       Replaces ----- start = 05/11/2017 09:00:00 stop = 05/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
-...............
+...............nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  18/18  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
 iiiiii..........c
@@ -634,8 +639,8 @@ iiiiii..........c
  CHANGED show corrected,
       show with ---- start = 06/11/2017 01:10:00 stop = 06/11/2017 01:20:00 title = Киноправда?!
       Replaces ----- start = 06/11/2017 01:10:00 stop = 06/11/2017 01:20:00 title = Киноправда?!
-.
+.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 
 
-Job finished at 01/11/2017 23:01:40 done in 1m 31s
+Job finished at 02/11/2017 11:03:20 done in 3m 8s
