@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 02/11/2017 13:54:42
+Job started at 02/11/2017 13:59:13
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 processing /data/legalfreeiptv/guide.xml ...
@@ -31,15 +31,16 @@ Found existing channel (xmltv_id=Звезда) in the config file
 Found existing channel (xmltv_id=Общественное телевидение России) in the config file
 Found existing channel (xmltv_id=Ю) in the config file
 Found existing channel (xmltv_id=Че) in the config file
-......................
+Found existing channel (xmltv_id=ТНТ4) in the config file
+.......................
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
 
 
 Group (0) :
-update requested for - 20 - out of - 20 - channels for 6 day(s)
-(   1/20  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
+update requested for - 21 - out of - 21 - channels for 6 day(s)
+(   1/21  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiii........c
    epg correction : 
  CHANGED show corrected,
@@ -117,7 +118,7 @@ iiiiii........c
       Replaces ----- start = 07/11/2017 21:35:00 stop = 07/11/2017 23:40:00 title = Троцкий
 .
 
-(   2/20  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
+(   2/21  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiii..........................................................c
    epg correction : 
  CHANGED show corrected,
@@ -135,7 +136,7 @@ iiiiii..........................................................c
       Replaces ----- start = 07/11/2017 21:00:00 stop = 07/11/2017 22:50:00 title = Демон революции
 .
 
-(   3/20  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
+(   3/21  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
 iiiiii..............c
    epg correction : 
  CHANGED show corrected,
@@ -303,10 +304,10 @@ c
       Replaces ----- start = 07/11/2017 21:00:00 stop = 07/11/2017 23:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Трансляция из Монако
 ..
 
-(   4/20  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+(   4/21  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
 iiiiii...............................................................................................................................................................................................................................................................................................
 
-(   5/20  ) S-TV.RU -- chan. (xmltv_id=Культура) -- mode Incremental
+(   5/21  ) S-TV.RU -- chan. (xmltv_id=Культура) -- mode Incremental
 iiiiii..............c
    epg correction : 
  CHANGED show corrected,
@@ -333,7 +334,7 @@ iiiiii..............c
       show with ---- start = 07/11/2017 23:55:00 stop = 08/11/2017 00:35:00 title = "Тем временем" с Александром Архангельским
       Replaces ----- start = 07/11/2017 23:55:00 stop = 08/11/2017 00:35:00 title = "Тем временем" с Александром Архангельским
 
-(   6/20  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+(   6/21  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiii....c
    epg correction : 
  CHANGED show corrected,
@@ -476,7 +477,7 @@ c
       Replaces ----- start = 07/11/2017 19:40:00 stop = 07/11/2017 20:40:00 title = "Специальный выпуск" с Вадимом Такменевым
 ..
 
-(   7/20  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
+(   7/21  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiii...........................c
    epg correction : 
  CHANGED show corrected,
@@ -514,7 +515,7 @@ c
       Replaces ----- start = 07/11/2017 01:00:00 stop = 07/11/2017 01:30:00 title = Такое Кино!
 ...........................
 
-(   8/20  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+(   8/21  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiii.............c
    epg correction : 
  CHANGED show corrected,
@@ -561,7 +562,7 @@ iiiiii.............c
       show with ---- start = 07/11/2017 23:35:00 stop = 08/11/2017 00:30:00 title = "Кино в деталях" с Фёдором Бондарчуком
       Replaces ----- start = 07/11/2017 23:35:00 stop = 08/11/2017 00:30:00 title = "Кино в деталях" с Фёдором Бондарчуком
 
-(   9/20  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
+(   9/21  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiii...c
    epg correction : 
  CHANGED show corrected,
@@ -574,7 +575,7 @@ iiiiii...c
       Replaces ----- start = 07/11/2017 11:05:00 stop = 07/11/2017 14:05:00 title = Давай разведёмся!
 .........
 
-(  10/20  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+(  10/21  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 iiiiiic
    epg correction : 
  CHANGED show corrected,
@@ -647,7 +648,7 @@ c
       Replaces ----- start = 07/11/2017 09:00:00 stop = 07/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
 ..............
 
-(  11/20  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+(  11/21  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiii.....c
    epg correction : 
  CHANGED show corrected,
@@ -695,7 +696,7 @@ c
       Replaces ----- start = 07/11/2017 12:30:00 stop = 07/11/2017 13:30:00 title = Не ври мне!
 ...............
 
-(  12/20  ) S-TV.RU -- chan. (xmltv_id=Карусель) -- mode Incremental
+(  12/21  ) S-TV.RU -- chan. (xmltv_id=Карусель) -- mode Incremental
 iiiiii..........c
    epg correction : 
  CHANGED show corrected,
@@ -738,10 +739,10 @@ iiiiii..........c
       Replaces ----- start = 07/11/2017 10:50:00 stop = 07/11/2017 11:35:00 title = Котёнок по имени Гав
 .......................
 
-(  13/20  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
+(  13/21  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
 iiiiii...............................................................................................................................................................
 
-(  14/20  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+(  14/21  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiii...................c
    epg correction : 
  CHANGED show corrected,
@@ -769,7 +770,7 @@ c
       Replaces ----- start = 07/11/2017 22:30:00 stop = 07/11/2017 23:05:00 title = Осторожно, мошенники!
 .
 
-(  15/20  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
+(  15/21  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
 iiiiii...........c
    epg correction : 
  CHANGED show corrected,
@@ -812,7 +813,7 @@ c
       Replaces ----- start = 07/11/2017 18:05:00 stop = 07/11/2017 19:00:00 title = Возвращение Мухтара-2
 ....
 
-(  16/20  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+(  16/21  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiii...............................................................c
    epg correction : 
  CHANGED show corrected,
@@ -825,7 +826,7 @@ c
       Replaces ----- start = 06/11/2017 20:00:00 stop = 06/11/2017 21:00:00 title = Орел и решка. Перезагрузка
 .............
 
-(  17/20  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
+(  17/21  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
 iiiiii....................c
    epg correction : 
  CHANGED show corrected,
@@ -887,7 +888,7 @@ c
       show with ---- start = 07/11/2017 23:15:00 stop = 08/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
       Replaces ----- start = 07/11/2017 23:15:00 stop = 08/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
 
-(  18/20  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
+(  18/21  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
 iiiiii..........c
    epg correction : 
  CHANGED show corrected,
@@ -940,12 +941,15 @@ c
       Replaces ----- start = 07/11/2017 11:30:00 stop = 07/11/2017 12:00:00 title = 1917. Судьбы
 ................
 
-(  19/20  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+(  19/21  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiii................................................................................
 
-(  20/20  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+(  20/21  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiii................................................................
+
+(  21/21  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 
 
-Job finished at 02/11/2017 13:57:03 done in 2m 20s
+Job finished at 02/11/2017 14:01:54 done in 2m 40s
