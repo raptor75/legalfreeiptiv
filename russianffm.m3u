@@ -1,0 +1,35 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/raptor75/legalfreeiptiv/master/guide.xml"
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/1tv.jpg",Первый канал
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/31.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/rtr.jpg",Россия 1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/32.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/matchtv.jpg",Матч!
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/33.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/vesti.jpg",Россия 24
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/34.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/ntv.jpg",НТВ
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/35.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/tnt.jpg",ТНТ
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/36.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/sts.jpg",СТС
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/37.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/domashniy.jpg",Домашний
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/38.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/rentv.jpg",РЕН ТВ
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/39.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/tv3.jpg",ТВ-3
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/40.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/che.jpg",Че
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/41.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/piter5_rus.jpg",Пятый Канал
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/42.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/tvc.jpg",ТВЦ
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/43.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/friday.jpg",Пятница
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/44.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/u.jpg",Ю
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/45.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/tnt_4.jpg",ТНТ4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/46.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/zvezda.jpg",Звезда
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/48.ts -vcodec copy -acodec copy -metadata service_provider=Russia -metadata service_name=Moscow -f mpegts -tune zerolatency pipe:1
