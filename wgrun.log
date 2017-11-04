@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 03/11/2017 23:00:10
+Job started at 04/11/2017 11:00:23
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -38,1175 +38,277 @@ Found existing channel (xmltv_id=РБК) in the config file
 Group (0) :
 update requested for - 17 - out of - 17 - channels for 8 day(s)
 (   1/17  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 13:20:00 stop = 04/11/2017 15:00:00 title = Это наши дети
-      Replaces ----- start = 04/11/2017 13:20:00 stop = 04/11/2017 15:00:00 title = Это наши дети
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 15:15:00 stop = 04/11/2017 18:00:00 title = Это наши дети
-      Replaces ----- start = 04/11/2017 15:15:00 stop = 04/11/2017 18:00:00 title = Это наши дети
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 23:35:00 stop = 05/11/2017 00:25:00 title = Премьера. "Короли фанеры"
-      Replaces ----- start = 04/11/2017 23:35:00 stop = 05/11/2017 00:25:00 title = Премьера. "Короли фанеры"
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 08:00:00 stop = 05/11/2017 08:35:00 title = Часовой
-      Replaces ----- start = 05/11/2017 08:00:00 stop = 05/11/2017 08:35:00 title = Часовой
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 09:40:00 stop = 05/11/2017 10:00:00 title = "Непутевые заметки" с Дмитрием Крыловым
-      Replaces ----- start = 05/11/2017 09:40:00 stop = 05/11/2017 10:00:00 title = "Непутевые заметки" с Дмитрием Крыловым
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 10:15:00 stop = 05/11/2017 11:00:00 title = "Честное слово" с Юрием Николаевым
-      Replaces ----- start = 05/11/2017 10:15:00 stop = 05/11/2017 11:00:00 title = "Честное слово" с Юрием Николаевым
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 14:10:00 stop = 05/11/2017 15:40:00 title = Герой
-      Replaces ----- start = 05/11/2017 14:10:00 stop = 05/11/2017 15:40:00 title = Герой
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 22:00:00 stop = 06/11/2017 00:20:00 title = "Клуб Веселых и Находчивых". Высшая лига
-      Replaces ----- start = 05/11/2017 22:00:00 stop = 06/11/2017 00:20:00 title = "Клуб Веселых и Находчивых". Высшая лига
-............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 17:30:00 stop = 06/11/2017 19:30:00 title = Я могу!
-      Replaces ----- start = 06/11/2017 17:30:00 stop = 06/11/2017 19:30:00 title = Я могу!
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 21:20:00 stop = 06/11/2017 23:15:00 title = Троцкий
-      Replaces ----- start = 06/11/2017 21:20:00 stop = 06/11/2017 23:15:00 title = Троцкий
-..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 21:35:00 stop = 07/11/2017 23:40:00 title = Троцкий
-      Replaces ----- start = 07/11/2017 21:35:00 stop = 07/11/2017 23:40:00 title = Троцкий
-....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 21:35:00 stop = 08/11/2017 23:40:00 title = Троцкий
-      Replaces ----- start = 08/11/2017 21:35:00 stop = 08/11/2017 23:40:00 title = Троцкий
-.....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 21:35:00 stop = 09/11/2017 23:40:00 title = Троцкий
-      Replaces ----- start = 09/11/2017 21:35:00 stop = 09/11/2017 23:40:00 title = Троцкий
-...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 17:00:00 stop = 10/11/2017 18:00:00 title = "Человек и закон" с Алексеем Пимановым
-      Replaces ----- start = 10/11/2017 17:00:00 stop = 10/11/2017 18:00:00 title = "Человек и закон" с Алексеем Пимановым
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 21:30:00 stop = 10/11/2017 23:30:00 title = "Голос". Новый сезон
-      Replaces ----- start = 10/11/2017 21:30:00 stop = 10/11/2017 23:30:00 title = "Голос". Новый сезон
-.nnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   2/17  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 07:35:00 stop = 05/11/2017 08:05:00 title = "Смехопанорама" Евгения Петросяна
-      Replaces ----- start = 05/11/2017 07:35:00 stop = 05/11/2017 08:05:00 title = "Смехопанорама" Евгения Петросяна
-...................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 20:20:00 stop = 06/11/2017 22:35:00 title = Демон революции
-      Replaces ----- start = 06/11/2017 20:20:00 stop = 06/11/2017 22:35:00 title = Демон революции
-......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 21:00:00 stop = 07/11/2017 22:50:00 title = Демон революции
-      Replaces ----- start = 07/11/2017 21:00:00 stop = 07/11/2017 22:50:00 title = Демон революции
-...................................................................nnnnnnnnnnnnnnnn
-
-(   3/17  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
-iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 10:10:00 stop = 04/11/2017 10:55:00 title = Все на футбол!
-      Replaces ----- start = 04/11/2017 10:10:00 stop = 04/11/2017 10:55:00 title = Все на футбол!
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 12:45:00 stop = 04/11/2017 14:20:00 title = Смешанные единоборства. GTC 01. Трансляция из Москвы
-      Replaces ----- start = 04/11/2017 12:45:00 stop = 04/11/2017 14:20:00 title = Смешанные единоборства. GTC 01. Трансляция из Москвы
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 16:25:00 stop = 04/11/2017 18:25:00 title = Росгосстрах. Чемпионат России по футболу. Прямая трансляция
-      Replaces ----- start = 04/11/2017 16:25:00 stop = 04/11/2017 18:25:00 title = Росгосстрах. Чемпионат России по футболу. Прямая трансляция
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 20:25:00 stop = 04/11/2017 22:25:00 title = Футбол. Чемпионат Германии. Прямая трансляция
-      Replaces ----- start = 04/11/2017 20:25:00 stop = 04/11/2017 22:25:00 title = Футбол. Чемпионат Германии. Прямая трансляция
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 23:00:00 stop = 05/11/2017 02:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Прямая трансляция из Монако
-      Replaces ----- start = 04/11/2017 23:00:00 stop = 05/11/2017 02:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Прямая трансляция из Монако
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 04:25:00 stop = 05/11/2017 05:25:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBC в тяжёлом весе. Прямая трансляция из США
-      Replaces ----- start = 05/11/2017 04:25:00 stop = 05/11/2017 05:25:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBC в тяжёлом весе. Прямая трансляция из США
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 05:25:00 stop = 05/11/2017 06:30:00 title = Смешанные единоборства. UFC. Прямая трансляция из США
-      Replaces ----- start = 05/11/2017 05:25:00 stop = 05/11/2017 06:30:00 title = Смешанные единоборства. UFC. Прямая трансляция из США
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 06:30:00 stop = 05/11/2017 07:30:00 title = Смешанные единоборства. UFC. Прямая трансляция из США
-      Replaces ----- start = 05/11/2017 06:30:00 stop = 05/11/2017 07:30:00 title = Смешанные единоборства. UFC. Прямая трансляция из США
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 08:35:00 stop = 05/11/2017 10:35:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBC в тяжёлом весе. Трансляция из США
-      Replaces ----- start = 05/11/2017 08:35:00 stop = 05/11/2017 10:35:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBC в тяжёлом весе. Трансляция из США
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 12:50:00 stop = 05/11/2017 14:25:00 title = Смешанные единоборства. Fight Nights. Трансляция из Тольятти
-      Replaces ----- start = 05/11/2017 12:50:00 stop = 05/11/2017 14:25:00 title = Смешанные единоборства. Fight Nights. Трансляция из Тольятти
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 16:00:00 stop = 05/11/2017 18:45:00 title = Росгосстрах. Чемпионат России по футболу. Прямая трансляция
-      Replaces ----- start = 05/11/2017 16:00:00 stop = 05/11/2017 18:45:00 title = Росгосстрах. Чемпионат России по футболу. Прямая трансляция
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 18:55:00 stop = 05/11/2017 20:55:00 title = Росгосстрах. Чемпионат России по футболу. Прямая трансляция
-      Replaces ----- start = 05/11/2017 18:55:00 stop = 05/11/2017 20:55:00 title = Росгосстрах. Чемпионат России по футболу. Прямая трансляция
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 20:55:00 stop = 05/11/2017 21:45:00 title = "После футбола" с Георгием Черданцевым
-      Replaces ----- start = 05/11/2017 20:55:00 stop = 05/11/2017 21:45:00 title = "После футбола" с Георгием Черданцевым
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 21:45:00 stop = 05/11/2017 23:45:00 title = Футбол. Чемпионат Англии
-      Replaces ----- start = 05/11/2017 21:45:00 stop = 05/11/2017 23:45:00 title = Футбол. Чемпионат Англии
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 00:30:00 stop = 06/11/2017 02:30:00 title = Футбол. Чемпионат Англии
-      Replaces ----- start = 06/11/2017 00:30:00 stop = 06/11/2017 02:30:00 title = Футбол. Чемпионат Англии
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 07:00:00 stop = 06/11/2017 07:20:00 title = "Бешеная Сушка". Дневник
-      Replaces ----- start = 06/11/2017 07:00:00 stop = 06/11/2017 07:20:00 title = "Бешеная Сушка". Дневник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 07:20:00 stop = 06/11/2017 09:20:00 title = Футбол. Чемпионат Италии
-      Replaces ----- start = 06/11/2017 07:20:00 stop = 06/11/2017 09:20:00 title = Футбол. Чемпионат Италии
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 16:00:00 stop = 06/11/2017 17:55:00 title = Профессиональный бокс. Бой за титул чемпиона WBC Silver в суперсреднем весе
-      Replaces ----- start = 06/11/2017 16:00:00 stop = 06/11/2017 17:55:00 title = Профессиональный бокс. Бой за титул чемпиона WBC Silver в суперсреднем весе
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 23:50:00 stop = 07/11/2017 01:35:00 title = Гандбол. Лига чемпионов. Женщины
-      Replaces ----- start = 06/11/2017 23:50:00 stop = 07/11/2017 01:35:00 title = Гандбол. Лига чемпионов. Женщины
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 03:55:00 stop = 07/11/2017 06:30:00 title = Хоккей. Молодёжные сборные. Суперсерия. 1-й матч. Прямая трансляция из Канады
-      Replaces ----- start = 07/11/2017 03:55:00 stop = 07/11/2017 06:30:00 title = Хоккей. Молодёжные сборные. Суперсерия. 1-й матч. Прямая трансляция из Канады
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 10:00:00 stop = 07/11/2017 12:30:00 title = Хоккей. Молодёжные сборные. Суперсерия. 1-й матч. Трансляция из Канады
-      Replaces ----- start = 07/11/2017 10:00:00 stop = 07/11/2017 12:30:00 title = Хоккей. Молодёжные сборные. Суперсерия. 1-й матч. Трансляция из Канады
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 13:05:00 stop = 07/11/2017 15:05:00 title = Смешанные единоборства. UFC. Трансляция из США
-      Replaces ----- start = 07/11/2017 13:05:00 stop = 07/11/2017 15:05:00 title = Смешанные единоборства. UFC. Трансляция из США
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 21:00:00 stop = 07/11/2017 23:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Трансляция из Монако
-      Replaces ----- start = 07/11/2017 21:00:00 stop = 07/11/2017 23:00:00 title = Профессиональный бокс. Бой за титул чемпиона мира по версии WBA в полутяжёлом весе. Трансляция из Монако
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 03:55:00 stop = 08/11/2017 06:30:00 title = Хоккей. Молодёжные сборные. Суперсерия. 2-й матч. Прямая трансляция из Канады
-      Replaces ----- start = 08/11/2017 03:55:00 stop = 08/11/2017 06:30:00 title = Хоккей. Молодёжные сборные. Суперсерия. 2-й матч. Прямая трансляция из Канады
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 07:05:00 stop = 08/11/2017 07:25:00 title = "Бешеная Сушка". Дневник
-      Replaces ----- start = 08/11/2017 07:05:00 stop = 08/11/2017 07:25:00 title = "Бешеная Сушка". Дневник
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 11:35:00 stop = 08/11/2017 14:05:00 title = Хоккей. Молодёжные сборные. Суперсерия. 2-й матч. Трансляция из Канады
-      Replaces ----- start = 08/11/2017 11:35:00 stop = 08/11/2017 14:05:00 title = Хоккей. Молодёжные сборные. Суперсерия. 2-й матч. Трансляция из Канады
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 16:40:00 stop = 08/11/2017 18:05:00 title = Смешанные единоборства. Bellator. Трансляция из США
-      Replaces ----- start = 08/11/2017 16:40:00 stop = 08/11/2017 18:05:00 title = Смешанные единоборства. Bellator. Трансляция из США
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 19:55:00 stop = 08/11/2017 22:25:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Швеции
-      Replaces ----- start = 08/11/2017 19:55:00 stop = 08/11/2017 22:25:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Швеции
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 22:25:00 stop = 09/11/2017 00:40:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Швейцарии
-      Replaces ----- start = 08/11/2017 22:25:00 stop = 09/11/2017 00:40:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Швейцарии
-..............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 12:10:00 stop = 09/11/2017 14:10:00 title = Смешанные единоборства. UFC
-      Replaces ----- start = 09/11/2017 12:10:00 stop = 09/11/2017 14:10:00 title = Смешанные единоборства. UFC
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 15:30:00 stop = 09/11/2017 17:30:00 title = Смешанные единоборства. UFC. Трансляция из Бразилии
-      Replaces ----- start = 09/11/2017 15:30:00 stop = 09/11/2017 17:30:00 title = Смешанные единоборства. UFC. Трансляция из Бразилии
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 19:25:00 stop = 09/11/2017 21:55:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Финляндии
-      Replaces ----- start = 09/11/2017 19:25:00 stop = 09/11/2017 21:55:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Финляндии
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 22:40:00 stop = 10/11/2017 00:40:00 title = Футбол. Чемпионат мира-2018. Отборочный турнир. Прямая трансляция
-      Replaces ----- start = 09/11/2017 22:40:00 stop = 10/11/2017 00:40:00 title = Футбол. Чемпионат мира-2018. Отборочный турнир. Прямая трансляция
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 01:00:00 stop = 10/11/2017 02:55:00 title = Баскетбол. Евролига. Мужчины
-      Replaces ----- start = 10/11/2017 01:00:00 stop = 10/11/2017 02:55:00 title = Баскетбол. Евролига. Мужчины
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 02:55:00 stop = 10/11/2017 05:25:00 title = Хоккей. Молодёжные сборные. Суперсерия. 3-й матч. Прямая трансляция из Канады
-      Replaces ----- start = 10/11/2017 02:55:00 stop = 10/11/2017 05:25:00 title = Хоккей. Молодёжные сборные. Суперсерия. 3-й матч. Прямая трансляция из Канады
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 07:05:00 stop = 10/11/2017 07:25:00 title = "Бешеная Сушка". Дневник
-      Replaces ----- start = 10/11/2017 07:05:00 stop = 10/11/2017 07:25:00 title = "Бешеная Сушка". Дневник
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 09:00:00 stop = 10/11/2017 11:00:00 title = Футбол. Чемпионат мира-2018. Отборочный турнир
-      Replaces ----- start = 10/11/2017 09:00:00 stop = 10/11/2017 11:00:00 title = Футбол. Чемпионат мира-2018. Отборочный турнир
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 11:25:00 stop = 10/11/2017 13:55:00 title = Хоккей. Молодёжные сборные. Суперсерия. 3-й матч. Трансляция из Канады
-      Replaces ----- start = 10/11/2017 11:25:00 stop = 10/11/2017 13:55:00 title = Хоккей. Молодёжные сборные. Суперсерия. 3-й матч. Трансляция из Канады
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 13:55:00 stop = 10/11/2017 15:55:00 title = Футбол. Чемпионат Европы-2019. Молодёжные сборные. Отборочный турнир. Прямая трансляция
-      Replaces ----- start = 10/11/2017 13:55:00 stop = 10/11/2017 15:55:00 title = Футбол. Чемпионат Европы-2019. Молодёжные сборные. Отборочный турнир. Прямая трансляция
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 15:55:00 stop = 10/11/2017 18:25:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Финляндии
-      Replaces ----- start = 10/11/2017 15:55:00 stop = 10/11/2017 18:25:00 title = Хоккей. Евротур. Кубок Карьяла. Прямая трансляция из Финляндии
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 19:10:00 stop = 10/11/2017 19:55:00 title = Все на футбол!
-      Replaces ----- start = 10/11/2017 19:10:00 stop = 10/11/2017 19:55:00 title = Все на футбол!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 19:55:00 stop = 10/11/2017 21:55:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-      Replaces ----- start = 10/11/2017 19:55:00 stop = 10/11/2017 21:55:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 22:00:00 stop = 11/11/2017 00:30:00 title = Смешанные единоборства. М-1 Challenge. Прямая трансляция из Москвы
-      Replaces ----- start = 10/11/2017 22:00:00 stop = 11/11/2017 00:30:00 title = Смешанные единоборства. М-1 Challenge. Прямая трансляция из Москвы
-nnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   4/17  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   5/17  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 14:10:00 stop = 04/11/2017 15:05:00 title = Поедем, поедим!
-      Replaces ----- start = 04/11/2017 14:10:00 stop = 04/11/2017 15:05:00 title = Поедем, поедим!
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 19:00:00 stop = 04/11/2017 20:00:00 title = "Центральное телевидение" с Вадимом Такменевым
-      Replaces ----- start = 04/11/2017 19:00:00 stop = 04/11/2017 20:00:00 title = "Центральное телевидение" с Вадимом Такменевым
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 03:55:00 stop = 05/11/2017 05:00:00 title = Прощай, "макаров"!
-      Replaces ----- start = 05/11/2017 03:55:00 stop = 05/11/2017 05:00:00 title = Прощай, "макаров"!
-...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 14:00:00 stop = 05/11/2017 15:05:00 title = Лотерея "У нас выигрывают!"
-      Replaces ----- start = 05/11/2017 14:00:00 stop = 05/11/2017 15:05:00 title = Лотерея "У нас выигрывают!"
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 19:00:00 stop = 05/11/2017 20:10:00 title = "Итоги недели" с Ирадой Зейналовой
-      Replaces ----- start = 05/11/2017 19:00:00 stop = 05/11/2017 20:10:00 title = "Итоги недели" с Ирадой Зейналовой
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 03:00:00 stop = 06/11/2017 05:00:00 title = Прощай, "макаров"!
-      Replaces ----- start = 06/11/2017 03:00:00 stop = 06/11/2017 05:00:00 title = Прощай, "макаров"!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 05:00:00 stop = 06/11/2017 06:50:00 title = Лесник
-      Replaces ----- start = 06/11/2017 05:00:00 stop = 06/11/2017 06:50:00 title = Лесник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 06:50:00 stop = 06/11/2017 08:00:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 06/11/2017 06:50:00 stop = 06/11/2017 08:00:00 title = Морские дьяволы. Смерч-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 08:15:00 stop = 06/11/2017 10:00:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 06/11/2017 08:15:00 stop = 06/11/2017 10:00:00 title = Морские дьяволы. Смерч-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 10:20:00 stop = 06/11/2017 16:00:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 06/11/2017 10:20:00 stop = 06/11/2017 16:00:00 title = Морские дьяволы. Смерч-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 16:20:00 stop = 06/11/2017 17:15:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 06/11/2017 16:20:00 stop = 06/11/2017 17:15:00 title = Морские дьяволы. Смерч-2
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 19:25:00 stop = 06/11/2017 23:40:00 title = Пёс-2
-      Replaces ----- start = 06/11/2017 19:25:00 stop = 06/11/2017 23:40:00 title = Пёс-2
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 03:15:00 stop = 07/11/2017 05:00:00 title = Прощай, "макаров"!
-      Replaces ----- start = 07/11/2017 03:15:00 stop = 07/11/2017 05:00:00 title = Прощай, "макаров"!
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 09:00:00 stop = 07/11/2017 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 07/11/2017 09:00:00 stop = 07/11/2017 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 10:20:00 stop = 07/11/2017 11:15:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 07/11/2017 10:20:00 stop = 07/11/2017 11:15:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 11:15:00 stop = 07/11/2017 13:00:00 title = Лесник
-      Replaces ----- start = 07/11/2017 11:15:00 stop = 07/11/2017 13:00:00 title = Лесник
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 17:00:00 stop = 07/11/2017 18:00:00 title = "Специальный выпуск" с Вадимом Такменевым
-      Replaces ----- start = 07/11/2017 17:00:00 stop = 07/11/2017 18:00:00 title = "Специальный выпуск" с Вадимом Такменевым
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 09:00:00 stop = 08/11/2017 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 08/11/2017 09:00:00 stop = 08/11/2017 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 10:20:00 stop = 08/11/2017 11:15:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 08/11/2017 10:20:00 stop = 08/11/2017 11:15:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 11:15:00 stop = 08/11/2017 13:00:00 title = Лесник
-      Replaces ----- start = 08/11/2017 11:15:00 stop = 08/11/2017 13:00:00 title = Лесник
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 17:00:00 stop = 08/11/2017 18:00:00 title = "Специальный выпуск" с Вадимом Такменевым
-      Replaces ----- start = 08/11/2017 17:00:00 stop = 08/11/2017 18:00:00 title = "Специальный выпуск" с Вадимом Такменевым
-...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 09:00:00 stop = 09/11/2017 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 09/11/2017 09:00:00 stop = 09/11/2017 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 10:20:00 stop = 09/11/2017 11:15:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 09/11/2017 10:20:00 stop = 09/11/2017 11:15:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 11:15:00 stop = 09/11/2017 13:00:00 title = Лесник
-      Replaces ----- start = 09/11/2017 11:15:00 stop = 09/11/2017 13:00:00 title = Лесник
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 17:00:00 stop = 09/11/2017 18:00:00 title = "Специальный выпуск" с Вадимом Такменевым
-      Replaces ----- start = 09/11/2017 17:00:00 stop = 09/11/2017 18:00:00 title = "Специальный выпуск" с Вадимом Такменевым
-...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 09:00:00 stop = 10/11/2017 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 10/11/2017 09:00:00 stop = 10/11/2017 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 10:20:00 stop = 10/11/2017 11:15:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 10/11/2017 10:20:00 stop = 10/11/2017 11:15:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 11:15:00 stop = 10/11/2017 13:00:00 title = Лесник
-      Replaces ----- start = 10/11/2017 11:15:00 stop = 10/11/2017 13:00:00 title = Лесник
-..........nnnnnnnnnnnnnnnnnnnnnnnn
-
-(   6/17  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 00:30:00 stop = 05/11/2017 01:30:00 title = Дом-2. После заката
-      Replaces ----- start = 05/11/2017 00:30:00 stop = 05/11/2017 01:30:00 title = Дом-2. После заката
-......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 00:00:00 stop = 06/11/2017 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 06/11/2017 00:00:00 stop = 06/11/2017 01:00:00 title = Дом-2. После заката
-................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 00:00:00 stop = 07/11/2017 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 07/11/2017 00:00:00 stop = 07/11/2017 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 01:00:00 stop = 07/11/2017 01:30:00 title = Такое Кино!
-      Replaces ----- start = 07/11/2017 01:00:00 stop = 07/11/2017 01:30:00 title = Такое Кино!
-...........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 00:00:00 stop = 08/11/2017 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 08/11/2017 00:00:00 stop = 08/11/2017 01:00:00 title = Дом-2. После заката
-..............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 22:00:00 stop = 08/11/2017 23:00:00 title = Где логика?
-      Replaces ----- start = 08/11/2017 22:00:00 stop = 08/11/2017 23:00:00 title = Где логика?
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 00:00:00 stop = 09/11/2017 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 09/11/2017 00:00:00 stop = 09/11/2017 01:00:00 title = Дом-2. После заката
-................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 00:00:00 stop = 10/11/2017 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 10/11/2017 00:00:00 stop = 10/11/2017 01:00:00 title = Дом-2. После заката
-............................nnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   7/17  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 10:30:00 stop = 04/11/2017 11:25:00 title = Успеть за 24 часа
-      Replaces ----- start = 04/11/2017 10:30:00 stop = 04/11/2017 11:25:00 title = Успеть за 24 часа
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 19:15:00 stop = 04/11/2017 21:00:00 title = Кунг-фу Панда-3
-      Replaces ----- start = 04/11/2017 19:15:00 stop = 04/11/2017 21:00:00 title = Кунг-фу Панда-3
-..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 21:00:00 stop = 05/11/2017 22:45:00 title = Успех
-      Replaces ----- start = 05/11/2017 21:00:00 stop = 05/11/2017 22:45:00 title = Успех
-................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 20:00:00 stop = 07/11/2017 21:00:00 title = Ивановы-Ивановы
-      Replaces ----- start = 07/11/2017 20:00:00 stop = 07/11/2017 21:00:00 title = Ивановы-Ивановы
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 23:35:00 stop = 08/11/2017 00:30:00 title = "Кино в деталях" с Фёдором Бондарчуком
-      Replaces ----- start = 07/11/2017 23:35:00 stop = 08/11/2017 00:30:00 title = "Кино в деталях" с Фёдором Бондарчуком
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 01:00:00 stop = 08/11/2017 01:55:00 title = Квест
-      Replaces ----- start = 08/11/2017 01:00:00 stop = 08/11/2017 01:55:00 title = Квест
-...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 20:00:00 stop = 08/11/2017 21:00:00 title = Ивановы-Ивановы
-      Replaces ----- start = 08/11/2017 20:00:00 stop = 08/11/2017 21:00:00 title = Ивановы-Ивановы
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 01:00:00 stop = 09/11/2017 01:55:00 title = Квест
-      Replaces ----- start = 09/11/2017 01:00:00 stop = 09/11/2017 01:55:00 title = Квест
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 20:00:00 stop = 09/11/2017 21:00:00 title = Ивановы-Ивановы
-      Replaces ----- start = 09/11/2017 20:00:00 stop = 09/11/2017 21:00:00 title = Ивановы-Ивановы
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 01:00:00 stop = 10/11/2017 02:50:00 title = Квест
-      Replaces ----- start = 10/11/2017 01:00:00 stop = 10/11/2017 02:50:00 title = Квест
-.................nnnnnnnnnnnnnnnnnnnn
-
-(   8/17  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii.........................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 11:05:00 stop = 07/11/2017 14:05:00 title = Давай разведёмся!
-      Replaces ----- start = 07/11/2017 11:05:00 stop = 07/11/2017 14:05:00 title = Давай разведёмся!
-...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 11:05:00 stop = 08/11/2017 14:05:00 title = Давай разведёмся!
-      Replaces ----- start = 08/11/2017 11:05:00 stop = 08/11/2017 14:05:00 title = Давай разведёмся!
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 03:30:00 stop = 09/11/2017 05:35:00 title = Мисс Марпл
-      Replaces ----- start = 09/11/2017 03:30:00 stop = 09/11/2017 05:35:00 title = Мисс Марпл
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 11:05:00 stop = 09/11/2017 14:05:00 title = Давай разведёмся!
-      Replaces ----- start = 09/11/2017 11:05:00 stop = 09/11/2017 14:05:00 title = Давай разведёмся!
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 03:35:00 stop = 10/11/2017 05:30:00 title = Мисс Марпл
-      Replaces ----- start = 10/11/2017 03:35:00 stop = 10/11/2017 05:30:00 title = Мисс Марпл
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 11:05:00 stop = 10/11/2017 14:05:00 title = Давай разведёмся!
-      Replaces ----- start = 10/11/2017 11:05:00 stop = 10/11/2017 14:05:00 title = Давай разведёмся!
-.........nnnnnnnnnnnnnn
-
-(   9/17  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiiic
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 05:00:00 stop = 04/11/2017 08:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 04/11/2017 05:00:00 stop = 04/11/2017 08:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 08:00:00 stop = 04/11/2017 09:55:00 title = }{отт@бь)ч
-      Replaces ----- start = 04/11/2017 08:00:00 stop = 04/11/2017 09:55:00 title = }{отт@бь)ч
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 12:30:00 stop = 04/11/2017 17:00:00 title = "Военная тайна" с Игорем Прокопенко
-      Replaces ----- start = 04/11/2017 12:30:00 stop = 04/11/2017 17:00:00 title = "Военная тайна" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 17:00:00 stop = 04/11/2017 19:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 04/11/2017 17:00:00 stop = 04/11/2017 19:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 05:00:00 stop = 05/11/2017 06:40:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 05/11/2017 05:00:00 stop = 05/11/2017 06:40:00 title = "Территория заблуждений" с Игорем Прокопенко
-............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 00:00:00 stop = 06/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 06/11/2017 00:00:00 stop = 06/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 00:00:00 stop = 07/11/2017 04:30:00 title = "Военная тайна" с Игорем Прокопенко
-      Replaces ----- start = 07/11/2017 00:00:00 stop = 07/11/2017 04:30:00 title = "Военная тайна" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 04:30:00 stop = 07/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 07/11/2017 04:30:00 stop = 07/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 05:00:00 stop = 07/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 07/11/2017 05:00:00 stop = 07/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 09:00:00 stop = 07/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
-      Replaces ----- start = 07/11/2017 09:00:00 stop = 07/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 04:00:00 stop = 08/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 08/11/2017 04:00:00 stop = 08/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 05:00:00 stop = 08/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 08/11/2017 05:00:00 stop = 08/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 09:00:00 stop = 08/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
-      Replaces ----- start = 08/11/2017 09:00:00 stop = 08/11/2017 11:00:00 title = "Военная тайна" с Игорем Прокопенко
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 04:00:00 stop = 09/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 09/11/2017 04:00:00 stop = 09/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 05:00:00 stop = 09/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 09/11/2017 05:00:00 stop = 09/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 09:00:00 stop = 09/11/2017 11:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 09/11/2017 09:00:00 stop = 09/11/2017 11:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 04:00:00 stop = 10/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 10/11/2017 04:00:00 stop = 10/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 05:00:00 stop = 10/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 10/11/2017 05:00:00 stop = 10/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-..................nnnnnnnnnnnnnnn
-
-(  10/17  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 13:00:00 stop = 04/11/2017 13:45:00 title = Настоящая МакКой
-      Replaces ----- start = 04/11/2017 13:00:00 stop = 04/11/2017 13:45:00 title = Настоящая МакКой
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 13:45:00 stop = 04/11/2017 14:30:00 title = Настоящая МакКой
-      Replaces ----- start = 04/11/2017 13:45:00 stop = 04/11/2017 14:30:00 title = Настоящая МакКой
-...................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 11:30:00 stop = 07/11/2017 12:30:00 title = Не ври мне!
-      Replaces ----- start = 07/11/2017 11:30:00 stop = 07/11/2017 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 12:30:00 stop = 07/11/2017 13:30:00 title = Не ври мне!
-      Replaces ----- start = 07/11/2017 12:30:00 stop = 07/11/2017 13:30:00 title = Не ври мне!
-.........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 11:30:00 stop = 08/11/2017 12:30:00 title = Не ври мне!
-      Replaces ----- start = 08/11/2017 11:30:00 stop = 08/11/2017 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 12:30:00 stop = 08/11/2017 13:30:00 title = Не ври мне!
-      Replaces ----- start = 08/11/2017 12:30:00 stop = 08/11/2017 13:30:00 title = Не ври мне!
-......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 11:30:00 stop = 09/11/2017 12:30:00 title = Не ври мне!
-      Replaces ----- start = 09/11/2017 11:30:00 stop = 09/11/2017 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 12:30:00 stop = 09/11/2017 13:30:00 title = Не ври мне!
-      Replaces ----- start = 09/11/2017 12:30:00 stop = 09/11/2017 13:30:00 title = Не ври мне!
-.........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 11:30:00 stop = 10/11/2017 12:30:00 title = Не ври мне!
-      Replaces ----- start = 10/11/2017 11:30:00 stop = 10/11/2017 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 12:30:00 stop = 10/11/2017 13:30:00 title = Не ври мне!
-      Replaces ----- start = 10/11/2017 12:30:00 stop = 10/11/2017 13:30:00 title = Не ври мне!
-..........nnnnnnnnnnnnnnnnnnn
-
-(  11/17  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii..............................................................................nnnnnnnnnn
-
-(  12/17  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
-iiiiiiii........................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  13/17  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.....................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 22:30:00 stop = 07/11/2017 23:05:00 title = Осторожно, мошенники!
-      Replaces ----- start = 07/11/2017 22:30:00 stop = 07/11/2017 23:05:00 title = Осторожно, мошенники!
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 00:00:00 stop = 08/11/2017 00:35:00 title = События. 25-й час
-      Replaces ----- start = 08/11/2017 00:00:00 stop = 08/11/2017 00:35:00 title = События. 25-й час
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 08:30:00 stop = 08/11/2017 09:32:00 title = Каменская
-      Replaces ----- start = 08/11/2017 08:30:00 stop = 08/11/2017 09:32:00 title = Каменская
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 09:32:00 stop = 08/11/2017 10:40:00 title = Каменская
-      Replaces ----- start = 08/11/2017 09:32:00 stop = 08/11/2017 10:40:00 title = Каменская
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 00:00:00 stop = 09/11/2017 00:35:00 title = События. 25-й час
-      Replaces ----- start = 09/11/2017 00:00:00 stop = 09/11/2017 00:35:00 title = События. 25-й час
-.........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 00:00:00 stop = 10/11/2017 00:35:00 title = События. 25-й час
-      Replaces ----- start = 10/11/2017 00:00:00 stop = 10/11/2017 00:35:00 title = События. 25-й час
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 15:25:00 stop = 10/11/2017 16:29:00 title = Каменская
-      Replaces ----- start = 10/11/2017 15:25:00 stop = 10/11/2017 16:29:00 title = Каменская
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 16:29:00 stop = 10/11/2017 17:35:00 title = Каменская
-      Replaces ----- start = 10/11/2017 16:29:00 stop = 10/11/2017 17:35:00 title = Каменская
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 19:30:00 stop = 10/11/2017 20:40:00 title = "В центре событий" с Анной Прохоровой
-      Replaces ----- start = 10/11/2017 19:30:00 stop = 10/11/2017 20:40:00 title = "В центре событий" с Анной Прохоровой
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 22:30:00 stop = 11/11/2017 00:00:00 title = Жена. История любви
-      Replaces ----- start = 10/11/2017 22:30:00 stop = 11/11/2017 00:00:00 title = Жена. История любви
-nnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  14/17  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii..............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 05:00:00 stop = 05/11/2017 05:50:00 title = Мультфильмы
-      Replaces ----- start = 05/11/2017 05:00:00 stop = 05/11/2017 05:50:00 title = Зачарованные
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 08:00:00 stop = 05/11/2017 11:00:00 title = Генеральная уборка
-      Replaces ----- start = 05/11/2017 08:00:00 stop = 05/11/2017 11:10:00 title = Генеральная уборка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 11:00:00 stop = 05/11/2017 12:00:00 title = Генеральная уборка
-      Replaces ----- start = 05/11/2017 08:00:00 stop = 05/11/2017 11:10:00 title = Генеральная уборка
-      Replaces ----- start = 05/11/2017 11:10:00 stop = 05/11/2017 12:20:00 title = Генеральная уборка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 12:00:00 stop = 05/11/2017 13:45:00 title = Царь скорпионов
-      Replaces ----- start = 05/11/2017 11:10:00 stop = 05/11/2017 12:20:00 title = Генеральная уборка
-      Replaces ----- start = 05/11/2017 12:20:00 stop = 05/11/2017 14:00:00 title = Царь скорпионов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 13:45:00 stop = 05/11/2017 15:30:00 title = Подводная братва
-      Replaces ----- start = 05/11/2017 12:20:00 stop = 05/11/2017 14:00:00 title = Царь скорпионов
-      Replaces ----- start = 05/11/2017 14:00:00 stop = 05/11/2017 15:40:00 title = Подводная братва
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 15:30:00 stop = 05/11/2017 17:20:00 title = Рио-2
-      Replaces ----- start = 05/11/2017 14:00:00 stop = 05/11/2017 15:40:00 title = Подводная братва
-      Replaces ----- start = 05/11/2017 15:40:00 stop = 05/11/2017 17:30:00 title = Рио-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 17:20:00 stop = 05/11/2017 19:20:00 title = Ужастики
-      Replaces ----- start = 05/11/2017 15:40:00 stop = 05/11/2017 17:30:00 title = Рио-2
-      Replaces ----- start = 05/11/2017 17:30:00 stop = 05/11/2017 19:30:00 title = Ужастики
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 19:20:00 stop = 05/11/2017 21:15:00 title = Царь скорпионов
-      Replaces ----- start = 05/11/2017 17:30:00 stop = 05/11/2017 19:30:00 title = Ужастики
-      Replaces ----- start = 05/11/2017 19:30:00 stop = 05/11/2017 21:15:00 title = Царь скорпионов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 21:15:00 stop = 05/11/2017 23:00:00 title = Патруль времени
-      Replaces ----- start = 05/11/2017 21:15:00 stop = 05/11/2017 23:00:00 title = Патруль времени
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 04:40:00 stop = 06/11/2017 05:00:00 title = Пятница News
-      Replaces ----- start = 06/11/2017 04:40:00 stop = 06/11/2017 05:10:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 05:00:00 stop = 06/11/2017 05:50:00 title = Мультфильмы
-      Replaces ----- start = 06/11/2017 04:40:00 stop = 06/11/2017 05:10:00 title = Пятница News
-      Replaces ----- start = 06/11/2017 05:10:00 stop = 06/11/2017 06:00:00 title = Зачарованные
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 05:50:00 stop = 06/11/2017 07:30:00 title = Зачарованные
-      Replaces ----- start = 06/11/2017 05:10:00 stop = 06/11/2017 06:00:00 title = Зачарованные
-      Replaces ----- start = 06/11/2017 06:00:00 stop = 06/11/2017 07:00:00 title = Мультфильмы
-      Replaces ----- start = 06/11/2017 07:00:00 stop = 06/11/2017 08:00:00 title = Школа доктора Комаровского
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 07:30:00 stop = 06/11/2017 08:00:00 title = Школа доктора Комаровского
-      Replaces ----- start = 06/11/2017 07:00:00 stop = 06/11/2017 08:00:00 title = Школа доктора Комаровского
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 08:00:00 stop = 06/11/2017 09:00:00 title = Орел и решка. Рай и ад-2
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 09:00:00 stop = 06/11/2017 10:00:00 title = Бедняков+1
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 10:00:00 stop = 06/11/2017 11:00:00 title = Еда, я люблю тебя!
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 11:00:00 stop = 06/11/2017 12:00:00 title = Еда, я люблю тебя!
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 12:00:00 stop = 06/11/2017 14:00:00 title = Орел и решка. Рай и ад-2
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 14:00:00 stop = 06/11/2017 15:00:00 title = Бедняков+1
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 15:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-      Replaces ----- start = 06/11/2017 08:00:00 stop = 06/11/2017 19:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 19:00:00 stop = 06/11/2017 20:00:00 title = Орел и решка. Рай и ад-2
-      Replaces ----- start = 06/11/2017 19:00:00 stop = 06/11/2017 20:00:00 title = Орел и решка. Рай и ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 20:00:00 stop = 06/11/2017 21:00:00 title = Орел и решка. Перезагрузка
-      Replaces ----- start = 06/11/2017 20:00:00 stop = 06/11/2017 21:00:00 title = Орел и решка. Перезагрузка
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/11/2017 23:00:00 stop = 07/11/2017 00:50:00 title = Патруль времени
-      Replaces ----- start = 06/11/2017 23:00:00 stop = 07/11/2017 01:20:00 title = Патруль времени
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 00:50:00 stop = 07/11/2017 03:00:00 title = Охотники за разумом
-      Replaces ----- start = 06/11/2017 23:00:00 stop = 07/11/2017 01:20:00 title = Патруль времени
-      Replaces ----- start = 07/11/2017 01:20:00 stop = 07/11/2017 03:20:00 title = Судная ночь-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 03:00:00 stop = 07/11/2017 04:50:00 title = Патруль времени
-      Replaces ----- start = 07/11/2017 01:20:00 stop = 07/11/2017 03:20:00 title = Судная ночь-2
-      Replaces ----- start = 07/11/2017 03:20:00 stop = 07/11/2017 05:50:00 title = Зачарованные
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 04:50:00 stop = 07/11/2017 05:50:00 title = Зачарованные
-      Replaces ----- start = 07/11/2017 03:20:00 stop = 07/11/2017 05:50:00 title = Зачарованные
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 09:30:00 stop = 07/11/2017 10:00:00 title = Школа доктора Комаровского
-      Replaces ----- start = 07/11/2017 09:30:00 stop = 07/11/2017 11:00:00 title = Любимцы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 10:00:00 stop = 07/11/2017 11:00:00 title = Любимцы
-      Replaces ----- start = 07/11/2017 09:30:00 stop = 07/11/2017 11:00:00 title = Любимцы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 11:00:00 stop = 07/11/2017 19:00:00 title = Орел и решка
-      Replaces ----- start = 07/11/2017 11:00:00 stop = 07/11/2017 17:00:00 title = Орел и решка
-      Replaces ----- start = 07/11/2017 17:00:00 stop = 07/11/2017 19:00:00 title = Хулиганы
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 01:10:00 stop = 08/11/2017 02:50:00 title = Сверхъестественное
-      Replaces ----- start = 08/11/2017 01:10:00 stop = 08/11/2017 03:00:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 02:50:00 stop = 08/11/2017 05:00:00 title = Охотники за разумом
-      Replaces ----- start = 08/11/2017 01:10:00 stop = 08/11/2017 03:00:00 title = Сверхъестественное
-      Replaces ----- start = 08/11/2017 03:00:00 stop = 08/11/2017 04:30:00 title = Древние
-      Replaces ----- start = 08/11/2017 04:30:00 stop = 08/11/2017 05:00:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 05:00:00 stop = 08/11/2017 05:30:00 title = Пятница News
-      Replaces ----- start = 08/11/2017 05:00:00 stop = 08/11/2017 05:50:00 title = Зачарованные
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 05:30:00 stop = 08/11/2017 05:50:00 title = Мультфильмы
-      Replaces ----- start = 08/11/2017 05:00:00 stop = 08/11/2017 05:50:00 title = Зачарованные
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 11:00:00 stop = 08/11/2017 19:00:00 title = Адская кухня
-      Replaces ----- start = 08/11/2017 11:00:00 stop = 08/11/2017 17:00:00 title = Орел и решка
-      Replaces ----- start = 08/11/2017 17:00:00 stop = 08/11/2017 19:00:00 title = Адская кухня
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 21:00:00 stop = 08/11/2017 22:00:00 title = Ревизорро. Медицинно
-      Replaces ----- start = 08/11/2017 21:00:00 stop = 08/11/2017 23:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 22:00:00 stop = 08/11/2017 23:00:00 title = Аферисты в сетях
-      Replaces ----- start = 08/11/2017 21:00:00 stop = 08/11/2017 23:00:00 title = Орел и решка
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 01:10:00 stop = 09/11/2017 02:50:00 title = Сверхъестественное
-      Replaces ----- start = 09/11/2017 01:10:00 stop = 09/11/2017 03:00:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 02:50:00 stop = 09/11/2017 04:30:00 title = Древние
-      Replaces ----- start = 09/11/2017 01:10:00 stop = 09/11/2017 03:00:00 title = Сверхъестественное
-      Replaces ----- start = 09/11/2017 03:00:00 stop = 09/11/2017 04:30:00 title = Древние
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 05:00:00 stop = 09/11/2017 05:50:00 title = Мультфильмы
-      Replaces ----- start = 09/11/2017 05:00:00 stop = 09/11/2017 05:50:00 title = Зачарованные
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 01:10:00 stop = 10/11/2017 02:50:00 title = Сверхъестественное
-      Replaces ----- start = 10/11/2017 01:10:00 stop = 10/11/2017 03:00:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 02:50:00 stop = 10/11/2017 04:30:00 title = Древние
-      Replaces ----- start = 10/11/2017 01:10:00 stop = 10/11/2017 03:00:00 title = Сверхъестественное
-      Replaces ----- start = 10/11/2017 03:00:00 stop = 10/11/2017 04:30:00 title = Древние
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 05:00:00 stop = 10/11/2017 05:50:00 title = Мультфильмы
-      Replaces ----- start = 10/11/2017 05:00:00 stop = 10/11/2017 05:50:00 title = Зачарованные
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 11:00:00 stop = 10/11/2017 13:00:00 title = Орел и решка
-      Replaces ----- start = 10/11/2017 11:00:00 stop = 10/11/2017 17:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 13:00:00 stop = 10/11/2017 14:00:00 title = Бедняков+1
-      Replaces ----- start = 10/11/2017 11:00:00 stop = 10/11/2017 17:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 14:00:00 stop = 10/11/2017 16:00:00 title = Орел и решка
-      Replaces ----- start = 10/11/2017 11:00:00 stop = 10/11/2017 17:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 16:00:00 stop = 10/11/2017 19:30:00 title = Властелин колец: Две крепости
-      Replaces ----- start = 10/11/2017 11:00:00 stop = 10/11/2017 17:00:00 title = Орел и решка
-      Replaces ----- start = 10/11/2017 17:00:00 stop = 10/11/2017 20:30:00 title = Властелин колец: Две крепости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 19:30:00 stop = 10/11/2017 23:20:00 title = Властелин колец: Возвращение Короля
-      Replaces ----- start = 10/11/2017 17:00:00 stop = 10/11/2017 20:30:00 title = Властелин колец: Две крепости
-      Replaces ----- start = 10/11/2017 20:30:00 stop = 11/11/2017 00:00:00 title = Властелин колец: Возвращение Короля
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 23:20:00 stop = 11/11/2017 01:30:00 title = Обитель проклятых
-      Replaces ----- start = 10/11/2017 20:30:00 stop = 11/11/2017 00:00:00 title = Властелин колец: Возвращение Короля
-nnnnnnnnnnnnn
-
-(  15/17  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii..........................................................................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 11:30:00 stop = 08/11/2017 12:00:00 title = Счастливы вместе
-      Replaces ----- start = 08/11/2017 11:30:00 stop = 08/11/2017 12:00:00 title = Счастливы вместе
-..................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 10:30:00 stop = 09/11/2017 11:00:00 title = Счастливы вместе
-      Replaces ----- start = 09/11/2017 10:30:00 stop = 09/11/2017 11:00:00 title = Счастливы вместе
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 11:00:00 stop = 09/11/2017 11:30:00 title = Счастливы вместе
-      Replaces ----- start = 09/11/2017 11:00:00 stop = 09/11/2017 11:30:00 title = Счастливы вместе
-..................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 10:00:00 stop = 10/11/2017 10:30:00 title = Счастливы вместе
-      Replaces ----- start = 10/11/2017 10:00:00 stop = 10/11/2017 10:30:00 title = Счастливы вместе
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/11/2017 11:30:00 stop = 10/11/2017 12:00:00 title = Счастливы вместе
-      Replaces ----- start = 10/11/2017 11:30:00 stop = 10/11/2017 12:00:00 title = Счастливы вместе
-...................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  16/17  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 13:45:00 stop = 04/11/2017 18:00:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 04/11/2017 13:45:00 stop = 04/11/2017 18:00:00 title = Военная разведка. Первый удар
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/11/2017 18:25:00 stop = 04/11/2017 23:00:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 04/11/2017 18:25:00 stop = 04/11/2017 23:00:00 title = Военная разведка. Первый удар
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 09:00:00 stop = 05/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
-      Replaces ----- start = 05/11/2017 09:00:00 stop = 05/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
-.............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 08:00:00 stop = 07/11/2017 09:00:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 07/11/2017 08:00:00 stop = 07/11/2017 09:00:00 title = Военная разведка. Первый удар
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 09:15:00 stop = 07/11/2017 10:00:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 07/11/2017 09:15:00 stop = 07/11/2017 10:00:00 title = Военная разведка. Первый удар
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 10:05:00 stop = 07/11/2017 12:45:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 07/11/2017 10:05:00 stop = 07/11/2017 12:45:00 title = Военная разведка. Первый удар
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 12:45:00 stop = 07/11/2017 13:00:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 07/11/2017 12:45:00 stop = 07/11/2017 13:00:00 title = Военная разведка. Первый удар
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 13:15:00 stop = 07/11/2017 14:00:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 07/11/2017 13:15:00 stop = 07/11/2017 14:00:00 title = Военная разведка. Первый удар
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 14:05:00 stop = 07/11/2017 17:35:00 title = Военная разведка. Первый удар
-      Replaces ----- start = 07/11/2017 14:05:00 stop = 07/11/2017 17:35:00 title = Военная разведка. Первый удар
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 07/11/2017 23:15:00 stop = 08/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
-      Replaces ----- start = 07/11/2017 23:15:00 stop = 08/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
-....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/11/2017 23:15:00 stop = 09/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
-      Replaces ----- start = 08/11/2017 23:15:00 stop = 09/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
-..............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 16:25:00 stop = 09/11/2017 17:10:00 title = Не факт!
-      Replaces ----- start = 09/11/2017 16:25:00 stop = 09/11/2017 17:10:00 title = Не факт!
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/11/2017 23:15:00 stop = 10/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
-      Replaces ----- start = 09/11/2017 23:15:00 stop = 10/11/2017 00:00:00 title = Звезда на "Звезде" с Леонидом Якубовичем
-.....................nnnnnnnnnnnnnnnnnnn
-
-(  17/17  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii................................................r
-   epg correction : 
- show REPLACED (forced update / overlap or timeorder error in EPG
-      show with ---- start = 05/11/2017 01:00:00 stop = 05/11/2017 01:05:00 title = Главные новости
-      Added before - start = 05/11/2017 01:20:00 stop = 05/11/2017 01:45:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/11/2017 01:05:00 stop = 05/11/2017 01:35:00 title = Общество потребления с Юлией Прохоровой
-      Replaces ----- start = 05/11/2017 01:20:00 stop = 05/11/2017 01:45:00 title = Токарев. Дело
-..r
-   epg correction : 
- show REPLACED (forced update / overlap or timeorder error in EPG
-      show with ---- start = 05/11/2017 01:00:00 stop = 05/11/2017 01:20:00 title = Главные новости
-      Added before - start = 05/11/2017 01:20:00 stop = 05/11/2017 01:45:00 title = Токарев. Дело
-.......................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Первый
+Generic syntax exception:
+   message: 
+no index page data received from Первый
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Россия 1
+Generic syntax exception:
+   message: 
+no index page data received from Россия 1
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel МАТЧ!
+Generic syntax exception:
+   message: 
+no index page data received from МАТЧ!
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Россия 24
+Generic syntax exception:
+   message: 
+no index page data received from Россия 24
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel НТВ
+Generic syntax exception:
+   message: 
+no index page data received from НТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТНТ
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel СТС
+Generic syntax exception:
+   message: 
+no index page data received from СТС
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Домашний
+Generic syntax exception:
+   message: 
+no index page data received from Домашний
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel РЕН ТВ
+Generic syntax exception:
+   message: 
+no index page data received from РЕН ТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТВ-3
+Generic syntax exception:
+   message: 
+no index page data received from ТВ-3
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Че
+Generic syntax exception:
+   message: 
+no index page data received from Че
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel 5 канал
+Generic syntax exception:
+   message: 
+no index page data received from 5 канал
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТВ Центр
+Generic syntax exception:
+   message: 
+no index page data received from ТВ Центр
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Пятница
+Generic syntax exception:
+   message: 
+no index page data received from Пятница
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТНТ4
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ4
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Звезда
+Generic syntax exception:
+   message: 
+no index page data received from Звезда
+unable to update channel, try again later
+Existing guide data restored!
+(   1/17  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel РБК
+Generic syntax exception:
+   message: 
+no index page data received from РБК
+unable to update channel, try again later
+Existing guide data restored!
 
 
-
-Job finished at 03/11/2017 23:05:01 done in 4m 50s
+Job finished at 04/11/2017 11:14:48 done in 14m 24s
