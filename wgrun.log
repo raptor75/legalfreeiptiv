@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 06/11/2017 11:00:16
+Job started at 06/11/2017 18:44:21
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -21,6 +21,7 @@ Found existing channel (xmltv_id=ТНТ) in the config file
 Found existing channel (xmltv_id=СТС) in the config file
 Found existing channel (xmltv_id=Домашний) in the config file
 Found existing channel (xmltv_id=РЕН ТВ) in the config file
+Found existing channel (xmltv_id=Общественное телевидение России) in the config file
 Found existing channel (xmltv_id=ТВ-3) in the config file
 Found existing channel (xmltv_id=Че) in the config file
 Found existing channel (xmltv_id=5 канал) in the config file
@@ -28,16 +29,17 @@ Found existing channel (xmltv_id=ТВ Центр) in the config file
 Found existing channel (xmltv_id=Пятница) in the config file
 Found existing channel (xmltv_id=ТНТ4) in the config file
 Found existing channel (xmltv_id=Звезда) in the config file
+Found existing channel (xmltv_id=Москва-24) in the config file
 Found existing channel (xmltv_id=РБК) in the config file
-...................
+.....................
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
 
 
 Group (0) :
-update requested for - 17 - out of - 17 - channels for 8 day(s)
-(   1/17  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
+update requested for - 19 - out of - 19 - channels for 8 day(s)
+(   1/19  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiiiii........c
    epg correction : 
  CHANGED show corrected,
@@ -115,7 +117,7 @@ iiiiiiii........c
       Replaces ----- start = 12/11/2017 22:30:00 stop = 13/11/2017 00:40:00 title = "Клуб Веселых и Находчивых". Высшая лига
 ..
 
-(   2/17  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
+(   2/19  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii......c
    epg correction : 
  CHANGED show corrected,
@@ -157,7 +159,7 @@ c
       show with ---- start = 13/11/2017 02:55:00 stop = 13/11/2017 03:20:00 title = "Смехопанорама" Евгения Петросяна
       Replaces ----- start = 13/11/2017 02:55:00 stop = 13/11/2017 03:20:00 title = "Смехопанорама" Евгения Петросяна
 
-(   3/17  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
+(   3/19  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
 iiiiiiii.c
    epg correction : 
  CHANGED show corrected,
@@ -355,10 +357,10 @@ c
       Replaces ----- start = 13/11/2017 01:10:00 stop = 13/11/2017 03:10:00 title = Футбол. Чемпионат мира-2018. Отборочный турнир
 ..
 
-(   4/17  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+(   4/19  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
 iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
 
-(   5/17  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+(   5/19  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiiic
    epg correction : 
  CHANGED show corrected,
@@ -501,7 +503,7 @@ c
       Replaces ----- start = 12/11/2017 19:00:00 stop = 12/11/2017 20:10:00 title = "Итоги недели" с Ирадой Зейналовой
 ....
 
-(   6/17  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
+(   6/19  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiiiii.........................c
    epg correction : 
  CHANGED show corrected,
@@ -554,7 +556,7 @@ c
       Replaces ----- start = 13/11/2017 00:00:00 stop = 13/11/2017 01:00:00 title = Дом-2. После заката
 ......
 
-(   7/17  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+(   7/19  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiiiii...........................c
    epg correction : 
  CHANGED show corrected,
@@ -602,7 +604,7 @@ iiiiiiii...........................c
       Replaces ----- start = 12/11/2017 21:00:00 stop = 12/11/2017 22:55:00 title = Успех
 ...
 
-(   8/17  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
+(   8/19  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii...............c
    epg correction : 
  CHANGED show corrected,
@@ -640,7 +642,7 @@ iiiiiiii...............c
       Replaces ----- start = 11/11/2017 03:30:00 stop = 11/11/2017 05:40:00 title = Мисс Марпл
 ..........................
 
-(   9/17  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+(   9/19  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
@@ -733,7 +735,10 @@ c
       Replaces ----- start = 12/11/2017 03:00:00 stop = 12/11/2017 04:30:00 title = "Территория заблуждений" с Игорем Прокопенко
 ........
 
-(  10/17  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+(  10/19  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  11/19  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii........................c
    epg correction : 
  CHANGED show corrected,
@@ -776,10 +781,10 @@ c
       Replaces ----- start = 10/11/2017 12:30:00 stop = 10/11/2017 13:30:00 title = Не ври мне!
 ....................................................
 
-(  11/17  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
+(  12/19  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
 iiiiiiii.......................................................................................
 
-(  12/17  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
+(  13/19  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
 iiiiiiii...........................................................................................................................................................................c
    epg correction : 
  CHANGED show corrected,
@@ -787,7 +792,7 @@ iiiiiiii........................................................................
       Replaces ----- start = 12/11/2017 10:00:00 stop = 12/11/2017 10:50:00 title = "Истории из будущего" с Михаилом Ковальчуком
 ..................
 
-(  13/17  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+(  14/19  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii.....................................c
    epg correction : 
  CHANGED show corrected,
@@ -845,7 +850,7 @@ c
       Replaces ----- start = 11/11/2017 21:00:00 stop = 11/11/2017 22:10:00 title = "Постскриптум" с Алексеем Пушковым
 ............................
 
-(  14/17  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+(  15/19  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiiiii.........c
    epg correction : 
  CHANGED show corrected,
@@ -863,7 +868,7 @@ c
       Replaces ----- start = 12/11/2017 11:00:00 stop = 12/11/2017 12:00:00 title = Еда, я люблю тебя!
 .........
 
-(  15/17  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+(  16/19  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii....................................................................................c
    epg correction : 
  CHANGED show corrected,
@@ -891,7 +896,7 @@ c
       Replaces ----- start = 10/11/2017 11:30:00 stop = 10/11/2017 12:00:00 title = Счастливы вместе
 ..............................................................................................
 
-(  16/17  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
+(  17/19  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
 iiiiiiii.............c
    epg correction : 
  CHANGED show corrected,
@@ -964,9 +969,12 @@ c
       Replaces ----- start = 12/11/2017 09:00:00 stop = 12/11/2017 09:25:00 title = "Новости недели" с Юрием Подкопаевым
 ................
 
-(  17/17  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................................................................................................................................................................
+(  18/19  ) S-TV.RU -- chan. (xmltv_id=Москва-24) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  19/19  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
+iiiiiiii....................................................................................................................................................................................................................................................................................................................................................
 
 
 
-Job finished at 06/11/2017 11:02:28 done in 2m 12s
+Job finished at 06/11/2017 18:47:52 done in 3m 31s
