@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 06/11/2017 23:00:16
+Job started at 07/11/2017 11:00:10
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -40,7 +40,12 @@ Found existing channel (xmltv_id=РБК) in the config file
 Group (0) :
 update requested for - 19 - out of - 19 - channels for 8 day(s)
 (   1/19  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...............c
+iiiiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/11/2017 15:15:00 stop = 07/11/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 07/11/2017 15:15:00 stop = 07/11/2017 16:00:00 title = Давай поженимся!
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 07/11/2017 21:35:00 stop = 07/11/2017 23:40:00 title = Троцкий
@@ -725,7 +730,7 @@ c
 iiiiiiii..............................................................................
 
 (  13/19  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
-iiiiiiii.......................................................................................................................................................c
+iiiiiiii.....................................................................................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/11/2017 10:00:00 stop = 12/11/2017 10:50:00 title = "Истории из будущего" с Михаилом Ковальчуком
@@ -907,4 +912,4 @@ iiiiiiii........................................................................
 
 
 
-Job finished at 06/11/2017 23:02:48 done in 2m 31s
+Job finished at 07/11/2017 11:02:37 done in 2m 26s
