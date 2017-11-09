@@ -24,14 +24,18 @@ http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/41.ts
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/piter5_rus.jpg",Пятый Канал
 http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/42.ts
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/tvc.jpg",ТВЦ
-http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/43.ts
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/friday.jpg",Пятница
 http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/44.ts
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/zvezda.jpg",Звезда
 http://shangaltv.ddns.net:8080/live/moskvatv-tycUxFxgDx/XNQgG7XriC/48.ts
+#EXTINF:-1 tvg-logo="http://onair.mir24.tv/images/custom/logo.png",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://145.239.78.42/logos/rbk.png",РБК ТВ
-http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+http://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/06/fashion-tv-logo-1024x775.jpg",Fashion TV
 http://stream-04.dc3.dailymotion.com/48/dm/3/x3m6nld/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://ru.tv/upload/images/css/img/logo.png",Ru.TV
 https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/img/logo.png",Russia Today
+https://secure-streams.akamaized.net/rt/index2500.m3u8
