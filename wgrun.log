@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 09/11/2017 23:00:06
+Job started at 10/11/2017 11:00:08
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -44,7 +44,12 @@ Found existing channel (xmltv_id=Russia Today) in the config file
 Group (0) :
 update requested for - 23 - out of - 23 - channels for 8 day(s)
 (   1/23  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii..........c
+iiiiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/11/2017 15:15:00 stop = 10/11/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 10/11/2017 15:15:00 stop = 10/11/2017 16:00:00 title = Давай поженимся!
+.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 10/11/2017 17:00:00 stop = 10/11/2017 18:00:00 title = "Человек и закон" с Алексеем Пимановым
@@ -711,7 +716,12 @@ iiiiiiiic
  CHANGED show corrected,
       show with ---- start = 10/11/2017 05:00:00 stop = 10/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
       Replaces ----- start = 10/11/2017 05:00:00 stop = 10/11/2017 06:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-...................c
+...............c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/11/2017 20:00:00 stop = 10/11/2017 20:30:00 title = Документальный спецпроект
+      Replaces ----- start = 10/11/2017 20:00:00 stop = 10/11/2017 21:00:00 title = Документальный спецпроект
+...c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 11/11/2017 04:50:00 stop = 11/11/2017 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
@@ -1378,13 +1388,8 @@ iiiiiiii........................................................................
 iiiiiiii................................................................................................................................................................................
 
 (  23/23  ) TV.MAIL.RU -- chan. (xmltv_id=Russia Today) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................r
-   forced update : 
- show REPLACED (forced update / overlap or timeorder error in EPG
-      show with ---- start = 17/11/2017 06:00:00 stop = 17/11/2017 06:29:00 title = Headline News
-      Replaces ----- start = 17/11/2017 06:00:00 stop = 17/11/2017 06:29:00 title = Headline News (?)
-...................................
+iiiiiiii......................................................................................................................................................................................................................................................................................................................................................................................
 
 
 
-Job finished at 09/11/2017 23:03:33 done in 3m 27s
+Job finished at 10/11/2017 11:03:44 done in 3m 36s
