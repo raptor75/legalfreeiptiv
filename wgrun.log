@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 14/11/2017 23:00:08
+Job started at 15/11/2017 11:00:08
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,7 +46,17 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...............c
+iiiiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/11/2017 15:15:00 stop = 15/11/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 15/11/2017 15:15:00 stop = 15/11/2017 16:00:00 title = Давай поженимся!
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/11/2017 19:50:00 stop = 15/11/2017 21:00:00 title = Пусть говорят
+      Replaces ----- start = 15/11/2017 19:50:00 stop = 15/11/2017 21:00:00 title = Пусть говорят
+.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/11/2017 21:35:00 stop = 15/11/2017 23:40:00 title = Крылья империи
@@ -152,35 +162,12 @@ c
  CHANGED show corrected,
       show with ---- start = 16/11/2017 04:30:00 stop = 16/11/2017 06:30:00 title = Футбол. Товарищеский матч
       Replaces ----- start = 16/11/2017 04:30:00 stop = 16/11/2017 06:30:00 title = Футбол. Товарищеский матч
-..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 19:05:00 stop = 16/11/2017 19:55:00 title = Все на Матч!
-      Replaces ----- start = 16/11/2017 19:05:00 stop = 16/11/2017 19:40:00 title = Все на Матч!
-      Replaces ----- start = 16/11/2017 19:40:00 stop = 16/11/2017 22:05:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-c
+...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/11/2017 19:55:00 stop = 16/11/2017 21:55:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-      Replaces ----- start = 16/11/2017 19:40:00 stop = 16/11/2017 22:05:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 21:55:00 stop = 16/11/2017 22:05:00 title = Новости
-      Replaces ----- start = 16/11/2017 19:40:00 stop = 16/11/2017 22:05:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 22:05:00 stop = 16/11/2017 22:25:00 title = Десятка!
-      Replaces ----- start = 16/11/2017 22:05:00 stop = 16/11/2017 22:10:00 title = Новости
-      Replaces ----- start = 16/11/2017 22:10:00 stop = 16/11/2017 22:30:00 title = Десятка!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 22:25:00 stop = 16/11/2017 23:00:00 title = Специальный репортаж
-      Replaces ----- start = 16/11/2017 22:10:00 stop = 16/11/2017 22:30:00 title = Десятка!
-      Replaces ----- start = 16/11/2017 22:30:00 stop = 16/11/2017 23:00:00 title = Специальный репортаж
-...c
+      Replaces ----- start = 16/11/2017 19:55:00 stop = 16/11/2017 21:55:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 17/11/2017 02:55:00 stop = 17/11/2017 05:25:00 title = Хоккей. Молодёжные сборные. Суперсерия. 6-й матч. Прямая трансляция из Канады
@@ -625,223 +612,7 @@ c
 ..............................
 
 (  15/24  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/11/2017 10:00:00 stop = 15/11/2017 12:00:00 title = Орел и решка. Юбилейный
-      Replaces ----- start = 15/11/2017 10:00:00 stop = 15/11/2017 11:00:00 title = На ножах
-      Replaces ----- start = 15/11/2017 11:00:00 stop = 15/11/2017 19:00:00 title = Адская кухня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/11/2017 12:00:00 stop = 15/11/2017 15:00:00 title = Орел и решка. Кругосветка
-      Replaces ----- start = 15/11/2017 11:00:00 stop = 15/11/2017 19:00:00 title = Адская кухня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/11/2017 15:00:00 stop = 15/11/2017 19:00:00 title = Орел и решка. Рай и ад
-      Replaces ----- start = 15/11/2017 11:00:00 stop = 15/11/2017 19:00:00 title = Адская кухня
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/11/2017 22:00:00 stop = 15/11/2017 23:15:00 title = Секретный миллионер-2
-      Replaces ----- start = 15/11/2017 22:00:00 stop = 15/11/2017 23:00:00 title = Секретный миллионер-2
-      Replaces ----- start = 15/11/2017 23:00:00 stop = 16/11/2017 00:40:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/11/2017 23:15:00 stop = 16/11/2017 01:00:00 title = Сверхъестественное
-      Replaces ----- start = 15/11/2017 23:00:00 stop = 16/11/2017 00:40:00 title = Сверхъестественное
-      Replaces ----- start = 16/11/2017 00:40:00 stop = 16/11/2017 01:10:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 01:00:00 stop = 16/11/2017 01:30:00 title = Пятница News
-      Replaces ----- start = 16/11/2017 00:40:00 stop = 16/11/2017 01:10:00 title = Пятница News
-      Replaces ----- start = 16/11/2017 01:10:00 stop = 16/11/2017 02:50:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 01:30:00 stop = 16/11/2017 03:10:00 title = Сверхъестественное
-      Replaces ----- start = 16/11/2017 01:10:00 stop = 16/11/2017 02:50:00 title = Сверхъестественное
-      Replaces ----- start = 16/11/2017 02:50:00 stop = 16/11/2017 04:30:00 title = Древние
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 03:10:00 stop = 16/11/2017 05:00:00 title = Древние
-      Replaces ----- start = 16/11/2017 02:50:00 stop = 16/11/2017 04:30:00 title = Древние
-      Replaces ----- start = 16/11/2017 04:30:00 stop = 16/11/2017 05:00:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 05:00:00 stop = 16/11/2017 05:30:00 title = Пятница News
-      Replaces ----- start = 16/11/2017 05:00:00 stop = 16/11/2017 05:50:00 title = Богиня шоппинга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 05:30:00 stop = 16/11/2017 05:50:00 title = Мультфильмы
-      Replaces ----- start = 16/11/2017 05:00:00 stop = 16/11/2017 05:50:00 title = Богиня шоппинга
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 22:00:00 stop = 16/11/2017 23:10:00 title = Секретный миллионер-2
-      Replaces ----- start = 16/11/2017 22:00:00 stop = 16/11/2017 23:00:00 title = Секретный миллионер-2
-      Replaces ----- start = 16/11/2017 23:00:00 stop = 17/11/2017 00:40:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 23:10:00 stop = 17/11/2017 01:00:00 title = Сверхъестественное
-      Replaces ----- start = 16/11/2017 23:00:00 stop = 17/11/2017 00:40:00 title = Сверхъестественное
-      Replaces ----- start = 17/11/2017 00:40:00 stop = 17/11/2017 01:10:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 01:00:00 stop = 17/11/2017 01:30:00 title = Пятница News
-      Replaces ----- start = 17/11/2017 00:40:00 stop = 17/11/2017 01:10:00 title = Пятница News
-      Replaces ----- start = 17/11/2017 01:10:00 stop = 17/11/2017 02:50:00 title = Сверхъестественное
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 01:30:00 stop = 17/11/2017 03:00:00 title = Сверхъестественное
-      Replaces ----- start = 17/11/2017 01:10:00 stop = 17/11/2017 02:50:00 title = Сверхъестественное
-      Replaces ----- start = 17/11/2017 02:50:00 stop = 17/11/2017 04:30:00 title = Древние
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 03:00:00 stop = 17/11/2017 04:45:00 title = Древние
-      Replaces ----- start = 17/11/2017 02:50:00 stop = 17/11/2017 04:30:00 title = Древние
-      Replaces ----- start = 17/11/2017 04:30:00 stop = 17/11/2017 05:00:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 04:45:00 stop = 17/11/2017 05:15:00 title = Пятница News
-      Replaces ----- start = 17/11/2017 04:30:00 stop = 17/11/2017 05:00:00 title = Пятница News
-      Replaces ----- start = 17/11/2017 05:00:00 stop = 17/11/2017 05:50:00 title = Богиня шоппинга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 05:15:00 stop = 17/11/2017 05:50:00 title = Богиня шоппинга
-      Replaces ----- start = 17/11/2017 05:00:00 stop = 17/11/2017 05:50:00 title = Богиня шоппинга
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 14:00:00 stop = 17/11/2017 16:00:00 title = Орел и решка
-      Replaces ----- start = 17/11/2017 14:00:00 stop = 17/11/2017 17:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 16:00:00 stop = 17/11/2017 18:30:00 title = Престиж
-      Replaces ----- start = 17/11/2017 14:00:00 stop = 17/11/2017 17:00:00 title = Орел и решка
-      Replaces ----- start = 17/11/2017 17:00:00 stop = 17/11/2017 19:40:00 title = Престиж
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 18:30:00 stop = 17/11/2017 20:40:00 title = Иллюзионист
-      Replaces ----- start = 17/11/2017 17:00:00 stop = 17/11/2017 19:40:00 title = Престиж
-      Replaces ----- start = 17/11/2017 19:40:00 stop = 17/11/2017 21:50:00 title = Иллюзионист
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 20:40:00 stop = 17/11/2017 23:00:00 title = Обитель проклятых
-      Replaces ----- start = 17/11/2017 19:40:00 stop = 17/11/2017 21:50:00 title = Иллюзионист
-      Replaces ----- start = 17/11/2017 21:50:00 stop = 18/11/2017 00:00:00 title = Обитель проклятых
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 23:00:00 stop = 18/11/2017 00:45:00 title = Женщина в черном
-      Replaces ----- start = 17/11/2017 21:50:00 stop = 18/11/2017 00:00:00 title = Обитель проклятых
-      Replaces ----- start = 18/11/2017 00:00:00 stop = 18/11/2017 01:50:00 title = Женщина в черном
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 00:45:00 stop = 18/11/2017 02:30:00 title = Проклятие спящей красавицы
-      Replaces ----- start = 18/11/2017 00:00:00 stop = 18/11/2017 01:50:00 title = Женщина в черном
-      Replaces ----- start = 18/11/2017 01:50:00 stop = 18/11/2017 04:00:00 title = Возвращение
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 02:30:00 stop = 18/11/2017 03:00:00 title = Пятница News
-      Replaces ----- start = 18/11/2017 01:50:00 stop = 18/11/2017 04:00:00 title = Возвращение
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 03:00:00 stop = 18/11/2017 05:00:00 title = 500 дней лета
-      Replaces ----- start = 18/11/2017 01:50:00 stop = 18/11/2017 04:00:00 title = Возвращение
-      Replaces ----- start = 18/11/2017 04:00:00 stop = 18/11/2017 04:30:00 title = Пятница News
-      Replaces ----- start = 18/11/2017 04:30:00 stop = 18/11/2017 06:00:00 title = Богиня шоппинга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 05:00:00 stop = 18/11/2017 06:00:00 title = Богиня шоппинга
-      Replaces ----- start = 18/11/2017 04:30:00 stop = 18/11/2017 06:00:00 title = Богиня шоппинга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 06:00:00 stop = 18/11/2017 07:00:00 title = Богиня шоппинга
-      Replaces ----- start = 18/11/2017 06:00:00 stop = 18/11/2017 07:00:00 title = Орел и решка. Рай и ад
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 12:00:00 stop = 18/11/2017 14:00:00 title = Орел и решка
-      Replaces ----- start = 18/11/2017 12:00:00 stop = 18/11/2017 15:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 14:00:00 stop = 18/11/2017 16:40:00 title = Престиж
-      Replaces ----- start = 18/11/2017 12:00:00 stop = 18/11/2017 15:00:00 title = Орел и решка
-      Replaces ----- start = 18/11/2017 15:00:00 stop = 18/11/2017 17:40:00 title = Престиж
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 16:40:00 stop = 18/11/2017 18:50:00 title = Иллюзионист
-      Replaces ----- start = 18/11/2017 15:00:00 stop = 18/11/2017 17:40:00 title = Престиж
-      Replaces ----- start = 18/11/2017 17:40:00 stop = 18/11/2017 19:50:00 title = Иллюзионист
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 18:50:00 stop = 18/11/2017 21:00:00 title = Обитель проклятых
-      Replaces ----- start = 18/11/2017 17:40:00 stop = 18/11/2017 19:50:00 title = Иллюзионист
-      Replaces ----- start = 18/11/2017 19:50:00 stop = 18/11/2017 22:00:00 title = Обитель проклятых
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 21:00:00 stop = 18/11/2017 22:50:00 title = Женщина в черном
-      Replaces ----- start = 18/11/2017 19:50:00 stop = 18/11/2017 22:00:00 title = Обитель проклятых
-      Replaces ----- start = 18/11/2017 22:00:00 stop = 18/11/2017 23:50:00 title = Женщина в черном
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 22:50:00 stop = 19/11/2017 00:45:00 title = Проклятие спящей красавицы
-      Replaces ----- start = 18/11/2017 22:00:00 stop = 18/11/2017 23:50:00 title = Женщина в черном
-      Replaces ----- start = 18/11/2017 23:50:00 stop = 19/11/2017 02:00:00 title = Возвращение
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 00:45:00 stop = 19/11/2017 03:00:00 title = Возвращение
-      Replaces ----- start = 18/11/2017 23:50:00 stop = 19/11/2017 02:00:00 title = Возвращение
-      Replaces ----- start = 19/11/2017 02:00:00 stop = 19/11/2017 04:00:00 title = 500 дней лета
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 03:00:00 stop = 19/11/2017 05:20:00 title = Поговори с ней
-      Replaces ----- start = 19/11/2017 02:00:00 stop = 19/11/2017 04:00:00 title = 500 дней лета
-      Replaces ----- start = 19/11/2017 04:00:00 stop = 19/11/2017 06:00:00 title = Богиня шоппинга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 05:20:00 stop = 19/11/2017 06:00:00 title = Богиня шоппинга
-      Replaces ----- start = 19/11/2017 04:00:00 stop = 19/11/2017 06:00:00 title = Богиня шоппинга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 06:00:00 stop = 19/11/2017 07:00:00 title = Богиня шоппинга
-      Replaces ----- start = 19/11/2017 06:00:00 stop = 19/11/2017 07:00:00 title = Орел и решка. Рай и ад
-.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/11/2017 02:00:00 stop = 20/11/2017 04:20:00 title = Возвращение
-      Replaces ----- start = 20/11/2017 02:00:00 stop = 20/11/2017 04:20:00 title = Поговори с ней
-.
+iiiiiiii.........................................................................
 
 (  16/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii......................................................................................................................................................................................
@@ -947,12 +718,7 @@ c
  CHANGED show corrected,
       show with ---- start = 18/11/2017 10:30:00 stop = 18/11/2017 11:00:00 title = Не факт!
       Replaces ----- start = 18/11/2017 10:30:00 stop = 18/11/2017 11:00:00 title = Не факт!
-..............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 22:45:00 stop = 19/11/2017 23:35:00 title = Эксклюзивное интервью. Джон Алперт
-      Replaces ----- start = 19/11/2017 22:45:00 stop = 19/11/2017 23:35:00 title = Фетисов
-..
+.................................
 
 (  18/24  ) S-TV.RU -- chan. (xmltv_id=Москва-24) -- mode Incremental
 iiiiiiii...........................................................................................................................................................................................................................................................................................................
@@ -978,30 +744,7 @@ c
  CHANGED show corrected,
       show with ---- start = 15/11/2017 18:05:00 stop = 15/11/2017 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 15/11/2017 18:05:00 stop = 15/11/2017 19:00:00 title = Возвращение Мухтара-2
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/11/2017 23:10:00 stop = 16/11/2017 00:45:00 title = Особенности национальной подледной ловли, или Отрыв по полной
-      Replaces ----- start = 15/11/2017 23:10:00 stop = 16/11/2017 00:55:00 title = Особенности национальной подледной ловли, или Отрыв по полной
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 00:45:00 stop = 16/11/2017 02:50:00 title = Убийство на 100 миллионов
-      Replaces ----- start = 15/11/2017 23:10:00 stop = 16/11/2017 00:55:00 title = Особенности национальной подледной ловли, или Отрыв по полной
-      Replaces ----- start = 16/11/2017 00:55:00 stop = 16/11/2017 03:00:00 title = Убийство на 100 миллионов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 02:50:00 stop = 16/11/2017 03:15:00 title = Любимые актеры
-      Replaces ----- start = 16/11/2017 00:55:00 stop = 16/11/2017 03:00:00 title = Убийство на 100 миллионов
-      Replaces ----- start = 16/11/2017 03:00:00 stop = 16/11/2017 03:30:00 title = Любимые актеры
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/11/2017 03:15:00 stop = 16/11/2017 04:50:00 title = Девушка с характером
-      Replaces ----- start = 16/11/2017 03:00:00 stop = 16/11/2017 03:30:00 title = Любимые актеры
-      Replaces ----- start = 16/11/2017 03:30:00 stop = 16/11/2017 04:50:00 title = Девушка с характером
-...........c
+..................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/11/2017 16:15:00 stop = 16/11/2017 17:10:00 title = Возвращение Мухтара-2
@@ -1016,24 +759,7 @@ c
  CHANGED show corrected,
       show with ---- start = 16/11/2017 18:05:00 stop = 16/11/2017 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 16/11/2017 18:05:00 stop = 16/11/2017 19:00:00 title = Возвращение Мухтара-2
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 01:00:00 stop = 17/11/2017 02:30:00 title = Особенности национальной подледной ловли, или Отрыв по полной
-      Replaces ----- start = 17/11/2017 01:00:00 stop = 17/11/2017 02:45:00 title = Особенности национальной подледной ловли, или Отрыв по полной
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 02:30:00 stop = 17/11/2017 03:05:00 title = Любимые актеры
-      Replaces ----- start = 17/11/2017 01:00:00 stop = 17/11/2017 02:45:00 title = Особенности национальной подледной ловли, или Отрыв по полной
-      Replaces ----- start = 17/11/2017 02:45:00 stop = 17/11/2017 03:15:00 title = Любимые актеры
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/11/2017 03:05:00 stop = 17/11/2017 04:55:00 title = Сердца четырех
-      Replaces ----- start = 17/11/2017 02:45:00 stop = 17/11/2017 03:15:00 title = Любимые актеры
-      Replaces ----- start = 17/11/2017 03:15:00 stop = 17/11/2017 04:55:00 title = Сердца четырех
-...........c
+..................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 17/11/2017 17:10:00 stop = 17/11/2017 18:05:00 title = Возвращение Мухтара-2
@@ -1043,41 +769,7 @@ c
  CHANGED show corrected,
       show with ---- start = 17/11/2017 18:05:00 stop = 17/11/2017 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 17/11/2017 18:05:00 stop = 17/11/2017 19:00:00 title = Возвращение Мухтара-2
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 00:45:00 stop = 18/11/2017 01:15:00 title = Держись, Шоубиз!
-      Replaces ----- start = 18/11/2017 00:45:00 stop = 18/11/2017 01:20:00 title = Держись, Шоубиз!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 01:15:00 stop = 18/11/2017 01:45:00 title = Кошмар большого города
-      Replaces ----- start = 18/11/2017 00:45:00 stop = 18/11/2017 01:20:00 title = Держись, Шоубиз!
-      Replaces ----- start = 18/11/2017 01:20:00 stop = 18/11/2017 01:50:00 title = Кошмар большого города
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 01:45:00 stop = 18/11/2017 03:20:00 title = Моя любовь
-      Replaces ----- start = 18/11/2017 01:20:00 stop = 18/11/2017 01:50:00 title = Кошмар большого города
-      Replaces ----- start = 18/11/2017 01:50:00 stop = 18/11/2017 03:40:00 title = Волга-Волга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/11/2017 03:20:00 stop = 18/11/2017 06:00:00 title = Мультфильмы
-      Replaces ----- start = 18/11/2017 01:50:00 stop = 18/11/2017 03:40:00 title = Волга-Волга
-      Replaces ----- start = 18/11/2017 03:40:00 stop = 18/11/2017 06:00:00 title = Мультфильмы
-........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 08:50:00 stop = 19/11/2017 09:00:00 title = Посторонним вход разрешен
-      Replaces ----- start = 19/11/2017 08:50:00 stop = 19/11/2017 09:20:00 title = Еще дешевле
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/11/2017 09:00:00 stop = 19/11/2017 09:30:00 title = Мультфильмы
-      Replaces ----- start = 19/11/2017 08:50:00 stop = 19/11/2017 09:20:00 title = Еще дешевле
-      Replaces ----- start = 19/11/2017 09:20:00 stop = 19/11/2017 09:30:00 title = Мультфильмы
-.........
+..........................................
 
 (  20/24  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
 iiiiiiii........................................................................................................................................................................................................................................
@@ -1092,8 +784,8 @@ iiiiiiii........................................................................
 iiiiiiii.....................................................................................................................................................................................................................
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iiiiii
-Job finished at 14/11/2017 23:02:53 done in 2m 45s
+iiiii
+Job finished at 15/11/2017 11:02:40 done in 2m 32s
 Unhandled Exception
 
 Index was outside the bounds of the array.
