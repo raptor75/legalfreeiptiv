@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 21/11/2017 23:00:10
+Job started at 22/11/2017 11:00:08
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,7 +46,18 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...............c
+i
+error downloading page: The operation has timed out. (5sec)
+Retry 1 of 4 times
+error downloading page: Error: SendFailure (Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.)
+pausing 2 of 4 times for 10 seconds before re-try.
+iiiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/11/2017 15:15:00 stop = 22/11/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 22/11/2017 15:15:00 stop = 22/11/2017 16:00:00 title = Давай поженимся!
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 22/11/2017 21:35:00 stop = 22/11/2017 23:45:00 title = Большие деньги
@@ -277,7 +288,10 @@ c
 iiiiiiii...............................................................................................................................................................................................................................................
 
 (   5/24  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii....c
+i
+error downloading page: The operation has timed out. (5sec)
+Retry 1 of 4 times
+iiiiiii....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 22/11/2017 09:00:00 stop = 22/11/2017 10:00:00 title = Возвращение Мухтара-2
@@ -469,7 +483,12 @@ c
 ......................................
 
 (   9/24  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii..........................................................................................
+iiiiiiii.......................................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/11/2017 06:30:00 stop = 25/11/2017 08:30:00 title = Территория заблуждений с Игорем Прокопенко
+      Replaces ----- start = 25/11/2017 06:30:00 stop = 25/11/2017 08:30:00 title = Вид на жительство
+..................
 
 (  10/24  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
 iiiiiiii...........................................................................................................c
@@ -656,34 +675,7 @@ c
  CHANGED show corrected,
       show with ---- start = 24/11/2017 15:10:00 stop = 24/11/2017 16:05:00 title = Улицы разбитых фонарей-2
       Replaces ----- start = 24/11/2017 15:10:00 stop = 24/11/2017 16:05:00 title = Улицы разбитых фонарей-2
-...............................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/11/2017 00:10:00 stop = 27/11/2017 00:45:00 title = Шаповалов
-      Replaces ----- start = 27/11/2017 00:10:00 stop = 27/11/2017 01:00:00 title = Шаповалов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/11/2017 00:45:00 stop = 27/11/2017 01:35:00 title = Шаповалов
-      Replaces ----- start = 27/11/2017 00:10:00 stop = 27/11/2017 01:00:00 title = Шаповалов
-      Replaces ----- start = 27/11/2017 01:00:00 stop = 27/11/2017 01:55:00 title = Улицы разбитых фонарей-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/11/2017 01:35:00 stop = 27/11/2017 02:30:00 title = Шаповалов
-      Replaces ----- start = 27/11/2017 01:00:00 stop = 27/11/2017 01:55:00 title = Улицы разбитых фонарей-2
-      Replaces ----- start = 27/11/2017 01:55:00 stop = 27/11/2017 02:50:00 title = Улицы разбитых фонарей-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/11/2017 02:30:00 stop = 27/11/2017 03:20:00 title = Шаповалов
-      Replaces ----- start = 27/11/2017 01:55:00 stop = 27/11/2017 02:50:00 title = Улицы разбитых фонарей-2
-      Replaces ----- start = 27/11/2017 02:50:00 stop = 27/11/2017 03:40:00 title = Улицы разбитых фонарей-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/11/2017 03:20:00 stop = 27/11/2017 04:05:00 title = Шаповалов
-      Replaces ----- start = 27/11/2017 02:50:00 stop = 27/11/2017 03:40:00 title = Улицы разбитых фонарей-2
+....................................................................
 
 (  14/24  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii...................c
@@ -781,18 +773,7 @@ c
  CHANGED show corrected,
       show with ---- start = 22/11/2017 18:05:00 stop = 22/11/2017 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 22/11/2017 18:05:00 stop = 22/11/2017 19:00:00 title = Возвращение Мухтара-2
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/11/2017 00:55:00 stop = 23/11/2017 02:40:00 title = Любовь без страховки
-      Replaces ----- start = 23/11/2017 00:55:00 stop = 23/11/2017 02:55:00 title = Любовь без страховки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/11/2017 02:40:00 stop = 23/11/2017 04:45:00 title = Мафиоза
-      Replaces ----- start = 23/11/2017 00:55:00 stop = 23/11/2017 02:55:00 title = Любовь без страховки
-      Replaces ----- start = 23/11/2017 02:55:00 stop = 23/11/2017 04:45:00 title = Мафиоза
-...........c
+.................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 23/11/2017 16:15:00 stop = 23/11/2017 17:10:00 title = Возвращение Мухтара-2
@@ -832,8 +813,8 @@ iiiiiiii........................................................................
 iiiiiiii.....................................................................................................................................................................................................................
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iiiiii
-Job finished at 21/11/2017 23:02:43 done in 2m 33s
+iiiii
+Job finished at 22/11/2017 11:04:55 done in 4m 46s
 Unhandled Exception
 
 Index was outside the bounds of the array.
