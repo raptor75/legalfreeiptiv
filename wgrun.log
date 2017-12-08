@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 08/12/2017 11:00:09
+Job started at 08/12/2017 23:00:09
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,12 +46,7 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 15:15:00 stop = 08/12/2017 16:00:00 title = Давай поженимся!
-      Replaces ----- start = 08/12/2017 15:15:00 stop = 08/12/2017 16:00:00 title = Давай поженимся!
-.....................c
+iiiiiiii.........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 11:20:00 stop = 09/12/2017 12:00:00 title = Летучий отряд
@@ -71,12 +66,36 @@ iiiiiiii........c
  CHANGED show corrected,
       show with ---- start = 09/12/2017 23:35:00 stop = 10/12/2017 00:25:00 title = Премьера. "Короли фанеры"
       Replaces ----- start = 09/12/2017 23:35:00 stop = 10/12/2017 00:25:00 title = Премьера. "Короли фанеры"
-..............c
+...........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/12/2017 12:15:00 stop = 10/12/2017 12:45:00 title = Дорогая переДача
+      show with ---- start = 10/12/2017 10:15:00 stop = 10/12/2017 12:00:00 title = Фигурное катание. Финал Гран-при. Показательные выступления. Трансляция из Японии
+      Replaces ----- start = 10/12/2017 10:15:00 stop = 10/12/2017 11:10:00 title = "Честное слово" с Юрием Николаевым
+      Replaces ----- start = 10/12/2017 11:10:00 stop = 10/12/2017 12:00:00 title = Смак
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 12:15:00 stop = 10/12/2017 12:50:00 title = Смак
       Replaces ----- start = 10/12/2017 12:15:00 stop = 10/12/2017 12:45:00 title = Дорогая переДача
-...c
+      Replaces ----- start = 10/12/2017 12:45:00 stop = 10/12/2017 13:45:00 title = Теория заговора
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 12:50:00 stop = 10/12/2017 13:40:00 title = Теория заговора
+      Replaces ----- start = 10/12/2017 12:45:00 stop = 10/12/2017 13:45:00 title = Теория заговора
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 13:40:00 stop = 10/12/2017 15:45:00 title = Аффтар жжот
+      Replaces ----- start = 10/12/2017 12:45:00 stop = 10/12/2017 13:45:00 title = Теория заговора
+      Replaces ----- start = 10/12/2017 13:45:00 stop = 10/12/2017 15:30:00 title = Фигурное катание. Финал Гран-при. Показательные выступления. Трансляция из Японии
+      Replaces ----- start = 10/12/2017 15:30:00 stop = 10/12/2017 17:30:00 title = К 25-летию Казначейства России. Большой праздничный концерт в Государственном Кремлевском Дворце
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 15:45:00 stop = 10/12/2017 17:30:00 title = К 25-летию Казначейства России. Большой праздничный концерт в Государственном Кремлевском Дворце
+      Replaces ----- start = 10/12/2017 15:30:00 stop = 10/12/2017 17:30:00 title = К 25-летию Казначейства России. Большой праздничный концерт в Государственном Кремлевском Дворце
+c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 10/12/2017 17:30:00 stop = 10/12/2017 19:30:00 title = Русский ниндзя
@@ -89,34 +108,75 @@ iiiiiiii........c
 .........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 11/12/2017 12:15:00 stop = 11/12/2017 12:50:00 title = Бабий бунт
+      show with ---- start = 11/12/2017 12:15:00 stop = 11/12/2017 15:00:00 title = Время покажет
       Replaces ----- start = 11/12/2017 12:15:00 stop = 11/12/2017 12:50:00 title = Бабий бунт
-.........c
+      Replaces ----- start = 11/12/2017 12:50:00 stop = 11/12/2017 15:00:00 title = Время покажет
+........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 11/12/2017 21:30:00 stop = 11/12/2017 23:30:00 title = Серебряный бор
       Replaces ----- start = 11/12/2017 21:30:00 stop = 11/12/2017 23:30:00 title = Серебряный бор
-...............c
+...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 12/12/2017 12:15:00 stop = 12/12/2017 12:50:00 title = Бабий бунт
+      show with ---- start = 12/12/2017 01:15:00 stop = 12/12/2017 02:05:00 title = Мужское / Женское
+      Replaces ----- start = 12/12/2017 01:15:00 stop = 12/12/2017 02:15:00 title = Время покажет
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 02:05:00 stop = 12/12/2017 03:00:00 title = Время покажет
+      Replaces ----- start = 12/12/2017 01:15:00 stop = 12/12/2017 02:15:00 title = Время покажет
+      Replaces ----- start = 12/12/2017 02:15:00 stop = 12/12/2017 03:00:00 title = Мужское / Женское
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 03:05:00 stop = 12/12/2017 03:15:00 title = Время покажет
+      Replaces ----- start = 12/12/2017 03:05:00 stop = 12/12/2017 03:15:00 title = Мужское / Женское
+........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 12:15:00 stop = 12/12/2017 15:00:00 title = Время покажет
       Replaces ----- start = 12/12/2017 12:15:00 stop = 12/12/2017 12:50:00 title = Бабий бунт
-.........c
+      Replaces ----- start = 12/12/2017 12:50:00 stop = 12/12/2017 15:00:00 title = Время покажет
+........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/12/2017 21:35:00 stop = 12/12/2017 23:40:00 title = Серебряный бор
       Replaces ----- start = 12/12/2017 21:35:00 stop = 12/12/2017 23:40:00 title = Серебряный бор
-...............c
+..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/12/2017 12:15:00 stop = 13/12/2017 12:50:00 title = Бабий бунт
+      show with ---- start = 13/12/2017 00:30:00 stop = 13/12/2017 01:25:00 title = Мужское / Женское
+      Replaces ----- start = 13/12/2017 00:30:00 stop = 13/12/2017 01:30:00 title = Время покажет
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/12/2017 01:25:00 stop = 13/12/2017 02:25:00 title = Время покажет
+      Replaces ----- start = 13/12/2017 00:30:00 stop = 13/12/2017 01:30:00 title = Время покажет
+      Replaces ----- start = 13/12/2017 01:30:00 stop = 13/12/2017 02:25:00 title = Мужское / Женское
+...........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/12/2017 12:15:00 stop = 13/12/2017 15:00:00 title = Время покажет
       Replaces ----- start = 13/12/2017 12:15:00 stop = 13/12/2017 12:50:00 title = Бабий бунт
-.........c
+      Replaces ----- start = 13/12/2017 12:50:00 stop = 13/12/2017 15:00:00 title = Время покажет
+........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 13/12/2017 21:35:00 stop = 13/12/2017 23:40:00 title = Серебряный бор
       Replaces ----- start = 13/12/2017 21:35:00 stop = 13/12/2017 23:40:00 title = Серебряный бор
-.....................c
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/12/2017 00:30:00 stop = 14/12/2017 01:25:00 title = Мужское / Женское
+      Replaces ----- start = 14/12/2017 00:30:00 stop = 14/12/2017 01:30:00 title = Время покажет
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/12/2017 01:25:00 stop = 14/12/2017 02:25:00 title = Время покажет
+      Replaces ----- start = 14/12/2017 00:30:00 stop = 14/12/2017 01:30:00 title = Время покажет
+      Replaces ----- start = 14/12/2017 01:30:00 stop = 14/12/2017 02:25:00 title = Мужское / Женское
+.................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/12/2017 22:00:00 stop = 15/12/2017 00:10:00 title = Серебряный бор
@@ -129,22 +189,13 @@ c
 ...........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/12/2017 12:15:00 stop = 15/12/2017 12:50:00 title = Бабий бунт
+      show with ---- start = 15/12/2017 12:15:00 stop = 15/12/2017 15:00:00 title = Время покажет
       Replaces ----- start = 15/12/2017 12:15:00 stop = 15/12/2017 12:50:00 title = Бабий бунт
-...........
+      Replaces ----- start = 15/12/2017 12:50:00 stop = 15/12/2017 15:00:00 title = Время покажет
+..........nnnnnnnnnnnnnnnnnnnnnn
 
 (   2/24  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 21:00:00 stop = 08/12/2017 22:50:00 title = Тайны следствия
-      Replaces ----- start = 08/12/2017 21:00:00 stop = 08/12/2017 22:50:00 title = Тайны следствия
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 22:50:00 stop = 09/12/2017 00:45:00 title = Тайны следствия
-      Replaces ----- start = 08/12/2017 22:50:00 stop = 09/12/2017 00:45:00 title = Тайны следствия
-....c
+iiiiiiiic
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 04:40:00 stop = 09/12/2017 06:35:00 title = Срочно в номер-2
@@ -164,35 +215,10 @@ c
  CHANGED show corrected,
       show with ---- start = 13/12/2017 21:00:00 stop = 13/12/2017 23:15:00 title = Тайны следствия-17
       Replaces ----- start = 13/12/2017 21:00:00 stop = 13/12/2017 23:15:00 title = Тайны следствия-17
-.........................................
+.........................................nnnnnnnnnnnnnnn
 
 (   3/24  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
-iiiiiiii..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 18:55:00 stop = 08/12/2017 21:25:00 title = Хоккей. КХЛ. Прямая трансляция
-      Replaces ----- start = 08/12/2017 18:55:00 stop = 08/12/2017 21:25:00 title = Хоккей. КХЛ. Прямая трансляция
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 21:25:00 stop = 08/12/2017 21:55:00 title = Все на футбол!
-      Replaces ----- start = 08/12/2017 21:25:00 stop = 08/12/2017 21:55:00 title = Все на футбол!
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 22:25:00 stop = 09/12/2017 00:15:00 title = Гандбол. Чемпионат мира. Женщины. Прямая трансляция из Германии
-      Replaces ----- start = 08/12/2017 22:25:00 stop = 09/12/2017 00:15:00 title = Гандбол. Чемпионат мира. Женщины. Прямая трансляция из Германии
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/12/2017 01:45:00 stop = 09/12/2017 03:30:00 title = Профессиональный бокс. Бой за титул чемпиона IBF International в первом среднем весе. Трансляция из Москвы
-      Replaces ----- start = 09/12/2017 01:45:00 stop = 09/12/2017 03:30:00 title = Профессиональный бокс. Бой за титул чемпиона IBF International в первом среднем весе. Трансляция из Москвы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/12/2017 03:30:00 stop = 09/12/2017 05:30:00 title = Футбол. Чемпионат Германии
-      Replaces ----- start = 09/12/2017 03:30:00 stop = 09/12/2017 05:30:00 title = Футбол. Чемпионат Германии
-..........c
+iiiiiiii........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 11:25:00 stop = 09/12/2017 11:55:00 title = Все на футбол!
@@ -367,40 +393,13 @@ c
  CHANGED show corrected,
       show with ---- start = 15/12/2017 23:35:00 stop = 16/12/2017 01:35:00 title = Баскетбол. Евролига. Мужчины
       Replaces ----- start = 15/12/2017 23:35:00 stop = 16/12/2017 01:35:00 title = Баскетбол. Евролига. Мужчины
+nnnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/24  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................................................................
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   5/24  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-i
-error downloading page: Error getting response stream (ReadDone2): ReceiveFailure
-pausing 1 of 4 times for 5 seconds before re-try.
-iiiiiii....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 09:00:00 stop = 08/12/2017 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 08/12/2017 09:00:00 stop = 08/12/2017 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 10:25:00 stop = 08/12/2017 11:20:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 08/12/2017 10:25:00 stop = 08/12/2017 11:20:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 12:00:00 stop = 08/12/2017 13:00:00 title = Свидетели-2
-      Replaces ----- start = 08/12/2017 12:00:00 stop = 08/12/2017 13:00:00 title = Свидетели-2
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 19:40:00 stop = 08/12/2017 23:55:00 title = Чужое лицо
-      Replaces ----- start = 08/12/2017 19:40:00 stop = 08/12/2017 23:55:00 title = Чужое лицо
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/12/2017 00:25:00 stop = 09/12/2017 01:25:00 title = Мы и наука. Наука и мы
-      Replaces ----- start = 09/12/2017 00:25:00 stop = 09/12/2017 01:25:00 title = Мы и наука. Наука и мы
-..............c
+iiiiiiii............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 14:10:00 stop = 09/12/2017 15:05:00 title = Поедем, поедим!
@@ -520,20 +519,10 @@ iiiiiii....c
  CHANGED show corrected,
       show with ---- start = 15/12/2017 12:00:00 stop = 15/12/2017 13:00:00 title = Свидетели-2
       Replaces ----- start = 15/12/2017 12:00:00 stop = 15/12/2017 13:00:00 title = Свидетели-2
-.........
+.........nnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   6/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/12/2017 00:00:00 stop = 09/12/2017 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 09/12/2017 00:00:00 stop = 09/12/2017 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/12/2017 01:00:00 stop = 09/12/2017 01:35:00 title = Такое Кино!
-      Replaces ----- start = 09/12/2017 01:00:00 stop = 09/12/2017 01:35:00 title = Такое Кино!
-...........................c
+iiiiiiii....................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 10/12/2017 00:30:00 stop = 10/12/2017 01:30:00 title = Дом-2. После заката
@@ -568,25 +557,15 @@ c
  CHANGED show corrected,
       show with ---- start = 14/12/2017 00:00:00 stop = 14/12/2017 01:00:00 title = Дом-2. После заката
       Replaces ----- start = 14/12/2017 00:00:00 stop = 14/12/2017 01:00:00 title = Дом-2. После заката
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/12/2017 06:30:00 stop = 14/12/2017 06:59:00 title = ТНТ. Best
-      Replaces ----- start = 14/12/2017 06:30:00 stop = 14/12/2017 07:00:00 title = ТНТ. Best
-............................c
+...................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/12/2017 00:00:00 stop = 15/12/2017 01:00:00 title = Дом-2. После заката
       Replaces ----- start = 15/12/2017 00:00:00 stop = 15/12/2017 01:00:00 title = Дом-2. После заката
-..............................
+..............................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   7/24  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 23:25:00 stop = 09/12/2017 01:20:00 title = Очень плохие мамочки
-      Replaces ----- start = 08/12/2017 23:25:00 stop = 09/12/2017 01:20:00 title = Очень плохие мамочки
-...............c
+iiiiiiii...........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 12:00:00 stop = 09/12/2017 12:30:00 title = Вокруг света во время декрета
@@ -646,10 +625,10 @@ c
  CHANGED show corrected,
       show with ---- start = 14/12/2017 20:00:00 stop = 14/12/2017 21:00:00 title = Психологини
       Replaces ----- start = 14/12/2017 20:00:00 stop = 14/12/2017 21:00:00 title = Психологини
-........................
+........................nnnnnnnnnnnnnnnnnnnnn
 
 (   8/24  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii.......................................c
+iiiiiiii............................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 11/12/2017 10:55:00 stop = 11/12/2017 13:55:00 title = Давай разведёмся!
@@ -669,13 +648,13 @@ iiiiiiii.......................................c
  CHANGED show corrected,
       show with ---- start = 14/12/2017 11:00:00 stop = 14/12/2017 14:00:00 title = Давай разведёмся!
       Replaces ----- start = 14/12/2017 11:00:00 stop = 14/12/2017 14:00:00 title = Давай разведёмся!
-.....................
+.....................nnnnnnnnnnnnn
 
 (   9/24  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii.............................................................................................................................................................
+iiiiiiii........................................................................................................................................nnnnnnnnnnnnn
 
 (  10/24  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
-iiiiiiii.......................................c
+iiiiiiii........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 10:30:00 stop = 09/12/2017 11:00:00 title = Дом "Э"
@@ -705,30 +684,10 @@ iiiiiiii.......................................c
  CHANGED show corrected,
       show with ---- start = 11/12/2017 07:00:00 stop = 11/12/2017 07:30:00 title = Российский гербарий
       Replaces ----- start = 11/12/2017 07:00:00 stop = 11/12/2017 07:30:00 title = Российский гербарий
-......................................................................................................................................................
+......................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  11/24  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 11:30:00 stop = 08/12/2017 12:30:00 title = Не ври мне!
-      Replaces ----- start = 08/12/2017 11:30:00 stop = 08/12/2017 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 12:30:00 stop = 08/12/2017 13:30:00 title = Не ври мне!
-      Replaces ----- start = 08/12/2017 12:30:00 stop = 08/12/2017 13:30:00 title = Не ври мне!
-.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 19:00:00 stop = 08/12/2017 20:00:00 title = Человек-невидимка
-      Replaces ----- start = 08/12/2017 19:00:00 stop = 08/12/2017 20:00:00 title = Человек-невидимка
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 09/12/2017 04:00:00 stop = 09/12/2017 05:00:00 title = Тайные знаки
-      Replaces ----- start = 09/12/2017 04:00:00 stop = 09/12/2017 05:00:00 title = Тайные знаки
-...............c
+iiiiiiii..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 10/12/2017 02:15:00 stop = 10/12/2017 03:15:00 title = Тайные знаки
@@ -783,48 +742,13 @@ c
  CHANGED show corrected,
       show with ---- start = 15/12/2017 12:30:00 stop = 15/12/2017 13:30:00 title = Не ври мне!
       Replaces ----- start = 15/12/2017 12:30:00 stop = 15/12/2017 13:30:00 title = Не ври мне!
-.............
+.............nnnnnnnnnnnnnnnnn
 
 (  12/24  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii.......................................................................................................
+iiiiiiii..........................................................................................nnnnnnnnnnn
 
 (  13/24  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
-iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 09:25:00 stop = 08/12/2017 10:20:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 09:25:00 stop = 08/12/2017 10:20:00 title = Улицы разбитых фонарей-4
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 10:20:00 stop = 08/12/2017 11:20:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 10:20:00 stop = 08/12/2017 11:20:00 title = Улицы разбитых фонарей-4
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 11:20:00 stop = 08/12/2017 12:10:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 11:20:00 stop = 08/12/2017 12:10:00 title = Улицы разбитых фонарей-4
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 12:10:00 stop = 08/12/2017 13:00:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 12:10:00 stop = 08/12/2017 13:00:00 title = Улицы разбитых фонарей-4
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 13:25:00 stop = 08/12/2017 14:20:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 13:25:00 stop = 08/12/2017 14:20:00 title = Улицы разбитых фонарей-4
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 14:20:00 stop = 08/12/2017 15:20:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 14:20:00 stop = 08/12/2017 15:20:00 title = Улицы разбитых фонарей-4
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/12/2017 15:20:00 stop = 08/12/2017 16:15:00 title = Улицы разбитых фонарей-4
-      Replaces ----- start = 08/12/2017 15:20:00 stop = 08/12/2017 16:15:00 title = Улицы разбитых фонарей-4
-............................c
+iiiiiiii...........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 15:00:00 stop = 09/12/2017 15:50:00 title = След
@@ -849,15 +773,77 @@ c
  CHANGED show corrected,
       show with ---- start = 15/12/2017 15:35:00 stop = 15/12/2017 16:05:00 title = Детективы
       Replaces ----- start = 15/12/2017 15:35:00 stop = 15/12/2017 16:05:00 title = Детективы
-..........
+..........nnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  14/24  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.......................................................................................c
+iiiiiiii...................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 09/12/2017 22:10:00 stop = 09/12/2017 23:30:00 title = Право знать!
+      Replaces ----- start = 09/12/2017 22:10:00 stop = 09/12/2017 23:40:00 title = Право знать!
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 09/12/2017 23:30:00 stop = 09/12/2017 23:45:00 title = События
+      Replaces ----- start = 09/12/2017 22:10:00 stop = 09/12/2017 23:40:00 title = Право знать!
+      Replaces ----- start = 09/12/2017 23:40:00 stop = 09/12/2017 23:55:00 title = События
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 09/12/2017 23:45:00 stop = 10/12/2017 02:55:00 title = Право голоса
+      Replaces ----- start = 09/12/2017 23:40:00 stop = 09/12/2017 23:55:00 title = События
+      Replaces ----- start = 09/12/2017 23:55:00 stop = 10/12/2017 03:05:00 title = Право голоса
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 02:55:00 stop = 10/12/2017 03:30:00 title = "Мир калибра 7.62". Спецрепортаж
+      Replaces ----- start = 09/12/2017 23:55:00 stop = 10/12/2017 03:05:00 title = Право голоса
+      Replaces ----- start = 10/12/2017 03:05:00 stop = 10/12/2017 03:40:00 title = "Мир калибра 7.62". Спецрепортаж
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 03:30:00 stop = 10/12/2017 04:15:00 title = 90-е. Лужа и Черкизон
+      Replaces ----- start = 10/12/2017 03:05:00 stop = 10/12/2017 03:40:00 title = "Мир калибра 7.62". Спецрепортаж
+      Replaces ----- start = 10/12/2017 03:40:00 stop = 10/12/2017 04:30:00 title = 90-е. Лужа и Черкизон
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 04:15:00 stop = 10/12/2017 05:05:00 title = Хроники московского быта. Многомужницы
+      Replaces ----- start = 10/12/2017 03:40:00 stop = 10/12/2017 04:30:00 title = 90-е. Лужа и Черкизон
+      Replaces ----- start = 10/12/2017 04:30:00 stop = 10/12/2017 05:40:00 title = Хроники московского быта. Многомужницы
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/12/2017 05:05:00 stop = 10/12/2017 05:40:00 title = Обложка
+      Replaces ----- start = 10/12/2017 04:30:00 stop = 10/12/2017 05:40:00 title = Хроники московского быта. Многомужницы
+.......................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/12/2017 00:00:00 stop = 12/12/2017 00:35:00 title = События. 25-й час
       Replaces ----- start = 12/12/2017 00:00:00 stop = 12/12/2017 00:35:00 title = События. 25-й час
-.....................c
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 00:35:00 stop = 12/12/2017 01:55:00 title = Право знать!
+      Replaces ----- start = 12/12/2017 00:35:00 stop = 12/12/2017 02:05:00 title = Право знать!
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 01:55:00 stop = 12/12/2017 03:45:00 title = Крутой
+      Replaces ----- start = 12/12/2017 00:35:00 stop = 12/12/2017 02:05:00 title = Право знать!
+      Replaces ----- start = 12/12/2017 02:05:00 stop = 12/12/2017 03:55:00 title = Крутой
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 03:45:00 stop = 12/12/2017 05:30:00 title = Миссис Брэдли
+      Replaces ----- start = 12/12/2017 02:05:00 stop = 12/12/2017 03:55:00 title = Крутой
+      Replaces ----- start = 12/12/2017 03:55:00 stop = 12/12/2017 06:00:00 title = Миссис Брэдли
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/12/2017 05:30:00 stop = 12/12/2017 06:00:00 title = Линия защиты
+      Replaces ----- start = 12/12/2017 03:55:00 stop = 12/12/2017 06:00:00 title = Миссис Брэдли
+..................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/12/2017 22:30:00 stop = 12/12/2017 23:05:00 title = Осторожно, мошенники!
@@ -877,10 +863,10 @@ iiiiiiii........................................................................
  CHANGED show corrected,
       show with ---- start = 15/12/2017 00:00:00 stop = 15/12/2017 00:35:00 title = События. 25-й час
       Replaces ----- start = 15/12/2017 00:00:00 stop = 15/12/2017 00:35:00 title = События. 25-й час
-......................
+......................nnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  15/24  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii.............................c
+iiiiiiii...............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 10/12/2017 11:00:00 stop = 10/12/2017 12:00:00 title = Еда, я люблю тебя!
@@ -895,18 +881,18 @@ iiiiiiii.............................c
  CHANGED show corrected,
       show with ---- start = 14/12/2017 19:00:00 stop = 14/12/2017 21:00:00 title = Орел и решка. Рай и ад-2
       Replaces ----- start = 14/12/2017 19:00:00 stop = 14/12/2017 21:00:00 title = Орел и решка. Рай и ад-2
-...................
+...................nnnnnnnnnnnnnnn
 
 (  16/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii...........................................................................................................................................................................................................................................................................................c
+iiiiiiii................................................................................................................................................................................................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/12/2017 11:30:00 stop = 15/12/2017 12:00:00 title = Счастливы вместе
       Replaces ----- start = 15/12/2017 11:30:00 stop = 15/12/2017 12:00:00 title = Счастливы вместе
-......................
+......................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  17/24  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.......................c
+iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 09/12/2017 10:30:00 stop = 09/12/2017 11:00:00 title = Не факт!
@@ -926,23 +912,36 @@ iiiiiiii.......................c
  CHANGED show corrected,
       show with ---- start = 13/12/2017 05:05:00 stop = 13/12/2017 06:00:00 title = Боевые награды Советского Союза. 1941-1991
       Replaces ----- start = 13/12/2017 05:05:00 stop = 13/12/2017 06:00:00 title = Боевые награды Советского Союза. 1941-1991
-.................................................................
+.................................................................nnnnnnnnnnnnnnnnnn
 
 (  18/24  ) S-TV.RU -- chan. (xmltv_id=Москва-24) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................................................................................................................................................................................................................................................................................................
+iiiiiiii.....................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  19/24  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii...........c
+iiiiiiii.................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 08/12/2017 17:10:00 stop = 08/12/2017 18:05:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 08/12/2017 17:10:00 stop = 08/12/2017 18:05:00 title = Возвращение Мухтара-2
+      show with ---- start = 10/12/2017 20:00:00 stop = 11/12/2017 01:10:00 title = Большая перемена
+      Replaces ----- start = 10/12/2017 20:00:00 stop = 11/12/2017 01:00:00 title = Большая перемена
+      Replaces ----- start = 11/12/2017 01:00:00 stop = 11/12/2017 03:50:00 title = Зита и Гита
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 08/12/2017 18:05:00 stop = 08/12/2017 19:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 08/12/2017 18:05:00 stop = 08/12/2017 19:00:00 title = Возвращение Мухтара-2
-......................................................c
+      show with ---- start = 11/12/2017 01:10:00 stop = 11/12/2017 04:05:00 title = Зита и Гита
+      Replaces ----- start = 11/12/2017 01:00:00 stop = 11/12/2017 03:50:00 title = Зита и Гита
+      Replaces ----- start = 11/12/2017 03:50:00 stop = 11/12/2017 04:20:00 title = Любимые актеры
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 11/12/2017 04:05:00 stop = 11/12/2017 04:35:00 title = Любимые актеры
+      Replaces ----- start = 11/12/2017 03:50:00 stop = 11/12/2017 04:20:00 title = Любимые актеры
+      Replaces ----- start = 11/12/2017 04:20:00 stop = 11/12/2017 06:05:00 title = Зеленый фургон
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 11/12/2017 04:35:00 stop = 11/12/2017 06:05:00 title = Зеленый фургон
+      Replaces ----- start = 11/12/2017 04:20:00 stop = 11/12/2017 06:05:00 title = Зеленый фургон
+..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 11/12/2017 16:15:00 stop = 11/12/2017 17:10:00 title = Возвращение Мухтара-2
@@ -1012,23 +1011,23 @@ c
  CHANGED show corrected,
       show with ---- start = 15/12/2017 18:05:00 stop = 15/12/2017 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 15/12/2017 18:05:00 stop = 15/12/2017 19:00:00 title = Возвращение Мухтара-2
-...
+...nnnnnnnnnnnnnnnnnnnn
 
 (  20/24  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................................................................................................................................................................................................................................................
+iiiiiiii...................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  21/24  ) TV.MAIL.RU -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+iiiiiiii....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  22/24  ) TV.MAIL.RU -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................
+iiiiiiii....................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnn
 
 (  23/24  ) TV.MAIL.RU -- chan. (xmltv_id=Russia Today) -- mode Incremental
-iiiiiiii......................................................................................................................................................................................................................................................................................................................................................................................
+iiiiiiii......................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
 iii
-Job finished at 08/12/2017 11:04:08 done in 3m 58s
+Job finished at 08/12/2017 23:06:06 done in 5m 56s
 Unhandled Exception
 
 Index was outside the bounds of the array.
