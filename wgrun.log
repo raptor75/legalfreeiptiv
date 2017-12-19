@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 18/12/2017 23:00:06
+Job started at 19/12/2017 11:00:13
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,42 +46,22 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/12/2017 15:15:00 stop = 19/12/2017 16:00:00 title = Время покажет
-      Replaces ----- start = 19/12/2017 15:15:00 stop = 19/12/2017 16:00:00 title = Давай поженимся!
-......c
+iiiiiiii...............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 19/12/2017 21:35:00 stop = 19/12/2017 23:40:00 title = Серебряный бор
       Replaces ----- start = 19/12/2017 21:35:00 stop = 19/12/2017 23:40:00 title = Серебряный бор
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/12/2017 15:15:00 stop = 20/12/2017 16:00:00 title = Время покажет
-      Replaces ----- start = 20/12/2017 15:15:00 stop = 20/12/2017 16:00:00 title = Давай поженимся!
-......c
+........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 20/12/2017 21:35:00 stop = 20/12/2017 23:40:00 title = Серебряный бор
       Replaces ----- start = 20/12/2017 21:35:00 stop = 20/12/2017 23:40:00 title = Серебряный бор
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/12/2017 15:15:00 stop = 21/12/2017 16:00:00 title = Время покажет
-      Replaces ----- start = 21/12/2017 15:15:00 stop = 21/12/2017 16:00:00 title = Давай поженимся!
-......c
+........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 21/12/2017 21:35:00 stop = 21/12/2017 23:40:00 title = Серебряный бор
       Replaces ----- start = 21/12/2017 21:35:00 stop = 21/12/2017 23:40:00 title = Серебряный бор
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/12/2017 15:15:00 stop = 22/12/2017 16:00:00 title = Время покажет
-      Replaces ----- start = 22/12/2017 15:15:00 stop = 22/12/2017 16:00:00 title = Давай поженимся!
-....................c
+......................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 23/12/2017 11:20:00 stop = 23/12/2017 12:00:00 title = Летучий отряд
@@ -735,8 +715,13 @@ iiiiiiii........................................................................
 iiiiiiii.....................................................................................................................................................................................................................................................................
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iiiiiii.........................................................................................................................................................................
+iiiiii
+Job finished at 19/12/2017 11:03:22 done in 3m 9s
+Unhandled Exception
 
+Index was outside the bounds of the array.
 
-
-Job finished at 18/12/2017 23:03:06 done in 2m 59s
+  at WGconsole.Program.ConsoleApplication (System.String[] args) [0x01cfa] in <274ad6f9740e441a95b86a1d1148edca>:0 
+  at WGconsole.Program.Main (System.String[] args) [0x00016] in <274ad6f9740e441a95b86a1d1148edca>:0 
+For detailed info, see log file /data/epg/.wg++/WebGrab++.log.txt
+Execution stopped
