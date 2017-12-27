@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 26/12/2017 23:00:09
+Job started at 27/12/2017 11:00:09
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,7 +46,12 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii.........c
+iiiiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/12/2017 15:15:00 stop = 27/12/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 27/12/2017 15:15:00 stop = 27/12/2017 16:00:00 title = Давай поженимся!
+c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 27/12/2017 16:00:00 stop = 27/12/2017 17:00:00 title = Мужское / Женское
@@ -66,51 +71,7 @@ iiiiiiii.........c
  CHANGED show corrected,
       show with ---- start = 30/12/2017 23:00:00 stop = 31/12/2017 01:30:00 title = Форсаж-7
       Replaces ----- start = 30/12/2017 23:00:00 stop = 31/12/2017 01:30:00 title = Форсаж-7
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 01:30:00 stop = 31/12/2017 03:35:00 title = Один прекрасный день
-      Replaces ----- start = 31/12/2017 01:30:00 stop = 31/12/2017 03:30:00 title = Один прекрасный день
-      Replaces ----- start = 31/12/2017 03:30:00 stop = 31/12/2017 06:00:00 title = Джентльмены предпочитают блондинок
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 03:35:00 stop = 31/12/2017 05:15:00 title = Джентльмены предпочитают блондинок
-      Replaces ----- start = 31/12/2017 03:30:00 stop = 31/12/2017 06:00:00 title = Джентльмены предпочитают блондинок
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 05:15:00 stop = 31/12/2017 06:00:00 title = Россия от края до края
-      Replaces ----- start = 31/12/2017 03:30:00 stop = 31/12/2017 06:00:00 title = Джентльмены предпочитают блондинок
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 12:30:00 stop = 31/12/2017 13:30:00 title = Премьера. "Главный новогодний концерт"
-      Replaces ----- start = 31/12/2017 12:30:00 stop = 31/12/2017 13:40:00 title = Премьера. "Главный новогодний концерт"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 13:30:00 stop = 31/12/2017 15:00:00 title = Служебный роман
-      Replaces ----- start = 31/12/2017 12:30:00 stop = 31/12/2017 13:40:00 title = Премьера. "Главный новогодний концерт"
-      Replaces ----- start = 31/12/2017 13:40:00 stop = 31/12/2017 15:00:00 title = Служебный роман
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 15:10:00 stop = 31/12/2017 16:45:00 title = Служебный роман
-      Replaces ----- start = 31/12/2017 15:10:00 stop = 31/12/2017 16:50:00 title = Служебный роман
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 16:45:00 stop = 31/12/2017 18:20:00 title = Кавказская пленница, или Новые приключения Шурика
-      Replaces ----- start = 31/12/2017 15:10:00 stop = 31/12/2017 16:50:00 title = Служебный роман
-      Replaces ----- start = 31/12/2017 16:50:00 stop = 31/12/2017 18:25:00 title = Кавказская пленница, или Новые приключения Шурика
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 18:20:00 stop = 31/12/2017 21:15:00 title = "Лучше всех!" Новогодний выпуск
-      Replaces ----- start = 31/12/2017 16:50:00 stop = 31/12/2017 18:25:00 title = Кавказская пленница, или Новые приключения Шурика
-      Replaces ----- start = 31/12/2017 18:25:00 stop = 31/12/2017 21:15:00 title = "Лучше всех!" Новогодний выпуск
-...
+.................
 
 (   2/24  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii..................c
@@ -402,8 +363,7 @@ c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:30:00 title = Новый год, дети и все-все-все!
-      Replaces ----- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:00:00 title = Новый год, дети и все-все-все!
-      Replaces ----- start = 01/01/2018 02:00:00 stop = 01/01/2018 05:50:00 title = Шоу "Уральских пельменей"
+      Replaces ----- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:30:00 title = Новый год, дети и все-все-все!
 
 (   8/24  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii...c
@@ -411,24 +371,12 @@ iiiiiiii...c
  CHANGED show corrected,
       show with ---- start = 27/12/2017 10:55:00 stop = 27/12/2017 13:55:00 title = Давай разведёмся!
       Replaces ----- start = 27/12/2017 10:55:00 stop = 27/12/2017 13:55:00 title = Давай разведёмся!
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/12/2017 22:35:00 stop = 28/12/2017 00:30:00 title = 6 кадров
-      Replaces ----- start = 27/12/2017 22:35:00 stop = 27/12/2017 23:35:00 title = Свадебный размер
-      Replaces ----- start = 27/12/2017 23:35:00 stop = 28/12/2017 00:30:00 title = 6 кадров
-.......c
+............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/12/2017 10:55:00 stop = 28/12/2017 13:55:00 title = Давай разведёмся!
       Replaces ----- start = 28/12/2017 10:55:00 stop = 28/12/2017 13:55:00 title = Давай разведёмся!
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 22:30:00 stop = 29/12/2017 00:30:00 title = 6 кадров
-      Replaces ----- start = 28/12/2017 22:30:00 stop = 28/12/2017 23:30:00 title = Свадебный размер
-      Replaces ----- start = 28/12/2017 23:30:00 stop = 29/12/2017 00:30:00 title = 6 кадров
-...................................c
+........................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:05:00 title = Новогоднее обращение Президента РФ Владимира Путина
@@ -589,30 +537,18 @@ c
 ....
 
 (  14/24  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii...................c
+iiiiiiii
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: Error: SendFailure (Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.)
+pausing 2 of 4 times for 10 seconds before re-try.
+...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/12/2017 00:00:00 stop = 28/12/2017 00:35:00 title = События. 25-й час
       Replaces ----- start = 28/12/2017 00:00:00 stop = 28/12/2017 00:35:00 title = События. 25-й час
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 02:35:00 stop = 28/12/2017 03:40:00 title = Легко ли быть Алибасовым
-      Replaces ----- start = 28/12/2017 02:35:00 stop = 28/12/2017 03:29:00 title = Я выбираю тебя
-      Replaces ----- start = 28/12/2017 03:29:00 stop = 28/12/2017 04:23:00 title = Я выбираю тебя
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 03:40:00 stop = 28/12/2017 05:10:00 title = Моя морячка
-      Replaces ----- start = 28/12/2017 03:29:00 stop = 28/12/2017 04:23:00 title = Я выбираю тебя
-      Replaces ----- start = 28/12/2017 04:23:00 stop = 28/12/2017 05:17:00 title = Я выбираю тебя
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 05:10:00 stop = 28/12/2017 06:10:00 title = Алексей Смирнов. Клоун с разбитым сердцем
-      Replaces ----- start = 28/12/2017 04:23:00 stop = 28/12/2017 05:17:00 title = Я выбираю тебя
-      Replaces ----- start = 28/12/2017 05:17:00 stop = 28/12/2017 06:10:00 title = Я выбираю тебя
-...................c
+.........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 29/12/2017 00:00:00 stop = 29/12/2017 00:35:00 title = События. 25-й час
@@ -620,190 +556,12 @@ c
 ....................................................................
 
 (  15/24  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/12/2017 21:00:00 stop = 28/12/2017 00:30:00 title = Адская кухня
-      Replaces ----- start = 27/12/2017 21:00:00 stop = 28/12/2017 01:00:00 title = Адская кухня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 00:30:00 stop = 28/12/2017 03:00:00 title = Американская история ужасов
-      Replaces ----- start = 27/12/2017 21:00:00 stop = 28/12/2017 01:00:00 title = Адская кухня
-      Replaces ----- start = 28/12/2017 01:00:00 stop = 28/12/2017 03:35:00 title = Американская история ужасов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 03:00:00 stop = 28/12/2017 05:45:00 title = Орел и решка
-      Replaces ----- start = 28/12/2017 01:00:00 stop = 28/12/2017 03:35:00 title = Американская история ужасов
-      Replaces ----- start = 28/12/2017 03:35:00 stop = 28/12/2017 06:00:00 title = Орел и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 05:45:00 stop = 28/12/2017 06:00:00 title = Большие чувства
-      Replaces ----- start = 28/12/2017 03:35:00 stop = 28/12/2017 06:00:00 title = Орел и решка
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 12:30:00 stop = 28/12/2017 14:30:00 title = Орел и решка. Перезагрузка
-      Replaces ----- start = 28/12/2017 12:30:00 stop = 28/12/2017 14:40:00 title = Орел и решка. Перезагрузка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 14:30:00 stop = 28/12/2017 15:30:00 title = Бедняков+1
-      Replaces ----- start = 28/12/2017 12:30:00 stop = 28/12/2017 14:40:00 title = Орел и решка. Перезагрузка
-      Replaces ----- start = 28/12/2017 14:40:00 stop = 28/12/2017 15:35:00 title = Бедняков+1
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/12/2017 15:30:00 stop = 28/12/2017 20:00:00 title = Орел и решка. Кругосветка
-      Replaces ----- start = 28/12/2017 14:40:00 stop = 28/12/2017 15:35:00 title = Бедняков+1
-      Replaces ----- start = 28/12/2017 15:35:00 stop = 28/12/2017 20:00:00 title = Орел и решка. Кругосветка
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 01:00:00 stop = 29/12/2017 03:50:00 title = Американская история ужасов
-      Replaces ----- start = 29/12/2017 01:00:00 stop = 29/12/2017 03:35:00 title = Американская история ужасов
-      Replaces ----- start = 29/12/2017 03:35:00 stop = 29/12/2017 06:00:00 title = Незваные гости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 03:50:00 stop = 29/12/2017 05:45:00 title = Орел и решка
-      Replaces ----- start = 29/12/2017 03:35:00 stop = 29/12/2017 06:00:00 title = Незваные гости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 05:45:00 stop = 29/12/2017 06:00:00 title = Большие чувства
-      Replaces ----- start = 29/12/2017 03:35:00 stop = 29/12/2017 06:00:00 title = Незваные гости
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 08:05:00 stop = 29/12/2017 10:00:00 title = Орел и решка. Рай и ад
-      Replaces ----- start = 29/12/2017 08:05:00 stop = 29/12/2017 09:50:00 title = Орел и решка. Рай и ад
-      Replaces ----- start = 29/12/2017 09:50:00 stop = 29/12/2017 10:50:00 title = Бедняков+1
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 10:00:00 stop = 29/12/2017 11:00:00 title = Бедняков+1
-      Replaces ----- start = 29/12/2017 09:50:00 stop = 29/12/2017 10:50:00 title = Бедняков+1
-      Replaces ----- start = 29/12/2017 10:50:00 stop = 29/12/2017 13:00:00 title = Орел и решка. Рай и Ад-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 11:00:00 stop = 29/12/2017 19:10:00 title = Орел и решка. Рай и ад
-      Replaces ----- start = 29/12/2017 10:50:00 stop = 29/12/2017 13:00:00 title = Орел и решка. Рай и Ад-2
-      Replaces ----- start = 29/12/2017 13:00:00 stop = 29/12/2017 14:50:00 title = Эльф
-      Replaces ----- start = 29/12/2017 14:50:00 stop = 29/12/2017 16:30:00 title = Подарок на Рождество
-      Replaces ----- start = 29/12/2017 16:30:00 stop = 29/12/2017 19:00:00 title = Семьянин
-      Replaces ----- start = 29/12/2017 19:00:00 stop = 29/12/2017 21:00:00 title = Мошенники
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 19:10:00 stop = 29/12/2017 21:00:00 title = Опасный Бангкок
-      Replaces ----- start = 29/12/2017 19:00:00 stop = 29/12/2017 21:00:00 title = Мошенники
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 21:00:00 stop = 29/12/2017 23:00:00 title = Мальчишник в Вегасе
-      Replaces ----- start = 29/12/2017 21:00:00 stop = 29/12/2017 23:15:00 title = Незваные гости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 23:00:00 stop = 30/12/2017 00:50:00 title = Лузеры
-      Replaces ----- start = 29/12/2017 21:00:00 stop = 29/12/2017 23:15:00 title = Незваные гости
-      Replaces ----- start = 29/12/2017 23:15:00 stop = 30/12/2017 01:10:00 title = Мальчишник в Вегасе
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 00:50:00 stop = 30/12/2017 03:40:00 title = Американская история ужасов
-      Replaces ----- start = 29/12/2017 23:15:00 stop = 30/12/2017 01:10:00 title = Мальчишник в Вегасе
-      Replaces ----- start = 30/12/2017 01:10:00 stop = 30/12/2017 03:55:00 title = Американская история ужасов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 03:40:00 stop = 30/12/2017 05:45:00 title = Сфера
-      Replaces ----- start = 30/12/2017 01:10:00 stop = 30/12/2017 03:55:00 title = Американская история ужасов
-      Replaces ----- start = 30/12/2017 03:55:00 stop = 30/12/2017 06:00:00 title = Сфера
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 05:45:00 stop = 30/12/2017 06:00:00 title = Орел и решка
-      Replaces ----- start = 30/12/2017 03:55:00 stop = 30/12/2017 06:00:00 title = Сфера
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 06:00:00 stop = 30/12/2017 07:40:00 title = Подарок на Рождество
-      Replaces ----- start = 30/12/2017 06:00:00 stop = 30/12/2017 07:00:00 title = Орел и решка. Рай и ад
-      Replaces ----- start = 30/12/2017 07:00:00 stop = 30/12/2017 08:50:00 title = Эльф
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 07:40:00 stop = 30/12/2017 09:30:00 title = Эльф
-      Replaces ----- start = 30/12/2017 07:00:00 stop = 30/12/2017 08:50:00 title = Эльф
-      Replaces ----- start = 30/12/2017 08:50:00 stop = 30/12/2017 10:30:00 title = Мама
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 09:30:00 stop = 30/12/2017 11:00:00 title = Подарок на Рождество
-      Replaces ----- start = 30/12/2017 08:50:00 stop = 30/12/2017 10:30:00 title = Мама
-      Replaces ----- start = 30/12/2017 10:30:00 stop = 30/12/2017 13:30:00 title = Мэри Поппинс, до свидания
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 11:00:00 stop = 30/12/2017 14:00:00 title = Мэри Поппинс, до свидания
-      Replaces ----- start = 30/12/2017 10:30:00 stop = 30/12/2017 13:30:00 title = Мэри Поппинс, до свидания
-      Replaces ----- start = 30/12/2017 13:30:00 stop = 30/12/2017 18:40:00 title = Д'Артаньян и три мушкетера
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 14:00:00 stop = 30/12/2017 19:30:00 title = Д'Артаньян и три мушкетера
-      Replaces ----- start = 30/12/2017 13:30:00 stop = 30/12/2017 18:40:00 title = Д'Артаньян и три мушкетера
-      Replaces ----- start = 30/12/2017 18:40:00 stop = 30/12/2017 20:15:00 title = Подарок на Рождество
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 19:30:00 stop = 30/12/2017 21:10:00 title = Опасный Бангкок
-      Replaces ----- start = 30/12/2017 18:40:00 stop = 30/12/2017 20:15:00 title = Подарок на Рождество
-      Replaces ----- start = 30/12/2017 20:15:00 stop = 30/12/2017 22:15:00 title = Мальчишник в Вегасе
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 21:10:00 stop = 30/12/2017 23:00:00 title = Лузеры
-      Replaces ----- start = 30/12/2017 20:15:00 stop = 30/12/2017 22:15:00 title = Мальчишник в Вегасе
-      Replaces ----- start = 30/12/2017 22:15:00 stop = 31/12/2017 00:30:00 title = Сфера
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 23:00:00 stop = 31/12/2017 01:00:00 title = Мальчишник в Вегасе
-      Replaces ----- start = 30/12/2017 22:15:00 stop = 31/12/2017 00:30:00 title = Сфера
-      Replaces ----- start = 31/12/2017 00:30:00 stop = 31/12/2017 03:20:00 title = Супердискотека 90-х Радио Рекорд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 01:00:00 stop = 31/12/2017 03:00:00 title = Сфера
-      Replaces ----- start = 31/12/2017 00:30:00 stop = 31/12/2017 03:20:00 title = Супердискотека 90-х Радио Рекорд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 03:00:00 stop = 31/12/2017 06:00:00 title = Тот самый Мюнхгаузен
-      Replaces ----- start = 31/12/2017 00:30:00 stop = 31/12/2017 03:20:00 title = Супердискотека 90-х Радио Рекорд
-      Replaces ----- start = 31/12/2017 03:20:00 stop = 31/12/2017 06:00:00 title = Тот самый Мюнхгаузен
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 17:00:00 stop = 31/12/2017 20:50:00 title = Супердискотека 90-х Радио Рекорд
-      Replaces ----- start = 31/12/2017 17:00:00 stop = 31/12/2017 23:55:00 title = Супердискотека 90-х Радио Рекорд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/12/2017 20:50:00 stop = 31/12/2017 23:55:00 title = Супердискотека 90-х Радио Рекорд
-      Replaces ----- start = 31/12/2017 17:00:00 stop = 31/12/2017 23:55:00 title = Супердискотека 90-х Радио Рекорд
-c
+iiiiiiii...................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
       Replaces ----- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
-n
+.
 
 (  16/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii....................................................................................................................c
@@ -925,8 +683,8 @@ iiiiiiii........................................................................
 iiiiiiii.....................................................................................................................................................................................................................
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iiiiii
-Job finished at 26/12/2017 23:02:59 done in 2m 50s
+iiiii
+Job finished at 27/12/2017 11:03:23 done in 3m 13s
 Unhandled Exception
 
 Index was outside the bounds of the array.
