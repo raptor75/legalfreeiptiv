@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 28/12/2017 23:00:08
+Job started at 29/12/2017 11:00:09
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,7 +46,12 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii..................................c
+iiiiiiii........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/12/2017 15:15:00 stop = 29/12/2017 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 29/12/2017 15:15:00 stop = 29/12/2017 16:00:00 title = Давай поженимся!
+.........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 30/12/2017 23:00:00 stop = 31/12/2017 01:30:00 title = Форсаж-7
@@ -56,58 +61,7 @@ iiiiiiii..................................c
  CHANGED show corrected,
       show with ---- start = 01/01/2018 10:15:00 stop = 01/01/2018 10:45:00 title = Новогодний Ералаш
       Replaces ----- start = 01/01/2018 10:15:00 stop = 01/01/2018 10:45:00 title = Новогодний Ералаш
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 10:00:00 stop = 02/01/2018 10:15:00 title = Новости с субтитрами
-      Replaces ----- start = 02/01/2018 10:00:00 stop = 02/01/2018 10:10:00 title = Новости с субтитрами
-      Replaces ----- start = 02/01/2018 10:10:00 stop = 02/01/2018 11:50:00 title = Ледниковый период: Столкновение неизбежно
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 10:15:00 stop = 02/01/2018 11:15:00 title = Морозко
-      Replaces ----- start = 02/01/2018 10:10:00 stop = 02/01/2018 11:50:00 title = Ледниковый период: Столкновение неизбежно
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 11:15:00 stop = 02/01/2018 12:00:00 title = Новогодний Ералаш
-      Replaces ----- start = 02/01/2018 10:10:00 stop = 02/01/2018 11:50:00 title = Ледниковый период: Столкновение неизбежно
-      Replaces ----- start = 02/01/2018 11:50:00 stop = 02/01/2018 12:00:00 title = Новогодний Ералаш
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 12:00:00 stop = 02/01/2018 12:15:00 title = Новости с субтитрами
-      Replaces ----- start = 02/01/2018 12:00:00 stop = 02/01/2018 12:20:00 title = Новости с субтитрами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 12:15:00 stop = 02/01/2018 14:10:00 title = Один дома
-      Replaces ----- start = 02/01/2018 12:00:00 stop = 02/01/2018 12:20:00 title = Новости с субтитрами
-      Replaces ----- start = 02/01/2018 12:20:00 stop = 02/01/2018 13:40:00 title = Морозко
-      Replaces ----- start = 02/01/2018 13:40:00 stop = 02/01/2018 15:40:00 title = Один дома
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 14:10:00 stop = 02/01/2018 16:30:00 title = Один дома-2: Затерянный в Нью-Йорке
-      Replaces ----- start = 02/01/2018 13:40:00 stop = 02/01/2018 15:40:00 title = Один дома
-      Replaces ----- start = 02/01/2018 15:40:00 stop = 02/01/2018 18:00:00 title = Один дома-2: Затерянный в Нью-Йорке
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 16:30:00 stop = 02/01/2018 18:00:00 title = "Кто хочет стать миллионером?" Новогодний выпуск
-      Replaces ----- start = 02/01/2018 15:40:00 stop = 02/01/2018 18:00:00 title = Один дома-2: Затерянный в Нью-Йорке
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 18:00:00 stop = 02/01/2018 18:18:00 title = Вечерние новости с субтитрами
-      Replaces ----- start = 02/01/2018 18:00:00 stop = 02/01/2018 18:15:00 title = Вечерние новости с субтитрами
-      Replaces ----- start = 02/01/2018 18:15:00 stop = 02/01/2018 19:50:00 title = "Кто хочет стать миллионером?" Новогодний выпуск
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 18:18:00 stop = 02/01/2018 19:50:00 title = Ледниковый период: Столкновение неизбежно
-      Replaces ----- start = 02/01/2018 18:15:00 stop = 02/01/2018 19:50:00 title = "Кто хочет стать миллионером?" Новогодний выпуск
-......................c
+................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 03/01/2018 21:20:00 stop = 03/01/2018 23:20:00 title = Сальса
@@ -117,7 +71,12 @@ c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 21:20:00 stop = 04/01/2018 23:25:00 title = Сальса
       Replaces ----- start = 04/01/2018 21:20:00 stop = 04/01/2018 23:25:00 title = Сальса
-.nnnnnnnnnnnnnnnnnnnnn
+....................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 21:20:00 stop = 05/01/2018 23:20:00 title = Сальса
+      Replaces ----- start = 05/01/2018 21:20:00 stop = 05/01/2018 23:20:00 title = Сальса
+.
 
 (   2/24  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii..................c
@@ -135,7 +94,7 @@ iiiiiiii..................c
  CHANGED show corrected,
       show with ---- start = 03/01/2018 13:35:00 stop = 03/01/2018 16:30:00 title = Юмор года
       Replaces ----- start = 03/01/2018 13:35:00 stop = 03/01/2018 16:30:00 title = Юмор года
-.................nnnnnnnnnnnnn
+..............................
 
 (   3/24  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
 iiiiiiii......c
@@ -143,23 +102,7 @@ iiiiiiii......c
  CHANGED show corrected,
       show with ---- start = 29/12/2017 09:00:00 stop = 29/12/2017 11:30:00 title = Хоккей. Чемпионат мира среди молодёжных команд
       Replaces ----- start = 29/12/2017 09:00:00 stop = 29/12/2017 11:30:00 title = Хоккей. Чемпионат мира среди молодёжных команд
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 12:25:00 stop = 29/12/2017 14:25:00 title = Одинокий волк МакКуэйд
-      Replaces ----- start = 29/12/2017 12:25:00 stop = 29/12/2017 14:30:00 title = Одинокий волк МакКуэйд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 14:25:00 stop = 29/12/2017 14:30:00 title = Новости
-      Replaces ----- start = 29/12/2017 12:25:00 stop = 29/12/2017 14:30:00 title = Одинокий волк МакКуэйд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/12/2017 14:30:00 stop = 29/12/2017 15:00:00 title = Специальный репортаж
-      Replaces ----- start = 29/12/2017 14:30:00 stop = 29/12/2017 14:40:00 title = Новости
-      Replaces ----- start = 29/12/2017 14:40:00 stop = 29/12/2017 15:00:00 title = Специальный репортаж
-......c
+...........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 29/12/2017 18:25:00 stop = 29/12/2017 18:55:00 title = Все на футбол!
@@ -334,10 +277,25 @@ c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 22:55:00 stop = 05/01/2018 00:50:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
       Replaces ----- start = 04/01/2018 22:55:00 stop = 05/01/2018 00:50:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
-nnnnnnnnnnnnnnnnnn
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 01:20:00 stop = 05/01/2018 03:10:00 title = Футбол. Чемпионат Англии
+      Replaces ----- start = 05/01/2018 01:20:00 stop = 05/01/2018 03:10:00 title = Футбол. Чемпионат Англии
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 06:30:00 stop = 05/01/2018 08:25:00 title = Профессиональный бокс. Бой за звание регулярного чемпиона WBA в супертяжёлом весе. Трансляция из Германии
+      Replaces ----- start = 05/01/2018 06:30:00 stop = 05/01/2018 08:25:00 title = Профессиональный бокс. Бой за звание регулярного чемпиона WBA в супертяжёлом весе. Трансляция из Германии
+...........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 21:55:00 stop = 05/01/2018 23:50:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
+      Replaces ----- start = 05/01/2018 21:55:00 stop = 05/01/2018 23:50:00 title = Баскетбол. Евролига. Мужчины. Прямая трансляция
+.
 
 (   4/24  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................................................................
 
 (   5/24  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiii....c
@@ -375,30 +333,7 @@ iiiiiiii....c
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
       Replaces ----- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 01:20:00 stop = 01/01/2018 05:15:00 title = Фестиваль Авторадио "Дискотека 80-х"
-      Replaces ----- start = 01/01/2018 01:20:00 stop = 01/01/2018 05:25:00 title = Фестиваль Авторадио "Дискотека 80-х"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 05:15:00 stop = 01/01/2018 06:25:00 title = Новый год на НТВ "The Best" - "Лучшее"
-      Replaces ----- start = 01/01/2018 01:20:00 stop = 01/01/2018 05:25:00 title = Фестиваль Авторадио "Дискотека 80-х"
-      Replaces ----- start = 01/01/2018 05:25:00 stop = 01/01/2018 06:35:00 title = Новый год на НТВ "The Best" - "Лучшее"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 06:25:00 stop = 01/01/2018 08:00:00 title = Со мною вот что происходит
-      Replaces ----- start = 01/01/2018 05:25:00 stop = 01/01/2018 06:35:00 title = Новый год на НТВ "The Best" - "Лучшее"
-      Replaces ----- start = 01/01/2018 06:35:00 stop = 01/01/2018 08:05:00 title = Со мною вот что происходит
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 08:00:00 stop = 01/01/2018 12:00:00 title = Пансионат "Сказка", или Чудеса включены
-      Replaces ----- start = 01/01/2018 06:35:00 stop = 01/01/2018 08:05:00 title = Со мною вот что происходит
-      Replaces ----- start = 01/01/2018 08:05:00 stop = 01/01/2018 12:00:00 title = Пансионат "Сказка", или Чудеса включены
-c
+.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 01/01/2018 12:00:00 stop = 01/01/2018 13:00:00 title = Лотерея "У нас выигрывают!"
@@ -458,7 +393,27 @@ c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 23:30:00 stop = 05/01/2018 01:20:00 title = Концерт памяти Михаила Круга "55"
       Replaces ----- start = 04/01/2018 23:30:00 stop = 05/01/2018 01:20:00 title = Концерт памяти Михаила Круга "55"
-nnnnnnnnnnnnnn
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 02:25:00 stop = 05/01/2018 05:05:00 title = Бальзаковский возраст, или Все мужики сво...
+      Replaces ----- start = 05/01/2018 02:25:00 stop = 05/01/2018 05:05:00 title = Бальзаковский возраст, или Все мужики сво...
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 08:15:00 stop = 05/01/2018 10:00:00 title = Возвращение Мухтара-2
+      Replaces ----- start = 05/01/2018 08:15:00 stop = 05/01/2018 10:00:00 title = Возвращение Мухтара-2
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 10:20:00 stop = 05/01/2018 12:15:00 title = Возвращение Мухтара-2
+      Replaces ----- start = 05/01/2018 10:20:00 stop = 05/01/2018 12:15:00 title = Возвращение Мухтара-2
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 19:20:00 stop = 05/01/2018 23:15:00 title = Пёс
+      Replaces ----- start = 05/01/2018 19:20:00 stop = 05/01/2018 23:15:00 title = Пёс
+.
 
 (   6/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiiiii......................c
@@ -506,7 +461,12 @@ c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 00:00:00 stop = 04/01/2018 01:00:00 title = Дом-2. После заката
       Replaces ----- start = 04/01/2018 00:00:00 stop = 04/01/2018 01:00:00 title = Дом-2. После заката
-......................nnnnnnnnnnnnnnnnnnnnnnnnn
+......................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 00:00:00 stop = 05/01/2018 01:00:00 title = Дом-2. После заката
+      Replaces ----- start = 05/01/2018 00:00:00 stop = 05/01/2018 01:00:00 title = Дом-2. После заката
+........................
 
 (   7/24  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiiiii.........................c
@@ -549,134 +509,22 @@ c
  CHANGED show corrected,
       show with ---- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:30:00 title = Новый год, дети и все-все-все!
       Replaces ----- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:30:00 title = Новый год, дети и все-все-все!
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 09:00:00 stop = 01/01/2018 12:20:00 title = Новый год, дети и все-все-все!
-      Replaces ----- start = 01/01/2018 09:00:00 stop = 01/01/2018 09:25:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 01/01/2018 09:25:00 stop = 01/01/2018 13:55:00 title = Новый год, дети и все-все-все!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 12:20:00 stop = 01/01/2018 14:05:00 title = Гадкий я
-      Replaces ----- start = 01/01/2018 09:25:00 stop = 01/01/2018 13:55:00 title = Новый год, дети и все-все-все!
-      Replaces ----- start = 01/01/2018 13:55:00 stop = 01/01/2018 16:00:00 title = Пэн: Путешествие в Нетландию
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 14:05:00 stop = 01/01/2018 16:00:00 title = Гадкий я-2
-      Replaces ----- start = 01/01/2018 13:55:00 stop = 01/01/2018 16:00:00 title = Пэн: Путешествие в Нетландию
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 16:00:00 stop = 01/01/2018 17:25:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 01/01/2018 16:00:00 stop = 01/01/2018 17:30:00 title = Шоу "Уральских пельменей"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 17:25:00 stop = 01/01/2018 19:10:00 title = Шрек
-      Replaces ----- start = 01/01/2018 16:00:00 stop = 01/01/2018 17:30:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 01/01/2018 17:30:00 stop = 01/01/2018 19:15:00 title = Балерина
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 19:10:00 stop = 01/01/2018 21:00:00 title = Шрэк-2
-      Replaces ----- start = 01/01/2018 17:30:00 stop = 01/01/2018 19:15:00 title = Балерина
-      Replaces ----- start = 01/01/2018 19:15:00 stop = 01/01/2018 21:00:00 title = Шрек
-c
+..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 01/01/2018 21:00:00 stop = 01/01/2018 23:55:00 title = Гарри Поттер и философский камень
       Replaces ----- start = 01/01/2018 21:00:00 stop = 01/01/2018 23:55:00 title = Гарри Поттер и философский камень
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 06:45:00 stop = 02/01/2018 08:30:00 title = Невероятные приключения кота
-      Replaces ----- start = 02/01/2018 06:45:00 stop = 02/01/2018 08:30:00 title = Норм и Несокрушимые
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 08:30:00 stop = 02/01/2018 09:20:00 title = Том и Джерри
-      Replaces ----- start = 02/01/2018 08:30:00 stop = 02/01/2018 09:15:00 title = Том и Джерри
-      Replaces ----- start = 02/01/2018 09:15:00 stop = 02/01/2018 11:20:00 title = Пэн: Путешествие в Нетландию
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 09:20:00 stop = 02/01/2018 11:10:00 title = Гадкий я
-      Replaces ----- start = 02/01/2018 09:15:00 stop = 02/01/2018 11:20:00 title = Пэн: Путешествие в Нетландию
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 11:10:00 stop = 02/01/2018 13:05:00 title = Гадкий я-2
-      Replaces ----- start = 02/01/2018 09:15:00 stop = 02/01/2018 11:20:00 title = Пэн: Путешествие в Нетландию
-      Replaces ----- start = 02/01/2018 11:20:00 stop = 02/01/2018 13:05:00 title = Балерина
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 16:00:00 stop = 02/01/2018 17:30:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 02/01/2018 16:00:00 stop = 02/01/2018 17:25:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 02/01/2018 17:25:00 stop = 02/01/2018 19:10:00 title = Шрек
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 17:30:00 stop = 02/01/2018 19:15:00 title = Шрек-2
-      Replaces ----- start = 02/01/2018 17:25:00 stop = 02/01/2018 19:10:00 title = Шрек
-      Replaces ----- start = 02/01/2018 19:10:00 stop = 02/01/2018 21:00:00 title = Шрек-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 19:15:00 stop = 02/01/2018 21:00:00 title = Шрэк Третий
-      Replaces ----- start = 02/01/2018 19:10:00 stop = 02/01/2018 21:00:00 title = Шрек-2
-c
+.............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/01/2018 21:00:00 stop = 03/01/2018 00:10:00 title = Гарри Поттер и Тайная комната
       Replaces ----- start = 02/01/2018 21:00:00 stop = 03/01/2018 00:10:00 title = Гарри Поттер и Тайная комната
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 06:30:00 stop = 03/01/2018 06:55:00 title = Новаторы
-      Replaces ----- start = 03/01/2018 06:30:00 stop = 03/01/2018 07:00:00 title = Новаторы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 06:55:00 stop = 03/01/2018 08:30:00 title = Губка Боб квадратные штаны
-      Replaces ----- start = 03/01/2018 06:30:00 stop = 03/01/2018 07:00:00 title = Новаторы
-      Replaces ----- start = 03/01/2018 07:00:00 stop = 03/01/2018 08:30:00 title = Лови волну!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 08:30:00 stop = 03/01/2018 09:30:00 title = Том и Джерри
-      Replaces ----- start = 03/01/2018 08:30:00 stop = 03/01/2018 09:55:00 title = Том и Джерри
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 09:30:00 stop = 03/01/2018 11:05:00 title = Кот в сапогах
-      Replaces ----- start = 03/01/2018 08:30:00 stop = 03/01/2018 09:55:00 title = Том и Джерри
-      Replaces ----- start = 03/01/2018 09:55:00 stop = 03/01/2018 11:25:00 title = Стюарт Литтл
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 11:05:00 stop = 03/01/2018 12:55:00 title = Шрэк
-      Replaces ----- start = 03/01/2018 09:55:00 stop = 03/01/2018 11:25:00 title = Стюарт Литтл
-      Replaces ----- start = 03/01/2018 11:25:00 stop = 03/01/2018 12:55:00 title = Стюарт Литтл-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 16:00:00 stop = 03/01/2018 17:35:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 03/01/2018 16:00:00 stop = 03/01/2018 17:30:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 03/01/2018 17:30:00 stop = 03/01/2018 19:15:00 title = Шрек-2
-c
+............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 03/01/2018 17:35:00 stop = 03/01/2018 19:15:00 title = Шрек-3
-      Replaces ----- start = 03/01/2018 17:30:00 stop = 03/01/2018 19:15:00 title = Шрек-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 19:15:00 stop = 03/01/2018 21:00:00 title = Шрэк навсегда
-      Replaces ----- start = 03/01/2018 19:15:00 stop = 03/01/2018 21:00:00 title = Шрек-3
-c
+      Replaces ----- start = 03/01/2018 17:35:00 stop = 03/01/2018 19:15:00 title = Шрек-3
+.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 03/01/2018 21:00:00 stop = 03/01/2018 23:55:00 title = Гарри Поттер и Кубок огня
@@ -685,43 +533,28 @@ c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 04/01/2018 02:20:00 stop = 04/01/2018 04:20:00 title = Красавчик Алфи, или Чего хотят мужчины
-      Replaces ----- start = 04/01/2018 02:20:00 stop = 04/01/2018 03:50:00 title = Стюарт Литтл
-      Replaces ----- start = 04/01/2018 03:50:00 stop = 04/01/2018 05:15:00 title = Стюарт Литтл-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 04:20:00 stop = 04/01/2018 06:00:00 title = Губка Боб квадратные штаны
-      Replaces ----- start = 04/01/2018 03:50:00 stop = 04/01/2018 05:15:00 title = Стюарт Литтл-2
-      Replaces ----- start = 04/01/2018 05:15:00 stop = 04/01/2018 05:50:00 title = Ералаш
-      Replaces ----- start = 04/01/2018 05:50:00 stop = 04/01/2018 06:00:00 title = Музыка на СТС
-.....c
+      Replaces ----- start = 04/01/2018 02:20:00 stop = 04/01/2018 04:20:00 title = Красавчик Алфи, или Чего хотят мужчины
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 04/01/2018 11:10:00 stop = 04/01/2018 13:05:00 title = Дети шпионов-2: Остров несбывшихся надежд
       Replaces ----- start = 04/01/2018 11:10:00 stop = 04/01/2018 13:05:00 title = Дети шпионов-2: Остров несбывшихся надежд
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 16:00:00 stop = 04/01/2018 17:15:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 04/01/2018 16:00:00 stop = 04/01/2018 17:35:00 title = Шоу "Уральских пельменей"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 17:15:00 stop = 04/01/2018 19:00:00 title = Шрек навсегда
-      Replaces ----- start = 04/01/2018 16:00:00 stop = 04/01/2018 17:35:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 04/01/2018 17:35:00 stop = 04/01/2018 19:15:00 title = Шрек-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 19:00:00 stop = 04/01/2018 21:00:00 title = Монстр траки
-      Replaces ----- start = 04/01/2018 17:35:00 stop = 04/01/2018 19:15:00 title = Шрек-3
-      Replaces ----- start = 04/01/2018 19:15:00 stop = 04/01/2018 21:00:00 title = Шрек навсегда
-c
+....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 04/01/2018 21:00:00 stop = 04/01/2018 23:55:00 title = Гарри Поттер и Принц-полукровка
       Replaces ----- start = 04/01/2018 21:00:00 stop = 04/01/2018 23:55:00 title = Гарри Поттер и Принц-полукровка
-.nnnnnnnnnnnnnnnn
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 09:35:00 stop = 05/01/2018 11:30:00 title = Дети шпионов-2: Остров несбывшихся надежд
+      Replaces ----- start = 05/01/2018 09:35:00 stop = 05/01/2018 11:30:00 title = Дети шпионов-2: Остров несбывшихся надежд
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 11:30:00 stop = 05/01/2018 13:05:00 title = Дети шпионов-3: Игра окончена
+      Replaces ----- start = 05/01/2018 11:30:00 stop = 05/01/2018 13:05:00 title = Дети шпионов-3: Игра окончена
+......
 
 (   8/24  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii................................c
@@ -729,136 +562,10 @@ iiiiiiii................................c
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:05:00 title = Новогоднее обращение Президента РФ Владимира Путина
       Replaces ----- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:05:00 title = Новогоднее обращение Президента РФ Владимира Путина
-....................................................nnnnnnnnnnnnnnnnnn
+......................................................................
 
 (   9/24  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii..........................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 05:00:00 stop = 01/01/2018 14:10:00 title = Музыкальный марафон "Легенды Ретро FM"
-      Replaces ----- start = 01/01/2018 05:00:00 stop = 01/01/2018 14:00:00 title = Музыкальный марафон "Легенды Ретро FM"
-      Replaces ----- start = 01/01/2018 14:00:00 stop = 01/01/2018 15:30:00 title = Алеша Попович и Тугарин Змей
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 14:10:00 stop = 01/01/2018 15:40:00 title = Алеша Попович и Тугарин Змей
-      Replaces ----- start = 01/01/2018 14:00:00 stop = 01/01/2018 15:30:00 title = Алеша Попович и Тугарин Змей
-      Replaces ----- start = 01/01/2018 15:30:00 stop = 01/01/2018 16:50:00 title = Добрыня Никитич и Змей Горыныч
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/01/2018 15:40:00 stop = 01/01/2018 16:50:00 title = Добрыня Никитич и Змей Горыныч
-      Replaces ----- start = 01/01/2018 15:30:00 stop = 01/01/2018 16:50:00 title = Добрыня Никитич и Змей Горыныч
-...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 18:30:00 stop = 02/01/2018 19:50:00 title = Три богатыря и Морской царь
-      Replaces ----- start = 02/01/2018 18:30:00 stop = 02/01/2018 20:00:00 title = Три богатыря и Морской царь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 19:50:00 stop = 02/01/2018 21:20:00 title = Алеша Попович и Тугарин Змей
-      Replaces ----- start = 02/01/2018 18:30:00 stop = 02/01/2018 20:00:00 title = Три богатыря и Морской царь
-      Replaces ----- start = 02/01/2018 20:00:00 stop = 02/01/2018 21:20:00 title = Алеша Попович и Тугарин Змей
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/01/2018 22:40:00 stop = 03/01/2018 00:00:00 title = Илья Муромец и Соловей-Разбойник
-      Replaces ----- start = 02/01/2018 22:40:00 stop = 03/01/2018 00:10:00 title = Илья Муромец и Соловей-Разбойник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 00:00:00 stop = 03/01/2018 01:20:00 title = Как поймать перо Жар-Птицы
-      Replaces ----- start = 02/01/2018 22:40:00 stop = 03/01/2018 00:10:00 title = Илья Муромец и Соловей-Разбойник
-      Replaces ----- start = 03/01/2018 00:10:00 stop = 03/01/2018 01:30:00 title = Как поймать перо Жар-Птицы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 01:20:00 stop = 03/01/2018 05:00:00 title = Тайны Чапман
-      Replaces ----- start = 03/01/2018 00:10:00 stop = 03/01/2018 01:30:00 title = Как поймать перо Жар-Птицы
-      Replaces ----- start = 03/01/2018 01:30:00 stop = 03/01/2018 05:00:00 title = Тайны Чапман
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 08:40:00 stop = 03/01/2018 09:50:00 title = Добрыня Никитич и Змей Горыныч
-      Replaces ----- start = 03/01/2018 08:40:00 stop = 03/01/2018 10:00:00 title = Добрыня Никитич и Змей Горыныч
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 09:50:00 stop = 03/01/2018 11:20:00 title = Три богатыря и Шамаханская царица
-      Replaces ----- start = 03/01/2018 08:40:00 stop = 03/01/2018 10:00:00 title = Добрыня Никитич и Змей Горыныч
-      Replaces ----- start = 03/01/2018 10:00:00 stop = 03/01/2018 11:20:00 title = Три богатыря и Шамаханская царица
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 11:20:00 stop = 03/01/2018 12:40:00 title = Три богатыря на дальних берегах
-      Replaces ----- start = 03/01/2018 11:20:00 stop = 03/01/2018 12:45:00 title = Три богатыря на дальних берегах
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 12:40:00 stop = 03/01/2018 14:00:00 title = Три богатыря: Ход конем
-      Replaces ----- start = 03/01/2018 11:20:00 stop = 03/01/2018 12:45:00 title = Три богатыря на дальних берегах
-      Replaces ----- start = 03/01/2018 12:45:00 stop = 03/01/2018 14:10:00 title = Три богатыря: Ход конем
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 14:00:00 stop = 03/01/2018 15:20:00 title = Три богатыря и Морской царь
-      Replaces ----- start = 03/01/2018 12:45:00 stop = 03/01/2018 14:10:00 title = Три богатыря: Ход конем
-      Replaces ----- start = 03/01/2018 14:10:00 stop = 03/01/2018 15:30:00 title = Три богатыря и Морской царь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 15:20:00 stop = 03/01/2018 17:00:00 title = Иван Царевич и Серый Волк
-      Replaces ----- start = 03/01/2018 14:10:00 stop = 03/01/2018 15:30:00 title = Три богатыря и Морской царь
-      Replaces ----- start = 03/01/2018 15:30:00 stop = 03/01/2018 17:10:00 title = Иван Царевич и Серый Волк
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 17:00:00 stop = 03/01/2018 18:20:00 title = Иван Царевич и Серый Волк-2
-      Replaces ----- start = 03/01/2018 15:30:00 stop = 03/01/2018 17:10:00 title = Иван Царевич и Серый Волк
-      Replaces ----- start = 03/01/2018 17:10:00 stop = 03/01/2018 18:30:00 title = Иван Царевич и Серый Волк-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 18:20:00 stop = 03/01/2018 19:45:00 title = Иван Царевич и Серый волк-3
-      Replaces ----- start = 03/01/2018 17:10:00 stop = 03/01/2018 18:30:00 title = Иван Царевич и Серый Волк-2
-      Replaces ----- start = 03/01/2018 18:30:00 stop = 03/01/2018 20:00:00 title = Иван Царевич и Серый волк-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 19:45:00 stop = 03/01/2018 21:40:00 title = Брат
-      Replaces ----- start = 03/01/2018 18:30:00 stop = 03/01/2018 20:00:00 title = Иван Царевич и Серый волк-3
-      Replaces ----- start = 03/01/2018 20:00:00 stop = 03/01/2018 22:00:00 title = Брат
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/01/2018 21:40:00 stop = 04/01/2018 00:00:00 title = Брат-2
-      Replaces ----- start = 03/01/2018 20:00:00 stop = 03/01/2018 22:00:00 title = Брат
-      Replaces ----- start = 03/01/2018 22:00:00 stop = 04/01/2018 00:20:00 title = Брат-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 00:00:00 stop = 04/01/2018 01:40:00 title = Сестры
-      Replaces ----- start = 03/01/2018 22:00:00 stop = 04/01/2018 00:20:00 title = Брат-2
-      Replaces ----- start = 04/01/2018 00:20:00 stop = 04/01/2018 02:00:00 title = Сестры
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 01:40:00 stop = 04/01/2018 03:40:00 title = Мне не больно
-      Replaces ----- start = 04/01/2018 00:20:00 stop = 04/01/2018 02:00:00 title = Сестры
-      Replaces ----- start = 04/01/2018 02:00:00 stop = 04/01/2018 04:00:00 title = Мне не больно
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 03:40:00 stop = 04/01/2018 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-      Replaces ----- start = 04/01/2018 02:00:00 stop = 04/01/2018 04:00:00 title = Мне не больно
-      Replaces ----- start = 04/01/2018 04:00:00 stop = 04/01/2018 05:00:00 title = "Территория заблуждений" с Игорем Прокопенко
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 04/01/2018 10:00:00 stop = 05/01/2018 01:00:00 title = Русские булки с Игорем Прокопенко
-      Replaces ----- start = 04/01/2018 10:00:00 stop = 05/01/2018 00:00:00 title = Русские булки с Игорем Прокопенко
-nnnnnnnnnnnn
+iiiiiiii.................................................................................................
 
 (  10/24  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
 iiiiiiii............................................c
@@ -906,7 +613,7 @@ iiiiiiii............................................c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 19:30:00 stop = 04/01/2018 21:30:00 title = Тайны дворцовых переворотов. Россия, век XVIII
       Replaces ----- start = 04/01/2018 19:30:00 stop = 04/01/2018 21:30:00 title = Тайны дворцовых переворотов. Россия, век XVIII
-.nnnnnnnnnnnnnnnn
+.................
 
 (  11/24  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii.....c
@@ -929,7 +636,17 @@ c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 22:00:00 stop = 04/01/2018 23:00:00 title = Секретные материалы
       Replaces ----- start = 04/01/2018 22:00:00 stop = 04/01/2018 23:00:00 title = Секретные материалы
-.nnnnnnnnnnnnnnnnn
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 01:15:00 stop = 05/01/2018 02:15:00 title = Тайные знаки
+      Replaces ----- start = 05/01/2018 01:15:00 stop = 05/01/2018 02:15:00 title = Тайные знаки
+...........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 15:45:00 stop = 05/01/2018 16:45:00 title = Секретные материалы
+      Replaces ----- start = 05/01/2018 15:45:00 stop = 05/01/2018 16:45:00 title = Секретные материалы
+....
 
 (  12/24  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
 iiiiiiii.............................c
@@ -937,7 +654,7 @@ iiiiiiii.............................c
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:05:00 title = Новогоднее обращение Президента РФ Владимира Путина
       Replaces ----- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:05:00 title = Новогоднее обращение Президента РФ Владимира Путина
-........................nnnnnnn
+...............................
 
 (  13/24  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
 iiiiiiii.................c
@@ -950,7 +667,7 @@ iiiiiiii.................c
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
       Replaces ----- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
-.................................................................nnnnnnnnnnnnnnnnnnnn
+.....................................................................................
 
 (  14/24  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii.........................................................................................c
@@ -983,7 +700,7 @@ c
  CHANGED show corrected,
       show with ---- start = 03/01/2018 20:50:00 stop = 03/01/2018 21:55:00 title = Мама будет против!
       Replaces ----- start = 03/01/2018 20:50:00 stop = 03/01/2018 21:55:00 title = Мама будет против!
-.........................nnnnnnnnnnnnnnnnnnnnnnnn
+.................................................
 
 (  15/24  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiiiii...........................c
@@ -996,7 +713,7 @@ iiiiiiii...........................c
  CHANGED show corrected,
       show with ---- start = 01/01/2018 05:00:00 stop = 01/01/2018 09:00:00 title = Супердискотека 90-х Радио Рекорд
       Replaces ----- start = 01/01/2018 05:00:00 stop = 01/01/2018 09:00:00 title = Супердискотека 90-х Радио Рекорд
-...........................nnnnn
+................................
 
 (  16/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii..................................c
@@ -1014,15 +731,10 @@ iiiiiiii..................................c
  CHANGED show corrected,
       show with ---- start = 01/01/2018 05:00:00 stop = 01/01/2018 06:00:00 title = Не спать!
       Replaces ----- start = 01/01/2018 05:00:00 stop = 01/01/2018 06:00:00 title = Не спать!
-.............................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+........................................................................................................................................................................
 
 (  17/24  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/12/2017 05:25:00 stop = 30/12/2017 06:10:00 title = Кашира. Южный рубеж
-      Replaces ----- start = 30/12/2017 05:25:00 stop = 30/12/2017 06:10:00 title = Москва фронту
-.....c
+iiiiiiii.......................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 30/12/2017 10:30:00 stop = 30/12/2017 11:00:00 title = Не факт!
@@ -1072,7 +784,17 @@ c
  CHANGED show corrected,
       show with ---- start = 04/01/2018 18:15:00 stop = 04/01/2018 22:00:00 title = Государственная граница
       Replaces ----- start = 04/01/2018 18:15:00 stop = 04/01/2018 22:00:00 title = Государственная граница
-.nnnnnnnnnnnnnnnnnnnnnn
+...................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 16:00:00 stop = 05/01/2018 18:00:00 title = Государственная граница
+      Replaces ----- start = 05/01/2018 16:00:00 stop = 05/01/2018 18:00:00 title = Государственная граница
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/01/2018 18:15:00 stop = 05/01/2018 22:00:00 title = Государственная граница
+      Replaces ----- start = 05/01/2018 18:15:00 stop = 05/01/2018 22:00:00 title = Государственная граница
+.
 
 (  18/24  ) S-TV.RU -- chan. (xmltv_id=Москва-24) -- mode Incremental
 iiiiiiii.................................................................................................................................................................................c
@@ -1080,31 +802,36 @@ iiiiiiii........................................................................
  CHANGED show corrected,
       show with ---- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
       Replaces ----- start = 31/12/2017 23:55:00 stop = 01/01/2018 00:00:00 title = Новогоднее обращение Президента РФ Владимира Путина
-.......................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+...........................................................................................................................................................................................................................................................................................................................................
 
 (  19/24  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.................................................c
+iiiiiiii................................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/01/2018 02:10:00 stop = 01/01/2018 04:15:00 title = Концерт "Песенка под елочку"
+      show with ---- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:10:00 title = Концерт "Песенка под елочку"
+      Replaces ----- start = 01/01/2018 00:00:00 stop = 01/01/2018 02:10:00 title = Концерт "Лейся песня"
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/01/2018 02:10:00 stop = 01/01/2018 04:15:00 title = Концерт "Лейся, песня!"
       Replaces ----- start = 01/01/2018 02:10:00 stop = 01/01/2018 04:15:00 title = Концерт "Песенка под елочку"
-.........................................................nnnnnnnnnnnnnnnn
+.........................................................................
 
 (  20/24  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii.............................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.............................................................................................................................................................................................................................................................................
 
 (  21/24  ) TV.MAIL.RU -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 
 (  22/24  ) TV.MAIL.RU -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii.................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii................................................................................................................................
 
 (  23/24  ) TV.MAIL.RU -- chan. (xmltv_id=Russia Today) -- mode Incremental
-iiiiiiii.....................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii......................................................................................................................................................................................................................................................................................................................................................................................
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iiii
-Job finished at 28/12/2017 23:11:16 done in 11m 7s
+iii
+Job finished at 29/12/2017 11:03:42 done in 3m 32s
 Unhandled Exception
 
 Index was outside the bounds of the array.
