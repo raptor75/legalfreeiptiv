@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 09/01/2018 23:00:06
+Job started at 10/01/2018 11:00:49
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
@@ -46,7 +46,22 @@ Found existing channel (xmltv_id=Russia Today Documentary) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...............c
+iiiiiiii......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/01/2018 12:15:00 stop = 10/01/2018 13:15:00 title = Наедине со всеми
+      Replaces ----- start = 10/01/2018 12:15:00 stop = 10/01/2018 15:00:00 title = Время покажет
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/01/2018 13:15:00 stop = 10/01/2018 15:00:00 title = Время покажет
+      Replaces ----- start = 10/01/2018 12:15:00 stop = 10/01/2018 15:00:00 title = Время покажет
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/01/2018 15:15:00 stop = 10/01/2018 16:00:00 title = Давай поженимся!
+      Replaces ----- start = 10/01/2018 15:15:00 stop = 10/01/2018 16:00:00 title = Давай поженимся!
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 10/01/2018 21:35:00 stop = 10/01/2018 23:40:00 title = Сальса
@@ -66,24 +81,7 @@ iiiiiiii...............c
  CHANGED show corrected,
       show with ---- start = 14/01/2018 11:30:00 stop = 14/01/2018 12:00:00 title = Дорогая переДача
       Replaces ----- start = 14/01/2018 11:30:00 stop = 14/01/2018 12:00:00 title = Дорогая переДача
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 12:15:00 stop = 14/01/2018 13:05:00 title = Теория заговора
-      Replaces ----- start = 14/01/2018 12:15:00 stop = 14/01/2018 13:00:00 title = Теория заговора
-      Replaces ----- start = 14/01/2018 13:00:00 stop = 14/01/2018 14:35:00 title = Премьера. Ледовое шоу "Руслан и Людмила"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 13:05:00 stop = 14/01/2018 15:00:00 title = Премьера. Ледовое шоу "Руслан и Людмила"
-      Replaces ----- start = 14/01/2018 13:00:00 stop = 14/01/2018 14:35:00 title = Премьера. Ледовое шоу "Руслан и Людмила"
-      Replaces ----- start = 14/01/2018 14:35:00 stop = 14/01/2018 17:30:00 title = "Точь-в-точь". Новогодний выпуск
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 15:00:00 stop = 14/01/2018 17:30:00 title = "Точь-в-точь". Новогодний выпуск
-      Replaces ----- start = 14/01/2018 14:35:00 stop = 14/01/2018 17:30:00 title = "Точь-в-точь". Новогодний выпуск
-c
+....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/01/2018 17:30:00 stop = 14/01/2018 19:30:00 title = Русский ниндзя
@@ -699,112 +697,26 @@ c
  CHANGED show corrected,
       show with ---- start = 14/01/2018 04:15:00 stop = 14/01/2018 05:00:00 title = Опера. Хроники убойного отдела
       Replaces ----- start = 14/01/2018 04:15:00 stop = 14/01/2018 05:00:00 title = Опера. Хроники убойного отдела
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 10:00:00 stop = 14/01/2018 11:00:00 title = Моя правда
-      Replaces ----- start = 14/01/2018 10:00:00 stop = 14/01/2018 10:50:00 title = "Истории из будущего" с Михаилом Ковальчуком
-      Replaces ----- start = 14/01/2018 10:50:00 stop = 14/01/2018 11:50:00 title = Моя правда. Татьяна Догилева
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 11:00:00 stop = 14/01/2018 11:55:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 10:50:00 stop = 14/01/2018 11:50:00 title = Моя правда. Татьяна Догилева
-      Replaces ----- start = 14/01/2018 11:50:00 stop = 14/01/2018 12:40:00 title = Партия для чемпионки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 11:55:00 stop = 14/01/2018 12:45:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 11:50:00 stop = 14/01/2018 12:40:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 12:40:00 stop = 14/01/2018 13:35:00 title = Партия для чемпионки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 12:45:00 stop = 14/01/2018 13:40:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 12:40:00 stop = 14/01/2018 13:35:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 13:35:00 stop = 14/01/2018 14:25:00 title = Партия для чемпионки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 13:40:00 stop = 14/01/2018 14:30:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 13:35:00 stop = 14/01/2018 14:25:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 14:25:00 stop = 14/01/2018 15:20:00 title = Партия для чемпионки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 14:30:00 stop = 14/01/2018 15:25:00 title = Всегда говори "всегда"
-      Replaces ----- start = 14/01/2018 14:25:00 stop = 14/01/2018 15:20:00 title = Партия для чемпионки
-      Replaces ----- start = 14/01/2018 15:20:00 stop = 14/01/2018 16:15:00 title = Всегда говори "всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 15:25:00 stop = 14/01/2018 16:15:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 15:20:00 stop = 14/01/2018 16:15:00 title = Всегда говори "всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 16:15:00 stop = 14/01/2018 17:15:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 16:15:00 stop = 14/01/2018 17:05:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 17:05:00 stop = 14/01/2018 18:05:00 title = Всегда говори "Всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 17:15:00 stop = 14/01/2018 18:05:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 17:05:00 stop = 14/01/2018 18:05:00 title = Всегда говори "Всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 18:05:00 stop = 14/01/2018 19:05:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 18:05:00 stop = 14/01/2018 19:00:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 19:00:00 stop = 14/01/2018 19:55:00 title = Всегда говори "Всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 19:05:00 stop = 14/01/2018 20:00:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 19:00:00 stop = 14/01/2018 19:55:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 19:55:00 stop = 14/01/2018 20:50:00 title = Всегда говори "Всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 20:00:00 stop = 14/01/2018 20:55:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 19:55:00 stop = 14/01/2018 20:50:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 20:50:00 stop = 14/01/2018 21:45:00 title = Всегда говори "Всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 20:55:00 stop = 14/01/2018 21:50:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 20:50:00 stop = 14/01/2018 21:45:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 21:45:00 stop = 14/01/2018 22:40:00 title = Всегда говори "Всегда"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/01/2018 21:50:00 stop = 14/01/2018 23:30:00 title = Моя мама - Снегурочка
-      Replaces ----- start = 14/01/2018 21:45:00 stop = 14/01/2018 22:40:00 title = Всегда говори "Всегда"
-      Replaces ----- start = 14/01/2018 22:40:00 stop = 15/01/2018 00:25:00 title = Моя мама - Снегурочка
-c
+..................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/01/2018 23:30:00 stop = 15/01/2018 01:30:00 title = Ягуар
-      Replaces ----- start = 14/01/2018 22:40:00 stop = 15/01/2018 00:25:00 title = Моя мама - Снегурочка
-      Replaces ----- start = 15/01/2018 00:25:00 stop = 15/01/2018 01:20:00 title = Опера. Хроники убойного отдела
-      Replaces ----- start = 15/01/2018 01:20:00 stop = 15/01/2018 02:15:00 title = Опера. Хроники убойного отдела
+      Replaces ----- start = 14/01/2018 23:30:00 stop = 15/01/2018 01:30:00 title = Ягуар
 c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/01/2018 01:30:00 stop = 15/01/2018 02:20:00 title = Опера. Хроники убойного отдела
-      Replaces ----- start = 15/01/2018 01:20:00 stop = 15/01/2018 02:15:00 title = Опера. Хроники убойного отдела
-      Replaces ----- start = 15/01/2018 02:15:00 stop = 15/01/2018 03:10:00 title = Опера. Хроники убойного отдела
+      Replaces ----- start = 15/01/2018 01:30:00 stop = 15/01/2018 02:20:00 title = Опера. Хроники убойного отдела
 c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/01/2018 02:20:00 stop = 15/01/2018 03:15:00 title = Опера. Хроники убойного отдела
-      Replaces ----- start = 15/01/2018 02:15:00 stop = 15/01/2018 03:10:00 title = Опера. Хроники убойного отдела
-      Replaces ----- start = 15/01/2018 03:10:00 stop = 15/01/2018 04:05:00 title = Опера. Хроники убойного отдела
+      Replaces ----- start = 15/01/2018 02:20:00 stop = 15/01/2018 03:15:00 title = Опера. Хроники убойного отдела
 c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/01/2018 03:15:00 stop = 15/01/2018 04:05:00 title = Опера. Хроники убойного отдела
-      Replaces ----- start = 15/01/2018 03:10:00 stop = 15/01/2018 04:05:00 title = Опера. Хроники убойного отдела
+      Replaces ----- start = 15/01/2018 03:15:00 stop = 15/01/2018 04:05:00 title = Опера. Хроники убойного отдела
 
 (  14/24  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii...................c
@@ -912,8 +824,8 @@ iiiiiiii........................................................................
 iiiiiiii.....................................................................................................................................................................................................................
 
 (  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iiiiii
-Job finished at 09/01/2018 23:03:05 done in 2m 59s
+iiiii
+Job finished at 10/01/2018 11:03:48 done in 2m 58s
 Unhandled Exception
 
 Index was outside the bounds of the array.
