@@ -7,10 +7,11 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 09/02/2018 16:55:46
+Job started at 09/02/2018 17:02:52
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tv.mail.ru.ini -- Revision 01
-found: /data/epg/.wg++/siteini.pack/Russia/tvportal.rs.ini -- Revision 00
+timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
+found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
 processing /data/legalfreeiptv/guide.xml ...
 Found existing channel (xmltv_id=Первый) in the config file
 Found existing channel (xmltv_id=Россия 1) in the config file
@@ -35,16 +36,17 @@ Found existing channel (xmltv_id=РБК) in the config file
 Found existing channel (xmltv_id=Fashion TV) in the config file
 Found existing channel (xmltv_id=Ru.TV) in the config file
 Found existing channel (xmltv_id=Russia Today) in the config file
-Found existing channel (xmltv_id=Russia Today Documentary) in the config file
-..........................
+Found existing channel (xmltv_id=Olympics Live) in the config file
+Found existing channel (xmltv_id=Olympics Live Hi) in the config file
+...........................
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
 
 
 Group (0) :
-update requested for - 24 - out of - 24 - channels for 8 day(s)
-(   1/24  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
+update requested for - 25 - out of - 25 - channels for 8 day(s)
+(   1/25  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiiiii........c
    epg correction : 
  CHANGED show corrected,
@@ -73,14 +75,21 @@ iiiiiiii........c
 ..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 11/02/2018 13:20:00 stop = 11/02/2018 17:15:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Биатлон. Мужчины. 10 км. Спринт. Фристайл. Женщины. Могул. Финал
+      show with ---- start = 11/02/2018 13:20:00 stop = 11/02/2018 17:10:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Биатлон. Мужчины. 10 км. Спринт. Фристайл. Женщины. Могул. Финал
       Replaces ----- start = 11/02/2018 13:20:00 stop = 11/02/2018 17:15:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Биатлон. Мужчины. 10 км. Спринт. Фристайл. Женщины. Могул. Финал
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 11/02/2018 17:15:00 stop = 11/02/2018 19:10:00 title = Я могу!
+      show with ---- start = 11/02/2018 17:10:00 stop = 11/02/2018 19:05:00 title = Я могу!
+      Replaces ----- start = 11/02/2018 13:20:00 stop = 11/02/2018 17:15:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Биатлон. Мужчины. 10 км. Спринт. Фристайл. Женщины. Могул. Финал
       Replaces ----- start = 11/02/2018 17:15:00 stop = 11/02/2018 19:10:00 title = Я могу!
-.......................c
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 11/02/2018 19:05:00 stop = 11/02/2018 21:00:00 title = Звезды под гипнозом
+      Replaces ----- start = 11/02/2018 17:15:00 stop = 11/02/2018 19:10:00 title = Я могу!
+      Replaces ----- start = 11/02/2018 19:10:00 stop = 11/02/2018 21:00:00 title = Звезды под гипнозом
+......................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/02/2018 22:30:00 stop = 12/02/2018 23:35:00 title = Путин
@@ -117,7 +126,7 @@ c
       Replaces ----- start = 16/02/2018 14:30:00 stop = 16/02/2018 15:45:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Конькобежный спорт. Женщины. 5000 м. Фристайл. Женщины. Акробатика. Финал
 .........
 
-(   2/24  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
+(   2/25  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
@@ -185,7 +194,7 @@ c
       Replaces ----- start = 16/02/2018 02:20:00 stop = 16/02/2018 04:00:00 title = Поцелуйте невесту!
 ..................
 
-(   3/24  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
+(   3/25  ) S-TV.RU -- chan. (xmltv_id=МАТЧ!) -- mode Incremental
 iiiiiiii...c
    epg correction : 
  CHANGED show corrected,
@@ -271,29 +280,12 @@ c
  CHANGED show corrected,
       show with ---- start = 11/02/2018 09:30:00 stop = 11/02/2018 11:30:00 title = Футбол. Чемпионат Италии
       Replaces ----- start = 11/02/2018 09:30:00 stop = 11/02/2018 11:30:00 title = Футбол. Чемпионат Италии
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 13:45:00 stop = 11/02/2018 15:00:00 title = XXIII Зимние Олимпийские игры. Трансляция из Кореи
-      Replaces ----- start = 11/02/2018 13:45:00 stop = 11/02/2018 17:00:00 title = XXIII Зимние Олимпийские игры. Трансляция из Кореи
-c
+.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 11/02/2018 15:00:00 stop = 11/02/2018 17:30:00 title = XXIII Зимние Олимпийские игры. Хоккей. Женщины. Прямая трансляция из Кореи
-      Replaces ----- start = 11/02/2018 13:45:00 stop = 11/02/2018 17:00:00 title = XXIII Зимние Олимпийские игры. Трансляция из Кореи
-      Replaces ----- start = 11/02/2018 17:00:00 stop = 11/02/2018 17:10:00 title = Новости
-      Replaces ----- start = 11/02/2018 17:10:00 stop = 11/02/2018 18:10:00 title = Все на Матч!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 17:30:00 stop = 11/02/2018 17:40:00 title = Новости
-      Replaces ----- start = 11/02/2018 17:10:00 stop = 11/02/2018 18:10:00 title = Все на Матч!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 17:40:00 stop = 11/02/2018 18:10:00 title = Все на Матч!
-      Replaces ----- start = 11/02/2018 17:10:00 stop = 11/02/2018 18:10:00 title = Все на Матч!
-c
+      Replaces ----- start = 11/02/2018 15:00:00 stop = 11/02/2018 17:30:00 title = XXIII Зимние Олимпийские игры. Хоккей. Женщины. Прямая трансляция из Кореи
+..c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 11/02/2018 18:10:00 stop = 11/02/2018 20:10:00 title = Футбол. Чемпионат Испании. Прямая трансляция
@@ -415,10 +407,10 @@ c
       Replaces ----- start = 16/02/2018 22:30:00 stop = 16/02/2018 23:00:00 title = Все на футбол!
 ..
 
-(   4/24  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+(   4/25  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
 iiiiiiii...............................................................................................................................................................................................................................................................................................................................................................................................
 
-(   5/24  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+(   5/25  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiii....c
    epg correction : 
  CHANGED show corrected,
@@ -585,7 +577,7 @@ c
       show with ---- start = 16/02/2018 19:40:00 stop = 17/02/2018 00:00:00 title = Невский. Проверка на прочность
       Replaces ----- start = 16/02/2018 19:40:00 stop = 17/02/2018 00:00:00 title = Невский. Проверка на прочность
 
-(   6/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
+(   6/25  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiiiii...........................c
    epg correction : 
  CHANGED show corrected,
@@ -641,38 +633,14 @@ c
  CHANGED show corrected,
       show with ---- start = 16/02/2018 00:00:00 stop = 16/02/2018 01:00:00 title = Дом-2. После заката
       Replaces ----- start = 16/02/2018 00:00:00 stop = 16/02/2018 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 01:00:00 stop = 16/02/2018 03:20:00 title = Держи ритм
-      Replaces ----- start = 16/02/2018 01:00:00 stop = 16/02/2018 02:55:00 title = Поворот не туда-4: Кровавое начало
-      Replaces ----- start = 16/02/2018 02:55:00 stop = 16/02/2018 03:00:00 title = ТНТ-Club
-      Replaces ----- start = 16/02/2018 03:00:00 stop = 16/02/2018 04:00:00 title = Импровизация
-c
+.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/02/2018 03:20:00 stop = 16/02/2018 03:25:00 title = ТНТ-Club
-      Replaces ----- start = 16/02/2018 03:00:00 stop = 16/02/2018 04:00:00 title = Импровизация
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 03:25:00 stop = 16/02/2018 04:20:00 title = Импровизация
-      Replaces ----- start = 16/02/2018 03:00:00 stop = 16/02/2018 04:00:00 title = Импровизация
-      Replaces ----- start = 16/02/2018 04:00:00 stop = 16/02/2018 05:00:00 title = Импровизация
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 04:20:00 stop = 16/02/2018 05:20:00 title = Импровизация
-      Replaces ----- start = 16/02/2018 04:00:00 stop = 16/02/2018 05:00:00 title = Импровизация
-      Replaces ----- start = 16/02/2018 05:00:00 stop = 16/02/2018 06:00:00 title = Comedy Woman
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 05:20:00 stop = 16/02/2018 06:00:00 title = Comedy Woman
-      Replaces ----- start = 16/02/2018 05:00:00 stop = 16/02/2018 06:00:00 title = Comedy Woman
-.............................
+      Replaces ----- start = 16/02/2018 03:20:00 stop = 16/02/2018 03:25:00 title = ТНТ-Club
+................................
 
-(   7/24  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+(   7/25  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
@@ -740,18 +708,8 @@ iiiiiiii..........c
       Replaces ----- start = 16/02/2018 15:00:00 stop = 16/02/2018 16:00:00 title = Супермамочка
 .....
 
-(   8/24  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii.............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 00:30:00 stop = 12/02/2018 02:15:00 title = О чем молчат девушки
-      Replaces ----- start = 12/02/2018 00:30:00 stop = 12/02/2018 04:10:00 title = Поцелуй судьбы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 02:15:00 stop = 12/02/2018 04:10:00 title = Леди и разбойник
-      Replaces ----- start = 12/02/2018 00:30:00 stop = 12/02/2018 04:10:00 title = Поцелуй судьбы
-.....c
+(   8/25  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii....................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/02/2018 09:25:00 stop = 12/02/2018 11:20:00 title = Давай разведёмся!
@@ -773,10 +731,10 @@ c
       Replaces ----- start = 15/02/2018 09:25:00 stop = 15/02/2018 11:20:00 title = Давай разведёмся!
 .....................
 
-(   9/24  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+(   9/25  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 iiiiiiii...........................................................................................................................................................
 
-(  10/24  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
+(  10/25  ) S-TV.RU -- chan. (xmltv_id=Общественное телевидение России) -- mode Incremental
 iiiiiiii....c
    epg correction : 
  CHANGED show corrected,
@@ -794,7 +752,7 @@ iiiiiiii....c
       Replaces ----- start = 11/02/2018 07:30:00 stop = 11/02/2018 08:00:00 title = Дом "Э"
 ...................................................................................................................................................................................
 
-(  11/24  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+(  11/25  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
@@ -872,7 +830,7 @@ c
       Replaces ----- start = 16/02/2018 12:30:00 stop = 16/02/2018 13:30:00 title = Не ври мне!
 ............
 
-(  12/24  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
+(  12/25  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
 iiiiiiii.......c
    epg correction : 
  CHANGED show corrected,
@@ -889,7 +847,7 @@ iiiiiiii.......c
       show with ---- start = 16/02/2018 21:40:00 stop = 17/02/2018 00:20:00 title = Терминатор-2: Судный день
       Replaces ----- start = 16/02/2018 21:40:00 stop = 17/02/2018 00:20:00 title = Терминатор-2: Судный день
 
-(  13/24  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
+(  13/25  ) S-TV.RU -- chan. (xmltv_id=5 канал) -- mode Incremental
 iiiiiiii...........c
    epg correction : 
  CHANGED show corrected,
@@ -920,631 +878,9 @@ c
  CHANGED show corrected,
       show with ---- start = 12/02/2018 04:00:00 stop = 12/02/2018 05:00:00 title = Улицы разбитых фонарей
       Replaces ----- start = 12/02/2018 04:00:00 stop = 12/02/2018 05:00:00 title = Улицы разбитых фонарей
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 05:10:00 stop = 12/02/2018 06:10:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 05:10:00 stop = 12/02/2018 05:20:00 title = Кентервильское привидение
-      Replaces ----- start = 12/02/2018 05:20:00 stop = 12/02/2018 06:20:00 title = Мужская работа-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 06:10:00 stop = 12/02/2018 07:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 05:20:00 stop = 12/02/2018 06:20:00 title = Мужская работа-2
-      Replaces ----- start = 12/02/2018 06:20:00 stop = 12/02/2018 07:10:00 title = Мужская работа-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 07:05:00 stop = 12/02/2018 08:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 06:20:00 stop = 12/02/2018 07:10:00 title = Мужская работа-2
-      Replaces ----- start = 12/02/2018 07:10:00 stop = 12/02/2018 08:05:00 title = Мужская работа-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 08:00:00 stop = 12/02/2018 09:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 07:10:00 stop = 12/02/2018 08:05:00 title = Мужская работа-2
-      Replaces ----- start = 12/02/2018 08:05:00 stop = 12/02/2018 09:00:00 title = Мужская работа-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 09:25:00 stop = 12/02/2018 10:20:00 title = В июне 1941-го
-      Replaces ----- start = 12/02/2018 09:25:00 stop = 12/02/2018 10:20:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 10:20:00 stop = 12/02/2018 11:10:00 title = В июне 1941-го
-      Replaces ----- start = 12/02/2018 10:20:00 stop = 12/02/2018 11:10:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 11:10:00 stop = 12/02/2018 12:05:00 title = В июне 1941-го
-      Replaces ----- start = 12/02/2018 11:10:00 stop = 12/02/2018 12:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 12:05:00 stop = 12/02/2018 13:00:00 title = В июне 1941-го
-      Replaces ----- start = 12/02/2018 12:05:00 stop = 12/02/2018 13:00:00 title = Агент национальной безопасности
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 13:25:00 stop = 12/02/2018 14:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 13:25:00 stop = 12/02/2018 14:20:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 14:20:00 stop = 12/02/2018 15:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 14:20:00 stop = 12/02/2018 15:15:00 title = Агент национальной безопасности
-      Replaces ----- start = 12/02/2018 15:15:00 stop = 12/02/2018 16:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 15:20:00 stop = 12/02/2018 16:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 15:15:00 stop = 12/02/2018 16:05:00 title = Агент национальной безопасности
-      Replaces ----- start = 12/02/2018 16:05:00 stop = 12/02/2018 16:45:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 16:20:00 stop = 12/02/2018 17:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 12/02/2018 16:05:00 stop = 12/02/2018 16:45:00 title = Детективы
-      Replaces ----- start = 12/02/2018 16:45:00 stop = 12/02/2018 17:20:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 17:20:00 stop = 12/02/2018 18:00:00 title = Детективы
-      Replaces ----- start = 12/02/2018 17:20:00 stop = 12/02/2018 17:50:00 title = Детективы
-      Replaces ----- start = 12/02/2018 17:50:00 stop = 12/02/2018 18:40:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 18:00:00 stop = 12/02/2018 18:40:00 title = Детективы
-      Replaces ----- start = 12/02/2018 17:50:00 stop = 12/02/2018 18:40:00 title = След
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 20:20:00 stop = 12/02/2018 21:10:00 title = След
-      Replaces ----- start = 12/02/2018 20:20:00 stop = 12/02/2018 21:05:00 title = След
-      Replaces ----- start = 12/02/2018 21:05:00 stop = 12/02/2018 22:00:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/02/2018 21:10:00 stop = 12/02/2018 22:00:00 title = След
-      Replaces ----- start = 12/02/2018 21:05:00 stop = 12/02/2018 22:00:00 title = След
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 00:30:00 stop = 13/02/2018 01:25:00 title = Хозяйка тайги
-      Replaces ----- start = 13/02/2018 00:30:00 stop = 13/02/2018 01:25:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 01:25:00 stop = 13/02/2018 02:20:00 title = Хозяйка тайги
-      Replaces ----- start = 13/02/2018 01:25:00 stop = 13/02/2018 02:15:00 title = Следствие любви
-      Replaces ----- start = 13/02/2018 02:15:00 stop = 13/02/2018 03:05:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 02:20:00 stop = 13/02/2018 03:10:00 title = Хозяйка тайги
-      Replaces ----- start = 13/02/2018 02:15:00 stop = 13/02/2018 03:05:00 title = Следствие любви
-      Replaces ----- start = 13/02/2018 03:05:00 stop = 13/02/2018 03:55:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 03:10:00 stop = 13/02/2018 04:05:00 title = Хозяйка тайги
-      Replaces ----- start = 13/02/2018 03:05:00 stop = 13/02/2018 03:55:00 title = Следствие любви
-      Replaces ----- start = 13/02/2018 03:55:00 stop = 13/02/2018 05:00:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 04:05:00 stop = 13/02/2018 05:00:00 title = Хозяйка тайги
-      Replaces ----- start = 13/02/2018 03:55:00 stop = 13/02/2018 05:00:00 title = Следствие любви
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 05:10:00 stop = 13/02/2018 06:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 05:10:00 stop = 13/02/2018 06:10:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 06:05:00 stop = 13/02/2018 07:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 05:10:00 stop = 13/02/2018 06:10:00 title = Агент национальной безопасности
-      Replaces ----- start = 13/02/2018 06:10:00 stop = 13/02/2018 07:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 07:05:00 stop = 13/02/2018 08:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 07:05:00 stop = 13/02/2018 08:00:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 08:00:00 stop = 13/02/2018 09:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 08:00:00 stop = 13/02/2018 09:00:00 title = Агент национальной безопасности
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 09:25:00 stop = 13/02/2018 10:20:00 title = Смерш. Лисья нора
-      Replaces ----- start = 13/02/2018 09:25:00 stop = 13/02/2018 10:20:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 10:20:00 stop = 13/02/2018 11:10:00 title = Смерш. Лисья нора
-      Replaces ----- start = 13/02/2018 10:20:00 stop = 13/02/2018 11:10:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 11:10:00 stop = 13/02/2018 12:05:00 title = Смерш. Лисья нора
-      Replaces ----- start = 13/02/2018 11:10:00 stop = 13/02/2018 12:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 12:05:00 stop = 13/02/2018 13:00:00 title = Смерш. Лисья нора
-      Replaces ----- start = 13/02/2018 12:05:00 stop = 13/02/2018 13:00:00 title = Агент национальной безопасности
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 13:25:00 stop = 13/02/2018 14:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 13:25:00 stop = 13/02/2018 14:15:00 title = Агент национальной безопасности
-      Replaces ----- start = 13/02/2018 14:15:00 stop = 13/02/2018 15:10:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 14:20:00 stop = 13/02/2018 15:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 14:15:00 stop = 13/02/2018 15:10:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 13/02/2018 15:10:00 stop = 13/02/2018 16:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 15:20:00 stop = 13/02/2018 16:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 15:10:00 stop = 13/02/2018 16:05:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 13/02/2018 16:05:00 stop = 13/02/2018 16:45:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 16:20:00 stop = 13/02/2018 17:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 13/02/2018 16:05:00 stop = 13/02/2018 16:45:00 title = Детективы
-      Replaces ----- start = 13/02/2018 16:45:00 stop = 13/02/2018 17:20:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 17:20:00 stop = 13/02/2018 18:00:00 title = Детективы
-      Replaces ----- start = 13/02/2018 17:20:00 stop = 13/02/2018 17:55:00 title = Детективы
-      Replaces ----- start = 13/02/2018 17:55:00 stop = 13/02/2018 18:45:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 18:00:00 stop = 13/02/2018 18:40:00 title = Детективы
-      Replaces ----- start = 13/02/2018 17:55:00 stop = 13/02/2018 18:45:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 18:40:00 stop = 13/02/2018 19:30:00 title = След
-      Replaces ----- start = 13/02/2018 17:55:00 stop = 13/02/2018 18:45:00 title = След
-      Replaces ----- start = 13/02/2018 18:45:00 stop = 13/02/2018 19:30:00 title = След
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 22:30:00 stop = 13/02/2018 23:20:00 title = След
-      Replaces ----- start = 13/02/2018 22:30:00 stop = 13/02/2018 23:15:00 title = След
-      Replaces ----- start = 13/02/2018 23:15:00 stop = 14/02/2018 00:00:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/02/2018 23:20:00 stop = 14/02/2018 00:00:00 title = След
-      Replaces ----- start = 13/02/2018 23:15:00 stop = 14/02/2018 00:00:00 title = След
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 00:30:00 stop = 14/02/2018 01:25:00 title = Хозяйка тайги
-      Replaces ----- start = 14/02/2018 00:30:00 stop = 14/02/2018 01:25:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 01:25:00 stop = 14/02/2018 02:20:00 title = Хозяйка тайги
-      Replaces ----- start = 14/02/2018 01:25:00 stop = 14/02/2018 02:15:00 title = Следствие любви
-      Replaces ----- start = 14/02/2018 02:15:00 stop = 14/02/2018 03:05:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 02:20:00 stop = 14/02/2018 03:10:00 title = Хозяйка тайги
-      Replaces ----- start = 14/02/2018 02:15:00 stop = 14/02/2018 03:05:00 title = Следствие любви
-      Replaces ----- start = 14/02/2018 03:05:00 stop = 14/02/2018 03:55:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 03:10:00 stop = 14/02/2018 04:05:00 title = Хозяйка тайги
-      Replaces ----- start = 14/02/2018 03:05:00 stop = 14/02/2018 03:55:00 title = Следствие любви
-      Replaces ----- start = 14/02/2018 03:55:00 stop = 14/02/2018 05:00:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 04:05:00 stop = 14/02/2018 05:00:00 title = Хозяйка тайги
-      Replaces ----- start = 14/02/2018 03:55:00 stop = 14/02/2018 05:00:00 title = Следствие любви
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 05:10:00 stop = 14/02/2018 06:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 05:10:00 stop = 14/02/2018 06:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 06:05:00 stop = 14/02/2018 07:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 06:05:00 stop = 14/02/2018 07:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 07:05:00 stop = 14/02/2018 08:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 07:05:00 stop = 14/02/2018 08:05:00 title = Агент национальной безопасности
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 08:00:00 stop = 14/02/2018 09:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 07:05:00 stop = 14/02/2018 08:05:00 title = Агент национальной безопасности
-      Replaces ----- start = 14/02/2018 08:05:00 stop = 14/02/2018 09:00:00 title = Агент национальной безопасности
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 09:25:00 stop = 14/02/2018 10:20:00 title = Смерш. Скрытый враг
-      Replaces ----- start = 14/02/2018 09:25:00 stop = 14/02/2018 10:20:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 10:20:00 stop = 14/02/2018 11:10:00 title = Смерш. Скрытый враг
-      Replaces ----- start = 14/02/2018 10:20:00 stop = 14/02/2018 11:10:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 11:10:00 stop = 14/02/2018 12:05:00 title = Смерш. Скрытый враг
-      Replaces ----- start = 14/02/2018 11:10:00 stop = 14/02/2018 12:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 12:05:00 stop = 14/02/2018 13:00:00 title = Смерш. Скрытый враг
-      Replaces ----- start = 14/02/2018 12:05:00 stop = 14/02/2018 13:00:00 title = Агент национальной безопасности-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 13:25:00 stop = 14/02/2018 14:25:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 13:25:00 stop = 14/02/2018 14:15:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 14/02/2018 14:15:00 stop = 14/02/2018 15:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 14:25:00 stop = 14/02/2018 15:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 14:15:00 stop = 14/02/2018 15:05:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 14/02/2018 15:05:00 stop = 14/02/2018 16:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 15:20:00 stop = 14/02/2018 16:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 15:05:00 stop = 14/02/2018 16:05:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 14/02/2018 16:05:00 stop = 14/02/2018 16:45:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 16:20:00 stop = 14/02/2018 17:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 14/02/2018 16:05:00 stop = 14/02/2018 16:45:00 title = Детективы
-      Replaces ----- start = 14/02/2018 16:45:00 stop = 14/02/2018 17:20:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 17:20:00 stop = 14/02/2018 18:00:00 title = Детективы
-      Replaces ----- start = 14/02/2018 17:20:00 stop = 14/02/2018 17:55:00 title = Детективы
-      Replaces ----- start = 14/02/2018 17:55:00 stop = 14/02/2018 18:40:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 18:00:00 stop = 14/02/2018 18:40:00 title = Детективы
-      Replaces ----- start = 14/02/2018 17:55:00 stop = 14/02/2018 18:40:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 18:40:00 stop = 14/02/2018 19:25:00 title = След
-      Replaces ----- start = 14/02/2018 18:40:00 stop = 14/02/2018 19:30:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 19:25:00 stop = 14/02/2018 20:20:00 title = След
-      Replaces ----- start = 14/02/2018 18:40:00 stop = 14/02/2018 19:30:00 title = След
-      Replaces ----- start = 14/02/2018 19:30:00 stop = 14/02/2018 20:20:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 20:20:00 stop = 14/02/2018 21:10:00 title = След
-      Replaces ----- start = 14/02/2018 20:20:00 stop = 14/02/2018 21:05:00 title = След
-      Replaces ----- start = 14/02/2018 21:05:00 stop = 14/02/2018 22:00:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 21:10:00 stop = 14/02/2018 22:00:00 title = След
-      Replaces ----- start = 14/02/2018 21:05:00 stop = 14/02/2018 22:00:00 title = След
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 22:30:00 stop = 14/02/2018 23:15:00 title = След
-      Replaces ----- start = 14/02/2018 22:30:00 stop = 14/02/2018 23:20:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/02/2018 23:15:00 stop = 15/02/2018 00:00:00 title = След
-      Replaces ----- start = 14/02/2018 22:30:00 stop = 14/02/2018 23:20:00 title = След
-      Replaces ----- start = 14/02/2018 23:20:00 stop = 15/02/2018 00:00:00 title = След
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 00:30:00 stop = 15/02/2018 01:25:00 title = Хозяйка тайги
-      Replaces ----- start = 15/02/2018 00:30:00 stop = 15/02/2018 01:20:00 title = Следствие любви
-      Replaces ----- start = 15/02/2018 01:20:00 stop = 15/02/2018 02:00:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 01:25:00 stop = 15/02/2018 02:20:00 title = Хозяйка тайги
-      Replaces ----- start = 15/02/2018 01:20:00 stop = 15/02/2018 02:00:00 title = Следствие любви
-      Replaces ----- start = 15/02/2018 02:00:00 stop = 15/02/2018 02:45:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 02:20:00 stop = 15/02/2018 03:10:00 title = Хозяйка тайги
-      Replaces ----- start = 15/02/2018 02:00:00 stop = 15/02/2018 02:45:00 title = Следствие любви
-      Replaces ----- start = 15/02/2018 02:45:00 stop = 15/02/2018 03:30:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 03:10:00 stop = 15/02/2018 04:05:00 title = Хозяйка тайги
-      Replaces ----- start = 15/02/2018 02:45:00 stop = 15/02/2018 03:30:00 title = Следствие любви
-      Replaces ----- start = 15/02/2018 03:30:00 stop = 15/02/2018 04:15:00 title = Следствие любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 04:05:00 stop = 15/02/2018 05:00:00 title = Хозяйка тайги
-      Replaces ----- start = 15/02/2018 03:30:00 stop = 15/02/2018 04:15:00 title = Следствие любви
-      Replaces ----- start = 15/02/2018 04:15:00 stop = 15/02/2018 05:00:00 title = Следствие любви
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 05:10:00 stop = 15/02/2018 06:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 05:10:00 stop = 15/02/2018 06:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 06:05:00 stop = 15/02/2018 07:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 06:05:00 stop = 15/02/2018 07:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 07:05:00 stop = 15/02/2018 08:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 07:05:00 stop = 15/02/2018 08:00:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 08:00:00 stop = 15/02/2018 09:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 08:00:00 stop = 15/02/2018 09:00:00 title = Агент национальной безопасности-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 09:25:00 stop = 15/02/2018 10:20:00 title = Смерш. Ударная волна
-      Replaces ----- start = 15/02/2018 09:25:00 stop = 15/02/2018 10:20:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 10:20:00 stop = 15/02/2018 11:05:00 title = Смерш. Ударная волна
-      Replaces ----- start = 15/02/2018 10:20:00 stop = 15/02/2018 11:10:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 11:05:00 stop = 15/02/2018 12:00:00 title = Смерш. Ударная волна
-      Replaces ----- start = 15/02/2018 10:20:00 stop = 15/02/2018 11:10:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 15/02/2018 11:10:00 stop = 15/02/2018 12:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 12:00:00 stop = 15/02/2018 13:00:00 title = Смерш. Ударная волна
-      Replaces ----- start = 15/02/2018 11:10:00 stop = 15/02/2018 12:05:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 15/02/2018 12:05:00 stop = 15/02/2018 13:00:00 title = Агент национальной безопасности-3
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 13:25:00 stop = 15/02/2018 14:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 13:25:00 stop = 15/02/2018 14:20:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 14:20:00 stop = 15/02/2018 15:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 14:20:00 stop = 15/02/2018 15:15:00 title = Агент национальной безопасности-3
-      Replaces ----- start = 15/02/2018 15:15:00 stop = 15/02/2018 16:05:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 15:20:00 stop = 15/02/2018 16:15:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 15:15:00 stop = 15/02/2018 16:05:00 title = Агент национальной безопасности-3
-      Replaces ----- start = 15/02/2018 16:05:00 stop = 15/02/2018 16:50:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 16:15:00 stop = 15/02/2018 17:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 15/02/2018 16:05:00 stop = 15/02/2018 16:50:00 title = Детективы
-      Replaces ----- start = 15/02/2018 16:50:00 stop = 15/02/2018 17:20:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 17:20:00 stop = 15/02/2018 18:00:00 title = Детективы
-      Replaces ----- start = 15/02/2018 17:20:00 stop = 15/02/2018 17:55:00 title = Детективы
-      Replaces ----- start = 15/02/2018 17:55:00 stop = 15/02/2018 18:45:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 18:00:00 stop = 15/02/2018 18:40:00 title = Детективы
-      Replaces ----- start = 15/02/2018 17:55:00 stop = 15/02/2018 18:45:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 18:40:00 stop = 15/02/2018 19:30:00 title = След
-      Replaces ----- start = 15/02/2018 17:55:00 stop = 15/02/2018 18:45:00 title = След
-      Replaces ----- start = 15/02/2018 18:45:00 stop = 15/02/2018 19:25:00 title = След
-      Replaces ----- start = 15/02/2018 19:25:00 stop = 15/02/2018 20:20:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 19:30:00 stop = 15/02/2018 20:20:00 title = След
-      Replaces ----- start = 15/02/2018 19:25:00 stop = 15/02/2018 20:20:00 title = След
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 22:30:00 stop = 15/02/2018 23:20:00 title = След
-      Replaces ----- start = 15/02/2018 22:30:00 stop = 15/02/2018 23:15:00 title = След
-      Replaces ----- start = 15/02/2018 23:15:00 stop = 16/02/2018 00:00:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 15/02/2018 23:20:00 stop = 16/02/2018 00:00:00 title = След
-      Replaces ----- start = 15/02/2018 23:15:00 stop = 16/02/2018 00:00:00 title = След
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 00:30:00 stop = 16/02/2018 01:25:00 title = Хозяйка тайги
-      Replaces ----- start = 16/02/2018 00:30:00 stop = 16/02/2018 01:15:00 title = Детективы
-      Replaces ----- start = 16/02/2018 01:15:00 stop = 16/02/2018 01:45:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 01:25:00 stop = 16/02/2018 02:20:00 title = Хозяйка тайги-2
-      Replaces ----- start = 16/02/2018 01:15:00 stop = 16/02/2018 01:45:00 title = Детективы
-      Replaces ----- start = 16/02/2018 01:45:00 stop = 16/02/2018 02:15:00 title = Детективы
-      Replaces ----- start = 16/02/2018 02:15:00 stop = 16/02/2018 02:55:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 02:20:00 stop = 16/02/2018 03:10:00 title = Хозяйка тайги-2
-      Replaces ----- start = 16/02/2018 02:15:00 stop = 16/02/2018 02:55:00 title = Детективы
-      Replaces ----- start = 16/02/2018 02:55:00 stop = 16/02/2018 03:25:00 title = Детективы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 03:10:00 stop = 16/02/2018 04:05:00 title = Хозяйка тайги-2
-      Replaces ----- start = 16/02/2018 02:55:00 stop = 16/02/2018 03:25:00 title = Детективы
-      Replaces ----- start = 16/02/2018 03:25:00 stop = 16/02/2018 04:00:00 title = Детективы
-      Replaces ----- start = 16/02/2018 04:00:00 stop = 16/02/2018 05:00:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 04:05:00 stop = 16/02/2018 05:00:00 title = Хозяйка тайги-2
-      Replaces ----- start = 16/02/2018 04:00:00 stop = 16/02/2018 05:00:00 title = Агент национальной безопасности-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 05:10:00 stop = 16/02/2018 06:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 16/02/2018 05:10:00 stop = 16/02/2018 06:10:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 06:05:00 stop = 16/02/2018 07:05:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 16/02/2018 05:10:00 stop = 16/02/2018 06:10:00 title = Агент национальной безопасности-2
-      Replaces ----- start = 16/02/2018 06:10:00 stop = 16/02/2018 07:05:00 title = Агент национальной безопасности-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 07:05:00 stop = 16/02/2018 08:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 16/02/2018 07:05:00 stop = 16/02/2018 08:00:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 08:00:00 stop = 16/02/2018 09:00:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 16/02/2018 08:00:00 stop = 16/02/2018 09:00:00 title = Агент национальной безопасности-3
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 09:25:00 stop = 16/02/2018 10:20:00 title = Последний бронепоезд
-      Replaces ----- start = 16/02/2018 09:25:00 stop = 16/02/2018 10:20:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 10:20:00 stop = 16/02/2018 11:10:00 title = Последний бронепоезд
-      Replaces ----- start = 16/02/2018 10:20:00 stop = 16/02/2018 11:10:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 11:10:00 stop = 16/02/2018 12:00:00 title = Последний бронепоезд
-      Replaces ----- start = 16/02/2018 11:10:00 stop = 16/02/2018 12:05:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 12:00:00 stop = 16/02/2018 13:00:00 title = Последний бронепоезд
-      Replaces ----- start = 16/02/2018 11:10:00 stop = 16/02/2018 12:05:00 title = Агент национальной безопасности-3
-      Replaces ----- start = 16/02/2018 12:05:00 stop = 16/02/2018 13:00:00 title = Агент национальной безопасности-3
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 13:25:00 stop = 16/02/2018 14:20:00 title = Улицы разбитых фонарей
-      Replaces ----- start = 16/02/2018 13:25:00 stop = 16/02/2018 14:30:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 14:20:00 stop = 16/02/2018 15:20:00 title = Улицы разбитых фонарей-2
-      Replaces ----- start = 16/02/2018 13:25:00 stop = 16/02/2018 14:30:00 title = Агент национальной безопасности-3
-      Replaces ----- start = 16/02/2018 14:30:00 stop = 16/02/2018 15:25:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 15:20:00 stop = 16/02/2018 16:15:00 title = Улицы разбитых фонарей-2
-      Replaces ----- start = 16/02/2018 14:30:00 stop = 16/02/2018 15:25:00 title = Агент национальной безопасности-3
-      Replaces ----- start = 16/02/2018 15:25:00 stop = 16/02/2018 16:15:00 title = Агент национальной безопасности-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 16:15:00 stop = 16/02/2018 17:10:00 title = Улицы разбитых фонарей-2
-      Replaces ----- start = 16/02/2018 16:15:00 stop = 16/02/2018 17:05:00 title = След
-      Replaces ----- start = 16/02/2018 17:05:00 stop = 16/02/2018 17:55:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 17:10:00 stop = 16/02/2018 18:05:00 title = След
-      Replaces ----- start = 16/02/2018 17:05:00 stop = 16/02/2018 17:55:00 title = След
-      Replaces ----- start = 16/02/2018 17:55:00 stop = 16/02/2018 18:45:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 18:05:00 stop = 16/02/2018 18:55:00 title = След
-      Replaces ----- start = 16/02/2018 17:55:00 stop = 16/02/2018 18:45:00 title = След
-      Replaces ----- start = 16/02/2018 18:45:00 stop = 16/02/2018 19:35:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 18:55:00 stop = 16/02/2018 19:40:00 title = След
-      Replaces ----- start = 16/02/2018 18:45:00 stop = 16/02/2018 19:35:00 title = След
-      Replaces ----- start = 16/02/2018 19:35:00 stop = 16/02/2018 20:20:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 19:40:00 stop = 16/02/2018 20:25:00 title = След
-      Replaces ----- start = 16/02/2018 19:35:00 stop = 16/02/2018 20:20:00 title = След
-      Replaces ----- start = 16/02/2018 20:20:00 stop = 16/02/2018 21:15:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 20:25:00 stop = 16/02/2018 21:15:00 title = След
-      Replaces ----- start = 16/02/2018 20:20:00 stop = 16/02/2018 21:15:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 21:15:00 stop = 16/02/2018 22:05:00 title = След
-      Replaces ----- start = 16/02/2018 21:15:00 stop = 16/02/2018 22:00:00 title = След
-      Replaces ----- start = 16/02/2018 22:00:00 stop = 16/02/2018 22:55:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 22:05:00 stop = 16/02/2018 22:55:00 title = След
-      Replaces ----- start = 16/02/2018 22:00:00 stop = 16/02/2018 22:55:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 22:55:00 stop = 16/02/2018 23:45:00 title = След
-      Replaces ----- start = 16/02/2018 22:55:00 stop = 16/02/2018 23:40:00 title = След
-      Replaces ----- start = 16/02/2018 23:40:00 stop = 17/02/2018 00:30:00 title = След
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/02/2018 23:45:00 stop = 17/02/2018 00:35:00 title = След
-      Replaces ----- start = 16/02/2018 23:40:00 stop = 17/02/2018 00:30:00 title = След
+................................................................................................................................................
 
-(  14/24  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+(  14/25  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii.................c
    epg correction : 
  CHANGED show corrected,
@@ -1586,7 +922,7 @@ iiiiiiii.................c
       show with ---- start = 16/02/2018 22:30:00 stop = 17/02/2018 00:00:00 title = Жена. История любви
       Replaces ----- start = 16/02/2018 22:30:00 stop = 17/02/2018 00:00:00 title = Жена. История любви
 
-(  15/24  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+(  15/25  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiiiii....................................c
    epg correction : 
  CHANGED show corrected,
@@ -1594,10 +930,10 @@ iiiiiiii....................................c
       Replaces ----- start = 12/02/2018 03:10:00 stop = 12/02/2018 05:00:00 title = Эпик
 .........................................................
 
-(  16/24  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+(  16/25  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii..................................................................................................................................................................................................................................................................................................
 
-(  17/24  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
+(  17/25  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
 iiiiiiii..........................c
    epg correction : 
  CHANGED show corrected,
@@ -1645,65 +981,40 @@ iiiiiiii..........................c
       Replaces ----- start = 15/02/2018 18:40:00 stop = 15/02/2018 19:35:00 title = Колеса Страны Советов. Были и небылицы
 ............................
 
-(  18/24  ) S-TV.RU -- chan. (xmltv_id=Москва-24) -- mode Incremental
+(  18/25  ) S-TV.RU -- chan. (xmltv_id=Москва-24) -- mode Incremental
 iiiiiiii..........................................................................................................................................................................................................................................................................................................................................................................................................................................................
 
-(  19/24  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.........................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 09:30:00 stop = 11/02/2018 10:00:00 title = Наше кино. История большой любви
-      Replaces ----- start = 11/02/2018 09:30:00 stop = 11/02/2018 10:00:00 title = Достучаться до звезды
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 16:15:00 stop = 11/02/2018 18:45:00 title = Кураж
-      Replaces ----- start = 11/02/2018 16:15:00 stop = 11/02/2018 19:00:00 title = Кураж
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 18:45:00 stop = 11/02/2018 19:45:00 title = Вместе
-      Replaces ----- start = 11/02/2018 16:15:00 stop = 11/02/2018 19:00:00 title = Кураж
-      Replaces ----- start = 11/02/2018 19:00:00 stop = 11/02/2018 20:00:00 title = Вместе
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 19:45:00 stop = 11/02/2018 23:50:00 title = Кураж
-      Replaces ----- start = 11/02/2018 19:00:00 stop = 11/02/2018 20:00:00 title = Вместе
-      Replaces ----- start = 11/02/2018 20:00:00 stop = 12/02/2018 00:10:00 title = Кураж
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/02/2018 23:50:00 stop = 12/02/2018 06:00:00 title = Похищение богини
-      Replaces ----- start = 11/02/2018 20:00:00 stop = 12/02/2018 00:10:00 title = Кураж
-      Replaces ----- start = 12/02/2018 00:10:00 stop = 12/02/2018 06:00:00 title = Похищение богини
-..............c
+(  19/25  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii...............................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 13/02/2018 05:25:00 stop = 13/02/2018 06:00:00 title = Наше кино. История большой любви
       Replaces ----- start = 13/02/2018 05:25:00 stop = 13/02/2018 06:00:00 title = Наше кино. История большой любви
 ...........................................................
 
-(  20/24  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
+(  20/25  ) TV.MAIL.RU -- chan. (xmltv_id=РБК) -- mode Incremental
 iiiiiiii...................................................................................................................................................................................................................................................................................................................................................
 
-(  21/24  ) TV.MAIL.RU -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+(  21/25  ) TV.MAIL.RU -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+iiiiiiii....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 
-(  22/24  ) TV.MAIL.RU -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii..........................................................................................................................................................
+(  22/25  ) TV.MAIL.RU -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii.........................................................................................................................................................
 
-(  23/24  ) TV.MAIL.RU -- chan. (xmltv_id=Russia Today) -- mode Incremental
-iiiiiiii...........................................................................................................................................................................................................................................................................................................................................................................
+(  23/25  ) TV.MAIL.RU -- chan. (xmltv_id=Russia Today) -- mode Incremental
+iiiiiiii..........................................................................................................................................................................................................................................................................................................................................................................
 
-(  24/24  ) TVPORTAL.RS -- chan. (xmltv_id=Russia Today Documentary) -- mode Incremental
-iii
-Job finished at 09/02/2018 16:59:19 done in 3m 32s
-Unhandled Exception
+(  24/25  ) BEIN.NET -- chan. (xmltv_id=Olympics Live) -- mode Incremental
 
-Index was outside the bounds of the array.
+no robots data found
+skipped robots check
+iiiiiii
+no shows in indexpage!
 
-  at WGconsole.Program.ConsoleApplication (System.String[] args) [0x01cfa] in <274ad6f9740e441a95b86a1d1148edca>:0 
-  at WGconsole.Program.Main (System.String[] args) [0x00016] in <274ad6f9740e441a95b86a1d1148edca>:0 
-For detailed info, see log file /data/epg/.wg++/WebGrab++.log.txt
-Execution stopped
+(  25/25  ) BEIN.NET -- chan. (xmltv_id=Olympics Live Hi) -- mode Incremental
+iiiiiii
+no shows in indexpage!
+
+
+
+Job finished at 09/02/2018 17:06:46 done in 3m 53s
