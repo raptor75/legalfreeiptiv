@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/raptor75/legalfreeiptiv/master/guide.xml"
-#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/1tv.jpg",Первый канал
-http://178.162.218.85:8081/chasandr/pervyi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNyAxMDoxMjozMiBBTSZoYXNoX3ZhbHVlPUFLemV2aEgyTm80SnZJdTRRRjB0OGc9PSZ2YWxpZG1pbnV0ZXM9MjAwMA==
-#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/rtr.jpg",Россия 1
-http://178.162.218.85:8081/chasandr/rossiya1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNyAxMDoxMjozMiBBTSZoYXNoX3ZhbHVlPUFLemV2aEgyTm80SnZJdTRRRjB0OGc9PSZ2YWxpZG1pbnV0ZXM9MjAwMA==
+#EXTINF:-1,Первый
+http://stream.moskvatv.com/1kanal/1kanal/chunklist_w1217472505.m3u8
+#EXTINF:-1,Россия 1
+http://stream.moskvatv.com/russia1/russia1/chunklist_w147634114.m3u8
+#EXTINF:-1,Россия 24
+http://stream.moskvatv.com/russia24/russia24/chunklist_w1022822944.m3u8
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/matchtv.jpg",Матч!
 http://178.162.218.85:8081/chasandr/rossiya2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNyAxMDoxMjozMiBBTSZoYXNoX3ZhbHVlPUFLemV2aEgyTm80SnZJdTRRRjB0OGc9PSZ2YWxpZG1pbnV0ZXM9MjAwMA==
-#EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/vesti.jpg",Россия 24
-http://178.162.218.85:8081/chasandr/rossiya24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNyAxMDoxMjozMiBBTSZoYXNoX3ZhbHVlPUFLemV2aEgyTm80SnZJdTRRRjB0OGc9PSZ2YWxpZG1pbnV0ZXM9MjAwMA==
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/ntv.jpg",НТВ
 http://178.162.218.85:8081/chasandr/ntv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNyAxMDoxMjozMiBBTSZoYXNoX3ZhbHVlPUFLemV2aEgyTm80SnZJdTRRRjB0OGc9PSZ2YWxpZG1pbnV0ZXM9MjAwMA==
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/tnt.jpg",ТНТ
