@@ -20,8 +20,6 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-<channel update="i" site="tviz.tv" site_id="1hd" xmltv_id="1HD">1HD</channel>
-
 	
 <channel update="i" site="s-tv.ru" site_id="1tv" xmltv_id="Первый">Первый канал</channel>
 <channel update="i" site="s-tv.ru" site_id="rtr" xmltv_id="Россия 1">Россия 1</channel>
@@ -45,21 +43,11 @@
 
 <channel update="i" site="tv.mail.ru" site_id="1126" xmltv_id="РБК">РБК ТВ</channel>
 <channel update="i" site="tv.mail.ru" site_id="1282" xmltv_id="Fashion TV">Fashion TV</channel>
-<channel update="i" site="tv.mail.ru" site_id="1346" xmltv_id="Ru.TV">Ru.TV</channel>
-<channel update="i" site="tv.mail.ru" site_id="1197" xmltv_id="Russia Today">Russia Today</channel>
+<channel update="i" site="tviz.tv" site_id="rutv" xmltv_id="Ru.TV">Ru.TV</channel>
+<channel update="i" site="tviz.tv" site_id="1hd" xmltv_id="1HD">1HD</channel>
+<channel update="i" site="tviz.tv" site_id="rt" xmltv_id="RT">RT</channel>
+<channel update="i" site="tviz.tv" site_id="rtd" xmltv_id="RTД">RTД</channel>
 <channel update="i" site="bein.net" site_id="mena_sports/OlympicChannel" xmltv_id="OlympicChannel">OlympicChannel</channel>
 
-<!--
-<channel update="i" site="s-tv.ru" site_id="kul" xmltv_id="Культура">Россия Культура</channel>
-<channel update="i" site="s-tv.ru" site_id="karusel" xmltv_id="Карусель">Карусель</channel>
-<channel update="i" site="s-tv.ru" site_id="u" xmltv_id="Ю">Ю</channel>
-<channel update="i" site="s-tv.ru" site_id="2x2" xmltv_id="2x2">2x2</channel>
-<channel update="i" site="s-tv.ru" site_id="disney" xmltv_id="Канал Disney">Канал Disney</channel>
-<channel update="i" site="s-tv.ru" site_id="360d" xmltv_id="360° Подмосковье">360° Подмосковье</channel>
-<channel update="i" site="s-tv.ru" site_id="doverie" xmltv_id="Москва. Доверие">Москва. Доверие</channel>
-<channel update="i" site="s-tv.ru" site_id="family" xmltv_id="Семья">Семья</channel>
-<channel update="i" site="s-tv.ru" site_id="ehofilm" xmltv_id="Эхо TV">Эхо TV</channel>
-<channel update="i" site="tvportal.rs" site_id="Channel:russiatodaydocumentary,Nr:213" xmltv_id="Russia Today Documentary">Russia Today Documentary</channel>
--->	
 	
 </settings>
