@@ -21,10 +21,11 @@
   -->
 
 	
-<channel update="i" site="s-tv.ru" site_id="1tv" xmltv_id="Первый">Первый канал</channel>
-<channel update="i" site="s-tv.ru" site_id="rtr" xmltv_id="Россия 1">Россия 1</channel>
+<channel update="i" site="tviz.tv" site_id="pervyj" xmltv_id="Первый">Первый</channel>
+<channel update="i" site="tviz.tv" site_id="rossiya-1" xmltv_id="Россия 1">Россия 1</channel>
+<channel update="i" site="tviz.tv" site_id="rossiya-24" xmltv_id="Россия 24">Россия 24</channel>
+
 <channel update="i" site="s-tv.ru" site_id="matchtv" xmltv_id="МАТЧ!">Матч!</channel>
-<channel update="i" site="s-tv.ru" site_id="vesti" xmltv_id="Россия 24">Россия 24</channel>
 <channel update="i" site="s-tv.ru" site_id="ntv" xmltv_id="НТВ">НТВ</channel>
 <channel update="i" site="s-tv.ru" site_id="tnt" xmltv_id="ТНТ">ТНТ</channel>
 <channel update="i" site="s-tv.ru" site_id="sts" xmltv_id="СТС">СТС</channel>
