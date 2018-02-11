@@ -37,9 +37,11 @@ http://online-video.rbc.ru/online/rbctv.m3u8
 http://stream-06.ix7.dailymotion.com/22/dm/3/x3m6nld/live-4.m3u8
 #EXTINF:-1 tvg-logo="http://ru.tv/upload/images/css/img/logo.png",Ru.TV
 https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/img/logo.png",Russia Today
+#EXTINF:-1 tvg-logo="http://1hd.ru/bitrix/templates/smashweb_v2/images/logo.png",1HD
+https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/img/logo.png",RT
 https://secure-streams.akamaized.net/rt/index2500.m3u8
-#EXTINF:-1 tvg-logo="https://rtd.rt.com/s/css/img/logo_rtd.png",Russia Today Documentary
+#EXTINF:-1 tvg-logo="https://rtd.rt.com/s/css/img/logo_rtd.png",RTД
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1 tvg-logo="https://www.olympicchannel.com/static/images/logo-oc.svg",OlympicChannel
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
