@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 17/02/2018 11:00:07
+Job started at 17/02/2018 23:00:05
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -44,309 +44,315 @@ Found existing channel (xmltv_id=OlympicChannel) in the config file
 Group (0) :
 update requested for - 23 - out of - 23 - channels for 8 day(s)
 (   1/23  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii........c
+iiiiiiii.c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/02/2018 10:20:00 stop = 17/02/2018 12:00:00 title = Полосатый рейс
-      Replaces ----- start = 17/02/2018 10:20:00 stop = 17/02/2018 12:00:00 title = XXIII зимние Олимпийские игры в Пхёнчхане
-..........................................................................................................................................................
+      show with ---- start = 18/02/2018 03:30:00 stop = 18/02/2018 06:00:00 title = XXIII зимние Олимпийские игры в Пхёнчхане
+      Replaces ----- start = 18/02/2018 03:30:00 stop = 18/02/2018 06:00:00 title = Россия-Швейцария. Кёрлинг. Зимние Олимпийские игры
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 18/02/2018 06:00:00 stop = 18/02/2018 06:30:00 title = XXIII зимние Олимпийские игры в Пхёнчхане
+      Replaces ----- start = 18/02/2018 06:00:00 stop = 18/02/2018 06:30:00 title = Россия-Швейцария. Кёрлинг. Зимние Олимпийские игры
+.............c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 00:45:00 stop = 19/02/2018 03:05:00 title = Игра
+      Replaces ----- start = 19/02/2018 00:45:00 stop = 19/02/2018 03:10:00 title = Игра
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 03:05:00 stop = 19/02/2018 03:10:00 title = Россия-Швейцария. Кёрлинг. Зимние Олимпийские игры
+      Replaces ----- start = 19/02/2018 00:45:00 stop = 19/02/2018 03:10:00 title = Игра
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 04:00:00 stop = 19/02/2018 06:05:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Фигурное катание. Танцы (короткая программа)
+      Replaces ----- start = 19/02/2018 04:00:00 stop = 19/02/2018 07:45:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Фигурное катание. Танцы (короткая программа)
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 06:05:00 stop = 19/02/2018 09:00:00 title = Доброе утро
+      Replaces ----- start = 19/02/2018 04:00:00 stop = 19/02/2018 07:45:00 title = XXIII зимние Олимпийские игры в Пхёнчхане. Фигурное катание. Танцы (короткая программа)
+      Replaces ----- start = 19/02/2018 07:45:00 stop = 19/02/2018 09:00:00 title = Доброе утро
+..........................................................................................................................nnnnnnnnnnnnnnnnnnn
 
 (   2/23  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.......................................................................................................................................................
+iiiiiiii......................................................................................................................................nnnnnnnnnnnnnnn
 
 (   3/23  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/23  ) TVIZ.TV -- chan. (xmltv_id=НТВ HD) -- mode Incremental
-iiiiiiii...................................................................................................................................................................................................
+iiiiiiii.........................................................................................................................................................................nnnnnnnnnnnnnnn
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+nn
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+nnnnnnn
 
 (   5/23  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................
+iiiiiiii
+Unable to update channel ТНТ
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ
+unable to update channel, try again later
+Existing guide data restored!
+(   5/23  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii
+Unable to update channel СТС
+Generic syntax exception:
+   message: 
+no index page data received from СТС
+unable to update channel, try again later
+Existing guide data restored!
+(   5/23  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiii
+Unable to update channel РЕН ТВ
+Generic syntax exception:
+   message: 
+no index page data received from РЕН ТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   5/23  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiii
+Unable to update channel ТНТ4
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ4
+unable to update channel, try again later
+Existing guide data restored!
+(   5/23  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiii............................................................................nnnnnnn
 
-(   6/23  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii..............................................................................................................................................................
+(   6/23  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiii.............................................................................................................................................................................nnnnnnnnnnnnnnn
 
-(   7/23  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii................................................................................................................................................................
+(   7/23  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiii................................................................................................................................................................nnnnnnnnnnnnnnn
 
-(   8/23  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................
-
-(   9/23  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii.......................................................................................
-
-(  10/23  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................................
-
-(  11/23  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.....................................................................................................................................................................................
-
-(  12/23  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii..................................................................................................................................................c
+(   8/23  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii...................................................................................................................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/02/2018 05:10:00 stop = 24/02/2018 05:30:00 title = 6 кадров
-      Replaces ----- start = 24/02/2018 05:10:00 stop = 24/02/2018 06:00:00 title = 6 кадров
+      show with ---- start = 24/02/2018 06:30:00 stop = 24/02/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
+      Replaces ----- start = 24/02/2018 06:30:00 stop = 24/02/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/02/2018 05:30:00 stop = 24/02/2018 06:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 24/02/2018 05:10:00 stop = 24/02/2018 06:00:00 title = 6 кадров
-..........
-
-(  13/23  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii.........................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/02/2018 04:30:00 stop = 20/02/2018 05:00:00 title = Пятница News
-      Replaces ----- start = 20/02/2018 04:30:00 stop = 20/02/2018 05:55:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/02/2018 05:00:00 stop = 20/02/2018 05:55:00 title = Орёл и решка. Шоппинг
-      Replaces ----- start = 20/02/2018 04:30:00 stop = 20/02/2018 05:55:00 title = Пятница News
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/02/2018 09:30:00 stop = 20/02/2018 10:30:00 title = Орёл и решка
-      Replaces ----- start = 20/02/2018 09:30:00 stop = 20/02/2018 11:15:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/02/2018 10:30:00 stop = 20/02/2018 11:15:00 title = Орёл и решка
-      Replaces ----- start = 20/02/2018 09:30:00 stop = 20/02/2018 11:15:00 title = Орёл и решка
-........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/02/2018 08:30:00 stop = 21/02/2018 09:30:00 title = Утро Пятницы
-      Replaces ----- start = 21/02/2018 08:30:00 stop = 21/02/2018 10:25:00 title = Утро Пятницы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/02/2018 09:30:00 stop = 21/02/2018 10:25:00 title = Орёл и решка
-      Replaces ----- start = 21/02/2018 08:30:00 stop = 21/02/2018 10:25:00 title = Утро Пятницы
-.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/02/2018 19:00:00 stop = 21/02/2018 20:00:00 title = На ножах
-      Replaces ----- start = 21/02/2018 19:00:00 stop = 21/02/2018 21:00:00 title = На ножах
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/02/2018 20:00:00 stop = 21/02/2018 21:00:00 title = На ножах
-      Replaces ----- start = 21/02/2018 19:00:00 stop = 21/02/2018 21:00:00 title = На ножах
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/02/2018 22:55:00 stop = 22/02/2018 00:00:00 title = Мир наизнанку
-      Replaces ----- start = 21/02/2018 22:55:00 stop = 22/02/2018 00:50:00 title = Мир наизнанку
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/02/2018 00:00:00 stop = 22/02/2018 00:50:00 title = Мир наизнанку
-      Replaces ----- start = 21/02/2018 22:55:00 stop = 22/02/2018 00:50:00 title = Мир наизнанку
-...................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/02/2018 18:05:00 stop = 22/02/2018 19:00:00 title = Орёл и решка
-      Replaces ----- start = 22/02/2018 18:05:00 stop = 22/02/2018 19:50:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/02/2018 19:00:00 stop = 22/02/2018 19:50:00 title = Аферисты в сетях
-      Replaces ----- start = 22/02/2018 18:05:00 stop = 22/02/2018 19:50:00 title = Орёл и решка
-.................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/02/2018 07:30:00 stop = 24/02/2018 08:00:00 title = Школа доктора Комаровского
-      Replaces ----- start = 24/02/2018 07:30:00 stop = 24/02/2018 08:55:00 title = Школа доктора Комаровского
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/02/2018 08:00:00 stop = 24/02/2018 08:55:00 title = Орёл и решка
-      Replaces ----- start = 24/02/2018 07:30:00 stop = 24/02/2018 08:55:00 title = Школа доктора Комаровского
-...............
-
-(  14/23  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................
-
-(  15/23  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................................................
-
-(  16/23  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii................................................................................................................................................................................
-
-(  17/23  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/02/2018 11:00:00 stop = 17/02/2018 12:40:00 title = Спорткары. Премиум-класс
-      Replaces ----- start = 17/02/2018 11:00:00 stop = 17/02/2018 12:45:00 title = Спорткары. Премиум-класс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/02/2018 12:40:00 stop = 17/02/2018 12:45:00 title = Спорт
-      Replaces ----- start = 17/02/2018 11:00:00 stop = 17/02/2018 12:45:00 title = Спорткары. Премиум-класс
-..............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/02/2018 17:50:00 stop = 17/02/2018 18:45:00 title = Мир будущего
-      Replaces ----- start = 17/02/2018 17:50:00 stop = 17/02/2018 22:45:00 title = Мир будущего
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/02/2018 18:45:00 stop = 17/02/2018 22:45:00 title = Что это значит
-      Replaces ----- start = 17/02/2018 17:50:00 stop = 17/02/2018 22:45:00 title = Мир будущего
-....................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/02/2018 16:00:00 stop = 18/02/2018 16:10:00 title = Главные новости
-      Replaces ----- start = 18/02/2018 16:00:00 stop = 18/02/2018 17:45:00 title = Главные новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/02/2018 16:10:00 stop = 18/02/2018 17:45:00 title = Спорткары. Премиум-класс
-      Replaces ----- start = 18/02/2018 16:00:00 stop = 18/02/2018 17:45:00 title = Главные новости
+      show with ---- start = 24/02/2018 07:00:00 stop = 24/02/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
+      Replaces ----- start = 24/02/2018 06:30:00 stop = 24/02/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
 ...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 23:00:00 stop = 18/02/2018 23:15:00 title = Главные новости
-      Replaces ----- start = 18/02/2018 23:00:00 stop = 19/02/2018 01:05:00 title = Главные новости
+      show with ---- start = 24/02/2018 14:15:00 stop = 24/02/2018 18:00:00 title = Тропинка вдоль реки
+      Replaces ----- start = 24/02/2018 14:15:00 stop = 24/02/2018 16:07:00 title = Тропинка вдоль реки
+      Replaces ----- start = 24/02/2018 16:07:00 stop = 24/02/2018 18:00:00 title = Тропинка вдоль реки
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 23:15:00 stop = 19/02/2018 01:05:00 title = Что это значит
-      Replaces ----- start = 18/02/2018 23:00:00 stop = 19/02/2018 01:05:00 title = Главные новости
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/02/2018 04:05:00 stop = 19/02/2018 04:30:00 title = Токарев. Дело
-      Replaces ----- start = 19/02/2018 04:05:00 stop = 19/02/2018 04:55:00 title = Токарев. Дело
+      show with ---- start = 24/02/2018 18:00:00 stop = 24/02/2018 21:12:00 title = 6 кадров
+      Replaces ----- start = 24/02/2018 18:00:00 stop = 24/02/2018 19:00:00 title = 6 кадров
+      Replaces ----- start = 24/02/2018 19:00:00 stop = 24/02/2018 23:25:00 title = Великолепный век
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/02/2018 04:30:00 stop = 19/02/2018 04:55:00 title = Общество потребления
-      Replaces ----- start = 19/02/2018 04:05:00 stop = 19/02/2018 04:55:00 title = Токарев. Дело
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/02/2018 06:45:00 stop = 19/02/2018 07:00:00 title = #РБК
-      Replaces ----- start = 19/02/2018 06:45:00 stop = 19/02/2018 09:45:00 title = #РБК
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/02/2018 07:00:00 stop = 19/02/2018 09:45:00 title = Стартап
-      Replaces ----- start = 19/02/2018 06:45:00 stop = 19/02/2018 09:45:00 title = #РБК
-...............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/02/2018 23:00:00 stop = 19/02/2018 23:15:00 title = Главные новости
-      Replaces ----- start = 19/02/2018 23:00:00 stop = 20/02/2018 01:05:00 title = Главные новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/02/2018 23:15:00 stop = 20/02/2018 01:05:00 title = Что это значит
-      Replaces ----- start = 19/02/2018 23:00:00 stop = 20/02/2018 01:05:00 title = Главные новости
-.............................................................................................................................................................................................................................
+      show with ---- start = 24/02/2018 21:12:00 stop = 24/02/2018 23:25:00 title = Великолепный век
+      Replaces ----- start = 24/02/2018 19:00:00 stop = 24/02/2018 23:25:00 title = Великолепный век
+.nnnnnnnnnnnnnnnnnnnnn
 
-(  18/23  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+(   9/23  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii...........................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnn
 
-(  19/23  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii......................................................................................................................................................
+(  10/23  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
 
-(  20/23  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................................................................................................................................................
+(  11/23  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii.......................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  21/23  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................................................................................................................................................
+(  12/23  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii........................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  22/23  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................................................................
+(  13/23  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+iiiiiiii.......................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  23/23  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii....c
+(  14/23  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+iiiiiiii........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  15/23  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii...................................................................................................................................nnnnnnnnnnnnnnnnn
+
+(  16/23  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+iiiiiiii................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  17/23  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+iiiiiiii................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  18/23  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  19/23  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiii
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+ic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/02/2018 04:55:00 stop = 17/02/2018 05:55:00 title = W Snowboard Cross
-      Replaces ----- start = 17/02/2018 04:55:00 stop = 17/02/2018 07:00:00 title = M SuperG
+      show with ---- start = 18/02/2018 23:35:00 stop = 19/02/2018 01:45:00 title = W Slopestyle Qualification
+      Replaces ----- start = 18/02/2018 22:45:00 stop = 19/02/2018 00:00:00 title = M Aerials
+      Replaces ----- start = 19/02/2018 00:00:00 stop = 19/02/2018 02:00:00 title = M Team Pursuit Qualification
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/02/2018 05:55:00 stop = 17/02/2018 08:00:00 title = M SuperG
-      Replaces ----- start = 17/02/2018 04:55:00 stop = 17/02/2018 07:00:00 title = M SuperG
-      Replaces ----- start = 17/02/2018 07:00:00 stop = 17/02/2018 11:30:00 title = M Free Skating
+      show with ---- start = 19/02/2018 01:45:00 stop = 19/02/2018 03:00:00 title = Women 4 x 5 km
+      Replaces ----- start = 19/02/2018 00:00:00 stop = 19/02/2018 02:00:00 title = M Team Pursuit Qualification
+      Replaces ----- start = 19/02/2018 02:00:00 stop = 19/02/2018 03:30:00 title = 2Man Heat 1 & 2
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/02/2018 08:00:00 stop = 17/02/2018 08:30:00 title = Golden moments of the Olympic Games
-      Replaces ----- start = 17/02/2018 07:00:00 stop = 17/02/2018 11:30:00 title = M Free Skating
+      show with ---- start = 19/02/2018 03:00:00 stop = 19/02/2018 04:10:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 19/02/2018 02:00:00 stop = 19/02/2018 03:30:00 title = 2Man Heat 1 & 2
+      Replaces ----- start = 19/02/2018 03:30:00 stop = 19/02/2018 06:30:00 title = W Big Air Qualification
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/02/2018 08:30:00 stop = 17/02/2018 10:00:00 title = W Aerials
-      Replaces ----- start = 17/02/2018 07:00:00 stop = 17/02/2018 11:30:00 title = M Free Skating
+      show with ---- start = 19/02/2018 04:10:00 stop = 19/02/2018 06:15:00 title = M Giant Slalom 1st Run
+      Replaces ----- start = 19/02/2018 03:30:00 stop = 19/02/2018 06:30:00 title = W Big Air Qualification
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/02/2018 10:00:00 stop = 17/02/2018 11:30:00 title = W 5000 m
-      Replaces ----- start = 17/02/2018 07:00:00 stop = 17/02/2018 11:30:00 title = M Free Skating
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/02/2018 03:00:00 stop = 18/02/2018 04:10:00 title = PyeongChang South Korea  Highlights
-      Replaces ----- start = 18/02/2018 03:00:00 stop = 18/02/2018 04:15:00 title = PyeongChang South Korea  Highlights
+      show with ---- start = 19/02/2018 06:15:00 stop = 19/02/2018 06:42:00 title = History of Winter Olympics
+      Replaces ----- start = 19/02/2018 03:30:00 stop = 19/02/2018 06:30:00 title = W Big Air Qualification
+      Replaces ----- start = 19/02/2018 06:30:00 stop = 19/02/2018 07:00:00 title = Summary of Vancouver 2012 Winter Olympic Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 04:10:00 stop = 18/02/2018 06:15:00 title = M Giant Slalom 1st Run
-      Replaces ----- start = 18/02/2018 03:00:00 stop = 18/02/2018 04:15:00 title = PyeongChang South Korea  Highlights
-      Replaces ----- start = 18/02/2018 04:15:00 stop = 18/02/2018 06:15:00 title = M Giant Slalom 1st Run
+      show with ---- start = 19/02/2018 06:42:00 stop = 19/02/2018 07:10:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 19/02/2018 06:30:00 stop = 19/02/2018 07:00:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      Replaces ----- start = 19/02/2018 07:00:00 stop = 19/02/2018 09:30:00 title = W Semifinals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 06:15:00 stop = 18/02/2018 07:10:00 title = History of Winter Olympics
-      Replaces ----- start = 18/02/2018 06:15:00 stop = 18/02/2018 07:15:00 title = History of Winter Olympics
+      show with ---- start = 19/02/2018 07:10:00 stop = 19/02/2018 08:30:00 title = M Slopestyle
+      Replaces ----- start = 19/02/2018 07:00:00 stop = 19/02/2018 09:30:00 title = W Semifinals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 07:10:00 stop = 18/02/2018 08:30:00 title = M Slopestyle
-      Replaces ----- start = 18/02/2018 06:15:00 stop = 18/02/2018 07:15:00 title = History of Winter Olympics
-      Replaces ----- start = 18/02/2018 07:15:00 stop = 18/02/2018 09:15:00 title = M Slopestyle
+      show with ---- start = 19/02/2018 08:30:00 stop = 19/02/2018 09:15:00 title = Winter Olympics Pyeongchang 2018
+      Replaces ----- start = 19/02/2018 07:00:00 stop = 19/02/2018 09:30:00 title = W Semifinals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 08:30:00 stop = 18/02/2018 09:15:00 title = Winter Olympics Pyeongchang 2018
-      Replaces ----- start = 18/02/2018 07:15:00 stop = 18/02/2018 09:15:00 title = M Slopestyle
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/02/2018 20:00:00 stop = 18/02/2018 21:00:00 title = Biathlon Men's 15km Mass Start
-      Replaces ----- start = 18/02/2018 20:00:00 stop = 18/02/2018 21:00:00 title = PyeongChang South Korea  Highlights
+      show with ---- start = 19/02/2018 09:15:00 stop = 19/02/2018 11:30:00 title = M 4 x 10 km Relay Classic/Free
+      Replaces ----- start = 19/02/2018 07:00:00 stop = 19/02/2018 09:30:00 title = W Semifinals
+      Replaces ----- start = 19/02/2018 09:30:00 stop = 19/02/2018 12:00:00 title = CZE x  SUI
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/02/2018 21:00:00 stop = 18/02/2018 22:15:00 title = PyeongChang South Korea  Highlights
-      Replaces ----- start = 18/02/2018 21:00:00 stop = 18/02/2018 22:15:00 title = Biathlon Men's 15km Mass Start
-..........c
+      show with ---- start = 19/02/2018 11:30:00 stop = 19/02/2018 12:00:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 19/02/2018 09:30:00 stop = 19/02/2018 12:00:00 title = CZE x  SUI
+.c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/02/2018 20:00:00 stop = 19/02/2018 21:00:00 title = W Halfpipe Qualification
-      Replaces ----- start = 19/02/2018 20:00:00 stop = 19/02/2018 21:00:00 title = PyeongChang South Korea  Highlights
+      show with ---- start = 19/02/2018 18:00:00 stop = 19/02/2018 20:00:00 title = M Giant Slalom 2nd Run
+      Replaces ----- start = 19/02/2018 18:00:00 stop = 19/02/2018 20:00:00 title = W Team Pursuit Qualification
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/02/2018 21:00:00 stop = 19/02/2018 22:20:00 title = PyeongChang South Korea  Highlights
-      Replaces ----- start = 19/02/2018 21:00:00 stop = 19/02/2018 22:20:00 title = W Halfpipe Qualification
-.............
+      show with ---- start = 19/02/2018 20:00:00 stop = 19/02/2018 21:00:00 title = Biathlon Men's 15km Mass Start
+      Replaces ----- start = 19/02/2018 20:00:00 stop = 19/02/2018 21:00:00 title = W Halfpipe Qualification
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 21:00:00 stop = 19/02/2018 22:15:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 19/02/2018 21:00:00 stop = 19/02/2018 22:20:00 title = PyeongChang South Korea  Highlights
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 22:15:00 stop = 19/02/2018 22:45:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 19/02/2018 21:00:00 stop = 19/02/2018 22:20:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 19/02/2018 22:20:00 stop = 20/02/2018 00:00:00 title = Trial Round M Team LH
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/02/2018 22:45:00 stop = 20/02/2018 00:00:00 title = M Aerials
+      Replaces ----- start = 19/02/2018 22:20:00 stop = 20/02/2018 00:00:00 title = Trial Round M Team LH
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 00:00:00 stop = 20/02/2018 02:00:00 title = M Team Pursuit Qualification
+      Replaces ----- start = 20/02/2018 00:00:00 stop = 20/02/2018 01:30:00 title = 2Man Heat 3
+      Replaces ----- start = 20/02/2018 01:30:00 stop = 20/02/2018 03:00:00 title = 2Man Heat  4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 02:00:00 stop = 20/02/2018 03:30:00 title = 2Man Heat 1 & 2
+      Replaces ----- start = 20/02/2018 01:30:00 stop = 20/02/2018 03:00:00 title = 2Man Heat  4
+      Replaces ----- start = 20/02/2018 03:00:00 stop = 20/02/2018 04:00:00 title = W Halfpipe Qualification
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 03:30:00 stop = 20/02/2018 06:30:00 title = W Big Air Qualification
+      Replaces ----- start = 20/02/2018 03:00:00 stop = 20/02/2018 04:00:00 title = W Halfpipe Qualification
+      Replaces ----- start = 20/02/2018 04:00:00 stop = 20/02/2018 08:00:00 title = Ice Dance Free Dance
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 06:30:00 stop = 20/02/2018 07:00:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      Replaces ----- start = 20/02/2018 04:00:00 stop = 20/02/2018 08:00:00 title = Ice Dance Free Dance
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 07:00:00 stop = 20/02/2018 09:30:00 title = W Semifinals
+      Replaces ----- start = 20/02/2018 04:00:00 stop = 20/02/2018 08:00:00 title = Ice Dance Free Dance
+      Replaces ----- start = 20/02/2018 08:00:00 stop = 20/02/2018 11:00:00 title = W Round Robin
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 09:30:00 stop = 20/02/2018 12:00:00 title = CZE x  SUI
+      Replaces ----- start = 20/02/2018 08:00:00 stop = 20/02/2018 11:00:00 title = W Round Robin
+      Replaces ----- start = 20/02/2018 11:00:00 stop = 20/02/2018 12:00:00 title = Classic Finals MenMen's Ski Jumpimg, Sochi 2014
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 18:00:00 stop = 20/02/2018 20:00:00 title = W Team Pursuit Qualification
+      Replaces ----- start = 20/02/2018 18:00:00 stop = 20/02/2018 20:00:00 title = W 1000 m Qual, M 500 m Qual, W 3000 m Relay Final
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 20:00:00 stop = 20/02/2018 21:00:00 title = W Halfpipe Qualification
+      Replaces ----- start = 20/02/2018 20:00:00 stop = 20/02/2018 21:00:00 title = PyeongChang South Korea  Highlights
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 21:00:00 stop = 20/02/2018 22:20:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 20/02/2018 21:00:00 stop = 20/02/2018 22:15:00 title = W Halfpipe
+      Replaces ----- start = 20/02/2018 22:15:00 stop = 20/02/2018 23:05:00 title = M Individual LH
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/02/2018 22:20:00 stop = 21/02/2018 00:00:00 title = Trial Round M Team LH
+      Replaces ----- start = 20/02/2018 22:15:00 stop = 20/02/2018 23:05:00 title = M Individual LH
+      Replaces ----- start = 20/02/2018 23:05:00 stop = 20/02/2018 23:59:00 title = W Heat 1 & 2
+nnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     14
-     new shows added           0
-     unchanged shows inspected 41
-     total after update        55
+     changed shows updated     25
+     new shows added           12
+     unchanged shows inspected 2
+     total after update        52
 
 
 
-Job finished at 17/02/2018 11:05:31 done in 5m 23s
+Job finished at 17/02/2018 23:10:15 done in 10m 10s
