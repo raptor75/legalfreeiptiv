@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 23/02/2018 23:00:06
+Job started at 24/02/2018 11:00:08
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -114,28 +114,90 @@ iiiiiiii........................................................................
 iiiiiiii............................................................................
 
 (  24/24  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiii
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-iic
+iiiiiii...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/02/2018 00:00:00 stop = 24/02/2018 01:00:00 title = W Ski Cross
-      Replaces ----- start = 24/02/2018 00:00:00 stop = 24/02/2018 01:30:00 title = W Ski Cross
+      show with ---- start = 24/02/2018 03:15:00 stop = 24/02/2018 03:55:00 title = History of Winter Olympics
+      Replaces ----- start = 24/02/2018 03:15:00 stop = 24/02/2018 03:55:00 title = W Ski Cross Seeding Round
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/02/2018 07:56:00 stop = 24/02/2018 10:45:00 title = M 50 km Mass Start Classic
+      Replaces ----- start = 24/02/2018 07:56:00 stop = 24/02/2018 11:00:00 title = M 50 km Mass Start Classic
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/02/2018 01:00:00 stop = 24/02/2018 01:30:00 title = Golden moments of the Olympic Games
-      Replaces ----- start = 24/02/2018 00:00:00 stop = 24/02/2018 01:30:00 title = W Ski Cross
-............................
+      show with ---- start = 24/02/2018 10:45:00 stop = 24/02/2018 12:00:00 title = 4Man Heat 1
+      Replaces ----- start = 24/02/2018 07:56:00 stop = 24/02/2018 11:00:00 title = M 50 km Mass Start Classic
+      Replaces ----- start = 24/02/2018 11:00:00 stop = 24/02/2018 12:00:00 title = 4Man Heat 1
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/02/2018 23:00:00 stop = 25/02/2018 02:05:00 title = W Bronze Medal
+      Replaces ----- start = 24/02/2018 23:00:00 stop = 25/02/2018 02:30:00 title = W Bronze Medal
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/02/2018 23:00:00 stop = 26/02/2018 02:05:00 title = W Bronze Medal
+      Replaces ----- start = 25/02/2018 23:00:00 stop = 26/02/2018 02:30:00 title = W Bronze Medal
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 02:05:00 stop = 26/02/2018 03:25:00 title = 4Man Heat 1
+      Replaces ----- start = 25/02/2018 23:00:00 stop = 26/02/2018 02:30:00 title = W Bronze Medal
+      Replaces ----- start = 26/02/2018 02:30:00 stop = 26/02/2018 03:30:00 title = 4Man Heat 1
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 03:25:00 stop = 26/02/2018 04:57:00 title = 4Man Heat 3
+      Replaces ----- start = 26/02/2018 02:30:00 stop = 26/02/2018 03:30:00 title = 4Man Heat 1
+      Replaces ----- start = 26/02/2018 03:30:00 stop = 26/02/2018 05:00:00 title = 4Man Heat 3
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 04:57:00 stop = 26/02/2018 06:00:00 title = Finals 4Man Heat 4
+      Replaces ----- start = 26/02/2018 03:30:00 stop = 26/02/2018 05:00:00 title = 4Man Heat 3
+      Replaces ----- start = 26/02/2018 05:00:00 stop = 26/02/2018 06:00:00 title = Finals 4Man Heat 4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 06:00:00 stop = 26/02/2018 06:57:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 26/02/2018 06:00:00 stop = 26/02/2018 07:00:00 title = PyeongChang South Korea  Highlights
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 06:57:00 stop = 26/02/2018 10:00:00 title = M Gold Medal
+      Replaces ----- start = 26/02/2018 06:00:00 stop = 26/02/2018 07:00:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 26/02/2018 07:00:00 stop = 26/02/2018 10:00:00 title = M Gold Medal
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 10:00:00 stop = 26/02/2018 10:30:00 title = History of Winter Olympics
+      Replaces ----- start = 26/02/2018 10:00:00 stop = 26/02/2018 10:30:00 title = W Big Air Finals
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 10:30:00 stop = 26/02/2018 11:30:00 title = PyeongChang South Korea  Highlights
+      Replaces ----- start = 26/02/2018 10:30:00 stop = 26/02/2018 12:30:00 title = PyeongChang South Korea  Highlights
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 11:30:00 stop = 26/02/2018 12:30:00 title = Best Of PyeongChang BeIn Original
+      Replaces ----- start = 26/02/2018 10:30:00 stop = 26/02/2018 12:30:00 title = PyeongChang South Korea  Highlights
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/02/2018 23:00:00 stop = 27/02/2018 03:30:00 title = Closing Ceremony
+      Replaces ----- start = 26/02/2018 23:00:00 stop = 26/02/2018 23:59:00 title = Closing Ceremony
+nnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     2
-     new shows added           0
-     unchanged shows inspected 28
-     total after update        40
+     changed shows updated     14
+     new shows added           17
+     unchanged shows inspected 17
+     total after update        58
 
 
 
-Job finished at 23/02/2018 23:01:20 done in 1m 13s
+Job finished at 24/02/2018 11:01:04 done in 56s
