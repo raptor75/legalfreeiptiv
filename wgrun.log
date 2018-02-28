@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 27/02/2018 23:00:12
+Job started at 28/02/2018 11:00:10
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -229,13 +229,145 @@ no index page data received from Discovery Channel HD
 unable to update channel, try again later
 Existing guide data restored!
 (   1/24  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii...............................................
+iiiiiii................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/02/2018 17:00:00 stop = 28/02/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 28/02/2018 17:00:00 stop = 28/02/2018 18:30:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/02/2018 17:30:00 stop = 28/02/2018 18:30:00 title = Five Rings Film
+      Replaces ----- start = 28/02/2018 17:00:00 stop = 28/02/2018 18:30:00 title = Olympics Today
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 00:00:00 stop = 01/03/2018 00:32:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 00:00:00 stop = 01/03/2018 00:30:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 00:30:00 stop = 01/03/2018 01:00:00 title = Winter Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 00:32:00 stop = 01/03/2018 01:00:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 00:30:00 stop = 01/03/2018 01:00:00 title = Winter Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 01:00:00 stop = 01/03/2018 01:32:00 title = Olympics Today
+      Replaces ----- start = 01/03/2018 01:00:00 stop = 01/03/2018 01:30:00 title = Olympics Today
+      Replaces ----- start = 01/03/2018 01:30:00 stop = 01/03/2018 04:15:00 title = China PR vs Oman
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 01:32:00 stop = 01/03/2018 03:15:00 title = China PR vs Oman
+      Replaces ----- start = 01/03/2018 01:30:00 stop = 01/03/2018 04:15:00 title = China PR vs Oman
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 03:15:00 stop = 01/03/2018 04:15:00 title = Five Rings Film
+      Replaces ----- start = 01/03/2018 01:30:00 stop = 01/03/2018 04:15:00 title = China PR vs Oman
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 04:15:00 stop = 01/03/2018 05:45:00 title = W 7.5 km Sprint
+      Replaces ----- start = 01/03/2018 04:15:00 stop = 01/03/2018 05:40:00 title = W 7.5 km Sprint
+      Replaces ----- start = 01/03/2018 05:40:00 stop = 01/03/2018 06:05:00 title = Golden moments of the Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 05:45:00 stop = 01/03/2018 06:15:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 05:40:00 stop = 01/03/2018 06:05:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 06:05:00 stop = 01/03/2018 06:30:00 title = Golden moments of the Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 06:15:00 stop = 01/03/2018 08:00:00 title = M Slopestyle
+      Replaces ----- start = 01/03/2018 06:05:00 stop = 01/03/2018 06:30:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 06:30:00 stop = 01/03/2018 08:05:00 title = M Slopestyle
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 08:00:00 stop = 01/03/2018 08:30:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 06:30:00 stop = 01/03/2018 08:05:00 title = M Slopestyle
+      Replaces ----- start = 01/03/2018 08:05:00 stop = 01/03/2018 08:35:00 title = Golden moments of the Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 08:30:00 stop = 01/03/2018 09:00:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 08:05:00 stop = 01/03/2018 08:35:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 08:35:00 stop = 01/03/2018 09:00:00 title = Golden moments of the Olympic Games
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 11:00:00 stop = 01/03/2018 11:32:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 11:00:00 stop = 01/03/2018 11:30:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 11:30:00 stop = 01/03/2018 12:05:00 title = Winter Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 11:32:00 stop = 01/03/2018 12:00:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 11:30:00 stop = 01/03/2018 12:05:00 title = Winter Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 12:00:00 stop = 01/03/2018 12:56:00 title = Classic Finals MenMen's CrossCountry, Nagano 1998
+      Replaces ----- start = 01/03/2018 11:30:00 stop = 01/03/2018 12:05:00 title = Winter Olympic Games
+      Replaces ----- start = 01/03/2018 12:05:00 stop = 01/03/2018 13:00:00 title = Classic Finals MenMen's CrossCountry, Nagano 1998
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 12:56:00 stop = 01/03/2018 14:35:00 title = M Slopestyle
+      Replaces ----- start = 01/03/2018 12:05:00 stop = 01/03/2018 13:00:00 title = Classic Finals MenMen's CrossCountry, Nagano 1998
+      Replaces ----- start = 01/03/2018 13:00:00 stop = 01/03/2018 14:35:00 title = M Slopestyle
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 14:35:00 stop = 01/03/2018 15:03:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 14:35:00 stop = 01/03/2018 15:05:00 title = Golden moments of the Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 15:03:00 stop = 01/03/2018 16:31:00 title = M 10 km Sprint
+      Replaces ----- start = 01/03/2018 14:35:00 stop = 01/03/2018 15:05:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 15:05:00 stop = 01/03/2018 16:30:00 title = M 10 km Sprint
+      Replaces ----- start = 01/03/2018 16:30:00 stop = 01/03/2018 17:00:00 title = Golden moments of the Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 16:31:00 stop = 01/03/2018 17:00:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 01/03/2018 16:30:00 stop = 01/03/2018 17:00:00 title = Golden moments of the Olympic Games
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 20:10:00 stop = 01/03/2018 20:40:00 title = Heroes of the Future
+      Replaces ----- start = 01/03/2018 20:10:00 stop = 01/03/2018 20:45:00 title = Heroes of the Future
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 20:40:00 stop = 01/03/2018 22:26:00 title = M 15 km + 15 km Skiathlon
+      Replaces ----- start = 01/03/2018 20:10:00 stop = 01/03/2018 20:45:00 title = Heroes of the Future
+      Replaces ----- start = 01/03/2018 20:45:00 stop = 01/03/2018 22:30:00 title = M 15 km + 15 km Skiathlon
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 22:26:00 stop = 01/03/2018 22:55:00 title = History of Winter Olympics
+      Replaces ----- start = 01/03/2018 20:45:00 stop = 01/03/2018 22:30:00 title = M 15 km + 15 km Skiathlon
+      Replaces ----- start = 01/03/2018 22:30:00 stop = 01/03/2018 23:00:00 title = History of Winter Olympics
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/03/2018 22:55:00 stop = 02/03/2018 01:30:00 title = Baskonia Vitoria vs Khimki Moscow
+      Replaces ----- start = 01/03/2018 22:30:00 stop = 01/03/2018 23:00:00 title = History of Winter Olympics
+      Replaces ----- start = 01/03/2018 23:00:00 stop = 01/03/2018 23:00:00 title = Baskonia Vitoria vs Khimki Moscow
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
-     no changes, no update necessary !
-     unchanged shows inspected 47
-     total after update        47
+     missing shows added       0
+     changed shows updated     23
+     new shows added           39
+     unchanged shows inspected 25
+     total after update        87
 
 
 
-Job finished at 27/02/2018 23:01:03 done in 51s
+Job finished at 28/02/2018 11:01:14 done in 1m 3s
