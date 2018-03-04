@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 03/03/2018 23:00:09
+Job started at 04/03/2018 11:00:15
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -45,151 +45,435 @@ Found existing channel (xmltv_id=OlympicChannel) in the config file
 Group (0) :
 update requested for - 24 - out of - 24 - channels for 8 day(s)
 (   1/24  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...........................................................................................................................................................nnnnnnnnnnnnnnnnnnnnn
-
-(   2/24  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii...........................................................................................................................nnnnnnnnnnnnnnnn
-
-(   3/24  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   4/24  ) TVIZ.TV -- chan. (xmltv_id=НТВ HD) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................nnnnnnnnnnnnn
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-nnnnnnnnnnnn
-
-(   5/24  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   6/24  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii..........................................................................................................................nnnnnnnnnnnnnnnnnn
-
-(   7/24  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii............................................................................................................................................nnnnnn
-
-(   8/24  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   9/24  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii.......................................................................nnnnnn
-
-(  10/24  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii............................................................................................................................................nnnnnnnnnnnnnnnn
-
-(  11/24  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.......................................................................................................................................nnnnnnnnnnnnnnnnnnn
-
-(  12/24  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii.............................................................................................................c
+iiiiiiii.............c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/03/2018 06:30:00 stop = 10/03/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 10/03/2018 06:30:00 stop = 10/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
+      show with ---- start = 04/03/2018 12:15:00 stop = 04/03/2018 13:15:00 title = Теория заговора
+      Replaces ----- start = 04/03/2018 12:15:00 stop = 04/03/2018 13:10:00 title = Теория заговора
+      Replaces ----- start = 04/03/2018 13:10:00 stop = 04/03/2018 15:00:00 title = Берегись автомобиля
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/03/2018 07:00:00 stop = 10/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 10/03/2018 06:30:00 stop = 10/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
+      show with ---- start = 04/03/2018 13:15:00 stop = 04/03/2018 15:30:00 title = Юбилейный концерт Тамары Гвердцители
+      Replaces ----- start = 04/03/2018 13:10:00 stop = 04/03/2018 15:00:00 title = Берегись автомобиля
+      Replaces ----- start = 04/03/2018 15:00:00 stop = 04/03/2018 15:20:00 title = Новости (с субтитрами)
+      Replaces ----- start = 04/03/2018 15:20:00 stop = 04/03/2018 17:25:00 title = Гордость нации
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 15:30:00 stop = 04/03/2018 17:20:00 title = Операция «Ы» и другие приключения Шурика
+      Replaces ----- start = 04/03/2018 15:20:00 stop = 04/03/2018 17:25:00 title = Гордость нации
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 17:20:00 stop = 04/03/2018 19:20:00 title = Гордость нации
+      Replaces ----- start = 04/03/2018 15:20:00 stop = 04/03/2018 17:25:00 title = Гордость нации
+      Replaces ----- start = 04/03/2018 17:25:00 stop = 04/03/2018 19:20:00 title = Операция «Ы» и другие приключения Шурика
+..............................................................................................................................................................
+
+(   2/24  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+iiiiiiii...........................................................................................................................................
+
+(   3/24  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+iiiiiiii...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+(   4/24  ) TVIZ.TV -- chan. (xmltv_id=НТВ HD) -- mode Incremental
+iiiiiiii.............................................................................................................................................................................................................
+
+(   5/24  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+iiiiiiii................................................................................................................................................................................................................................................................
+
+(   6/24  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii............................................................................................................................................
+
+(   7/24  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiii..................................................................................................................................................
+
+(   8/24  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiii..................................................................................................................................................................................................................................................................................................
+
+(   9/24  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiii.............................................................................
+
+(  10/24  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiii............................................................................................................................................................
+
+(  11/24  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiii..........................................................................................................................................................
+
+(  12/24  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii.........................................................................................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/03/2018 18:00:00 stop = 10/03/2018 19:00:00 title = 6 кадров
+      Replaces ----- start = 10/03/2018 18:00:00 stop = 10/03/2018 21:10:00 title = 6 кадров
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/03/2018 19:00:00 stop = 10/03/2018 21:10:00 title = Великолепный век
+      Replaces ----- start = 10/03/2018 18:00:00 stop = 10/03/2018 21:10:00 title = 6 кадров
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 10/03/2018 23:20:00 stop = 11/03/2018 00:30:00 title = 6 кадров
+      Replaces ----- start = 10/03/2018 23:20:00 stop = 11/03/2018 01:27:00 title = 6 кадров
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 11/03/2018 00:30:00 stop = 11/03/2018 01:27:00 title = Верь мне
+      Replaces ----- start = 10/03/2018 23:20:00 stop = 11/03/2018 01:27:00 title = 6 кадров
+....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 11/03/2018 05:20:00 stop = 11/03/2018 05:30:00 title = 6 кадров
+      Replaces ----- start = 11/03/2018 05:20:00 stop = 11/03/2018 06:00:00 title = 6 кадров
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 11/03/2018 05:30:00 stop = 11/03/2018 06:00:00 title = Джейми Оливер. Готовим за 30 минут
+      Replaces ----- start = 11/03/2018 05:20:00 stop = 11/03/2018 06:00:00 title = 6 кадров
+.........
+
+(  13/24  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii...........................................................................................................................................................................................
+
+(  14/24  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii....................................................................................................................................................................................................
+
+(  15/24  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii.................................................................................................................................................................................................................................................................................................
+
+(  16/24  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii.......................................................................................................................................................................................................................
+
+(  17/24  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+iiiiiiii.........................................................................................................................................................................................................................................................................................................................................................
+
+(  18/24  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+(  19/24  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii...................................................................................................................................
+
+(  20/24  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................................................................
+
+(  21/24  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................................................................
+
+(  22/24  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii.............................................................................................................................................................................................................................................................................................................................................................................................................
+
+(  23/24  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+iiiiiiii..........................................................................................................................................................................................................................................................................................
+
+(  24/24  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiii
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+ic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 01:00:00 stop = 04/03/2018 01:45:00 title = Olympics Today
+      Replaces ----- start = 04/03/2018 01:00:00 stop = 04/03/2018 01:30:00 title = The Olympic On The Record
+      Replaces ----- start = 04/03/2018 01:30:00 stop = 04/03/2018 02:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 01:45:00 stop = 04/03/2018 03:15:00 title = Real Cargo vs Metz
+      Replaces ----- start = 04/03/2018 01:30:00 stop = 04/03/2018 02:00:00 title = Olympics Today
+      Replaces ----- start = 04/03/2018 02:00:00 stop = 04/03/2018 04:00:00 title = Japan vs Palestine
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 03:15:00 stop = 04/03/2018 04:45:00 title = Rhein Neckar Lowen vs Nantes
+      Replaces ----- start = 04/03/2018 02:00:00 stop = 04/03/2018 04:00:00 title = Japan vs Palestine
+      Replaces ----- start = 04/03/2018 04:00:00 stop = 04/03/2018 05:30:00 title = Baskonia Vitoria vs Khimki Moscow
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 04:45:00 stop = 04/03/2018 06:10:00 title = Krim Mercator vs Rostov
+      Replaces ----- start = 04/03/2018 04:00:00 stop = 04/03/2018 05:30:00 title = Baskonia Vitoria vs Khimki Moscow
+      Replaces ----- start = 04/03/2018 05:30:00 stop = 04/03/2018 06:00:00 title = Legends Live On
+      Replaces ----- start = 04/03/2018 06:00:00 stop = 04/03/2018 08:00:00 title = Real Madrid vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 06:10:00 stop = 04/03/2018 07:55:00 title = Iraq vs Malaysia
+      Replaces ----- start = 04/03/2018 06:00:00 stop = 04/03/2018 08:00:00 title = Real Madrid vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 07:55:00 stop = 04/03/2018 08:25:00 title = The Olympic On The Record
+      Replaces ----- start = 04/03/2018 06:00:00 stop = 04/03/2018 08:00:00 title = Real Madrid vs Fenerbahce Istanbul
+      Replaces ----- start = 04/03/2018 08:00:00 stop = 04/03/2018 09:30:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 08:25:00 stop = 04/03/2018 09:30:00 title = Best of winter olympics / 2018
+      Replaces ----- start = 04/03/2018 08:00:00 stop = 04/03/2018 09:30:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 10:00:00 stop = 04/03/2018 11:00:00 title = Vasaloppet Men
+      Replaces ----- start = 04/03/2018 10:00:00 stop = 04/03/2018 11:00:00 title = The Olympic Series
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 11:00:00 stop = 04/03/2018 13:00:00 title = Vasaloppet Women
+      Replaces ----- start = 04/03/2018 11:00:00 stop = 04/03/2018 12:30:00 title = France vs Norway
+      Replaces ----- start = 04/03/2018 12:30:00 stop = 04/03/2018 14:00:00 title = OFFICIAL FILMS 1964 Innsbruck
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 13:00:00 stop = 04/03/2018 14:30:00 title = Real Cargo vs Metz
+      Replaces ----- start = 04/03/2018 12:30:00 stop = 04/03/2018 14:00:00 title = OFFICIAL FILMS 1964 Innsbruck
+      Replaces ----- start = 04/03/2018 14:00:00 stop = 04/03/2018 15:15:00 title = Qatar vs Japan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 14:30:00 stop = 04/03/2018 16:00:00 title = Rhein Neckar Lowen vs Nantes
+      Replaces ----- start = 04/03/2018 14:00:00 stop = 04/03/2018 15:15:00 title = Qatar vs Japan
+      Replaces ----- start = 04/03/2018 15:15:00 stop = 04/03/2018 17:00:00 title = Real Madrid vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 16:00:00 stop = 04/03/2018 16:30:00 title = Coming of Age
+      Replaces ----- start = 04/03/2018 15:15:00 stop = 04/03/2018 17:00:00 title = Real Madrid vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 16:30:00 stop = 04/03/2018 17:10:00 title = Olympics Today
+      Replaces ----- start = 04/03/2018 15:15:00 stop = 04/03/2018 17:00:00 title = Real Madrid vs Fenerbahce Istanbul
+      Replaces ----- start = 04/03/2018 17:00:00 stop = 04/03/2018 17:30:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 17:10:00 stop = 04/03/2018 19:50:00 title = Cycling Paris
+      Replaces ----- start = 04/03/2018 17:00:00 stop = 04/03/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 04/03/2018 17:30:00 stop = 04/03/2018 19:25:00 title = Real Cargo vs Metz
+      Replaces ----- start = 04/03/2018 19:25:00 stop = 04/03/2018 21:25:00 title = Rhein Neckar Lowen vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 19:50:00 stop = 04/03/2018 20:30:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 04/03/2018 19:25:00 stop = 04/03/2018 21:25:00 title = Rhein Neckar Lowen vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 20:30:00 stop = 04/03/2018 23:00:00 title = PSG vs THW Kiel
+      Replaces ----- start = 04/03/2018 19:25:00 stop = 04/03/2018 21:25:00 title = Rhein Neckar Lowen vs Nantes
+      Replaces ----- start = 04/03/2018 21:25:00 stop = 04/03/2018 23:14:00 title = Krim Mercator vs Rostov
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 23:00:00 stop = 04/03/2018 23:29:00 title = Against All Odds The Petra Majdic story extended version
+      Replaces ----- start = 04/03/2018 21:25:00 stop = 04/03/2018 23:14:00 title = Krim Mercator vs Rostov
+      Replaces ----- start = 04/03/2018 23:14:00 stop = 05/03/2018 01:00:00 title = M 15 km + 15 km Skiathlon
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/03/2018 23:29:00 stop = 05/03/2018 00:05:00 title = M Moguls Qualification
+      Replaces ----- start = 04/03/2018 23:14:00 stop = 05/03/2018 01:00:00 title = M 15 km + 15 km Skiathlon
+.g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 06/03/2018 00:05:00 stop = 06/03/2018 01:00:00 title = VIVA
+      Added before - start = 06/03/2018 01:15:00 stop = 06/03/2018 01:45:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 01:00:00 stop = 06/03/2018 01:30:00 title = Olympics Today
+      Replaces ----- start = 06/03/2018 01:15:00 stop = 06/03/2018 01:45:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 01:30:00 stop = 06/03/2018 02:00:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 06/03/2018 01:15:00 stop = 06/03/2018 01:45:00 title = Olympics Today
+      Replaces ----- start = 06/03/2018 01:45:00 stop = 06/03/2018 03:15:00 title = Real Cargo vs Metz
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 02:00:00 stop = 06/03/2018 04:30:00 title = PSG vs THW Kiel
+      Replaces ----- start = 06/03/2018 01:45:00 stop = 06/03/2018 03:15:00 title = Real Cargo vs Metz
+      Replaces ----- start = 06/03/2018 03:15:00 stop = 06/03/2018 04:45:00 title = Rhein Neckar Lowen vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 04:30:00 stop = 06/03/2018 06:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 06/03/2018 03:15:00 stop = 06/03/2018 04:45:00 title = Rhein Neckar Lowen vs Nantes
+      Replaces ----- start = 06/03/2018 04:45:00 stop = 06/03/2018 06:15:00 title = Krim Mercator vs Rostov
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 06:00:00 stop = 06/03/2018 07:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 06/03/2018 04:45:00 stop = 06/03/2018 06:15:00 title = Krim Mercator vs Rostov
+      Replaces ----- start = 06/03/2018 06:15:00 stop = 06/03/2018 08:00:00 title = Iraq vs Malaysia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 07:00:00 stop = 06/03/2018 09:00:00 title = Jordan vs Saudi Arabia
+      Replaces ----- start = 06/03/2018 06:15:00 stop = 06/03/2018 08:00:00 title = Iraq vs Malaysia
+      Replaces ----- start = 06/03/2018 08:00:00 stop = 06/03/2018 08:30:00 title = The Olympic On The Record
+      Replaces ----- start = 06/03/2018 08:30:00 stop = 06/03/2018 09:30:00 title = Best of winter olympics / 2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 09:00:00 stop = 06/03/2018 09:30:00 title = Olympics Today
+      Replaces ----- start = 06/03/2018 08:30:00 stop = 06/03/2018 09:30:00 title = Best of winter olympics / 2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 09:30:00 stop = 06/03/2018 11:00:00 title = FC Barcelona vs Real Madrid
+      Replaces ----- start = 06/03/2018 09:30:00 stop = 06/03/2018 10:00:00 title = Olympics Today
+      Replaces ----- start = 06/03/2018 10:00:00 stop = 06/03/2018 11:00:00 title = Vasaloppet Men
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 11:00:00 stop = 06/03/2018 12:30:00 title = PSG vs THW Kiel
+      Replaces ----- start = 06/03/2018 11:00:00 stop = 06/03/2018 13:00:00 title = Vasaloppet Women
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 12:30:00 stop = 06/03/2018 14:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 06/03/2018 11:00:00 stop = 06/03/2018 13:00:00 title = Vasaloppet Women
+      Replaces ----- start = 06/03/2018 13:00:00 stop = 06/03/2018 14:30:00 title = Real Cargo vs Metz
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 14:00:00 stop = 06/03/2018 15:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 06/03/2018 13:00:00 stop = 06/03/2018 14:30:00 title = Real Cargo vs Metz
+      Replaces ----- start = 06/03/2018 14:30:00 stop = 06/03/2018 16:05:00 title = Rhein Neckar Lowen vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 15:00:00 stop = 06/03/2018 15:35:00 title = M Moguls Qualification
+      Replaces ----- start = 06/03/2018 14:30:00 stop = 06/03/2018 16:05:00 title = Rhein Neckar Lowen vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 15:35:00 stop = 06/03/2018 16:00:00 title = Winter Olympic Games
+      Replaces ----- start = 06/03/2018 14:30:00 stop = 06/03/2018 16:05:00 title = Rhein Neckar Lowen vs Nantes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 16:00:00 stop = 06/03/2018 16:30:00 title = Camps to Champs
+      Replaces ----- start = 06/03/2018 14:30:00 stop = 06/03/2018 16:05:00 title = Rhein Neckar Lowen vs Nantes
+      Replaces ----- start = 06/03/2018 16:05:00 stop = 06/03/2018 16:30:00 title = Coming of Age
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 16:30:00 stop = 06/03/2018 17:15:00 title = Olympics Today
+      Replaces ----- start = 06/03/2018 16:30:00 stop = 06/03/2018 17:20:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 17:15:00 stop = 06/03/2018 19:00:00 title = Cycling Paris
+      Replaces ----- start = 06/03/2018 16:30:00 stop = 06/03/2018 17:20:00 title = Olympics Today
+      Replaces ----- start = 06/03/2018 17:20:00 stop = 06/03/2018 19:50:00 title = Cycling Paris
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 19:00:00 stop = 06/03/2018 20:30:00 title = OFFICIAL FILMS 1956 Cortina
+      Replaces ----- start = 06/03/2018 17:20:00 stop = 06/03/2018 19:50:00 title = Cycling Paris
+      Replaces ----- start = 06/03/2018 19:50:00 stop = 06/03/2018 20:30:00 title = Golden moments of the Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 20:30:00 stop = 06/03/2018 22:00:00 title = KSA vs Iran
+      Replaces ----- start = 06/03/2018 20:30:00 stop = 06/03/2018 23:00:00 title = PSG vs THW Kiel
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 06/03/2018 22:00:00 stop = 07/03/2018 00:00:00 title = W Individual NH
+      Replaces ----- start = 06/03/2018 20:30:00 stop = 06/03/2018 23:00:00 title = PSG vs THW Kiel
+      Replaces ----- start = 06/03/2018 23:29:00 stop = 07/03/2018 00:05:00 title = M Moguls Qualification
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 00:00:00 stop = 07/03/2018 01:00:00 title = The Olympic Series Stars of SaltLake 2002 Vol.4
+      Replaces ----- start = 06/03/2018 23:29:00 stop = 07/03/2018 00:05:00 title = M Moguls Qualification
+      Replaces ----- start = 07/03/2018 00:05:00 stop = 07/03/2018 01:00:00 title = VIVA
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 01:30:00 stop = 07/03/2018 03:15:00 title = OAR vs Switzerland
+      Replaces ----- start = 07/03/2018 01:30:00 stop = 07/03/2018 02:00:00 title = Golden moments of the Olympic Games
+      Replaces ----- start = 07/03/2018 02:00:00 stop = 07/03/2018 04:30:00 title = PSG vs THW Kiel
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 03:15:00 stop = 07/03/2018 04:45:00 title = OFFICIAL FILMS 1956 Cortina
+      Replaces ----- start = 07/03/2018 02:00:00 stop = 07/03/2018 04:30:00 title = PSG vs THW Kiel
+      Replaces ----- start = 07/03/2018 04:30:00 stop = 07/03/2018 06:00:00 title = M Heat 3 & 4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 04:45:00 stop = 07/03/2018 06:15:00 title = PSG vs THW Kiel
+      Replaces ----- start = 07/03/2018 04:30:00 stop = 07/03/2018 06:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 07/03/2018 06:00:00 stop = 07/03/2018 07:00:00 title = M Heat 3 & 4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 06:15:00 stop = 07/03/2018 08:00:00 title = Australia vs Syria
+      Replaces ----- start = 07/03/2018 06:00:00 stop = 07/03/2018 07:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 07/03/2018 07:00:00 stop = 07/03/2018 09:00:00 title = Jordan vs Saudi Arabia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 08:00:00 stop = 07/03/2018 09:00:00 title = The Olympic Series Stars of SaltLake 2002 Vol.4
+      Replaces ----- start = 07/03/2018 07:00:00 stop = 07/03/2018 09:00:00 title = Jordan vs Saudi Arabia
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 09:30:00 stop = 07/03/2018 11:15:00 title = OAR vs Switzerland
+      Replaces ----- start = 07/03/2018 09:30:00 stop = 07/03/2018 11:00:00 title = FC Barcelona vs Real Madrid
+      Replaces ----- start = 07/03/2018 11:00:00 stop = 07/03/2018 12:30:00 title = PSG vs THW Kiel
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 11:15:00 stop = 07/03/2018 13:00:00 title = OFFICIAL FILMS 1956 Cortina
+      Replaces ----- start = 07/03/2018 11:00:00 stop = 07/03/2018 12:30:00 title = PSG vs THW Kiel
+      Replaces ----- start = 07/03/2018 12:30:00 stop = 07/03/2018 14:00:00 title = M Heat 3 & 4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 13:00:00 stop = 07/03/2018 14:30:00 title = PSG vs THW Kiel
+      Replaces ----- start = 07/03/2018 12:30:00 stop = 07/03/2018 14:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 07/03/2018 14:00:00 stop = 07/03/2018 15:00:00 title = M Heat 3 & 4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/03/2018 14:30:00 stop = 07/03/2018 16:30:00 title = W Individual NH
+      Replaces ----- start = 07/03/2018 14:00:00 stop = 07/03/2018 15:00:00 title = M Heat 3 & 4
+      Replaces ----- start = 07/03/2018 15:00:00 stop = 07/03/2018 15:35:00 title = M Moguls Qualification
+      Replaces ----- start = 07/03/2018 15:35:00 stop = 07/03/2018 16:00:00 title = Winter Olympic Games
+      Replaces ----- start = 07/03/2018 16:00:00 stop = 07/03/2018 16:30:00 title = Camps to Champs
 ..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/03/2018 10:20:00 stop = 10/03/2018 11:11:00 title = Крёстная
-      Replaces ----- start = 10/03/2018 10:20:00 stop = 10/03/2018 13:45:00 title = Крёстная
+      show with ---- start = 07/03/2018 19:00:00 stop = 07/03/2018 20:45:00 title = OAR vs Switzerland
+      Replaces ----- start = 07/03/2018 19:00:00 stop = 07/03/2018 20:30:00 title = OFFICIAL FILMS 1956 Cortina
+      Replaces ----- start = 07/03/2018 20:30:00 stop = 07/03/2018 22:00:00 title = KSA vs Iran
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/03/2018 11:11:00 stop = 10/03/2018 12:02:00 title = Крёстная
-      Replaces ----- start = 10/03/2018 10:20:00 stop = 10/03/2018 13:45:00 title = Крёстная
+      show with ---- start = 07/03/2018 20:45:00 stop = 07/03/2018 22:10:00 title = W Moguls
+      Replaces ----- start = 07/03/2018 20:30:00 stop = 07/03/2018 22:00:00 title = KSA vs Iran
+      Replaces ----- start = 07/03/2018 22:00:00 stop = 08/03/2018 00:00:00 title = W Individual NH
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/03/2018 12:02:00 stop = 10/03/2018 12:53:00 title = Крёстная
-      Replaces ----- start = 10/03/2018 10:20:00 stop = 10/03/2018 13:45:00 title = Крёстная
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 12:53:00 stop = 10/03/2018 13:45:00 title = Крёстная
-      Replaces ----- start = 10/03/2018 10:20:00 stop = 10/03/2018 13:45:00 title = Крёстная
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 13:45:00 stop = 10/03/2018 14:48:00 title = 40+, или Геометрия любви
-      Replaces ----- start = 10/03/2018 13:45:00 stop = 10/03/2018 18:00:00 title = 40+, или Геометрия любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 14:48:00 stop = 10/03/2018 15:52:00 title = 40+, или Геометрия любви
-      Replaces ----- start = 10/03/2018 13:45:00 stop = 10/03/2018 18:00:00 title = 40+, или Геометрия любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 15:52:00 stop = 10/03/2018 16:56:00 title = 40+, или Геометрия любви
-      Replaces ----- start = 10/03/2018 13:45:00 stop = 10/03/2018 18:00:00 title = 40+, или Геометрия любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 16:56:00 stop = 10/03/2018 18:00:00 title = 40+, или Геометрия любви
-      Replaces ----- start = 10/03/2018 13:45:00 stop = 10/03/2018 18:00:00 title = 40+, или Геометрия любви
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 18:00:00 stop = 10/03/2018 21:10:00 title = 6 кадров
-      Replaces ----- start = 10/03/2018 18:00:00 stop = 10/03/2018 19:00:00 title = 6 кадров
-      Replaces ----- start = 10/03/2018 19:00:00 stop = 10/03/2018 23:20:00 title = Великолепный век
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 21:10:00 stop = 10/03/2018 23:20:00 title = Великолепный век
-      Replaces ----- start = 10/03/2018 19:00:00 stop = 10/03/2018 23:20:00 title = Великолепный век
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 23:20:00 stop = 11/03/2018 01:27:00 title = 6 кадров
-      Replaces ----- start = 10/03/2018 23:20:00 stop = 11/03/2018 00:30:00 title = 6 кадров
-nnnnnnnnnnnnnn
-
-(  13/24  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii....................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
-
-(  14/24  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii..............................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnn
-
-(  15/24  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  16/24  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  17/24  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  18/24  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  19/24  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii........................................................................................................................nnnnnnnnnnn
-
-(  20/24  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  21/24  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  22/24  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  23/24  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  24/24  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..........................................................
+      show with ---- start = 07/03/2018 22:10:00 stop = 07/03/2018 23:59:00 title = M Alpine Combined Downhill
+      Replaces ----- start = 07/03/2018 22:00:00 stop = 08/03/2018 00:00:00 title = W Individual NH
 
    Summary for update of       OlympicChannel
-     no changes, no update necessary !
-     unchanged shows inspected 58
+     missing shows added       1
+     changed shows updated     50
+     new shows added           0
+     unchanged shows inspected 6
      total after update        92
 
 
 
-Job finished at 03/03/2018 23:15:03 done in 14m 53s
+Job finished at 04/03/2018 11:05:16 done in 5m 0s
