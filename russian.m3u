@@ -29,6 +29,8 @@ http://stream.moskvatv.com/friday/friday/playlist.m3u8
 http://stream.moskvatv.com/yutv/yutv/playlist.m3u8
 #EXTINF:-1 tvg-ID="Звезда" tvg-name="Звезда",Звезда
 http://stream.moskvatv.com/zvezda/zvezda/playlist.m3u8
+#EXTINF:-1 tvg-ID="Euronews" tvg-name="Euronews",Euronews
+http://stream.moskvatv.com/euronews/euronews/playlist.m3u8
 #EXTINF:-1 tvg-ID="МИР" tvg-name="МИР",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-ID="РБК" tvg-name="РБК",РБК
@@ -45,5 +47,7 @@ https://secure-streams.akamaized.net/rt/index2500.m3u8
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1 tvg-ID="Discovery Channel HD" tvg-name="Discovery Channel HD",Discovery Channel HD
 http://stream.moskvatv.com/discovery/discovery/playlist.m3u8
+#EXTINF:-1 tvg-ID="Discovery Science HD" tvg-name="Discovery Science HD",Discovery Science HD
+http://stream.moskvatv.com/discoverys/discoverys/playlist.m3u8
 #EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="OlympicChannel" tvg-logo="https://www.olympicchannel.com/static/images/logo-oc.svg",OlympicChannel
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
