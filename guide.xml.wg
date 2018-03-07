@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Первый">
+    <display-name lang="ru">Первый</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Россия 1">
+    <display-name lang="ru">Россия 1</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Россия 24">
+    <display-name lang="ru">Россия 24</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="НТВ">
+    <display-name lang="ru">НТВ</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="ТНТ">
+    <display-name lang="ru">ТНТ</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="СТС">
+    <display-name lang="ru">СТС</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="РЕН ТВ">
+    <display-name lang="ru">РЕН ТВ</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="ТНТ4">
+    <display-name lang="ru">ТНТ4</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Че">
+    <display-name lang="ru">Че</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="ТВ-3">
+    <display-name lang="ru">ТВ-3</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="ТВ Центр">
+    <display-name lang="ru">ТВ Центр</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Домашний">
+    <display-name lang="ru">Домашний</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Пятница">
+    <display-name lang="ru">Пятница</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Ю">
+    <display-name lang="ru">Ю</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Звезда">
+    <display-name lang="ru">Звезда</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="EuroNews">
+    <display-name lang="ru">EuroNews</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="МИР">
+    <display-name lang="ru">МИР</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="РБК">
+    <display-name lang="ru">РБК</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="ru">Fashion TV</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Ru.TV">
+    <display-name lang="ru">Ru.TV</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="1HD">
+    <display-name lang="ru">1HD</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="RT">
+    <display-name lang="ru">RT</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="RTД">
+    <display-name lang="ru">RTД</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="ru">Discovery Channel HD</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="ru">Discovery Science HD</display-name>
+    <url>http://www.tviz.tv</url>
+  </channel>
+  <channel id="OlympicChannel">
+    <display-name lang="en">OlympicChannel</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20180307000400 +0300" stop="20180307010000 +0300" channel="OlympicChannel">
+    <title lang="en">The Olympic Series Stars of Vancouver 2010</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307010000 +0300" stop="20180307012900 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307012900 +0300" stop="20180307020100 +0300" channel="OlympicChannel">
+    <title lang="en">Winter Olympic Games</title>
+    <sub-title lang="en">Best Of Athletes</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180307020100 +0300" stop="20180307023000 +0300" channel="OlympicChannel">
+    <title lang="en">Winter Olympic Games</title>
+    <sub-title lang="en">Best Of Countries</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180307023000 +0300" stop="20180307041500 +0300" channel="OlympicChannel">
+    <title lang="en">Korea Republic vs Vietnam</title>
+    <sub-title lang="en">AFC U-23 Championship - China 2018 Group Stages</sub-title>
+    <category lang="en">AFC U-22 Asian Cup</category>
+  </programme>
+  <programme start="20180307041500 +0300" stop="20180307044200 +0300" channel="OlympicChannel">
+    <title lang="en">Golden moments of the Olympic Games</title>
+    <sub-title lang="en">Winter Heroes, clean version 2012</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307044200 +0300" stop="20180307060600 +0300" channel="OlympicChannel">
+    <title lang="en">W Moguls</title>
+    <sub-title lang="en">Freestyle Skiing - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307060600 +0300" stop="20180307063300 +0300" channel="OlympicChannel">
+    <title lang="en">Golden moments of the Olympic Games</title>
+    <sub-title lang="en">Special moments of the OG of Vancouver 2010, clean version 201</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307063300 +0300" stop="20180307083000 +0300" channel="OlympicChannel">
+    <title lang="en">M Alpine Combined Downhill</title>
+    <sub-title lang="en">Alpine Skiing - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307083000 +0300" stop="20180307092800 +0300" channel="OlympicChannel">
+    <title lang="en">The Olympic Series Stars of Vancouver 2010</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307092800 +0300" stop="20180307100000 +0300" channel="OlympicChannel">
+    <title lang="en">Winter Olympic Games</title>
+    <sub-title lang="en">Best Of Athletes</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180307100000 +0300" stop="20180307103000 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307103000 +0300" stop="20180307121000 +0300" channel="OlympicChannel">
+    <title lang="en">OAR vs Switzerland</title>
+    <sub-title lang="en">Mixed Doubles Semifinal 2 - Curling- 2018 Winter Olympics - PyeongChang South K</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307121000 +0300" stop="20180307123900 +0300" channel="OlympicChannel">
+    <title lang="en">Patagonia Dreaming</title>
+    <sub-title lang="en">Top Teams Men</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307123900 +0300" stop="20180307140300 +0300" channel="OlympicChannel">
+    <title lang="en">W Moguls</title>
+    <sub-title lang="en">Freestyle Skiing - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307140300 +0300" stop="20180307155600 +0300" channel="OlympicChannel">
+    <title lang="en">M Alpine Combined Downhill</title>
+    <sub-title lang="en">Alpine Skiing - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307155600 +0300" stop="20180307162500 +0300" channel="OlympicChannel">
+    <title lang="en">Flame Catchers</title>
+    <sub-title lang="en">Beijing's 2008 legacy lives on in new generation of boxers and shuttlers</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307162500 +0300" stop="20180307170500 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307170500 +0300" stop="20180307190000 +0300" channel="OlympicChannel">
+    <title lang="en">Cycling Paris</title>
+    <sub-title lang="en">Nice 2018 Stage 4 - La Fouillouse/ Saint-Etienne</sub-title>
+    <category lang="en">Cycling</category>
+  </programme>
+  <programme start="20180307190000 +0300" stop="20180307193000 +0300" channel="OlympicChannel">
+    <title lang="en">Golden moments of the Olympic Games</title>
+    <sub-title lang="en">Winter Heroes, clean version 2012</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307193000 +0300" stop="20180307204500 +0300" channel="OlympicChannel">
+    <title lang="en">OFFICIAL FILMS 1976 Innsbruck White Rock</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307204500 +0300" stop="20180307220500 +0300" channel="OlympicChannel">
+    <title lang="en">Korea vs Oman</title>
+    <sub-title lang="en">Asian Men's Handball Championship 2018</sub-title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20180307220500 +0300" stop="20180307224200 +0300" channel="OlympicChannel">
+    <title lang="en">M Moguls Qualification</title>
+    <sub-title lang="en">Freestyle Skiing - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180307224200 +0300" stop="20180308003000 +0300" channel="OlympicChannel">
+    <title lang="en">Cesson vs Nantes Handball</title>
+    <sub-title lang="en">French Stars League 2017/18</sub-title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20180308224200 +0300" stop="20180309003000 +0300" channel="OlympicChannel">
+    <title lang="en">Cesson vs Nantes Handball</title>
+    <sub-title lang="en">French Stars League 2017/18</sub-title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20180309003000 +0300" stop="20180309012500 +0300" channel="OlympicChannel">
+    <title lang="en">Transform My Meal</title>
+    <sub-title lang="en">Italy</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309012500 +0300" stop="20180309015800 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309015800 +0300" stop="20180309034500 +0300" channel="OlympicChannel">
+    <title lang="en">Uzbekistan vs China PR</title>
+    <sub-title lang="en">AFC U-23 Championship - China 2018 Group Stages</sub-title>
+    <category lang="en">AFC U-22 Asian Cup</category>
+  </programme>
+  <programme start="20180309034500 +0300" stop="20180309050000 +0300" channel="OlympicChannel">
+    <title lang="en">OFFICIAL FILMS 1976 Innsbruck White Rock</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309050000 +0300" stop="20180309061700 +0300" channel="OlympicChannel">
+    <title lang="en">Korea vs Oman</title>
+    <sub-title lang="en">Asian Men's Handball Championship 2018</sub-title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20180309061700 +0300" stop="20180309065500 +0300" channel="OlympicChannel">
+    <title lang="en">M Moguls Qualification</title>
+    <sub-title lang="en">Freestyle Skiing - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309065500 +0300" stop="20180309082500 +0300" channel="OlympicChannel">
+    <title lang="en">Cesson vs Nantes Handball</title>
+    <sub-title lang="en">French Stars League 2017/18</sub-title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20180309082500 +0300" stop="20180309094500 +0300" channel="OlympicChannel">
+    <title lang="en">OFFICIAL FILMS 1956 Cortina</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309094500 +0300" stop="20180309102000 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309102000 +0300" stop="20180309123000 +0300" channel="OlympicChannel">
+    <title lang="en">W Slopestyle</title>
+    <sub-title lang="en">Snowboard  - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309123000 +0300" stop="20180309140000 +0300" channel="OlympicChannel">
+    <title lang="en">OFFICIAL FILMS 1964 Innsbruck</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309140000 +0300" stop="20180309143000 +0300" channel="OlympicChannel">
+    <title lang="en">Flame Catchers</title>
+    <sub-title lang="en">Beijing's 2008 legacy lives on in new generation of boxers and shuttlers</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309143000 +0300" stop="20180309160000 +0300" channel="OlympicChannel">
+    <title lang="en">Cesson vs Nantes Handball</title>
+    <sub-title lang="en">French Stars League 2017/18</sub-title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20180309160000 +0300" stop="20180309163000 +0300" channel="OlympicChannel">
+    <title lang="en">Against All Odds</title>
+    <sub-title lang="en">The Bill Schuffenhauer story (extended version)</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309163000 +0300" stop="20180309171000 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309171000 +0300" stop="20180309191300 +0300" channel="OlympicChannel">
+    <title lang="en">Cycling Paris</title>
+    <sub-title lang="en">Nice 2018 Stage 5 - Salon-De-Provence/ Sisteron</sub-title>
+    <category lang="en">Cycling</category>
+  </programme>
+  <programme start="20180309191300 +0300" stop="20180309212000 +0300" channel="OlympicChannel">
+    <title lang="en">OAR vs NOR</title>
+    <sub-title lang="en">Mixed Doubles Bronze Medal - Curling- 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309212000 +0300" stop="20180309223000 +0300" channel="OlympicChannel">
+    <title lang="en">W Heat 3 &amp; 4</title>
+    <sub-title lang="en">Luge - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180309223000 +0300" stop="20180310013000 +0300" channel="OlympicChannel">
+    <title lang="en">Real Madrid vs Panathinaikos Athens</title>
+    <sub-title lang="en">EuroLeague Basketball 2017/2018</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20180310223000 +0300" stop="20180311013000 +0300" channel="OlympicChannel">
+    <title lang="en">Real Madrid vs Panathinaikos Athens</title>
+    <sub-title lang="en">EuroLeague Basketball 2017/2018</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20180311013000 +0300" stop="20180311020000 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311020000 +0300" stop="20180311031500 +0300" channel="OlympicChannel">
+    <title lang="en">W 1500 m</title>
+    <sub-title lang="en">Speed Skating - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311031500 +0300" stop="20180311034500 +0300" channel="OlympicChannel">
+    <title lang="en">Golden moments of the Olympic Games</title>
+    <sub-title lang="en">A Winter's Tale, clean version 2012</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311034500 +0300" stop="20180311053000 +0300" channel="OlympicChannel">
+    <title lang="en">Oman vs Qatar</title>
+    <sub-title lang="en">AFC U-23 Championship - China 2018 Group Stages</sub-title>
+    <category lang="en">AFC U-22 Asian Cup</category>
+  </programme>
+  <programme start="20180311053000 +0300" stop="20180311060000 +0300" channel="OlympicChannel">
+    <title lang="en">Golden moments of the Olympic Games</title>
+    <sub-title lang="en">Special moments of the OG of Vancouver 2010, clean version 201</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311060000 +0300" stop="20180311070000 +0300" channel="OlympicChannel">
+    <title lang="en">W Heat 3 &amp; 4</title>
+    <sub-title lang="en">Luge - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311070000 +0300" stop="20180311094500 +0300" channel="OlympicChannel">
+    <title lang="en">Real Madrid vs Panathinaikos Athens</title>
+    <sub-title lang="en">EuroLeague Basketball 2017/2018</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20180311094500 +0300" stop="20180311101500 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311101500 +0300" stop="20180311113000 +0300" channel="OlympicChannel">
+    <title lang="en">W 1500 m</title>
+    <sub-title lang="en">Speed Skating - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311113000 +0300" stop="20180311120000 +0300" channel="OlympicChannel">
+    <title lang="en">Golden moments of the Olympic Games</title>
+    <sub-title lang="en">A Winter's Tale, clean version 2012</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311120000 +0300" stop="20180311140000 +0300" channel="OlympicChannel">
+    <title lang="en">CAN vs SUI</title>
+    <sub-title lang="en">Mixed Doubles Gold Medal - Curling- 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311140000 +0300" stop="20180311143000 +0300" channel="OlympicChannel">
+    <title lang="en">Winter Olympic Games</title>
+    <sub-title lang="en">Best Of Countries</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180311143000 +0300" stop="20180311163000 +0300" channel="OlympicChannel">
+    <title lang="en">Real Madrid vs Panathinaikos Athens</title>
+    <sub-title lang="en">EuroLeague Basketball 2017/2018</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+  <programme start="20180311163000 +0300" stop="20180311171500 +0300" channel="OlympicChannel">
+    <title lang="en">Olympics Today</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311171500 +0300" stop="20180311190500 +0300" channel="OlympicChannel">
+    <title lang="en">Cycling Paris</title>
+    <sub-title lang="en">Nice 2018 Stage 6 - Sisteron/Vence</sub-title>
+    <category lang="en">Cycling</category>
+  </programme>
+  <programme start="20180311190500 +0300" stop="20180311204500 +0300" channel="OlympicChannel">
+    <title lang="en">M Snowboard Cross Seeding Round</title>
+    <sub-title lang="en">Snowboard  - 2018 Winter Olympics - PyeongChang South Korea</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180311204500 +0300" stop="20180311220000 +0300" channel="OlympicChannel">
+    <title lang="en">India vs New Zealand</title>
+    <sub-title lang="en">Asian Men's Handball Championship 2018</sub-title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20180311220000 +0300" stop="20180311223000 +0300" channel="OlympicChannel">
+    <title lang="en">Winter Olympic Games</title>
+    <sub-title lang="en">Best Of Athletes</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180311223000 +0300" stop="20180311230000 +0300" channel="OlympicChannel">
+    <title lang="en">Winter Olympic Games</title>
+    <sub-title lang="en">Best Of Countries</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180311230000 +0300" stop="20180311235900 +0300" channel="OlympicChannel">
+    <title lang="en">FC Barcelona vs Crvena Zvezda</title>
+    <sub-title lang="en">EuroLeague Basketball 2017/2018</sub-title>
+    <category lang="en">Basketball - Euroleague - (Women)</category>
+  </programme>
+</tv>
