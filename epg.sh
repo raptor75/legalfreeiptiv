@@ -5,12 +5,15 @@ git pull
 
 /data/epg/.wg++/run.sh > /data/legalfreeiptv/wgrun.log
 
-#wget https://www.teleguide.info/download/new3/xmltv.xml.gz
-#gunzip xmltv.xml.gz
-#rm guide.xml
-#mv xmltv.xml guide.xml
+wget https://www.teleguide.info/download/new3/xmltv.xml.gz
+gunzip xmltv.xml.gz
+mv guide.xml guide.xml.wg
+mv xmltv.xml guide.xml.tg
+cp guide.xml.tg guide.xml
 
 git add guide.xml
+git add guide.xml.wg
+git add guide.xml.tg
 git add wgrun.log
 git commit -m "update epg"
 git push -u origin master
