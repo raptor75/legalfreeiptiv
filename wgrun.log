@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 06/03/2018 13:17:48
+Job started at 07/03/2018 01:00:08
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -247,13 +247,59 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   1/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..............................................................
+ii
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+iiiii.............c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 10:30:00 stop = 08/03/2018 12:10:00 title = OAR vs Switzerland
+      Replaces ----- start = 08/03/2018 10:30:00 stop = 08/03/2018 12:15:00 title = OAR vs Switzerland
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 12:10:00 stop = 08/03/2018 12:39:00 title = Patagonia Dreaming
+      Replaces ----- start = 08/03/2018 10:30:00 stop = 08/03/2018 12:15:00 title = OAR vs Switzerland
+      Replaces ----- start = 08/03/2018 12:15:00 stop = 08/03/2018 12:44:00 title = Patagonia Dreaming
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 12:39:00 stop = 08/03/2018 14:03:00 title = W Moguls
+      Replaces ----- start = 08/03/2018 12:15:00 stop = 08/03/2018 12:44:00 title = Patagonia Dreaming
+      Replaces ----- start = 08/03/2018 12:44:00 stop = 08/03/2018 14:08:00 title = W Moguls
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 14:03:00 stop = 08/03/2018 15:56:00 title = M Alpine Combined Downhill
+      Replaces ----- start = 08/03/2018 12:44:00 stop = 08/03/2018 14:08:00 title = W Moguls
+      Replaces ----- start = 08/03/2018 14:08:00 stop = 08/03/2018 16:01:00 title = M Alpine Combined Downhill
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 15:56:00 stop = 08/03/2018 16:25:00 title = Flame Catchers
+      Replaces ----- start = 08/03/2018 14:08:00 stop = 08/03/2018 16:01:00 title = M Alpine Combined Downhill
+      Replaces ----- start = 08/03/2018 16:01:00 stop = 08/03/2018 16:30:00 title = Flame Catchers
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 16:25:00 stop = 08/03/2018 17:05:00 title = Olympics Today
+      Replaces ----- start = 08/03/2018 16:01:00 stop = 08/03/2018 16:30:00 title = Flame Catchers
+      Replaces ----- start = 08/03/2018 16:30:00 stop = 08/03/2018 17:10:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 08/03/2018 17:05:00 stop = 08/03/2018 19:00:00 title = Cycling Paris
+      Replaces ----- start = 08/03/2018 16:30:00 stop = 08/03/2018 17:10:00 title = Olympics Today
+      Replaces ----- start = 08/03/2018 17:10:00 stop = 08/03/2018 19:00:00 title = Cycling Paris
+.........................
 
    Summary for update of       OlympicChannel
-     no changes, no update necessary !
-     unchanged shows inspected 62
-     total after update        83
+     missing shows added       0
+     changed shows updated     7
+     new shows added           0
+     unchanged shows inspected 38
+     total after update        66
 
 
 
-Job finished at 06/03/2018 13:18:45 done in 56s
+Job finished at 07/03/2018 01:01:17 done in 1m 9s
