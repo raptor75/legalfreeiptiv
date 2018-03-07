@@ -7,7 +7,8 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 07/03/2018 01:00:08
+Job started at 07/03/2018 10:19:47
+found: /data/epg/.wg++/siteini.pack/Russia/kartina.tv.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -46,15 +47,45 @@ Found existing channel (xmltv_id=OlympicChannel) in the config file
 
 Group (0) :
 update requested for - 26 - out of - 26 - channels for 8 day(s)
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii
-Unable to update channel Первый
-Generic syntax exception:
-   message: 
-no index page data received from Первый
-unable to update channel, try again later
-Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+(   1/26  ) KARTINA.TV -- chan. (xmltv_id=Первый) -- mode Incremental
+
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii
 Unable to update channel Россия 1
 Generic syntax exception:
@@ -62,7 +93,7 @@ Generic syntax exception:
 no index page data received from Россия 1
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
 iiiiiiii
 Unable to update channel Россия 24
 Generic syntax exception:
@@ -70,7 +101,7 @@ Generic syntax exception:
 no index page data received from Россия 24
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=НТВ HD) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=НТВ HD) -- mode Incremental
 iiiiiiii
 Unable to update channel НТВ HD
 Generic syntax exception:
@@ -78,7 +109,7 @@ Generic syntax exception:
 no index page data received from НТВ HD
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiiiii
 Unable to update channel ТНТ
 Generic syntax exception:
@@ -86,7 +117,7 @@ Generic syntax exception:
 no index page data received from ТНТ
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiiiii
 Unable to update channel СТС
 Generic syntax exception:
@@ -94,7 +125,7 @@ Generic syntax exception:
 no index page data received from СТС
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 iiiiiiii
 Unable to update channel РЕН ТВ
 Generic syntax exception:
@@ -102,7 +133,7 @@ Generic syntax exception:
 no index page data received from РЕН ТВ
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii
 Unable to update channel ТНТ4
 Generic syntax exception:
@@ -110,7 +141,7 @@ Generic syntax exception:
 no index page data received from ТНТ4
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
 iiiiiiii
 Unable to update channel Че
 Generic syntax exception:
@@ -118,7 +149,7 @@ Generic syntax exception:
 no index page data received from Че
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii
 Unable to update channel ТВ-3
 Generic syntax exception:
@@ -126,7 +157,7 @@ Generic syntax exception:
 no index page data received from ТВ-3
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii
 Unable to update channel ТВ Центр
 Generic syntax exception:
@@ -134,7 +165,7 @@ Generic syntax exception:
 no index page data received from ТВ Центр
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii
 Unable to update channel Домашний
 Generic syntax exception:
@@ -142,7 +173,7 @@ Generic syntax exception:
 no index page data received from Домашний
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiiiii
 Unable to update channel Пятница
 Generic syntax exception:
@@ -150,7 +181,7 @@ Generic syntax exception:
 no index page data received from Пятница
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
 iiiiiiii
 Unable to update channel Ю
 Generic syntax exception:
@@ -158,7 +189,7 @@ Generic syntax exception:
 no index page data received from Ю
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
 iiiiiiii
 Unable to update channel Звезда
 Generic syntax exception:
@@ -166,7 +197,7 @@ Generic syntax exception:
 no index page data received from Звезда
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 iiiiiiii
 Unable to update channel EuroNews
 Generic syntax exception:
@@ -174,7 +205,7 @@ Generic syntax exception:
 no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
 iiiiiiii
 Unable to update channel МИР
 Generic syntax exception:
@@ -182,7 +213,7 @@ Generic syntax exception:
 no index page data received from МИР
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 iiiiiiii
 Unable to update channel РБК
 Generic syntax exception:
@@ -190,7 +221,7 @@ Generic syntax exception:
 no index page data received from РБК
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 iiiiiiii
 Unable to update channel Fashion TV
 Generic syntax exception:
@@ -198,7 +229,7 @@ Generic syntax exception:
 no index page data received from Fashion TV
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
 iiiiiiii
 Unable to update channel Ru.TV
 Generic syntax exception:
@@ -206,7 +237,7 @@ Generic syntax exception:
 no index page data received from Ru.TV
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 iiiiiiii
 Unable to update channel 1HD
 Generic syntax exception:
@@ -214,7 +245,7 @@ Generic syntax exception:
 no index page data received from 1HD
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
 iiiiiiii
 Unable to update channel RT
 Generic syntax exception:
@@ -222,7 +253,7 @@ Generic syntax exception:
 no index page data received from RT
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
 iiiiiiii
 Unable to update channel RTД
 Generic syntax exception:
@@ -230,7 +261,7 @@ Generic syntax exception:
 no index page data received from RTД
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
 iiiiiiii
 Unable to update channel Discovery Channel HD
 Generic syntax exception:
@@ -238,7 +269,7 @@ Generic syntax exception:
 no index page data received from Discovery Channel HD
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
 iiiiiiii
 Unable to update channel Discovery Science HD
 Generic syntax exception:
@@ -246,60 +277,16 @@ Generic syntax exception:
 no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
-(   1/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-ii
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-iiiii.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 10:30:00 stop = 08/03/2018 12:10:00 title = OAR vs Switzerland
-      Replaces ----- start = 08/03/2018 10:30:00 stop = 08/03/2018 12:15:00 title = OAR vs Switzerland
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 12:10:00 stop = 08/03/2018 12:39:00 title = Patagonia Dreaming
-      Replaces ----- start = 08/03/2018 10:30:00 stop = 08/03/2018 12:15:00 title = OAR vs Switzerland
-      Replaces ----- start = 08/03/2018 12:15:00 stop = 08/03/2018 12:44:00 title = Patagonia Dreaming
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 12:39:00 stop = 08/03/2018 14:03:00 title = W Moguls
-      Replaces ----- start = 08/03/2018 12:15:00 stop = 08/03/2018 12:44:00 title = Patagonia Dreaming
-      Replaces ----- start = 08/03/2018 12:44:00 stop = 08/03/2018 14:08:00 title = W Moguls
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 14:03:00 stop = 08/03/2018 15:56:00 title = M Alpine Combined Downhill
-      Replaces ----- start = 08/03/2018 12:44:00 stop = 08/03/2018 14:08:00 title = W Moguls
-      Replaces ----- start = 08/03/2018 14:08:00 stop = 08/03/2018 16:01:00 title = M Alpine Combined Downhill
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 15:56:00 stop = 08/03/2018 16:25:00 title = Flame Catchers
-      Replaces ----- start = 08/03/2018 14:08:00 stop = 08/03/2018 16:01:00 title = M Alpine Combined Downhill
-      Replaces ----- start = 08/03/2018 16:01:00 stop = 08/03/2018 16:30:00 title = Flame Catchers
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 16:25:00 stop = 08/03/2018 17:05:00 title = Olympics Today
-      Replaces ----- start = 08/03/2018 16:01:00 stop = 08/03/2018 16:30:00 title = Flame Catchers
-      Replaces ----- start = 08/03/2018 16:30:00 stop = 08/03/2018 17:10:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 08/03/2018 17:05:00 stop = 08/03/2018 19:00:00 title = Cycling Paris
-      Replaces ----- start = 08/03/2018 16:30:00 stop = 08/03/2018 17:10:00 title = Olympics Today
-      Replaces ----- start = 08/03/2018 17:10:00 stop = 08/03/2018 19:00:00 title = Cycling Paris
-.........................
+(   2/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     7
-     new shows added           0
-     unchanged shows inspected 38
-     total after update        66
+     changed shows updated     0
+     new shows added           65
+     unchanged shows inspected 0
+     total after update        65
 
 
 
-Job finished at 07/03/2018 01:01:17 done in 1m 9s
+Job finished at 07/03/2018 10:20:36 done in 49s
