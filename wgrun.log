@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 07/03/2018 10:32:36
+Job started at 07/03/2018 10:43:07
 found: /data/epg/.wg++/siteini.pack/Russia/kartina.tv.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -40,6 +40,7 @@ Found existing channel (xmltv_id=Discovery Channel HD) in the config file
 Found existing channel (xmltv_id=Discovery Science HD) in the config file
 Found existing channel (xmltv_id=OlympicChannel) in the config file
 ............................
+time offset change detected for site kartina.tv from: +0000 to: +0300
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -119,7 +120,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i...................................................................
 
 (   3/26  ) KARTINA.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
 
@@ -156,7 +157,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i...........................................................................................................................................................................................................................................................................................................................................................
 
 (   4/26  ) KARTINA.TV -- chan. (xmltv_id=НТВ HD) -- mode Incremental
 
@@ -193,7 +194,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..........................................................................................
 
 (   5/26  ) KARTINA.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
 
@@ -230,7 +231,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i......................................................................................................................................................
 
 (   6/26  ) KARTINA.TV -- chan. (xmltv_id=СТС) -- mode Incremental
 
@@ -267,7 +268,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..............................................................................................................................................................................................................................................
 
 (   7/26  ) KARTINA.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 
@@ -304,7 +305,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..............................................................
 
 (   8/26  ) KARTINA.TV -- chan. (xmltv_id=ТНТ 4) -- mode Incremental
 
@@ -341,7 +342,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..............................................................................................................................................................................
 
 (   9/26  ) KARTINA.TV -- chan. (xmltv_id=Че) -- mode Incremental
 
@@ -378,7 +379,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..............................................
 
 (  10/26  ) KARTINA.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 
@@ -415,7 +416,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i...............................................................................
 
 (  11/26  ) KARTINA.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 
@@ -452,7 +453,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i...........................................................................................
 
 (  12/26  ) KARTINA.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
 
@@ -489,7 +490,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i................................................................
 
 (  13/26  ) KARTINA.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
 
@@ -526,7 +527,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..........................................................
 
 (  14/26  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
 iiiiiiii
@@ -571,7 +572,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..........................................................................................
 
 (  15/26  ) KARTINA.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 
@@ -653,7 +654,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.........................................................................................................................................................................................................
 
 (  17/26  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 iiiiiiii
@@ -698,7 +699,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..................................................................
 
 (  18/26  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 iiiiiiii
@@ -751,7 +752,7 @@ i
   !! -- WARNING : kartina.tv doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.....................................................................................................................................................................................................
 
 (  19/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
 iiiiiiii
@@ -779,4 +780,4 @@ iiiiiii.................................................................
 
 
 
-Job finished at 07/03/2018 10:33:30 done in 53s
+Job finished at 07/03/2018 10:44:00 done in 52s
