@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/raptor75/legalfreeiptiv/master/guide.xml"
-#EXTINF:-1 tvg-ID="1" tvg-name="Первый",Первый
+#EXTINF:-1 tvg-ID="1" tvg-name="Первый канал",Первый
 http://stream.moskvatv.com/1kanal/1kanal/playlist.m3u8
 #EXTINF:-1 tvg-ID="2" tvg-name="Россия 1",Россия 1
 http://stream.moskvatv.com/russia1/russia1/playlist.m3u8
@@ -25,7 +25,7 @@ http://stream.moskvatv.com/tvc/tvc/playlist.m3u8
 http://stream.moskvatv.com/domash/domash/playlist.m3u8
 #EXTINF:-1 tvg-ID="1671" tvg-name="Пятница",Пятница
 http://stream.moskvatv.com/friday/friday/playlist.m3u8
-#EXTINF:-1 tvg-ID="108" tvg-name="Ю",Ю
+#EXTINF:-1 tvg-ID="108" tvg-name="Ю-ТВ",Ю
 http://stream.moskvatv.com/yutv/yutv/playlist.m3u8
 #EXTINF:-1 tvg-ID="330" tvg-name="Звезда",Звезда
 http://stream.moskvatv.com/zvezda/zvezda/playlist.m3u8
@@ -45,9 +45,9 @@ https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v2a1/index.m3u8
 https://secure-streams.akamaized.net/rt/index2500.m3u8
 #EXTINF:-1 tvg-ID="1658" tvg-name="RTД",RTД
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
-#EXTINF:-1 tvg-ID="100047" tvg-name="Discovery Channel HD",Discovery Channel HD
+#EXTINF:-1 tvg-ID="100047" tvg-name="Discovery HD",Discovery Channel HD
 http://stream.moskvatv.com/discovery/discovery/playlist.m3u8
-#EXTINF:-1 tvg-ID="224" tvg-name="Discovery Science HD",Discovery Science HD
+#EXTINF:-1 tvg-ID="224" tvg-name="Discovery Science",Discovery Science HD
 http://stream.moskvatv.com/discoverys/discoverys/playlist.m3u8
 #EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="OlympicChannel" tvg-logo="https://www.olympicchannel.com/static/images/logo-oc.svg",OlympicChannel
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
