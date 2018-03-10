@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 09/03/2018 01:00:11
+Job started at 10/03/2018 01:00:10
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -47,285 +47,100 @@ Found existing channel (xmltv_id=OlympicChannel) in the config file
 Group (0) :
 update requested for - 26 - out of - 26 - channels for 8 day(s)
 (   1/26  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii..................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.........................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.........................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii........................................................................................................................................................nnnnnnnnnnnnnnn
 
 (   3/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/26  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnn
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii.....................................................................................................................................................................................r
+   forced update : 
+ show REPLACED (forced update / overlap or timeorder error in EPG
+      show with ---- start = 16/03/2018 23:45:00 stop = 17/03/2018 00:10:00 title = Захар Прилепин. Уроки русского
+      Replaces ----- start = 16/03/2018 23:45:00 stop = 17/03/2018 00:10:00 title = Захар Прилепин. Уроки русского (?)
+nnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   5/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТНТ
-Generic syntax exception:
-   message: 
-no index page data received from ТНТ
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel СТС
-Generic syntax exception:
-   message: 
-no index page data received from СТС
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel РЕН ТВ
-Generic syntax exception:
-   message: 
-no index page data received from РЕН ТВ
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТНТ4
-Generic syntax exception:
-   message: 
-no index page data received from ТНТ4
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Че
-Generic syntax exception:
-   message: 
-no index page data received from Че
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТВ-3
-Generic syntax exception:
-   message: 
-no index page data received from ТВ-3
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТВ Центр
-Generic syntax exception:
-   message: 
-no index page data received from ТВ Центр
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Домашний
-Generic syntax exception:
-   message: 
-no index page data received from Домашний
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Пятница
-Generic syntax exception:
-   message: 
-no index page data received from Пятница
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Ю
-Generic syntax exception:
-   message: 
-no index page data received from Ю
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Звезда
-Generic syntax exception:
-   message: 
-no index page data received from Звезда
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel EuroNews
-Generic syntax exception:
-   message: 
-no index page data received from EuroNews
-unable to update channel, try again later
-Existing guide data restored!
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-iiiiiii.........................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii..........................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(   6/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+(   6/26  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii..................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(   7/26  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+(   7/26  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiii...............................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   8/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiii........................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   9/26  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiii..........................................................nnnnnnnnnnnnnnnnnnnnnn
+
+(  10/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiii..............................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  11/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiii.......................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  12/26  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii...................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
+
+(  13/26  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii.......................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
+
+(  14/26  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii........................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  15/26  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii....................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  16/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+iiiiiiii............................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  17/26  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii..............................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  18/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+iiiiiiii...................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  19/26  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 iiiiiiii........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(   8/26  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii......................................................................................................................nnnnnnnnnnnnnnnnnnn
+(  20/26  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii............................................................................................................................nnnnnnnnnnnnnnnnnnn
 
-(   9/26  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+(  21/26  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 iiiiiiii................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  10/26  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii...............................................................................................................................................
+(  22/26  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+iiiiiiii...............................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  11/26  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii..............................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+(  23/26  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii..............................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  12/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+(  24/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+iiiiiiii.......................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  13/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+(  25/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+iiiiiiii.........................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  14/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+(  26/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
 iiiiiiic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 09/03/2018 22:30:00 stop = 10/03/2018 01:00:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 09/03/2018 22:30:00 stop = 10/03/2018 01:30:00 title = Real Madrid vs Panathinaikos Athens
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 01:00:00 stop = 10/03/2018 01:30:00 title = Golden moments of the Olympic Games
-      Replaces ----- start = 09/03/2018 22:30:00 stop = 10/03/2018 01:30:00 title = Real Madrid vs Panathinaikos Athens
-...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 14:00:00 stop = 10/03/2018 16:25:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 10/03/2018 14:00:00 stop = 10/03/2018 14:30:00 title = Winter Olympic Games
-      Replaces ----- start = 10/03/2018 14:30:00 stop = 10/03/2018 16:30:00 title = Real Madrid vs Panathinaikos Athens
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 16:25:00 stop = 10/03/2018 17:05:00 title = Olympics Today
-      Replaces ----- start = 10/03/2018 14:30:00 stop = 10/03/2018 16:30:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 10/03/2018 16:30:00 stop = 10/03/2018 17:10:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/03/2018 17:05:00 stop = 10/03/2018 19:05:00 title = Cycling Paris
-      Replaces ----- start = 10/03/2018 16:30:00 stop = 10/03/2018 17:10:00 title = Olympics Today
-      Replaces ----- start = 10/03/2018 17:10:00 stop = 10/03/2018 19:05:00 title = Cycling Paris
-.....
+      show with ---- start = 10/03/2018 22:57:00 stop = 11/03/2018 01:00:00 title = FC Barcelona vs Crvena Zvezda
+      Replaces ----- start = 10/03/2018 22:57:00 stop = 10/03/2018 23:59:00 title = FC Barcelona vs Crvena Zvezda
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     5
-     new shows added           0
-     unchanged shows inspected 16
-     total after update        21
+     changed shows updated     1
+     new shows added           37
+     unchanged shows inspected 0
+     total after update        57
 
 
 
-Job finished at 09/03/2018 01:22:07 done in 21m 55s
+Job finished at 10/03/2018 01:19:57 done in 19m 47s
