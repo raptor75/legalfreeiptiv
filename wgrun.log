@@ -7,11 +7,14 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 12/03/2018 01:00:09
+Job started at 12/03/2018 13:15:19
+found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
 processing /data/legalfreeiptv/guide.xml ...
+Found existing channel (xmltv_id=TVM) in the config file
+Found existing channel (xmltv_id=TVM 2) in the config file
 Found existing channel (xmltv_id=Первый) in the config file
 Found existing channel (xmltv_id=Россия 1) in the config file
 Found existing channel (xmltv_id=Россия 24) in the config file
@@ -38,368 +41,217 @@ Found existing channel (xmltv_id=RTД) in the config file
 Found existing channel (xmltv_id=Discovery Channel HD) in the config file
 Found existing channel (xmltv_id=Discovery Science HD) in the config file
 Found existing channel (xmltv_id=OlympicChannel) in the config file
-............................
+..............................
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
 
 
 Group (0) :
-update requested for - 26 - out of - 26 - channels for 8 day(s)
-(   1/26  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...........................................................................................................................................................................n
+update requested for - 28 - out of - 28 - channels for 8 day(s)
+(   1/28  ) MELITA.COM -- chan. (xmltv_id=TVM) -- mode Incremental
 
-(   2/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.......................................................................................................................................................nn
 
-(   3/26  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnn
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(   4/26  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................nn
+i
 
-(   5/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................................................................................nnnnnnn
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(   6/26  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii....................................................................................................................................nnn
+i
 
-(   7/26  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii..................................................................................................................................................................n
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(   8/26  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................................................................nnnnnnnn
+i
 
-(   9/26  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii...............................................................................nn
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(  10/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii............................................................................................................................................................................nn
+i
 
-(  11/26  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.................................................................................................................................................................nn
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(  12/26  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii..........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 03:20:00 stop = 13/03/2018 04:17:00 title = Дежурный врач
-      Replaces ----- start = 13/03/2018 03:20:00 stop = 13/03/2018 04:12:00 title = Дежурный врач
-      Replaces ----- start = 13/03/2018 04:12:00 stop = 13/03/2018 05:05:00 title = Дежурный врач
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 04:17:00 stop = 13/03/2018 05:15:00 title = Дежурный врач
-      Replaces ----- start = 13/03/2018 04:12:00 stop = 13/03/2018 05:05:00 title = Дежурный врач
-      Replaces ----- start = 13/03/2018 05:05:00 stop = 13/03/2018 05:25:00 title = 6 кадров
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 05:15:00 stop = 13/03/2018 05:25:00 title = 6 кадров
-      Replaces ----- start = 13/03/2018 05:05:00 stop = 13/03/2018 05:25:00 title = 6 кадров
-..................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/03/2018 02:23:00 stop = 16/03/2018 03:20:00 title = Запретная любовь
-      Replaces ----- start = 16/03/2018 02:23:00 stop = 16/03/2018 04:12:00 title = Запретная любовь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/03/2018 03:20:00 stop = 16/03/2018 04:12:00 title = Дежурный врач
-      Replaces ----- start = 16/03/2018 02:23:00 stop = 16/03/2018 04:12:00 title = Запретная любовь
-...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/03/2018 18:00:00 stop = 16/03/2018 19:00:00 title = 6 кадров
-      Replaces ----- start = 16/03/2018 18:00:00 stop = 16/03/2018 19:57:00 title = 6 кадров
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/03/2018 19:00:00 stop = 16/03/2018 19:57:00 title = Трава под снегом
-      Replaces ----- start = 16/03/2018 18:00:00 stop = 16/03/2018 19:57:00 title = 6 кадров
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 00:30:00 stop = 17/03/2018 02:10:00 title = Тариф на любовь
-      Replaces ----- start = 17/03/2018 00:30:00 stop = 17/03/2018 03:10:00 title = Тариф на любовь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 02:10:00 stop = 17/03/2018 03:10:00 title = Муж напрокат
-      Replaces ----- start = 17/03/2018 00:30:00 stop = 17/03/2018 03:10:00 title = Тариф на любовь
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 06:30:00 stop = 17/03/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 17/03/2018 06:30:00 stop = 17/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 07:00:00 stop = 17/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 17/03/2018 06:30:00 stop = 17/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 10:25:00 stop = 17/03/2018 11:18:00 title = Тёщины блины
-      Replaces ----- start = 17/03/2018 10:25:00 stop = 17/03/2018 14:00:00 title = Тёщины блины
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 11:18:00 stop = 17/03/2018 12:12:00 title = Тёщины блины
-      Replaces ----- start = 17/03/2018 10:25:00 stop = 17/03/2018 14:00:00 title = Тёщины блины
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 12:12:00 stop = 17/03/2018 13:06:00 title = Тёщины блины
-      Replaces ----- start = 17/03/2018 10:25:00 stop = 17/03/2018 14:00:00 title = Тёщины блины
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 13:06:00 stop = 17/03/2018 14:00:00 title = Тёщины блины
-      Replaces ----- start = 17/03/2018 10:25:00 stop = 17/03/2018 14:00:00 title = Тёщины блины
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 14:00:00 stop = 17/03/2018 15:00:00 title = Всё сначала
-      Replaces ----- start = 17/03/2018 14:00:00 stop = 17/03/2018 18:00:00 title = Всё сначала
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 15:00:00 stop = 17/03/2018 16:00:00 title = Всё сначала
-      Replaces ----- start = 17/03/2018 14:00:00 stop = 17/03/2018 18:00:00 title = Всё сначала
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 16:00:00 stop = 17/03/2018 17:00:00 title = Всё сначала
-      Replaces ----- start = 17/03/2018 14:00:00 stop = 17/03/2018 18:00:00 title = Всё сначала
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 17:00:00 stop = 17/03/2018 18:00:00 title = Всё сначала
-      Replaces ----- start = 17/03/2018 14:00:00 stop = 17/03/2018 18:00:00 title = Всё сначала
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 19:00:00 stop = 17/03/2018 21:02:00 title = Великолепный век
-      Replaces ----- start = 17/03/2018 19:00:00 stop = 17/03/2018 23:05:00 title = Великолепный век
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 17/03/2018 21:02:00 stop = 17/03/2018 23:05:00 title = Великолепный век
-      Replaces ----- start = 17/03/2018 19:00:00 stop = 17/03/2018 23:05:00 title = Великолепный век
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 02:10:00 stop = 18/03/2018 03:10:00 title = Муж напрокат
-      Replaces ----- start = 18/03/2018 02:10:00 stop = 18/03/2018 04:10:00 title = Муж напрокат
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 03:10:00 stop = 18/03/2018 04:10:00 title = Муж напрокат
-      Replaces ----- start = 18/03/2018 02:10:00 stop = 18/03/2018 04:10:00 title = Муж напрокат
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 05:30:00 stop = 18/03/2018 06:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 18/03/2018 05:30:00 stop = 18/03/2018 06:30:00 title = Джейми Оливер. Готовим за 30 минут
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 06:00:00 stop = 18/03/2018 06:30:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 18/03/2018 05:30:00 stop = 18/03/2018 06:30:00 title = Джейми Оливер. Готовим за 30 минут
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 06:30:00 stop = 18/03/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 18/03/2018 06:30:00 stop = 18/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 07:00:00 stop = 18/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 18/03/2018 06:30:00 stop = 18/03/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 10:20:00 stop = 18/03/2018 11:17:00 title = Трава под снегом
-      Replaces ----- start = 18/03/2018 10:20:00 stop = 18/03/2018 14:10:00 title = Трава под снегом
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 11:17:00 stop = 18/03/2018 12:15:00 title = Трава под снегом
-      Replaces ----- start = 18/03/2018 10:20:00 stop = 18/03/2018 14:10:00 title = Трава под снегом
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 12:15:00 stop = 18/03/2018 13:12:00 title = Трава под снегом
-      Replaces ----- start = 18/03/2018 10:20:00 stop = 18/03/2018 14:10:00 title = Трава под снегом
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 13:12:00 stop = 18/03/2018 15:07:00 title = Трава под снегом
-      Replaces ----- start = 18/03/2018 10:20:00 stop = 18/03/2018 14:10:00 title = Трава под снегом
-      Replaces ----- start = 18/03/2018 14:10:00 stop = 18/03/2018 18:00:00 title = Наследница
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 15:07:00 stop = 18/03/2018 16:05:00 title = Наследница
-      Replaces ----- start = 18/03/2018 14:10:00 stop = 18/03/2018 18:00:00 title = Наследница
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 16:05:00 stop = 18/03/2018 17:02:00 title = Наследница
-      Replaces ----- start = 18/03/2018 14:10:00 stop = 18/03/2018 18:00:00 title = Наследница
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 17:02:00 stop = 18/03/2018 18:00:00 title = Наследница
-      Replaces ----- start = 18/03/2018 14:10:00 stop = 18/03/2018 18:00:00 title = Наследница
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 18:00:00 stop = 18/03/2018 21:02:00 title = 6 кадров
-      Replaces ----- start = 18/03/2018 18:00:00 stop = 18/03/2018 19:00:00 title = 6 кадров
-      Replaces ----- start = 18/03/2018 19:00:00 stop = 18/03/2018 23:05:00 title = Великолепный век
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 21:02:00 stop = 18/03/2018 23:05:00 title = Великолепный век
-      Replaces ----- start = 18/03/2018 19:00:00 stop = 18/03/2018 23:05:00 title = Великолепный век
-.nnnn
+i
 
-(  13/26  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii..............................................................................................nn
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(  14/26  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii...................................................................................................................................................................................nn
+i
 
-(  15/26  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii..............................................................................................................................................................................................................................................................................................................................nnnn
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
 
-(  16/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnn
+innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(  17/26  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................nnnnn
+(   2/28  ) MELITA.COM -- chan. (xmltv_id=TVM 2) -- mode Incremental
 
-(  18/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
+iiiiiiii............................................................................................................................................................................
+
+(   4/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+iiiiiiii.........................................................................................................................................................
+
+(   5/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+iiiiiiii............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+(   6/28  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
+iiiiiiii......................................................................................................................................................................................
+
+(   7/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+iiiiiiii.................................................................................................................................................................................................................................................
+
+(   8/28  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii.......................................................................................................................................
+
+(   9/28  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiii...................................................................................................................................................................
+
+(  10/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiii.....................................................................................................................................................................................................................................................................
+
+(  11/28  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiii.................................................................................
+
+(  12/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiii..............................................................................................................................................................................
+
+(  13/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiii...................................................................................................................................................................
+
+(  14/28  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii..................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/03/2018 03:20:00 stop = 14/03/2018 05:10:00 title = Дежурный врач
+      Replaces ----- start = 14/03/2018 03:20:00 stop = 14/03/2018 04:12:00 title = Дежурный врач
+      Replaces ----- start = 14/03/2018 04:12:00 stop = 14/03/2018 05:05:00 title = Дежурный врач
+      Replaces ----- start = 14/03/2018 05:05:00 stop = 14/03/2018 05:25:00 title = 6 кадров
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/03/2018 05:10:00 stop = 14/03/2018 05:30:00 title = 6 кадров
+      Replaces ----- start = 14/03/2018 05:05:00 stop = 14/03/2018 05:25:00 title = 6 кадров
+      Replaces ----- start = 14/03/2018 05:25:00 stop = 14/03/2018 06:30:00 title = Понять. Простить
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/03/2018 05:30:00 stop = 14/03/2018 06:30:00 title = Понять. Простить
+      Replaces ----- start = 14/03/2018 05:25:00 stop = 14/03/2018 06:30:00 title = Понять. Простить
+.....................................................................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 18/03/2018 13:12:00 stop = 18/03/2018 14:10:00 title = Трава под снегом
+      Replaces ----- start = 18/03/2018 13:12:00 stop = 18/03/2018 15:07:00 title = Трава под снегом
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 18/03/2018 14:10:00 stop = 18/03/2018 15:07:00 title = Наследница
+      Replaces ----- start = 18/03/2018 13:12:00 stop = 18/03/2018 15:07:00 title = Трава под снегом
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 18/03/2018 18:00:00 stop = 18/03/2018 19:00:00 title = 6 кадров
+      Replaces ----- start = 18/03/2018 18:00:00 stop = 18/03/2018 21:02:00 title = 6 кадров
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 18/03/2018 19:00:00 stop = 18/03/2018 21:02:00 title = Великолепный век
+      Replaces ----- start = 18/03/2018 18:00:00 stop = 18/03/2018 21:02:00 title = 6 кадров
+......
+
+(  15/28  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii................................................................................................
+
+(  16/28  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii.....................................................................................................................................................................................
+
+(  17/28  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii..................................................................................................................................................................................................................................................................................................................................
+
+(  18/28  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+iiiiiiii.................................................................................................................................................................................................................................................................................................................................................................................................
+
+(  19/28  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii..............................................................................................................................................................................................
+
+(  20/28  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 iiiiiiii.................................................................................................................................................................................................................................................................................................................................................
 
-(  19/26  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+(  21/28  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 
-(  20/26  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+(  22/28  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
 iiiiiiii............................................................................................................................................
 
-(  21/26  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+(  23/28  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
 
-(  22/26  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+(  24/28  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
 iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
 
-(  23/26  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 02:30:00 stop = 12/03/2018 03:00:00 title = Мир
-      Replaces ----- start = 12/03/2018 02:30:00 stop = 12/03/2018 03:00:00 title = Руандийское фуэте
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 03:00:00 stop = 12/03/2018 03:30:00 title = Мир
-      Replaces ----- start = 12/03/2018 03:00:00 stop = 12/03/2018 03:30:00 title = Руандийское фуэте
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 03:30:00 stop = 12/03/2018 04:00:00 title = Криптолиум
-      Replaces ----- start = 12/03/2018 03:30:00 stop = 12/03/2018 03:45:00 title = Криптолиум
-      Replaces ----- start = 12/03/2018 03:45:00 stop = 12/03/2018 04:00:00 title = Интервью
-...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 09:30:00 stop = 12/03/2018 10:00:00 title = Мир
-      Replaces ----- start = 12/03/2018 09:30:00 stop = 12/03/2018 10:00:00 title = Руандийское фуэте
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 10:00:00 stop = 12/03/2018 10:30:00 title = Мир
-      Replaces ----- start = 12/03/2018 10:00:00 stop = 12/03/2018 10:30:00 title = Руандийское фуэте
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 10:30:00 stop = 12/03/2018 11:00:00 title = Криптолиум
-      Replaces ----- start = 12/03/2018 10:30:00 stop = 12/03/2018 10:45:00 title = Криптолиум
-      Replaces ----- start = 12/03/2018 10:45:00 stop = 12/03/2018 11:00:00 title = Интервью
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 14:30:00 stop = 12/03/2018 15:00:00 title = Мир
-      Replaces ----- start = 12/03/2018 14:30:00 stop = 12/03/2018 15:00:00 title = Руандийское фуэте
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 15:00:00 stop = 12/03/2018 15:30:00 title = Мир
-      Replaces ----- start = 12/03/2018 15:00:00 stop = 12/03/2018 15:30:00 title = Руандийское фуэте
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 15:30:00 stop = 12/03/2018 16:00:00 title = Криптолиум
-      Replaces ----- start = 12/03/2018 15:30:00 stop = 12/03/2018 15:45:00 title = Криптолиум
-      Replaces ----- start = 12/03/2018 15:45:00 stop = 12/03/2018 16:00:00 title = Интервью
-...............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 07:30:00 stop = 13/03/2018 08:00:00 title = Криптолиум
-      Replaces ----- start = 13/03/2018 07:30:00 stop = 13/03/2018 07:45:00 title = Криптолиум
-      Replaces ----- start = 13/03/2018 07:45:00 stop = 13/03/2018 08:00:00 title = Интервью
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 13:00:00 stop = 13/03/2018 13:30:00 title = Криптолиум
-      Replaces ----- start = 13/03/2018 13:00:00 stop = 13/03/2018 13:15:00 title = Криптолиум
-      Replaces ----- start = 13/03/2018 13:15:00 stop = 13/03/2018 13:30:00 title = Интервью
-.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 18:00:00 stop = 13/03/2018 18:30:00 title = Криптолиум
-      Replaces ----- start = 13/03/2018 18:00:00 stop = 13/03/2018 18:15:00 title = Криптолиум
-      Replaces ----- start = 13/03/2018 18:15:00 stop = 13/03/2018 18:30:00 title = Интервью
-..................................................................................................................................................................................................................................................................
+(  25/28  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................
 
-(  24/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii......................................................................................................................................................................................................................................................................nnnnnnnnnnn
+(  26/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+iiiiiiii.................................................................................................................................................................................................................................................................................
 
-(  25/26  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................................................nnnnnnnn
+(  27/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+iiiiiiii.................................................................................................................................................................................................................................................................
 
-(  26/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-
-no robots data found
-skipped robots check
-iiiiiii......c
+(  28/28  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiii...........................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 12/03/2018 06:45:00 stop = 12/03/2018 08:10:00 title = Metz vs Thuringer
-      Replaces ----- start = 12/03/2018 06:45:00 stop = 12/03/2018 08:15:00 title = Metz vs Thuringer
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 08:10:00 stop = 12/03/2018 09:30:00 title = Japan vs UAE
-      Replaces ----- start = 12/03/2018 06:45:00 stop = 12/03/2018 08:15:00 title = Metz vs Thuringer
-      Replaces ----- start = 12/03/2018 08:15:00 stop = 12/03/2018 09:30:00 title = Japan vs UAE
-............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/03/2018 22:30:00 stop = 13/03/2018 00:00:00 title = Buducnost vs Vardar
-      Replaces ----- start = 12/03/2018 22:30:00 stop = 12/03/2018 23:59:00 title = Buducnost vs Vardar
-nnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 13/03/2018 22:45:00 stop = 14/03/2018 01:30:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+      Replaces ----- start = 13/03/2018 22:45:00 stop = 13/03/2018 23:59:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+nnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     3
-     new shows added           23
-     unchanged shows inspected 18
-     total after update        44
+     changed shows updated     1
+     new shows added           19
+     unchanged shows inspected 43
+     total after update        63
 
 
 
-Job finished at 12/03/2018 01:05:43 done in 5m 33s
+Job finished at 12/03/2018 13:19:41 done in 4m 21s
