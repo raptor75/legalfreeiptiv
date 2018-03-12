@@ -7,14 +7,14 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 12/03/2018 13:15:19
+Job started at 12/03/2018 13:27:15
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
 processing /data/legalfreeiptv/guide.xml ...
 Found existing channel (xmltv_id=TVM) in the config file
-Found existing channel (xmltv_id=TVM 2) in the config file
+Found existing channel (xmltv_id=TVM2) in the config file
 Found existing channel (xmltv_id=Первый) in the config file
 Found existing channel (xmltv_id=Россия 1) in the config file
 Found existing channel (xmltv_id=Россия 24) in the config file
@@ -51,7 +51,6 @@ Group (0) :
 update requested for - 28 - out of - 28 - channels for 8 day(s)
 (   1/28  ) MELITA.COM -- chan. (xmltv_id=TVM) -- mode Incremental
 
-
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
@@ -87,7 +86,7 @@ it is advised to disable this channel / site from your channel list
 
 innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(   2/28  ) MELITA.COM -- chan. (xmltv_id=TVM 2) -- mode Incremental
+(   2/28  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
@@ -158,45 +157,7 @@ iiiiiiii........................................................................
 iiiiiiii...................................................................................................................................................................
 
 (  14/28  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii..................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/03/2018 03:20:00 stop = 14/03/2018 05:10:00 title = Дежурный врач
-      Replaces ----- start = 14/03/2018 03:20:00 stop = 14/03/2018 04:12:00 title = Дежурный врач
-      Replaces ----- start = 14/03/2018 04:12:00 stop = 14/03/2018 05:05:00 title = Дежурный врач
-      Replaces ----- start = 14/03/2018 05:05:00 stop = 14/03/2018 05:25:00 title = 6 кадров
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/03/2018 05:10:00 stop = 14/03/2018 05:30:00 title = 6 кадров
-      Replaces ----- start = 14/03/2018 05:05:00 stop = 14/03/2018 05:25:00 title = 6 кадров
-      Replaces ----- start = 14/03/2018 05:25:00 stop = 14/03/2018 06:30:00 title = Понять. Простить
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/03/2018 05:30:00 stop = 14/03/2018 06:30:00 title = Понять. Простить
-      Replaces ----- start = 14/03/2018 05:25:00 stop = 14/03/2018 06:30:00 title = Понять. Простить
-.....................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 13:12:00 stop = 18/03/2018 14:10:00 title = Трава под снегом
-      Replaces ----- start = 18/03/2018 13:12:00 stop = 18/03/2018 15:07:00 title = Трава под снегом
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 14:10:00 stop = 18/03/2018 15:07:00 title = Наследница
-      Replaces ----- start = 18/03/2018 13:12:00 stop = 18/03/2018 15:07:00 title = Трава под снегом
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 18:00:00 stop = 18/03/2018 19:00:00 title = 6 кадров
-      Replaces ----- start = 18/03/2018 18:00:00 stop = 18/03/2018 21:02:00 title = 6 кадров
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 18/03/2018 19:00:00 stop = 18/03/2018 21:02:00 title = Великолепный век
-      Replaces ----- start = 18/03/2018 18:00:00 stop = 18/03/2018 21:02:00 title = 6 кадров
-......
+iiiiiiii.......................................................................................................................................................................
 
 (  15/28  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiiiii................................................................................................
@@ -238,20 +199,13 @@ iiiiiiii........................................................................
 iiiiiiii.................................................................................................................................................................................................................................................................
 
 (  28/28  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii...........................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 22:45:00 stop = 14/03/2018 01:30:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
-      Replaces ----- start = 13/03/2018 22:45:00 stop = 13/03/2018 23:59:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
-nnnnnnnnnnnnnnnnnnn
+iiiiiii...............................................................
 
    Summary for update of       OlympicChannel
-     missing shows added       0
-     changed shows updated     1
-     new shows added           19
-     unchanged shows inspected 43
+     no changes, no update necessary !
+     unchanged shows inspected 63
      total after update        63
 
 
 
-Job finished at 12/03/2018 13:19:41 done in 4m 21s
+Job finished at 12/03/2018 13:31:31 done in 4m 15s
