@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 12/03/2018 13:27:15
+Job started at 13/03/2018 01:00:08
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -84,7 +84,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+icc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/28  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -121,91 +121,286 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ic....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/28  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii............................................................................................................................................................................
-
-(   4/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.........................................................................................................................................................
-
-(   5/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-
-(   6/28  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii......................................................................................................................................................................................
-
-(   7/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................
-
-(   8/28  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.......................................................................................................................................
-
-(   9/28  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii...................................................................................................................................................................
-
-(  10/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.....................................................................................................................................................................................................................................................................
-
-(  11/28  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii.................................................................................
-
-(  12/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii..............................................................................................................................................................................
-
-(  13/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii...................................................................................................................................................................
-
-(  14/28  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................
-
-(  15/28  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii................................................................................................
-
-(  16/28  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii.....................................................................................................................................................................................
-
-(  17/28  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................
-
-(  18/28  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................................................................................................................................................................
-
-(  19/28  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii..............................................................................................................................................................................................
-
-(  20/28  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................................................................................................................
-
-(  21/28  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-
-(  22/28  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii............................................................................................................................................
-
-(  23/28  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
-
-(  24/28  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
-
-(  25/28  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................
-
-(  26/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................................................
-
-(  27/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................................
-
-(  28/28  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii...............................................................
+iiiiiiii
+Unable to update channel Первый
+Generic syntax exception:
+   message: 
+no index page data received from Первый
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+iiiiiiii
+Unable to update channel Россия 1
+Generic syntax exception:
+   message: 
+no index page data received from Россия 1
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+iiiiiiii
+Unable to update channel Россия 24
+Generic syntax exception:
+   message: 
+no index page data received from Россия 24
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
+iiiiiiii
+Unable to update channel НТВ
+Generic syntax exception:
+   message: 
+no index page data received from НТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+iiiiiiii
+Unable to update channel ТНТ
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii
+Unable to update channel СТС
+Generic syntax exception:
+   message: 
+no index page data received from СТС
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiii
+Unable to update channel РЕН ТВ
+Generic syntax exception:
+   message: 
+no index page data received from РЕН ТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiii
+Unable to update channel ТНТ4
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ4
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiii
+Unable to update channel Че
+Generic syntax exception:
+   message: 
+no index page data received from Че
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiii
+Unable to update channel ТВ-3
+Generic syntax exception:
+   message: 
+no index page data received from ТВ-3
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiii
+Unable to update channel ТВ Центр
+Generic syntax exception:
+   message: 
+no index page data received from ТВ Центр
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii
+Unable to update channel Домашний
+Generic syntax exception:
+   message: 
+no index page data received from Домашний
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii
+Unable to update channel Пятница
+Generic syntax exception:
+   message: 
+no index page data received from Пятница
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii
+Unable to update channel Ю
+Generic syntax exception:
+   message: 
+no index page data received from Ю
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii
+Unable to update channel Звезда
+Generic syntax exception:
+   message: 
+no index page data received from Звезда
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+iiiiiiii
+Unable to update channel EuroNews
+Generic syntax exception:
+   message: 
+no index page data received from EuroNews
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii
+Unable to update channel МИР
+Generic syntax exception:
+   message: 
+no index page data received from МИР
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+iiiiiiii
+Unable to update channel РБК
+Generic syntax exception:
+   message: 
+no index page data received from РБК
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+iiiiiiii
+Unable to update channel Fashion TV
+Generic syntax exception:
+   message: 
+no index page data received from Fashion TV
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii
+Unable to update channel Ru.TV
+Generic syntax exception:
+   message: 
+no index page data received from Ru.TV
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+iiiiiiii
+Unable to update channel 1HD
+Generic syntax exception:
+   message: 
+no index page data received from 1HD
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+iiiiiiii
+Unable to update channel RT
+Generic syntax exception:
+   message: 
+no index page data received from RT
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii
+Unable to update channel RTД
+Generic syntax exception:
+   message: 
+no index page data received from RTД
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+iiiiiiii
+Unable to update channel Discovery Channel HD
+Generic syntax exception:
+   message: 
+no index page data received from Discovery Channel HD
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+iiiiiiii
+Unable to update channel Discovery Science HD
+Generic syntax exception:
+   message: 
+no index page data received from Discovery Science HD
+unable to update channel, try again later
+Existing guide data restored!
+(   3/28  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiii..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 01:30:00 stop = 13/03/2018 03:16:00 title = Saudi Arabia vs Iraq
+      Replaces ----- start = 13/03/2018 01:30:00 stop = 13/03/2018 03:15:00 title = Saudi Arabia vs Iraq
+      Replaces ----- start = 13/03/2018 03:15:00 stop = 13/03/2018 03:45:00 title = The Tech Race
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 03:16:00 stop = 13/03/2018 03:45:00 title = The Tech Race
+      Replaces ----- start = 13/03/2018 03:15:00 stop = 13/03/2018 03:45:00 title = The Tech Race
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 03:45:00 stop = 13/03/2018 05:42:00 title = Ski Jumping W Individual NH
+      Replaces ----- start = 13/03/2018 03:45:00 stop = 13/03/2018 05:45:00 title = Ski Jumping W Individual NH
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 05:42:00 stop = 13/03/2018 06:15:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      Replaces ----- start = 13/03/2018 03:45:00 stop = 13/03/2018 05:45:00 title = Ski Jumping W Individual NH
+      Replaces ----- start = 13/03/2018 05:45:00 stop = 13/03/2018 06:15:00 title = Summary of Vancouver 2012 Winter Olympic Games
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 12:00:00 stop = 13/03/2018 13:57:00 title = Ski Jumping W Individual NH
+      Replaces ----- start = 13/03/2018 12:00:00 stop = 13/03/2018 14:00:00 title = Ski Jumping W Individual NH
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 13:57:00 stop = 13/03/2018 14:30:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      Replaces ----- start = 13/03/2018 12:00:00 stop = 13/03/2018 14:00:00 title = Ski Jumping W Individual NH
+      Replaces ----- start = 13/03/2018 14:00:00 stop = 13/03/2018 14:30:00 title = Summary of Vancouver 2012 Winter Olympic Games
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 16:30:00 stop = 13/03/2018 17:05:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      Replaces ----- start = 13/03/2018 16:30:00 stop = 13/03/2018 17:00:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      Replaces ----- start = 13/03/2018 17:00:00 stop = 13/03/2018 17:30:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 17:05:00 stop = 13/03/2018 17:33:00 title = Olympics Today
+      Replaces ----- start = 13/03/2018 17:00:00 stop = 13/03/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 13/03/2018 17:30:00 stop = 13/03/2018 19:00:00 title = M Moguls
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 17:33:00 stop = 13/03/2018 19:05:00 title = M Moguls
+      Replaces ----- start = 13/03/2018 17:30:00 stop = 13/03/2018 19:00:00 title = M Moguls
+      Replaces ----- start = 13/03/2018 19:00:00 stop = 13/03/2018 20:15:00 title = Five Rings Film
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 19:05:00 stop = 13/03/2018 20:19:00 title = Five Rings Film
+      Replaces ----- start = 13/03/2018 19:00:00 stop = 13/03/2018 20:15:00 title = Five Rings Film
+      Replaces ----- start = 13/03/2018 20:15:00 stop = 13/03/2018 21:30:00 title = KSA vs Oman
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 20:19:00 stop = 13/03/2018 21:36:00 title = KSA vs Oman
+      Replaces ----- start = 13/03/2018 20:15:00 stop = 13/03/2018 21:30:00 title = KSA vs Oman
+      Replaces ----- start = 13/03/2018 21:30:00 stop = 13/03/2018 22:45:00 title = The Olympic Spirit
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 13/03/2018 21:36:00 stop = 13/03/2018 22:45:00 title = The Olympic Spirit
+      Replaces ----- start = 13/03/2018 21:30:00 stop = 13/03/2018 22:45:00 title = The Olympic Spirit
+....................
 
    Summary for update of       OlympicChannel
-     no changes, no update necessary !
-     unchanged shows inspected 63
-     total after update        63
+     missing shows added       0
+     changed shows updated     12
+     new shows added           0
+     unchanged shows inspected 30
+     total after update        42
 
 
 
-Job finished at 12/03/2018 13:31:31 done in 4m 15s
+Job finished at 13/03/2018 01:01:33 done in 1m 24s
