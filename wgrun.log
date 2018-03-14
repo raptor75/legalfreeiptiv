@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 13/03/2018 01:00:08
+Job started at 14/03/2018 01:00:13
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -15,6 +15,7 @@ found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
 processing /data/legalfreeiptv/guide.xml ...
 Found existing channel (xmltv_id=TVM) in the config file
 Found existing channel (xmltv_id=TVM2) in the config file
+Found existing channel (xmltv_id=NET TV) in the config file
 Found existing channel (xmltv_id=Первый) in the config file
 Found existing channel (xmltv_id=Россия 1) in the config file
 Found existing channel (xmltv_id=Россия 24) in the config file
@@ -41,15 +42,15 @@ Found existing channel (xmltv_id=RTД) in the config file
 Found existing channel (xmltv_id=Discovery Channel HD) in the config file
 Found existing channel (xmltv_id=Discovery Science HD) in the config file
 Found existing channel (xmltv_id=OlympicChannel) in the config file
-..............................
+...............................
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
 
 
 Group (0) :
-update requested for - 28 - out of - 28 - channels for 8 day(s)
-(   1/28  ) MELITA.COM -- chan. (xmltv_id=TVM) -- mode Incremental
+update requested for - 29 - out of - 29 - channels for 8 day(s)
+(   1/29  ) MELITA.COM -- chan. (xmltv_id=TVM) -- mode Incremental
 
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
@@ -84,9 +85,46 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(   2/28  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
+(   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+ic....cc.cc.ccc..ccccccccccccccc....cc.cc.ccc..ccccccccccccccc....cc.cc.ccc..ccccccccccccccc....cc.cc.ccc..ccccccccccccccc....cc.cc.ccc..ccccccccccccccc....cc.cc.ccc..cccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
@@ -121,9 +159,9 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-ic....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..cc....cc..cc.ccc..ccccccc..cc.cc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+innnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiiiii
 Unable to update channel Первый
 Generic syntax exception:
@@ -131,7 +169,7 @@ Generic syntax exception:
 no index page data received from Первый
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii
 Unable to update channel Россия 1
 Generic syntax exception:
@@ -139,7 +177,7 @@ Generic syntax exception:
 no index page data received from Россия 1
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
 iiiiiiii
 Unable to update channel Россия 24
 Generic syntax exception:
@@ -147,7 +185,7 @@ Generic syntax exception:
 no index page data received from Россия 24
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiii
 Unable to update channel НТВ
 Generic syntax exception:
@@ -155,7 +193,7 @@ Generic syntax exception:
 no index page data received from НТВ
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
 iiiiiiii
 Unable to update channel ТНТ
 Generic syntax exception:
@@ -163,7 +201,7 @@ Generic syntax exception:
 no index page data received from ТНТ
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiiiii
 Unable to update channel СТС
 Generic syntax exception:
@@ -171,7 +209,7 @@ Generic syntax exception:
 no index page data received from СТС
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
 iiiiiiii
 Unable to update channel РЕН ТВ
 Generic syntax exception:
@@ -179,7 +217,7 @@ Generic syntax exception:
 no index page data received from РЕН ТВ
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
 iiiiiiii
 Unable to update channel ТНТ4
 Generic syntax exception:
@@ -187,7 +225,7 @@ Generic syntax exception:
 no index page data received from ТНТ4
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
 iiiiiiii
 Unable to update channel Че
 Generic syntax exception:
@@ -195,7 +233,7 @@ Generic syntax exception:
 no index page data received from Че
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii
 Unable to update channel ТВ-3
 Generic syntax exception:
@@ -203,7 +241,7 @@ Generic syntax exception:
 no index page data received from ТВ-3
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii
 Unable to update channel ТВ Центр
 Generic syntax exception:
@@ -211,7 +249,7 @@ Generic syntax exception:
 no index page data received from ТВ Центр
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii
 Unable to update channel Домашний
 Generic syntax exception:
@@ -219,7 +257,7 @@ Generic syntax exception:
 no index page data received from Домашний
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
 iiiiiiii
 Unable to update channel Пятница
 Generic syntax exception:
@@ -227,7 +265,7 @@ Generic syntax exception:
 no index page data received from Пятница
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
 iiiiiiii
 Unable to update channel Ю
 Generic syntax exception:
@@ -235,7 +273,7 @@ Generic syntax exception:
 no index page data received from Ю
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
 iiiiiiii
 Unable to update channel Звезда
 Generic syntax exception:
@@ -243,7 +281,7 @@ Generic syntax exception:
 no index page data received from Звезда
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 iiiiiiii
 Unable to update channel EuroNews
 Generic syntax exception:
@@ -251,7 +289,7 @@ Generic syntax exception:
 no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
 iiiiiiii
 Unable to update channel МИР
 Generic syntax exception:
@@ -259,7 +297,7 @@ Generic syntax exception:
 no index page data received from МИР
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 iiiiiiii
 Unable to update channel РБК
 Generic syntax exception:
@@ -267,7 +305,7 @@ Generic syntax exception:
 no index page data received from РБК
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 iiiiiiii
 Unable to update channel Fashion TV
 Generic syntax exception:
@@ -275,7 +313,7 @@ Generic syntax exception:
 no index page data received from Fashion TV
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
 iiiiiiii
 Unable to update channel Ru.TV
 Generic syntax exception:
@@ -283,7 +321,7 @@ Generic syntax exception:
 no index page data received from Ru.TV
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 iiiiiiii
 Unable to update channel 1HD
 Generic syntax exception:
@@ -291,7 +329,7 @@ Generic syntax exception:
 no index page data received from 1HD
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
 iiiiiiii
 Unable to update channel RT
 Generic syntax exception:
@@ -299,7 +337,7 @@ Generic syntax exception:
 no index page data received from RT
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
 iiiiiiii
 Unable to update channel RTД
 Generic syntax exception:
@@ -307,7 +345,7 @@ Generic syntax exception:
 no index page data received from RTД
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
 iiiiiiii
 Unable to update channel Discovery Channel HD
 Generic syntax exception:
@@ -315,7 +353,7 @@ Generic syntax exception:
 no index page data received from Discovery Channel HD
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
 iiiiiiii
 Unable to update channel Discovery Science HD
 Generic syntax exception:
@@ -323,84 +361,114 @@ Generic syntax exception:
 no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
-(   3/28  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..c
+(   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiiic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 01:30:00 stop = 13/03/2018 03:16:00 title = Saudi Arabia vs Iraq
-      Replaces ----- start = 13/03/2018 01:30:00 stop = 13/03/2018 03:15:00 title = Saudi Arabia vs Iraq
-      Replaces ----- start = 13/03/2018 03:15:00 stop = 13/03/2018 03:45:00 title = The Tech Race
+      show with ---- start = 14/03/2018 22:45:00 stop = 15/03/2018 00:45:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+      Replaces ----- start = 14/03/2018 22:45:00 stop = 15/03/2018 01:30:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 03:16:00 stop = 13/03/2018 03:45:00 title = The Tech Race
-      Replaces ----- start = 13/03/2018 03:15:00 stop = 13/03/2018 03:45:00 title = The Tech Race
+      show with ---- start = 15/03/2018 00:45:00 stop = 15/03/2018 01:40:00 title = Transform My Meal
+      Replaces ----- start = 14/03/2018 22:45:00 stop = 15/03/2018 01:30:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+      Replaces ----- start = 15/03/2018 01:30:00 stop = 15/03/2018 02:30:00 title = Transform My Meal
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 03:45:00 stop = 13/03/2018 05:42:00 title = Ski Jumping W Individual NH
-      Replaces ----- start = 13/03/2018 03:45:00 stop = 13/03/2018 05:45:00 title = Ski Jumping W Individual NH
+      show with ---- start = 15/03/2018 01:40:00 stop = 15/03/2018 02:34:00 title = Transform My Meal
+      Replaces ----- start = 15/03/2018 01:30:00 stop = 15/03/2018 02:30:00 title = Transform My Meal
+      Replaces ----- start = 15/03/2018 02:30:00 stop = 15/03/2018 03:00:00 title = Olympics Today
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 05:42:00 stop = 13/03/2018 06:15:00 title = Summary of Vancouver 2012 Winter Olympic Games
-      Replaces ----- start = 13/03/2018 03:45:00 stop = 13/03/2018 05:45:00 title = Ski Jumping W Individual NH
-      Replaces ----- start = 13/03/2018 05:45:00 stop = 13/03/2018 06:15:00 title = Summary of Vancouver 2012 Winter Olympic Games
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/03/2018 12:00:00 stop = 13/03/2018 13:57:00 title = Ski Jumping W Individual NH
-      Replaces ----- start = 13/03/2018 12:00:00 stop = 13/03/2018 14:00:00 title = Ski Jumping W Individual NH
+      show with ---- start = 15/03/2018 02:34:00 stop = 15/03/2018 03:02:00 title = Olympics Today
+      Replaces ----- start = 15/03/2018 02:30:00 stop = 15/03/2018 03:00:00 title = Olympics Today
+      Replaces ----- start = 15/03/2018 03:00:00 stop = 15/03/2018 04:40:00 title = Vietnam vs Australia
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 13:57:00 stop = 13/03/2018 14:30:00 title = Summary of Vancouver 2012 Winter Olympic Games
-      Replaces ----- start = 13/03/2018 12:00:00 stop = 13/03/2018 14:00:00 title = Ski Jumping W Individual NH
-      Replaces ----- start = 13/03/2018 14:00:00 stop = 13/03/2018 14:30:00 title = Summary of Vancouver 2012 Winter Olympic Games
+      show with ---- start = 15/03/2018 03:02:00 stop = 15/03/2018 04:45:00 title = Vietnam vs Australia
+      Replaces ----- start = 15/03/2018 03:00:00 stop = 15/03/2018 04:40:00 title = Vietnam vs Australia
+      Replaces ----- start = 15/03/2018 04:40:00 stop = 15/03/2018 06:10:00 title = M Moguls
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/03/2018 04:45:00 stop = 15/03/2018 06:20:00 title = M Moguls
+      Replaces ----- start = 15/03/2018 04:40:00 stop = 15/03/2018 06:10:00 title = M Moguls
+      Replaces ----- start = 15/03/2018 06:10:00 stop = 15/03/2018 07:20:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/03/2018 06:20:00 stop = 15/03/2018 07:45:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+      Replaces ----- start = 15/03/2018 06:10:00 stop = 15/03/2018 07:20:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+      Replaces ----- start = 15/03/2018 07:20:00 stop = 15/03/2018 08:45:00 title = KSA vs Oman
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/03/2018 07:45:00 stop = 15/03/2018 09:15:00 title = KSA vs Oman
+      Replaces ----- start = 15/03/2018 07:20:00 stop = 15/03/2018 08:45:00 title = KSA vs Oman
+      Replaces ----- start = 15/03/2018 08:45:00 stop = 15/03/2018 11:00:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/03/2018 09:15:00 stop = 15/03/2018 11:00:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+      Replaces ----- start = 15/03/2018 08:45:00 stop = 15/03/2018 11:00:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
 ..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 16:30:00 stop = 13/03/2018 17:05:00 title = Summary of Vancouver 2012 Winter Olympic Games
-      Replaces ----- start = 13/03/2018 16:30:00 stop = 13/03/2018 17:00:00 title = Summary of Vancouver 2012 Winter Olympic Games
-      Replaces ----- start = 13/03/2018 17:00:00 stop = 13/03/2018 17:30:00 title = Olympics Today
+      show with ---- start = 15/03/2018 12:30:00 stop = 15/03/2018 14:02:00 title = M Moguls
+      Replaces ----- start = 15/03/2018 12:30:00 stop = 15/03/2018 14:00:00 title = M Moguls
+      Replaces ----- start = 15/03/2018 14:00:00 stop = 15/03/2018 15:10:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 17:05:00 stop = 13/03/2018 17:33:00 title = Olympics Today
-      Replaces ----- start = 13/03/2018 17:00:00 stop = 13/03/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 13/03/2018 17:30:00 stop = 13/03/2018 19:00:00 title = M Moguls
+      show with ---- start = 15/03/2018 14:02:00 stop = 15/03/2018 15:17:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+      Replaces ----- start = 15/03/2018 14:00:00 stop = 15/03/2018 15:10:00 title = OFFICIAL FILMS 1976 Innsbruck White Rock
+      Replaces ----- start = 15/03/2018 15:10:00 stop = 15/03/2018 17:00:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 17:33:00 stop = 13/03/2018 19:05:00 title = M Moguls
-      Replaces ----- start = 13/03/2018 17:30:00 stop = 13/03/2018 19:00:00 title = M Moguls
-      Replaces ----- start = 13/03/2018 19:00:00 stop = 13/03/2018 20:15:00 title = Five Rings Film
+      show with ---- start = 15/03/2018 15:17:00 stop = 15/03/2018 17:00:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+      Replaces ----- start = 15/03/2018 15:10:00 stop = 15/03/2018 17:00:00 title = Olimpia Milan vs Real Madrid EuroLeague Basketball 2017/2018
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/03/2018 17:30:00 stop = 15/03/2018 19:15:00 title = Cycling Paris
+      Replaces ----- start = 15/03/2018 17:30:00 stop = 15/03/2018 19:30:00 title = Cycling Paris
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 19:05:00 stop = 13/03/2018 20:19:00 title = Five Rings Film
-      Replaces ----- start = 13/03/2018 19:00:00 stop = 13/03/2018 20:15:00 title = Five Rings Film
-      Replaces ----- start = 13/03/2018 20:15:00 stop = 13/03/2018 21:30:00 title = KSA vs Oman
+      show with ---- start = 15/03/2018 19:15:00 stop = 15/03/2018 19:45:00 title = Heroes of the Future
+      Replaces ----- start = 15/03/2018 17:30:00 stop = 15/03/2018 19:30:00 title = Cycling Paris
+      Replaces ----- start = 15/03/2018 19:30:00 stop = 15/03/2018 20:00:00 title = Heroes of the Future
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 20:19:00 stop = 13/03/2018 21:36:00 title = KSA vs Oman
-      Replaces ----- start = 13/03/2018 20:15:00 stop = 13/03/2018 21:30:00 title = KSA vs Oman
-      Replaces ----- start = 13/03/2018 21:30:00 stop = 13/03/2018 22:45:00 title = The Olympic Spirit
+      show with ---- start = 15/03/2018 19:45:00 stop = 15/03/2018 21:45:00 title = Serbia vs Sweden
+      Replaces ----- start = 15/03/2018 19:30:00 stop = 15/03/2018 20:00:00 title = Heroes of the Future
+      Replaces ----- start = 15/03/2018 20:00:00 stop = 15/03/2018 22:00:00 title = Serbia vs Sweden
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/03/2018 21:36:00 stop = 13/03/2018 22:45:00 title = The Olympic Spirit
-      Replaces ----- start = 13/03/2018 21:30:00 stop = 13/03/2018 22:45:00 title = The Olympic Spirit
-....................
+      show with ---- start = 15/03/2018 21:45:00 stop = 15/03/2018 23:10:00 title = M 1500 m
+      Replaces ----- start = 15/03/2018 20:00:00 stop = 15/03/2018 22:00:00 title = Serbia vs Sweden
+      Replaces ----- start = 15/03/2018 22:00:00 stop = 15/03/2018 23:25:00 title = M 1500 m
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/03/2018 23:10:00 stop = 16/03/2018 00:00:00 title = Classic Finals 2016 Women's Ice Hockey
+      Replaces ----- start = 15/03/2018 22:00:00 stop = 15/03/2018 23:25:00 title = M 1500 m
+      Replaces ----- start = 15/03/2018 23:25:00 stop = 15/03/2018 23:59:00 title = Classic Finals 2016 Women's Ice Hockey
+nnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     12
-     new shows added           0
-     unchanged shows inspected 30
-     total after update        42
+     changed shows updated     17
+     new shows added           19
+     unchanged shows inspected 3
+     total after update        39
 
 
 
-Job finished at 13/03/2018 01:01:33 done in 1m 24s
+Job finished at 14/03/2018 01:01:52 done in 1m 38s
