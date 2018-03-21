@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 20/03/2018 03:00:11
+Job started at 21/03/2018 03:00:07
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.ccc.......c..............c.c.c.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innn.....cc...ccccccc.cc.ccccccc.....cc...ccccccc.cc.ccccccc.....cc...ccccccc.cc.ccccccc.....cc...ccccccc.cc.ccccccc.....cc...ccccccc.cc.ccccccc.....cc...ccccccc.cc.cnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ic....cc....ccccccc.ccccc....cc....ccccccc.ccccc....cc....ccccccc.ccccc....cc....ccccccc.ccccc....cc....ccccccc.ccccc....cc....ccccccc.cccnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-inn..ccc.c.cc.cc.cc.cccccc..ccc.c.cc.cc.cc.cccccc..ccc.c.cc.cc.cc.cccccc..ccc.c.cc.cc.cc.cccccc..ccc.c.cc.cc.cc.cccccc..ccc.c.cc.cc.cc.ccnnnnnnnnnnnnnnnnnnnnnnnn
+i..cc.....c.....cccc.c..cc.....c.....cccc.c..cc.....c.....cccc.c..cc.....c.....cccc.c..cc.....c.....cccc.c..cc.....c.....cccc.nnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiiiii
@@ -362,106 +362,133 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiic
+iiiiiiinnnnnnnnnnnnnnnnnnnc
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 20/03/2018 00:00:00 stop = 20/03/2018 01:07:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 20/03/2018 00:00:00 stop = 20/03/2018 01:05:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 20/03/2018 01:05:00 stop = 20/03/2018 01:35:00 title = Olympics Today
+      show with ---- start = 21/03/2018 22:14:00 stop = 21/03/2018 22:42:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
+      Replaces ----- start = 21/03/2018 22:30:00 stop = 22/03/2018 00:10:00 title = Valencia Basket vs Real Madrid
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 20/03/2018 01:07:00 stop = 20/03/2018 01:36:00 title = Olympics Today
-      Replaces ----- start = 20/03/2018 01:05:00 stop = 20/03/2018 01:35:00 title = Olympics Today
-      Replaces ----- start = 20/03/2018 01:35:00 stop = 20/03/2018 03:20:00 title = Iraq vs Jordan
+      show with ---- start = 21/03/2018 22:42:00 stop = 22/03/2018 00:30:00 title = Chamery vs Dunkerque
+      Replaces ----- start = 21/03/2018 22:30:00 stop = 22/03/2018 00:10:00 title = Valencia Basket vs Real Madrid
+      Replaces ----- start = 22/03/2018 00:10:00 stop = 22/03/2018 01:05:00 title = Doubles Heat 1 & 2
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 20/03/2018 01:36:00 stop = 20/03/2018 03:21:00 title = Iraq vs Jordan
-      Replaces ----- start = 20/03/2018 01:35:00 stop = 20/03/2018 03:20:00 title = Iraq vs Jordan
-      Replaces ----- start = 20/03/2018 03:20:00 stop = 20/03/2018 04:50:00 title = PSG x Toulouse
+      show with ---- start = 22/03/2018 22:42:00 stop = 23/03/2018 00:30:00 title = Chamery vs Dunkerque
+      Replaces ----- start = 22/03/2018 22:15:00 stop = 22/03/2018 22:45:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
+      Replaces ----- start = 22/03/2018 22:45:00 stop = 23/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 00:30:00 stop = 23/03/2018 01:30:00 title = Transform My Meal
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 01:30:00 stop = 23/03/2018 02:05:00 title = Olympics Today
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 02:05:00 stop = 23/03/2018 03:45:00 title = Korea Republic vs Australia
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 03:45:00 stop = 23/03/2018 06:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 06:30:00 stop = 23/03/2018 07:00:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 07:00:00 stop = 23/03/2018 08:30:00 title = Chamery vs Dunkerque
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 08:30:00 stop = 23/03/2018 10:30:00 title = W Giant Slalom 1st Run
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 10:30:00 stop = 23/03/2018 11:00:00 title = Olympics Today
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 11:00:00 stop = 23/03/2018 11:30:00 title = Patagonia Dreaming
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 11:30:00 stop = 23/03/2018 13:30:00 title = Valencia Basket vs Real Madrid
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 13:30:00 stop = 23/03/2018 15:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 15:30:00 stop = 23/03/2018 16:00:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 16:00:00 stop = 23/03/2018 17:00:00 title = Transform My Meal
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 17:00:00 stop = 23/03/2018 17:30:00 title = Olympics Today
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 17:30:00 stop = 23/03/2018 19:20:00 title = Snowboard
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 19:20:00 stop = 23/03/2018 19:45:00 title = Legends Live On
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 23/03/2018 19:45:00 stop = 23/03/2018 21:00:00 title = W Giant Slalom 2nd Run
+      Added before - start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 20/03/2018 03:21:00 stop = 20/03/2018 04:50:00 title = PSG x Toulouse
-      Replaces ----- start = 20/03/2018 03:20:00 stop = 20/03/2018 04:50:00 title = PSG x Toulouse
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 05:45:00 stop = 20/03/2018 07:11:00 title = Czech Republic vs Denmark
-      Replaces ----- start = 20/03/2018 05:45:00 stop = 20/03/2018 07:10:00 title = Czech Republic vs Denmark
-      Replaces ----- start = 20/03/2018 07:10:00 stop = 20/03/2018 07:40:00 title = The Olympic On The Record
+      show with ---- start = 23/03/2018 21:00:00 stop = 23/03/2018 23:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+      Replaces ----- start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 20/03/2018 07:11:00 stop = 20/03/2018 07:40:00 title = The Olympic On The Record
-      Replaces ----- start = 20/03/2018 07:10:00 stop = 20/03/2018 07:40:00 title = The Olympic On The Record
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 11:30:00 stop = 20/03/2018 12:56:00 title = Czech Republic vs Denmark
-      Replaces ----- start = 20/03/2018 11:30:00 stop = 20/03/2018 12:55:00 title = Czech Republic vs Denmark
-      Replaces ----- start = 20/03/2018 12:55:00 stop = 20/03/2018 13:30:00 title = The Olympic On The Record
+      show with ---- start = 23/03/2018 23:30:00 stop = 24/03/2018 01:00:00 title = Croatia vs Sweden
+      Replaces ----- start = 23/03/2018 22:45:00 stop = 24/03/2018 00:30:00 title = Chamery vs Dunkerque
+      Replaces ----- start = 24/03/2018 00:30:00 stop = 24/03/2018 01:30:00 title = Transform My Meal
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 20/03/2018 12:56:00 stop = 20/03/2018 13:28:00 title = The Olympic On The Record
-      Replaces ----- start = 20/03/2018 12:55:00 stop = 20/03/2018 13:30:00 title = The Olympic On The Record
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 13:28:00 stop = 20/03/2018 14:57:00 title = PSG x Toulouse
-      Replaces ----- start = 20/03/2018 12:55:00 stop = 20/03/2018 13:30:00 title = The Olympic On The Record
-      Replaces ----- start = 20/03/2018 13:30:00 stop = 20/03/2018 15:00:00 title = PSG x Toulouse
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 14:57:00 stop = 20/03/2018 16:04:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 20/03/2018 13:30:00 stop = 20/03/2018 15:00:00 title = PSG x Toulouse
-      Replaces ----- start = 20/03/2018 15:00:00 stop = 20/03/2018 16:05:00 title = W Giant Slalom 2nd Run
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 16:04:00 stop = 20/03/2018 17:00:00 title = Classic Finals MenMen's Ski Jumpimg, Sochi 2014
-      Replaces ----- start = 20/03/2018 15:00:00 stop = 20/03/2018 16:05:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 20/03/2018 16:05:00 stop = 20/03/2018 17:00:00 title = Classic Finals MenMen's Ski Jumpimg, Sochi 2014
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 17:00:00 stop = 20/03/2018 17:31:00 title = Olympics Today
-      Replaces ----- start = 20/03/2018 17:00:00 stop = 20/03/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 20/03/2018 17:30:00 stop = 20/03/2018 18:45:00 title = The Nagano Tapes
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 17:31:00 stop = 20/03/2018 18:45:00 title = The Nagano Tapes
-      Replaces ----- start = 20/03/2018 17:30:00 stop = 20/03/2018 18:45:00 title = The Nagano Tapes
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 20:00:00 stop = 20/03/2018 21:00:00 title = Doubles Heat 1 & 2
-      Replaces ----- start = 20/03/2018 20:00:00 stop = 20/03/2018 20:45:00 title = Doubles Heat 1 & 2
-      Replaces ----- start = 20/03/2018 20:45:00 stop = 20/03/2018 22:05:00 title = Spain vs Czech Republic
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 21:00:00 stop = 20/03/2018 22:00:00 title = Transform My Meal
-      Replaces ----- start = 20/03/2018 20:45:00 stop = 20/03/2018 22:05:00 title = Spain vs Czech Republic
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/03/2018 22:00:00 stop = 20/03/2018 22:30:00 title = Coming of Age
-      Replaces ----- start = 20/03/2018 20:45:00 stop = 20/03/2018 22:05:00 title = Spain vs Czech Republic
-      Replaces ----- start = 20/03/2018 22:05:00 stop = 20/03/2018 22:30:00 title = Coming of Age
-..........................................
+      show with ---- start = 24/03/2018 23:30:00 stop = 25/03/2018 01:00:00 title = Croatia vs Sweden
+      Replaces ----- start = 24/03/2018 23:30:00 stop = 24/03/2018 23:59:00 title = Croatia vs Sweden
+nnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
-     missing shows added       0
-     changed shows updated     16
-     new shows added           0
-     unchanged shows inspected 49
-     total after update        65
+     missing shows added       17
+     changed shows updated     6
+     new shows added           39
+     unchanged shows inspected 0
+     total after update        96
 
 
 
-Job finished at 20/03/2018 03:01:41 done in 1m 30s
+Job finished at 21/03/2018 03:01:27 done in 1m 20s
