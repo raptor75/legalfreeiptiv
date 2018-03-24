@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 23/03/2018 03:00:11
+Job started at 24/03/2018 03:00:09
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i.........c............ccccc.cc...........c............ccccc.cc...........c............ccccc.cc...........c............ccccc.cc...........c............ccccc.cc...........c............ccccc.cc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..ccccccccccccc.cc.ccc.cccc.ccccc.c..ccccccccccccc.cc.ccc.cccc.ccccc.c..ccccccccccccc.cc.ccc.cccc.ccccc.c..ccccccccccccc.cc.ccc.cccc.ccccc.c..ccccccccccccc.cc.ccc.cccc.ccccc.c..ccccccccccccc.cc.ccc.cccc.ccccc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i.....c..cc..c.cc..cccc......c..cc..c.cc..cccc......c..cc..c.cc..cccc......c..cc..c.cc..cccc......c..cc..c.cc..cccc......c..cc..c.cc..ccccnnnnnnnnnnnnnnnnnnnnnnn
+ic.ccccccccc.cccccc.ccccccccc.cccccc.ccccccccc.cccccc.ccccccccc.cccccc.ccccccccc.cccccc.ccccccccc.ccccnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,337 +159,632 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i............cc..cc.c..............cc..cc.c..............cc..cc.c..............cc..cc.c..............cc..cc.c..............cc..cc.c.nnnnnnnnnnnnnnnnnnnnnn
+i..cccccc.cccccccc.c....cccccc.cccccccc.c....cccccc.cccccccc.c....cccccc.cccccccc.c....cccccc.cccccccc.c....cccccc.cccccccc.c.nnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii.................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnn
 
 (   5/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii...............................................................................................................................................nnnnnnnnnnnnnnnnnnnn
+iiiiiiii...............................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 22:00:00 stop = 25/03/2018 23:30:00 title = Миропорядок-2018
+      Replaces ----- start = 25/03/2018 22:00:00 stop = 26/03/2018 00:30:00 title = Вечер с Владимиром Соловьёвым
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 23:30:00 stop = 26/03/2018 00:30:00 title = Вечер с Владимиром Соловьёвым
+      Replaces ----- start = 25/03/2018 22:00:00 stop = 26/03/2018 00:30:00 title = Вечер с Владимиром Соловьёвым
+..............................................................................................................nnnnnnnnnnnnnnnn
 
 (   6/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   7/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii...................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii...................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   8/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii....................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   9/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii......................................................................................................................................nnnnnnnnnnnnnnnnn
+iiiiiiii.............................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 08:30:00 stop = 25/03/2018 09:45:00 title = Шоу «Уральских пельменей»
+      Replaces ----- start = 25/03/2018 08:30:00 stop = 25/03/2018 09:35:00 title = Шоу «Уральских пельменей»
+      Replaces ----- start = 25/03/2018 09:35:00 stop = 25/03/2018 11:45:00 title = Гринч-похититель рождества
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 09:45:00 stop = 25/03/2018 11:40:00 title = Геракл
+      Replaces ----- start = 25/03/2018 09:35:00 stop = 25/03/2018 11:45:00 title = Гринч-похититель рождества
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 11:40:00 stop = 25/03/2018 13:40:00 title = Повелитель стихий
+      Replaces ----- start = 25/03/2018 09:35:00 stop = 25/03/2018 11:45:00 title = Гринч-похититель рождества
+      Replaces ----- start = 25/03/2018 11:45:00 stop = 25/03/2018 13:40:00 title = Геракл
+......................................................................................................nnnnnnnnnnnnnnnnnnnn
 
 (  10/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii..............................................................................c
+iiiiiiii.......................................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 20:00:00 stop = 26/03/2018 21:40:00 title = Служители закона
-      Replaces ----- start = 26/03/2018 20:00:00 stop = 26/03/2018 21:40:00 title = Ультрафиолет
-c
+      show with ---- start = 26/03/2018 20:00:00 stop = 26/03/2018 22:20:00 title = Служители закона
+      Replaces ----- start = 26/03/2018 20:00:00 stop = 26/03/2018 21:40:00 title = Служители закона
+      Replaces ----- start = 26/03/2018 21:40:00 stop = 26/03/2018 22:20:00 title = Водить по-русски
+........................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 21:40:00 stop = 26/03/2018 22:20:00 title = Водить по-русски
-      Replaces ----- start = 26/03/2018 21:40:00 stop = 26/03/2018 23:00:00 title = Водить по-русски
-c
+      show with ---- start = 27/03/2018 20:00:00 stop = 27/03/2018 21:50:00 title = Поцелуй дракона
+      Replaces ----- start = 27/03/2018 20:00:00 stop = 27/03/2018 21:50:00 title = Леон
+........................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 22:20:00 stop = 26/03/2018 23:00:00 title = Водить по-русски
-      Replaces ----- start = 26/03/2018 21:40:00 stop = 26/03/2018 23:00:00 title = Водить по-русски
-..g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 27/03/2018 00:30:00 stop = 27/03/2018 00:30:00 title = Спартак
-      Added before - start = 27/03/2018 00:30:00 stop = 27/03/2018 02:30:00 title = Спартак
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 00:30:00 stop = 27/03/2018 01:30:00 title = Спартак
-      Replaces ----- start = 27/03/2018 00:30:00 stop = 27/03/2018 02:30:00 title = Спартак
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:30:00 title = Спартак
-      Replaces ----- start = 27/03/2018 00:30:00 stop = 27/03/2018 02:30:00 title = Спартак
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 27/03/2018 02:30:00 stop = 27/03/2018 02:30:00 title = Сильнее огня
-      Added before - start = 27/03/2018 02:30:00 stop = 27/03/2018 04:20:00 title = Сильнее огня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 02:30:00 stop = 27/03/2018 03:25:00 title = Сильнее огня
-      Replaces ----- start = 27/03/2018 02:30:00 stop = 27/03/2018 04:20:00 title = Сильнее огня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 03:25:00 stop = 27/03/2018 04:20:00 title = Сильнее огня
-      Replaces ----- start = 27/03/2018 02:30:00 stop = 27/03/2018 04:20:00 title = Сильнее огня
-.................g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 27/03/2018 20:00:00 stop = 27/03/2018 20:00:00 title = Поцелуй дракона
-      Added before - start = 27/03/2018 20:00:00 stop = 27/03/2018 22:00:00 title = Леон
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 20:00:00 stop = 27/03/2018 21:50:00 title = Леон
-      Replaces ----- start = 27/03/2018 20:00:00 stop = 27/03/2018 22:00:00 title = Леон
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 21:50:00 stop = 27/03/2018 23:00:00 title = Водить по-русски
-      Replaces ----- start = 27/03/2018 20:00:00 stop = 27/03/2018 22:00:00 title = Леон
-      Replaces ----- start = 27/03/2018 22:00:00 stop = 27/03/2018 23:00:00 title = Водить по-русски
-..g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 28/03/2018 00:30:00 stop = 28/03/2018 00:30:00 title = Спартак
-      Added before - start = 28/03/2018 00:30:00 stop = 28/03/2018 02:30:00 title = Спартак
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 00:30:00 stop = 28/03/2018 01:30:00 title = Спартак
-      Replaces ----- start = 28/03/2018 00:30:00 stop = 28/03/2018 02:30:00 title = Спартак
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 01:30:00 stop = 28/03/2018 02:30:00 title = Спартак
-      Replaces ----- start = 28/03/2018 00:30:00 stop = 28/03/2018 02:30:00 title = Спартак
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 28/03/2018 02:30:00 stop = 28/03/2018 02:30:00 title = Сильнее огня
-      Added before - start = 28/03/2018 02:30:00 stop = 28/03/2018 04:30:00 title = Сильнее огня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 02:30:00 stop = 28/03/2018 03:30:00 title = Сильнее огня
-      Replaces ----- start = 28/03/2018 02:30:00 stop = 28/03/2018 04:30:00 title = Сильнее огня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 03:30:00 stop = 28/03/2018 04:30:00 title = Сильнее огня
-      Replaces ----- start = 28/03/2018 02:30:00 stop = 28/03/2018 04:30:00 title = Сильнее огня
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 20:00:00 stop = 28/03/2018 21:50:00 title = Изгой
-      Replaces ----- start = 28/03/2018 20:00:00 stop = 28/03/2018 21:50:00 title = Поцелуй дракона
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 21:50:00 stop = 28/03/2018 22:40:00 title = Смотреть всем!
-      Replaces ----- start = 28/03/2018 21:50:00 stop = 28/03/2018 23:00:00 title = Смотреть всем!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 22:40:00 stop = 28/03/2018 23:00:00 title = Смотреть всем!
-      Replaces ----- start = 28/03/2018 21:50:00 stop = 28/03/2018 23:00:00 title = Смотреть всем!
-..g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/03/2018 00:30:00 stop = 29/03/2018 00:30:00 title = Спартак
-      Added before - start = 29/03/2018 00:30:00 stop = 29/03/2018 02:45:00 title = Спартак
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 00:30:00 stop = 29/03/2018 01:37:00 title = Спартак
-      Replaces ----- start = 29/03/2018 00:30:00 stop = 29/03/2018 02:45:00 title = Спартак
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 01:37:00 stop = 29/03/2018 02:45:00 title = Спартак
-      Replaces ----- start = 29/03/2018 00:30:00 stop = 29/03/2018 02:45:00 title = Спартак
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/03/2018 02:45:00 stop = 29/03/2018 02:45:00 title = Под ливнем пуль
-      Added before - start = 29/03/2018 02:45:00 stop = 29/03/2018 04:50:00 title = Под ливнем пуль
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 02:45:00 stop = 29/03/2018 03:47:00 title = Под ливнем пуль
-      Replaces ----- start = 29/03/2018 02:45:00 stop = 29/03/2018 04:50:00 title = Под ливнем пуль
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 03:47:00 stop = 29/03/2018 04:50:00 title = Под ливнем пуль
-      Replaces ----- start = 29/03/2018 02:45:00 stop = 29/03/2018 04:50:00 title = Под ливнем пуль
-...................nnnnnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 28/03/2018 20:00:00 stop = 28/03/2018 22:40:00 title = Изгой
+      Replaces ----- start = 28/03/2018 20:00:00 stop = 28/03/2018 21:50:00 title = Изгой
+      Replaces ----- start = 28/03/2018 21:50:00 stop = 28/03/2018 22:40:00 title = Смотреть всем!
+..................................................nnnnnnnnnnnnn
 
 (  11/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  12/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii................................................................................nnnnnnnnnnn
+iiiiiiii................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 01:15:00 stop = 27/03/2018 03:05:00 title = Игра в имитацию
+      Replaces ----- start = 27/03/2018 01:15:00 stop = 27/03/2018 03:30:00 title = Игра в имитацию
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 03:05:00 stop = 27/03/2018 04:15:00 title = 100 великих
+      Replaces ----- start = 27/03/2018 01:15:00 stop = 27/03/2018 03:30:00 title = Игра в имитацию
+      Replaces ----- start = 27/03/2018 03:30:00 stop = 27/03/2018 05:00:00 title = 100 великих
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 04:15:00 stop = 27/03/2018 05:10:00 title = Анекдоты
+      Replaces ----- start = 27/03/2018 03:30:00 stop = 27/03/2018 05:00:00 title = 100 великих
+      Replaces ----- start = 27/03/2018 05:00:00 stop = 27/03/2018 06:00:00 title = Лига 8 файт
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 05:10:00 stop = 27/03/2018 06:00:00 title = Лига 8 файт
+      Replaces ----- start = 27/03/2018 05:00:00 stop = 27/03/2018 06:00:00 title = Лига 8 файт
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 01:15:00 stop = 28/03/2018 03:00:00 title = В тылу врага
+      Replaces ----- start = 28/03/2018 01:15:00 stop = 28/03/2018 03:10:00 title = В тылу врага
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 03:00:00 stop = 28/03/2018 04:30:00 title = 100 великих
+      Replaces ----- start = 28/03/2018 01:15:00 stop = 28/03/2018 03:10:00 title = В тылу врага
+      Replaces ----- start = 28/03/2018 03:10:00 stop = 28/03/2018 05:00:00 title = 100 великих
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:10:00 title = Анекдоты
+      Replaces ----- start = 28/03/2018 03:10:00 stop = 28/03/2018 05:00:00 title = 100 великих
+      Replaces ----- start = 28/03/2018 05:00:00 stop = 28/03/2018 06:00:00 title = Лига 8 файт
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 05:10:00 stop = 28/03/2018 06:00:00 title = Лига 8 файт
+      Replaces ----- start = 28/03/2018 05:00:00 stop = 28/03/2018 06:00:00 title = Лига 8 файт
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 01:15:00 stop = 29/03/2018 03:05:00 title = Охотники за сокровищами
+      Replaces ----- start = 29/03/2018 01:15:00 stop = 29/03/2018 03:30:00 title = Охотники за сокровищами
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 03:05:00 stop = 29/03/2018 04:40:00 title = 100 великих
+      Replaces ----- start = 29/03/2018 01:15:00 stop = 29/03/2018 03:30:00 title = Охотники за сокровищами
+      Replaces ----- start = 29/03/2018 03:30:00 stop = 29/03/2018 05:00:00 title = 100 великих
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 04:40:00 stop = 29/03/2018 05:10:00 title = Анекдоты
+      Replaces ----- start = 29/03/2018 03:30:00 stop = 29/03/2018 05:00:00 title = 100 великих
+      Replaces ----- start = 29/03/2018 05:00:00 stop = 29/03/2018 06:00:00 title = Лига 8 файт
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 05:10:00 stop = 29/03/2018 06:00:00 title = Лига 8 файт
+      Replaces ----- start = 29/03/2018 05:00:00 stop = 29/03/2018 06:00:00 title = Лига 8 файт
+........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 23:30:00 stop = 30/03/2018 01:15:00 title = Смертельное оружие
+      Replaces ----- start = 29/03/2018 23:30:00 stop = 30/03/2018 01:20:00 title = Смертельное оружие
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 01:15:00 stop = 30/03/2018 03:25:00 title = Флаги наших отцов
+      Replaces ----- start = 29/03/2018 23:30:00 stop = 30/03/2018 01:20:00 title = Смертельное оружие
+      Replaces ----- start = 30/03/2018 01:20:00 stop = 30/03/2018 04:00:00 title = Флаги наших отцов
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 03:25:00 stop = 30/03/2018 04:35:00 title = 100 великих
+      Replaces ----- start = 30/03/2018 01:20:00 stop = 30/03/2018 04:00:00 title = Флаги наших отцов
+      Replaces ----- start = 30/03/2018 04:00:00 stop = 30/03/2018 05:00:00 title = 100 великих
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 04:35:00 stop = 30/03/2018 05:10:00 title = Анекдоты
+      Replaces ----- start = 30/03/2018 04:00:00 stop = 30/03/2018 05:00:00 title = 100 великих
+      Replaces ----- start = 30/03/2018 05:00:00 stop = 30/03/2018 06:00:00 title = Лига 8 файт
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 05:10:00 stop = 30/03/2018 06:00:00 title = Лига 8 файт
+      Replaces ----- start = 30/03/2018 05:00:00 stop = 30/03/2018 06:00:00 title = Лига 8 файт
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 23:45:00 stop = 31/03/2018 01:25:00 title = Ограбление казино
+      Replaces ----- start = 30/03/2018 23:45:00 stop = 31/03/2018 01:30:00 title = Ограбление казино
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 31/03/2018 01:25:00 stop = 31/03/2018 05:10:00 title = 100 великих
+      Replaces ----- start = 30/03/2018 23:45:00 stop = 31/03/2018 01:30:00 title = Ограбление казино
+nnnnnnnnnn
 
 (  13/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii......................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.......................................................................................................................................................................nnnnnnnnnnnnnnn
 
 (  14/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.............................................................................................................................................................nnnnnnnnnnnnnnnnnn
+iiiiiiii...........................................................................................................................................................nnnnnnnnnnnnnnnnnnnnn
 
 (  15/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii..............................................................................................................................................c
+iiiiiiii..........................................................................................................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 12:40:00 stop = 29/03/2018 14:52:00 title = Понять. Простить
-      Replaces ----- start = 29/03/2018 12:40:00 stop = 29/03/2018 13:50:00 title = Понять. Простить
-      Replaces ----- start = 29/03/2018 13:50:00 stop = 29/03/2018 18:00:00 title = Подруга особого назначения
+      show with ---- start = 29/03/2018 12:40:00 stop = 29/03/2018 13:50:00 title = Понять. Простить
+      Replaces ----- start = 29/03/2018 12:40:00 stop = 29/03/2018 14:52:00 title = Понять. Простить
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 14:52:00 stop = 29/03/2018 15:55:00 title = Подруга особого назначения
-      Replaces ----- start = 29/03/2018 13:50:00 stop = 29/03/2018 18:00:00 title = Подруга особого назначения
+      show with ---- start = 29/03/2018 13:50:00 stop = 29/03/2018 14:52:00 title = Подруга особого назначения
+      Replaces ----- start = 29/03/2018 12:40:00 stop = 29/03/2018 14:52:00 title = Понять. Простить
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 23:55:00 stop = 30/03/2018 00:30:00 title = 6 кадров
+      Replaces ----- start = 29/03/2018 23:55:00 stop = 30/03/2018 01:27:00 title = 6 кадров
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 15:55:00 stop = 29/03/2018 16:57:00 title = Подруга особого назначения
-      Replaces ----- start = 29/03/2018 13:50:00 stop = 29/03/2018 18:00:00 title = Подруга особого назначения
+      show with ---- start = 30/03/2018 00:30:00 stop = 30/03/2018 01:27:00 title = Сватьи
+      Replaces ----- start = 29/03/2018 23:55:00 stop = 30/03/2018 01:27:00 title = 6 кадров
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 07:45:00 stop = 30/03/2018 10:46:00 title = По делам несовершеннолетних
+      Replaces ----- start = 30/03/2018 07:45:00 stop = 30/03/2018 09:45:00 title = По делам несовершеннолетних
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 16:57:00 stop = 29/03/2018 18:00:00 title = Подруга особого назначения
-      Replaces ----- start = 29/03/2018 13:50:00 stop = 29/03/2018 18:00:00 title = Подруга особого назначения
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 19:00:00 stop = 29/03/2018 19:57:00 title = Женский доктор-2
-      Replaces ----- start = 29/03/2018 19:00:00 stop = 29/03/2018 20:55:00 title = Женский доктор-2
+      show with ---- start = 30/03/2018 10:46:00 stop = 30/03/2018 11:48:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 19:57:00 stop = 29/03/2018 20:55:00 title = Женский доктор-2
-      Replaces ----- start = 29/03/2018 19:00:00 stop = 29/03/2018 20:55:00 title = Женский доктор-2
+      show with ---- start = 30/03/2018 11:48:00 stop = 30/03/2018 12:50:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 20:55:00 stop = 29/03/2018 21:55:00 title = Восток-Запад
-      Replaces ----- start = 29/03/2018 20:55:00 stop = 29/03/2018 22:55:00 title = Восток-Запад
+      show with ---- start = 30/03/2018 12:50:00 stop = 30/03/2018 13:52:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 21:55:00 stop = 29/03/2018 22:55:00 title = Восток-Запад
-      Replaces ----- start = 29/03/2018 20:55:00 stop = 29/03/2018 22:55:00 title = Восток-Запад
-.c
+      show with ---- start = 30/03/2018 13:52:00 stop = 30/03/2018 14:54:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
+c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/03/2018 23:55:00 stop = 30/03/2018 01:27:00 title = 6 кадров
-      Replaces ----- start = 29/03/2018 23:55:00 stop = 30/03/2018 00:30:00 title = 6 кадров
-nnnnnnnnnnnn
+      show with ---- start = 30/03/2018 14:54:00 stop = 30/03/2018 15:56:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 15:56:00 stop = 30/03/2018 16:58:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 16:58:00 stop = 30/03/2018 18:00:00 title = Условия контракта
+      Replaces ----- start = 30/03/2018 09:45:00 stop = 30/03/2018 18:00:00 title = Условия контракта
+...nnnnnnnnnnnnnnn
 
 (  16/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii......................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnn
-
-(  17/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii.............................................................................................c
+iiiiiiiic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 18:20:00 stop = 26/03/2018 19:15:00 title = Угадай мой возраст
-      Replaces ----- start = 26/03/2018 18:20:00 stop = 26/03/2018 20:00:00 title = Угадай мой возраст
+      show with ---- start = 24/03/2018 03:00:00 stop = 24/03/2018 03:40:00 title = Пятница News
+      Replaces ----- start = 24/03/2018 03:05:00 stop = 24/03/2018 03:40:00 title = Пятница News
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 19:15:00 stop = 26/03/2018 20:00:00 title = Дикий ангел
-      Replaces ----- start = 26/03/2018 18:20:00 stop = 26/03/2018 20:00:00 title = Угадай мой возраст
+      show with ---- start = 24/03/2018 03:40:00 stop = 24/03/2018 05:00:00 title = Орёл и решка
+      Replaces ----- start = 24/03/2018 03:40:00 stop = 24/03/2018 04:20:00 title = Орёл и решка
+      Replaces ----- start = 24/03/2018 04:20:00 stop = 24/03/2018 05:00:00 title = Орёл и решка
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 05:00:00 stop = 24/03/2018 07:00:00 title = Орёл и решка
+      Replaces ----- start = 24/03/2018 05:00:00 stop = 24/03/2018 05:50:00 title = Орёл и решка
+      Replaces ----- start = 24/03/2018 05:50:00 stop = 24/03/2018 06:50:00 title = Орёл и решка
+      Replaces ----- start = 24/03/2018 06:50:00 stop = 24/03/2018 07:25:00 title = Школа доктора Комаровского
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 07:00:00 stop = 24/03/2018 08:00:00 title = Школа доктора Комаровского
+      Replaces ----- start = 24/03/2018 06:50:00 stop = 24/03/2018 07:25:00 title = Школа доктора Комаровского
+      Replaces ----- start = 24/03/2018 07:25:00 stop = 24/03/2018 08:00:00 title = Школа доктора Комаровского
 .....c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:25:00 title = Угадай мой возраст
-      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 03:15:00 title = Угадай мой возраст
+      show with ---- start = 24/03/2018 13:00:00 stop = 24/03/2018 16:10:00 title = Мир наизнанку
+      Replaces ----- start = 24/03/2018 13:00:00 stop = 24/03/2018 13:55:00 title = Мир наизнанку
+      Replaces ----- start = 24/03/2018 13:55:00 stop = 24/03/2018 14:45:00 title = Мир наизнанку
+      Replaces ----- start = 24/03/2018 14:45:00 stop = 24/03/2018 16:10:00 title = Мир наизнанку
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 02:25:00 stop = 27/03/2018 03:15:00 title = Мыслить как преступник
-      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 03:15:00 title = Угадай мой возраст
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 04:30:00 stop = 27/03/2018 05:00:00 title = Самые плохие татуировки в Америке
-      Replaces ----- start = 27/03/2018 04:30:00 stop = 27/03/2018 05:30:00 title = Самые плохие татуировки в Америке
+      show with ---- start = 24/03/2018 16:10:00 stop = 24/03/2018 18:30:00 title = Смертельное оружие-3
+      Replaces ----- start = 24/03/2018 16:10:00 stop = 24/03/2018 18:25:00 title = Смертельное оружие-3
+      Replaces ----- start = 24/03/2018 18:25:00 stop = 24/03/2018 20:50:00 title = Смертельное оружие-4
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 05:00:00 stop = 27/03/2018 05:30:00 title = Кошмарные татуировки
-      Replaces ----- start = 27/03/2018 04:30:00 stop = 27/03/2018 05:30:00 title = Самые плохие татуировки в Америке
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 06:40:00 stop = 27/03/2018 07:05:00 title = В теме
-      Replaces ----- start = 27/03/2018 06:40:00 stop = 27/03/2018 07:55:00 title = В теме
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 07:05:00 stop = 27/03/2018 07:55:00 title = Лучший повар Америки
-      Replaces ----- start = 27/03/2018 06:40:00 stop = 27/03/2018 07:55:00 title = В теме
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 16:30:00 stop = 27/03/2018 17:30:00 title = Одинокий папа мечтает познакомиться
-      Replaces ----- start = 27/03/2018 16:30:00 stop = 27/03/2018 18:20:00 title = Одинокий папа мечтает познакомиться
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 17:30:00 stop = 27/03/2018 18:20:00 title = Угадай мой возраст
-      Replaces ----- start = 27/03/2018 16:30:00 stop = 27/03/2018 18:20:00 title = Одинокий папа мечтает познакомиться
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 01:20:00 stop = 28/03/2018 02:15:00 title = Угадай мой возраст
-      Replaces ----- start = 28/03/2018 01:20:00 stop = 28/03/2018 03:00:00 title = Угадай мой возраст
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 02:15:00 stop = 28/03/2018 03:00:00 title = Мыслить как преступник
-      Replaces ----- start = 28/03/2018 01:20:00 stop = 28/03/2018 03:00:00 title = Угадай мой возраст
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:00:00 title = Самые плохие татуировки в Америке
-      Replaces ----- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:30:00 title = Самые плохие татуировки в Америке
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 05:00:00 stop = 28/03/2018 05:30:00 title = Кошмарные татуировки
-      Replaces ----- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:30:00 title = Самые плохие татуировки в Америке
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 06:40:00 stop = 28/03/2018 07:05:00 title = В теме
-      Replaces ----- start = 28/03/2018 06:40:00 stop = 28/03/2018 07:55:00 title = В теме
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 07:05:00 stop = 28/03/2018 07:55:00 title = Лучший повар Америки
-      Replaces ----- start = 28/03/2018 06:40:00 stop = 28/03/2018 07:55:00 title = В теме
+      show with ---- start = 24/03/2018 18:30:00 stop = 24/03/2018 20:50:00 title = Смертельное оружие-4
+      Replaces ----- start = 24/03/2018 18:25:00 stop = 24/03/2018 20:50:00 title = Смертельное оружие-4
 .c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 08:45:00 stop = 28/03/2018 09:15:00 title = В теме
-      Replaces ----- start = 28/03/2018 08:45:00 stop = 28/03/2018 11:15:00 title = В теме
+      show with ---- start = 24/03/2018 23:00:00 stop = 25/03/2018 01:10:00 title = Смертельное оружие-2
+      Replaces ----- start = 24/03/2018 23:00:00 stop = 25/03/2018 01:05:00 title = Секретные материалы
+      Replaces ----- start = 25/03/2018 01:05:00 stop = 25/03/2018 03:30:00 title = Секретные материалы
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 09:15:00 stop = 28/03/2018 11:15:00 title = Папа попал
-      Replaces ----- start = 28/03/2018 08:45:00 stop = 28/03/2018 11:15:00 title = В теме
+      show with ---- start = 25/03/2018 01:10:00 stop = 25/03/2018 03:30:00 title = 5-я волна
+      Replaces ----- start = 25/03/2018 01:05:00 stop = 25/03/2018 03:30:00 title = Секретные материалы
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 11:15:00 stop = 28/03/2018 13:30:00 title = Папа попал
-      Replaces ----- start = 28/03/2018 11:15:00 stop = 28/03/2018 14:35:00 title = Папа попал
+      show with ---- start = 25/03/2018 03:30:00 stop = 25/03/2018 04:00:00 title = Пятница News
+      Replaces ----- start = 25/03/2018 03:30:00 stop = 25/03/2018 05:00:00 title = Мир наизнанку
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 13:30:00 stop = 28/03/2018 14:35:00 title = Беременна в 16
-      Replaces ----- start = 28/03/2018 11:15:00 stop = 28/03/2018 14:35:00 title = Папа попал
-.......................................nnnnnnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 25/03/2018 04:00:00 stop = 25/03/2018 05:00:00 title = Орёл и решка. Шопинг
+      Replaces ----- start = 25/03/2018 03:30:00 stop = 25/03/2018 05:00:00 title = Мир наизнанку
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 05:00:00 stop = 25/03/2018 07:00:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 05:00:00 stop = 25/03/2018 05:45:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 05:45:00 stop = 25/03/2018 06:55:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 06:55:00 stop = 25/03/2018 07:30:00 title = Школа доктора Комаровского
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 07:00:00 stop = 25/03/2018 08:00:00 title = Школа доктора Комаровского
+      Replaces ----- start = 25/03/2018 06:55:00 stop = 25/03/2018 07:30:00 title = Школа доктора Комаровского
+      Replaces ----- start = 25/03/2018 07:30:00 stop = 25/03/2018 08:00:00 title = Школа доктора Комаровского
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 08:00:00 stop = 25/03/2018 10:00:00 title = Мейкаперы
+      Replaces ----- start = 25/03/2018 08:00:00 stop = 25/03/2018 09:00:00 title = Мейкаперы
+      Replaces ----- start = 25/03/2018 09:00:00 stop = 25/03/2018 10:00:00 title = Мейкаперы
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 11:00:00 stop = 25/03/2018 12:00:00 title = Генеральная уборка
+      Replaces ----- start = 25/03/2018 11:00:00 stop = 25/03/2018 11:30:00 title = Генеральная уборка
+      Replaces ----- start = 25/03/2018 11:30:00 stop = 25/03/2018 12:00:00 title = Генеральная уборка
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 12:00:00 stop = 25/03/2018 13:00:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 12:00:00 stop = 25/03/2018 13:05:00 title = Орёл и решка
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 13:00:00 stop = 25/03/2018 14:00:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 12:00:00 stop = 25/03/2018 13:05:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 13:05:00 stop = 25/03/2018 14:05:00 title = Орёл и решка
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 14:00:00 stop = 25/03/2018 15:00:00 title = Орёл и решка. По морям
+      Replaces ----- start = 25/03/2018 13:05:00 stop = 25/03/2018 14:05:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 14:05:00 stop = 25/03/2018 15:00:00 title = Орёл и решка
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 15:00:00 stop = 25/03/2018 18:15:00 title = Орёл и решка
+      Replaces ----- start = 25/03/2018 15:00:00 stop = 25/03/2018 17:10:00 title = Смертельное оружие-2
+      Replaces ----- start = 25/03/2018 17:10:00 stop = 25/03/2018 19:40:00 title = Смертельное оружие-4
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 18:15:00 stop = 25/03/2018 23:00:00 title = Мир наизнанку
+      Replaces ----- start = 25/03/2018 17:10:00 stop = 25/03/2018 19:40:00 title = Смертельное оружие-4
+      Replaces ----- start = 25/03/2018 19:40:00 stop = 25/03/2018 21:25:00 title = Тревожный вызов
+      Replaces ----- start = 25/03/2018 21:25:00 stop = 25/03/2018 23:35:00 title = Секретные материалы
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 23:00:00 stop = 26/03/2018 01:30:00 title = Смертельное оружие-4
+      Replaces ----- start = 25/03/2018 21:25:00 stop = 25/03/2018 23:35:00 title = Секретные материалы
+      Replaces ----- start = 25/03/2018 23:35:00 stop = 26/03/2018 02:00:00 title = Секретные материалы
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 01:30:00 stop = 26/03/2018 02:00:00 title = Храброе сердце
+      Replaces ----- start = 25/03/2018 23:35:00 stop = 26/03/2018 02:00:00 title = Секретные материалы
+...............................................................................................................................nnnnnnnnnnnnnnnnnnnnn
+
+(  17/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii.....................................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 20:55:00 stop = 26/03/2018 22:40:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 26/03/2018 20:55:00 stop = 26/03/2018 22:00:00 title = Верните мне красоту
+      Replaces ----- start = 26/03/2018 22:00:00 stop = 26/03/2018 23:15:00 title = Верните мне красоту
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 22:40:00 stop = 27/03/2018 00:20:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 26/03/2018 22:00:00 stop = 26/03/2018 23:15:00 title = Верните мне красоту
+      Replaces ----- start = 26/03/2018 23:15:00 stop = 26/03/2018 23:45:00 title = В теме
+      Replaces ----- start = 26/03/2018 23:45:00 stop = 27/03/2018 01:30:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 00:20:00 stop = 27/03/2018 00:55:00 title = В теме
+      Replaces ----- start = 26/03/2018 23:45:00 stop = 27/03/2018 01:30:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 00:55:00 stop = 27/03/2018 01:50:00 title = Угадай мой возраст
+      Replaces ----- start = 26/03/2018 23:45:00 stop = 27/03/2018 01:30:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:25:00 title = Угадай мой возраст
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 01:50:00 stop = 27/03/2018 02:35:00 title = Мыслить как преступник
+      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:25:00 title = Угадай мой возраст
+      Replaces ----- start = 27/03/2018 02:25:00 stop = 27/03/2018 03:15:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 02:35:00 stop = 27/03/2018 03:40:00 title = Мыслить как преступник
+      Replaces ----- start = 27/03/2018 02:25:00 stop = 27/03/2018 03:15:00 title = Мыслить как преступник
+      Replaces ----- start = 27/03/2018 03:15:00 stop = 27/03/2018 04:05:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 03:40:00 stop = 27/03/2018 04:05:00 title = Кошмарные татуировки
+      Replaces ----- start = 27/03/2018 03:15:00 stop = 27/03/2018 04:05:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 04:05:00 stop = 27/03/2018 04:35:00 title = Самые плохие татуировки в Америке
+      Replaces ----- start = 27/03/2018 04:05:00 stop = 27/03/2018 04:30:00 title = Самые плохие татуировки в Америке
+      Replaces ----- start = 27/03/2018 04:30:00 stop = 27/03/2018 05:00:00 title = Самые плохие татуировки в Америке
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 04:35:00 stop = 27/03/2018 05:00:00 title = Кошмарные татуировки
+      Replaces ----- start = 27/03/2018 04:30:00 stop = 27/03/2018 05:00:00 title = Самые плохие татуировки в Америке
+..................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 20:55:00 stop = 27/03/2018 22:45:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 27/03/2018 20:55:00 stop = 27/03/2018 22:05:00 title = Верните мне красоту
+      Replaces ----- start = 27/03/2018 22:05:00 stop = 27/03/2018 23:05:00 title = Верните мне красоту
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 22:45:00 stop = 28/03/2018 00:35:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 27/03/2018 22:05:00 stop = 27/03/2018 23:05:00 title = Верните мне красоту
+      Replaces ----- start = 27/03/2018 23:05:00 stop = 27/03/2018 23:35:00 title = В теме
+      Replaces ----- start = 27/03/2018 23:35:00 stop = 28/03/2018 01:20:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 00:35:00 stop = 28/03/2018 01:00:00 title = В теме
+      Replaces ----- start = 27/03/2018 23:35:00 stop = 28/03/2018 01:20:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 01:00:00 stop = 28/03/2018 02:00:00 title = Угадай мой возраст
+      Replaces ----- start = 27/03/2018 23:35:00 stop = 28/03/2018 01:20:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 28/03/2018 01:20:00 stop = 28/03/2018 02:15:00 title = Угадай мой возраст
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 02:00:00 stop = 28/03/2018 02:45:00 title = Мыслить как преступник
+      Replaces ----- start = 28/03/2018 01:20:00 stop = 28/03/2018 02:15:00 title = Угадай мой возраст
+      Replaces ----- start = 28/03/2018 02:15:00 stop = 28/03/2018 03:00:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 02:45:00 stop = 28/03/2018 03:40:00 title = Мыслить как преступник
+      Replaces ----- start = 28/03/2018 02:15:00 stop = 28/03/2018 03:00:00 title = Мыслить как преступник
+      Replaces ----- start = 28/03/2018 03:00:00 stop = 28/03/2018 04:05:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 03:40:00 stop = 28/03/2018 04:05:00 title = Кошмарные татуировки
+      Replaces ----- start = 28/03/2018 03:00:00 stop = 28/03/2018 04:05:00 title = Мыслить как преступник
+....................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 20:55:00 stop = 28/03/2018 22:45:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 28/03/2018 20:55:00 stop = 28/03/2018 22:00:00 title = Верните мне красоту
+      Replaces ----- start = 28/03/2018 22:00:00 stop = 28/03/2018 23:15:00 title = Верните мне красоту
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 22:45:00 stop = 29/03/2018 00:35:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 28/03/2018 22:00:00 stop = 28/03/2018 23:15:00 title = Верните мне красоту
+      Replaces ----- start = 28/03/2018 23:15:00 stop = 28/03/2018 23:45:00 title = В теме
+      Replaces ----- start = 28/03/2018 23:45:00 stop = 29/03/2018 01:35:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 00:35:00 stop = 29/03/2018 01:00:00 title = В теме
+      Replaces ----- start = 28/03/2018 23:45:00 stop = 29/03/2018 01:35:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 01:00:00 stop = 29/03/2018 02:00:00 title = Угадай мой возраст
+      Replaces ----- start = 28/03/2018 23:45:00 stop = 29/03/2018 01:35:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 29/03/2018 01:35:00 stop = 29/03/2018 02:30:00 title = Угадай мой возраст
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 02:00:00 stop = 29/03/2018 02:50:00 title = Мыслить как преступник
+      Replaces ----- start = 29/03/2018 01:35:00 stop = 29/03/2018 02:30:00 title = Угадай мой возраст
+      Replaces ----- start = 29/03/2018 02:30:00 stop = 29/03/2018 03:20:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 02:50:00 stop = 29/03/2018 03:50:00 title = Мыслить как преступник
+      Replaces ----- start = 29/03/2018 02:30:00 stop = 29/03/2018 03:20:00 title = Мыслить как преступник
+      Replaces ----- start = 29/03/2018 03:20:00 stop = 29/03/2018 04:05:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 03:50:00 stop = 29/03/2018 04:10:00 title = Кошмарные татуировки
+      Replaces ----- start = 29/03/2018 03:20:00 stop = 29/03/2018 04:05:00 title = Мыслить как преступник
+      Replaces ----- start = 29/03/2018 04:05:00 stop = 29/03/2018 04:30:00 title = Самые плохие татуировки в Америке
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 04:10:00 stop = 29/03/2018 04:30:00 title = Кошмарные татуировки. Майами
+      Replaces ----- start = 29/03/2018 04:05:00 stop = 29/03/2018 04:30:00 title = Самые плохие татуировки в Америке
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 04:30:00 stop = 29/03/2018 05:00:00 title = Самые плохие татуировки в Америке
+      Replaces ----- start = 29/03/2018 04:30:00 stop = 29/03/2018 05:00:00 title = Кошмарные татуировки. Майами
+...................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 20:55:00 stop = 29/03/2018 22:50:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 29/03/2018 20:55:00 stop = 29/03/2018 22:05:00 title = Верните мне красоту
+      Replaces ----- start = 29/03/2018 22:05:00 stop = 29/03/2018 23:15:00 title = Верните мне красоту
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 22:50:00 stop = 30/03/2018 00:35:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 29/03/2018 22:05:00 stop = 29/03/2018 23:15:00 title = Верните мне красоту
+      Replaces ----- start = 29/03/2018 23:15:00 stop = 29/03/2018 23:45:00 title = В теме
+      Replaces ----- start = 29/03/2018 23:45:00 stop = 30/03/2018 01:30:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 00:35:00 stop = 30/03/2018 01:05:00 title = В теме
+      Replaces ----- start = 29/03/2018 23:45:00 stop = 30/03/2018 01:30:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 01:05:00 stop = 30/03/2018 02:00:00 title = Угадай мой возраст
+      Replaces ----- start = 29/03/2018 23:45:00 stop = 30/03/2018 01:30:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 30/03/2018 01:30:00 stop = 30/03/2018 02:25:00 title = Угадай мой возраст
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 02:00:00 stop = 30/03/2018 02:55:00 title = Мыслить как преступник
+      Replaces ----- start = 30/03/2018 01:30:00 stop = 30/03/2018 02:25:00 title = Угадай мой возраст
+      Replaces ----- start = 30/03/2018 02:25:00 stop = 30/03/2018 03:15:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 02:55:00 stop = 30/03/2018 03:45:00 title = Мыслить как преступник
+      Replaces ----- start = 30/03/2018 02:25:00 stop = 30/03/2018 03:15:00 title = Мыслить как преступник
+      Replaces ----- start = 30/03/2018 03:15:00 stop = 30/03/2018 04:00:00 title = Мыслить как преступник
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 03:45:00 stop = 30/03/2018 04:40:00 title = Europa plus чарт
+      Replaces ----- start = 30/03/2018 03:15:00 stop = 30/03/2018 04:00:00 title = Мыслить как преступник
+      Replaces ----- start = 30/03/2018 04:00:00 stop = 30/03/2018 05:00:00 title = Europa plus чарт
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 04:40:00 stop = 30/03/2018 05:05:00 title = Кошмарные татуировки
+      Replaces ----- start = 30/03/2018 04:00:00 stop = 30/03/2018 05:00:00 title = Europa plus чарт
+      Replaces ----- start = 30/03/2018 05:00:00 stop = 30/03/2018 05:30:00 title = Самые плохие татуировки в Америке
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 05:05:00 stop = 30/03/2018 05:30:00 title = Кошмарные татуировки
+      Replaces ----- start = 30/03/2018 05:00:00 stop = 30/03/2018 05:30:00 title = Самые плохие татуировки в Америке
+..................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 20:55:00 stop = 30/03/2018 22:45:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 30/03/2018 20:55:00 stop = 30/03/2018 22:05:00 title = Верните мне красоту
+      Replaces ----- start = 30/03/2018 22:05:00 stop = 30/03/2018 23:20:00 title = Верните мне красоту
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 22:45:00 stop = 31/03/2018 00:35:00 title = Я стесняюсь своего тела
+      Replaces ----- start = 30/03/2018 22:05:00 stop = 30/03/2018 23:20:00 title = Верните мне красоту
+      Replaces ----- start = 30/03/2018 23:20:00 stop = 30/03/2018 23:50:00 title = В теме
+      Replaces ----- start = 30/03/2018 23:50:00 stop = 31/03/2018 01:40:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 31/03/2018 00:35:00 stop = 31/03/2018 01:05:00 title = В теме
+      Replaces ----- start = 30/03/2018 23:50:00 stop = 31/03/2018 01:40:00 title = Я стесняюсь своего тела
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 31/03/2018 01:05:00 stop = 31/03/2018 02:00:00 title = Угадай мой возраст
+      Replaces ----- start = 30/03/2018 23:50:00 stop = 31/03/2018 01:40:00 title = Я стесняюсь своего тела
+nnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  18/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii..............................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii..............................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (  19/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................................................................................................................................................nnnn
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................r
+   forced update : 
+ show REPLACED (forced update / overlap or timeorder error in EPG
+      show with ---- start = 30/03/2018 01:30:00 stop = 30/03/2018 02:00:00 title = Новости, бизнес, спорт, без комментариев
+      Replaces ----- start = 30/03/2018 01:30:00 stop = 30/03/2018 02:00:00 title = Новости, бизнес, спорт, без комментариев (?)
+r
+   forced update : 
+ show REPLACED (forced update / overlap or timeorder error in EPG
+      show with ---- start = 30/03/2018 02:00:00 stop = 30/03/2018 02:30:00 title = Новости, бизнес, спорт, без комментариев
+      Replaces ----- start = 30/03/2018 02:00:00 stop = 30/03/2018 02:30:00 title = Новости, бизнес, спорт, без комментариев (?)
+r
+   forced update : 
+ show REPLACED (forced update / overlap or timeorder error in EPG
+      show with ---- start = 30/03/2018 02:30:00 stop = 30/03/2018 03:00:00 title = Новости, бизнес, спорт, без комментариев
+      Replaces ----- start = 30/03/2018 02:30:00 stop = 30/03/2018 03:00:00 title = Новости, бизнес, спорт, без комментариев (?)
+..................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii...........................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
 error downloading page: The request timed out (10sec)
@@ -501,924 +796,684 @@ pausing 4 of 4 times for 20 seconds before re-try.
 n
 error downloading page: Error: ConnectFailure (No route to host)
 pausing 1 of 4 times for 5 seconds before re-try.
-error downloading page: Error: ConnectFailure (No route to host)
-pausing 2 of 4 times for 10 seconds before re-try.
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
 error downloading page: Error: ConnectFailure (No route to host)
 pausing 3 of 4 times for 15 seconds before re-try.
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-n
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-n
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-nnnnnnnn
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-n
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+error downloading page: Error: ConnectFailure (No route to host)
+pausing 4 of 4 times for 20 seconds before re-try.
 
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii......c
+(  21/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel РБК
+Generic syntax exception:
+   message: 
+no index page data received from РБК
+unable to update channel, try again later
+Existing guide data restored!
+(  21/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+iiiiiiii........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  22/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii...............................................................................................................................................nnnnnnnnnnnnnnnnnnn
+
+(  23/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+iiiiiiii...............................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  24/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+iiiiiiii...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 08:00:00 stop = 23/03/2018 09:25:00 title = Новости
-      Replaces ----- start = 23/03/2018 08:00:00 stop = 23/03/2018 08:05:00 title = Новости
-      Replaces ----- start = 23/03/2018 08:05:00 stop = 23/03/2018 09:35:00 title = ОСА. Продолжение
-c
+      show with ---- start = 24/03/2018 01:29:00 stop = 24/03/2018 02:00:00 title = СофиКо
+      Replaces ----- start = 24/03/2018 01:29:00 stop = 24/03/2018 02:00:00 title = Документалистика
+............................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  25/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii.................................................................................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 09:25:00 stop = 23/03/2018 10:00:00 title = Бабий бунт, или Война в Новоселково
-      Replaces ----- start = 23/03/2018 08:05:00 stop = 23/03/2018 09:35:00 title = ОСА. Продолжение
-      Replaces ----- start = 23/03/2018 09:35:00 stop = 23/03/2018 10:00:00 title = Бабий бунт, или Война в Новоселково
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 13:00:00 stop = 23/03/2018 13:20:00 title = Новости
-      Replaces ----- start = 23/03/2018 13:00:00 stop = 23/03/2018 13:15:00 title = Новости
-      Replaces ----- start = 23/03/2018 13:15:00 stop = 23/03/2018 14:00:00 title = Бабий бунт, или Война в Новоселково
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 13:20:00 stop = 23/03/2018 14:00:00 title = Бабий бунт, или Война в Новоселково
-      Replaces ----- start = 23/03/2018 13:15:00 stop = 23/03/2018 14:00:00 title = Бабий бунт, или Война в Новоселково
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:00:00 stop = 23/03/2018 16:20:00 title = Новости
-      Replaces ----- start = 23/03/2018 16:00:00 stop = 23/03/2018 16:15:00 title = Новости
-      Replaces ----- start = 23/03/2018 16:15:00 stop = 23/03/2018 17:15:00 title = Секретные материалы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:20:00 stop = 23/03/2018 17:20:00 title = Секретные материалы
-      Replaces ----- start = 23/03/2018 16:15:00 stop = 23/03/2018 17:15:00 title = Секретные материалы
-      Replaces ----- start = 23/03/2018 17:15:00 stop = 23/03/2018 18:07:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 17:20:00 stop = 23/03/2018 19:00:00 title = Крыса
-      Replaces ----- start = 23/03/2018 17:15:00 stop = 23/03/2018 18:07:00 title = Крыса
-      Replaces ----- start = 23/03/2018 18:07:00 stop = 23/03/2018 19:00:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 19:00:00 stop = 23/03/2018 19:20:00 title = Новости
-      Replaces ----- start = 23/03/2018 19:00:00 stop = 23/03/2018 19:10:00 title = Новости
-      Replaces ----- start = 23/03/2018 19:10:00 stop = 23/03/2018 19:46:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 19:20:00 stop = 23/03/2018 20:00:00 title = Крыса
-      Replaces ----- start = 23/03/2018 19:10:00 stop = 23/03/2018 19:46:00 title = Крыса
-      Replaces ----- start = 23/03/2018 19:46:00 stop = 23/03/2018 20:23:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 20:00:00 stop = 23/03/2018 20:40:00 title = Крыса
-      Replaces ----- start = 23/03/2018 19:46:00 stop = 23/03/2018 20:23:00 title = Крыса
-      Replaces ----- start = 23/03/2018 20:23:00 stop = 23/03/2018 21:00:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 20:40:00 stop = 23/03/2018 21:20:00 title = Крыса
-      Replaces ----- start = 23/03/2018 20:23:00 stop = 23/03/2018 21:00:00 title = Крыса
-      Replaces ----- start = 23/03/2018 21:00:00 stop = 23/03/2018 22:50:00 title = Заза
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 21:20:00 stop = 23/03/2018 23:05:00 title = Заза
-      Replaces ----- start = 23/03/2018 21:00:00 stop = 23/03/2018 22:50:00 title = Заза
-      Replaces ----- start = 23/03/2018 22:50:00 stop = 24/03/2018 00:35:00 title = Ослиная шкура
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 23:05:00 stop = 24/03/2018 00:45:00 title = Ослиная шкура
-      Replaces ----- start = 23/03/2018 22:50:00 stop = 24/03/2018 00:35:00 title = Ослиная шкура
-      Replaces ----- start = 24/03/2018 00:35:00 stop = 24/03/2018 00:55:00 title = Новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 00:45:00 stop = 24/03/2018 01:10:00 title = Держись, шоубиз!
-      Replaces ----- start = 24/03/2018 00:35:00 stop = 24/03/2018 00:55:00 title = Новости
-      Replaces ----- start = 24/03/2018 00:55:00 stop = 24/03/2018 01:25:00 title = Держись, шоубиз!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 01:10:00 stop = 24/03/2018 01:45:00 title = Достучаться до звезды
-      Replaces ----- start = 24/03/2018 00:55:00 stop = 24/03/2018 01:25:00 title = Держись, шоубиз!
-      Replaces ----- start = 24/03/2018 01:25:00 stop = 24/03/2018 01:55:00 title = Достучаться до звезды
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 01:45:00 stop = 24/03/2018 04:20:00 title = В начале славных дел
-      Replaces ----- start = 24/03/2018 01:25:00 stop = 24/03/2018 01:55:00 title = Достучаться до звезды
-      Replaces ----- start = 24/03/2018 01:55:00 stop = 24/03/2018 04:35:00 title = В начале славных дел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 04:20:00 stop = 24/03/2018 04:50:00 title = Любимые актёры
-      Replaces ----- start = 24/03/2018 01:55:00 stop = 24/03/2018 04:35:00 title = В начале славных дел
-      Replaces ----- start = 24/03/2018 04:35:00 stop = 24/03/2018 05:05:00 title = Любимые актёры
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 04:50:00 stop = 24/03/2018 06:00:00 title = Мультфильмы
-      Replaces ----- start = 24/03/2018 04:35:00 stop = 24/03/2018 05:05:00 title = Любимые актёры
-      Replaces ----- start = 24/03/2018 05:05:00 stop = 24/03/2018 05:40:00 title = Сказка о Золотом Петушке
-      Replaces ----- start = 24/03/2018 05:40:00 stop = 24/03/2018 06:00:00 title = Маша и Медведь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 06:00:00 stop = 24/03/2018 06:10:00 title = Мультфильмы
-      Replaces ----- start = 24/03/2018 06:00:00 stop = 24/03/2018 06:05:00 title = Маша и Медведь
-      Replaces ----- start = 24/03/2018 06:05:00 stop = 24/03/2018 07:50:00 title = Ослиная шкура
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 06:10:00 stop = 24/03/2018 07:50:00 title = Ослиная шкура
-      Replaces ----- start = 24/03/2018 06:05:00 stop = 24/03/2018 07:50:00 title = Ослиная шкура
+      show with ---- start = 26/03/2018 00:00:00 stop = 26/03/2018 00:30:00 title = Коммунизм по-американски
+      Replaces ----- start = 26/03/2018 00:00:00 stop = 26/03/2018 00:30:00 title = Мир
 .c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 08:20:00 stop = 24/03/2018 09:00:00 title = Маша и Медведь
-      Replaces ----- start = 24/03/2018 08:20:00 stop = 24/03/2018 09:00:00 title = Мультфильмы
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 10:10:00 stop = 24/03/2018 10:15:00 title = Достояние республик
-      Replaces ----- start = 24/03/2018 10:10:00 stop = 24/03/2018 10:40:00 title = Достояние республик
+      show with ---- start = 26/03/2018 01:00:00 stop = 26/03/2018 01:30:00 title = Жизнь на заработках
+      Replaces ----- start = 26/03/2018 01:00:00 stop = 26/03/2018 01:30:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 10:15:00 stop = 24/03/2018 10:40:00 title = Достояние республик
-      Replaces ----- start = 24/03/2018 10:10:00 stop = 24/03/2018 10:40:00 title = Достояние республик
+      show with ---- start = 26/03/2018 01:30:00 stop = 26/03/2018 02:00:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 26/03/2018 01:30:00 stop = 26/03/2018 02:00:00 title = Без политики
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 04:00:00 stop = 26/03/2018 04:30:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 26/03/2018 04:00:00 stop = 26/03/2018 04:30:00 title = Мир
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 05:30:00 stop = 26/03/2018 06:00:00 title = Остров везения
+      Replaces ----- start = 26/03/2018 05:30:00 stop = 26/03/2018 06:00:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 06:30:00 stop = 26/03/2018 07:00:00 title = Wi-Fi фобия
+      Replaces ----- start = 26/03/2018 06:30:00 stop = 26/03/2018 07:00:00 title = Избранное
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 07:00:00 stop = 26/03/2018 07:30:00 title = Спасение бельков
+      Replaces ----- start = 26/03/2018 07:00:00 stop = 26/03/2018 07:30:00 title = Без политики
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 08:00:00 stop = 26/03/2018 08:30:00 title = Мёртвое золото Филиппин
+      Replaces ----- start = 26/03/2018 08:00:00 stop = 26/03/2018 08:30:00 title = Мир
 ......c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 19:00:00 stop = 24/03/2018 19:05:00 title = Новости
-      Replaces ----- start = 24/03/2018 19:00:00 stop = 24/03/2018 19:15:00 title = Новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 19:05:00 stop = 24/03/2018 19:30:00 title = Интервью Д.С. Пескова, Заместителя Руководителя Администрации Президента РФ-Пресс-Секретаря Президента РФ
-      Replaces ----- start = 24/03/2018 19:00:00 stop = 24/03/2018 19:15:00 title = Новости
-      Replaces ----- start = 24/03/2018 19:15:00 stop = 24/03/2018 20:10:00 title = Дело было на Кубани
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 19:30:00 stop = 24/03/2018 20:25:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 19:15:00 stop = 24/03/2018 20:10:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 20:10:00 stop = 24/03/2018 21:05:00 title = Дело было на Кубани
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 20:25:00 stop = 24/03/2018 21:20:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 20:10:00 stop = 24/03/2018 21:05:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 21:05:00 stop = 24/03/2018 22:00:00 title = Дело было на Кубани
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 21:20:00 stop = 24/03/2018 22:15:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 21:05:00 stop = 24/03/2018 22:00:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 22:00:00 stop = 24/03/2018 22:55:00 title = Дело было на Кубани
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 22:15:00 stop = 24/03/2018 23:10:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 22:00:00 stop = 24/03/2018 22:55:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 22:55:00 stop = 24/03/2018 23:50:00 title = Дело было на Кубани
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 23:10:00 stop = 25/03/2018 00:05:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 22:55:00 stop = 24/03/2018 23:50:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 23:50:00 stop = 25/03/2018 00:45:00 title = Дело было на Кубани
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 00:05:00 stop = 25/03/2018 01:00:00 title = Дело было на Кубани
-      Replaces ----- start = 24/03/2018 23:50:00 stop = 25/03/2018 00:45:00 title = Дело было на Кубани
-      Replaces ----- start = 25/03/2018 00:45:00 stop = 25/03/2018 01:40:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 01:00:00 stop = 25/03/2018 01:53:00 title = Крыса
-      Replaces ----- start = 25/03/2018 00:45:00 stop = 25/03/2018 01:40:00 title = Крыса
-      Replaces ----- start = 25/03/2018 01:40:00 stop = 25/03/2018 02:35:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 01:53:00 stop = 25/03/2018 02:47:00 title = Крыса
-      Replaces ----- start = 25/03/2018 01:40:00 stop = 25/03/2018 02:35:00 title = Крыса
-      Replaces ----- start = 25/03/2018 02:35:00 stop = 25/03/2018 03:30:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 02:47:00 stop = 25/03/2018 03:41:00 title = Крыса
-      Replaces ----- start = 25/03/2018 02:35:00 stop = 25/03/2018 03:30:00 title = Крыса
-      Replaces ----- start = 25/03/2018 03:30:00 stop = 25/03/2018 04:25:00 title = Крыса
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 03:41:00 stop = 25/03/2018 04:35:00 title = Крыса
-      Replaces ----- start = 25/03/2018 03:30:00 stop = 25/03/2018 04:25:00 title = Крыса
-      Replaces ----- start = 25/03/2018 04:25:00 stop = 25/03/2018 06:00:00 title = Моя любовь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 04:35:00 stop = 25/03/2018 06:00:00 title = Подкидыш
-      Replaces ----- start = 25/03/2018 04:25:00 stop = 25/03/2018 06:00:00 title = Моя любовь
-..........................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  21/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 07:00:00 stop = 23/03/2018 09:55:00 title = Стартап
-      Replaces ----- start = 23/03/2018 07:00:00 stop = 23/03/2018 09:40:00 title = Стартап
-      Replaces ----- start = 23/03/2018 09:40:00 stop = 23/03/2018 10:00:00 title = Афиша
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 09:55:00 stop = 23/03/2018 10:00:00 title = Афиша
-      Replaces ----- start = 23/03/2018 09:40:00 stop = 23/03/2018 10:00:00 title = Афиша
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 11:00:00 stop = 23/03/2018 11:10:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 11:00:00 stop = 23/03/2018 11:05:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 11:05:00 stop = 23/03/2018 11:35:00 title = Общество потребления
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 11:10:00 stop = 23/03/2018 11:35:00 title = Общество потребления
-      Replaces ----- start = 23/03/2018 11:05:00 stop = 23/03/2018 11:35:00 title = Общество потребления
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 12:35:00 stop = 23/03/2018 12:50:00 title = Рынки. Позиция
-      Replaces ----- start = 23/03/2018 12:35:00 stop = 23/03/2018 13:00:00 title = Рынки. Позиция
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 12:50:00 stop = 23/03/2018 13:00:00 title = Спорт
-      Replaces ----- start = 23/03/2018 12:35:00 stop = 23/03/2018 13:00:00 title = Рынки. Позиция
+      show with ---- start = 26/03/2018 11:00:00 stop = 26/03/2018 11:30:00 title = Ставка на войну
+      Replaces ----- start = 26/03/2018 11:00:00 stop = 26/03/2018 11:30:00 title = Бывший СССР
 .c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 13:05:00 stop = 23/03/2018 13:30:00 title = Прохорова. Тема дня
-      Replaces ----- start = 23/03/2018 13:05:00 stop = 23/03/2018 13:35:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 13:30:00 stop = 23/03/2018 14:00:00 title = Прохорова. Тема дня
-      Replaces ----- start = 23/03/2018 13:05:00 stop = 23/03/2018 13:35:00 title = Токарев. Дело
-      Replaces ----- start = 23/03/2018 13:35:00 stop = 23/03/2018 13:45:00 title = РБК. Эксперт
-      Replaces ----- start = 23/03/2018 13:45:00 stop = 23/03/2018 14:00:00 title = Спорт
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 14:00:00 stop = 23/03/2018 14:05:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 14:00:00 stop = 23/03/2018 14:10:00 title = Главные новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 14:05:00 stop = 23/03/2018 14:30:00 title = Прохорова. Тема дня
-      Replaces ----- start = 23/03/2018 14:00:00 stop = 23/03/2018 14:10:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 14:10:00 stop = 23/03/2018 14:35:00 title = Общество потребления
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 14:30:00 stop = 23/03/2018 15:00:00 title = Прохорова. Тема дня
-      Replaces ----- start = 23/03/2018 14:10:00 stop = 23/03/2018 14:35:00 title = Общество потребления
-      Replaces ----- start = 23/03/2018 14:35:00 stop = 23/03/2018 15:00:00 title = #PROФинансы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 15:00:00 stop = 23/03/2018 15:05:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 15:00:00 stop = 23/03/2018 15:10:00 title = Главные новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 15:05:00 stop = 23/03/2018 15:25:00 title = Прохорова. Тема дня
-      Replaces ----- start = 23/03/2018 15:00:00 stop = 23/03/2018 15:10:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 15:10:00 stop = 23/03/2018 15:35:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 15:25:00 stop = 23/03/2018 16:00:00 title = Левченко. Ракурс
-      Replaces ----- start = 23/03/2018 15:10:00 stop = 23/03/2018 15:35:00 title = Левченко. Ракурс
-      Replaces ----- start = 23/03/2018 15:35:00 stop = 23/03/2018 16:00:00 title = Рынок онлайн
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:00:00 stop = 23/03/2018 16:10:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 16:00:00 stop = 23/03/2018 16:05:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 16:05:00 stop = 23/03/2018 16:35:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:10:00 stop = 23/03/2018 16:40:00 title = Токарев. Дело
-      Replaces ----- start = 23/03/2018 16:05:00 stop = 23/03/2018 16:35:00 title = Токарев. Дело
-      Replaces ----- start = 23/03/2018 16:35:00 stop = 23/03/2018 17:00:00 title = РБК. Эксперт
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:40:00 stop = 23/03/2018 16:50:00 title = РБК. Эксперт
-      Replaces ----- start = 23/03/2018 16:35:00 stop = 23/03/2018 17:00:00 title = РБК. Эксперт
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:50:00 stop = 23/03/2018 17:00:00 title = Афиша
-      Replaces ----- start = 23/03/2018 16:35:00 stop = 23/03/2018 17:00:00 title = РБК. Эксперт
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 17:10:00 stop = 23/03/2018 17:40:00 title = Общество потребления
-      Replaces ----- start = 23/03/2018 17:10:00 stop = 23/03/2018 17:35:00 title = Общество потребления
-      Replaces ----- start = 23/03/2018 17:35:00 stop = 23/03/2018 18:00:00 title = Бабич. Тренд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 17:40:00 stop = 23/03/2018 18:00:00 title = Бабич. Тренд
-      Replaces ----- start = 23/03/2018 17:35:00 stop = 23/03/2018 18:00:00 title = Бабич. Тренд
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 18:00:00 stop = 23/03/2018 18:10:00 title = Главные новости
-      Replaces ----- start = 23/03/2018 18:00:00 stop = 23/03/2018 18:15:00 title = Главные новости
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 18:10:00 stop = 23/03/2018 18:15:00 title = #РБК
-      Replaces ----- start = 23/03/2018 18:00:00 stop = 23/03/2018 18:15:00 title = Главные новости
-....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 07:35:00 stop = 24/03/2018 07:40:00 title = Афиша
-      Replaces ----- start = 24/03/2018 07:35:00 stop = 24/03/2018 07:45:00 title = Афиша
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 07:40:00 stop = 24/03/2018 07:45:00 title = #РБК
-      Replaces ----- start = 24/03/2018 07:35:00 stop = 24/03/2018 07:45:00 title = Афиша
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 11:55:00 stop = 24/03/2018 12:50:00 title = Как это работает
-      Replaces ----- start = 24/03/2018 11:55:00 stop = 24/03/2018 13:00:00 title = Как это работает
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 12:50:00 stop = 24/03/2018 13:00:00 title = Спорт
-      Replaces ----- start = 24/03/2018 11:55:00 stop = 24/03/2018 13:00:00 title = Как это работает
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 13:00:00 stop = 24/03/2018 13:20:00 title = Главные новости
-      Replaces ----- start = 24/03/2018 13:00:00 stop = 24/03/2018 13:05:00 title = Главные новости
-      Replaces ----- start = 24/03/2018 13:05:00 stop = 24/03/2018 13:10:00 title = Спорт
-      Replaces ----- start = 24/03/2018 13:10:00 stop = 24/03/2018 13:25:00 title = Как это работает
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 13:20:00 stop = 24/03/2018 13:50:00 title = Общество потребления
-      Replaces ----- start = 24/03/2018 13:10:00 stop = 24/03/2018 13:25:00 title = Как это работает
-      Replaces ----- start = 24/03/2018 13:25:00 stop = 24/03/2018 13:50:00 title = Общество потребления
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 14:15:00 stop = 24/03/2018 14:40:00 title = Токарев. Дело
-      Replaces ----- start = 24/03/2018 14:15:00 stop = 24/03/2018 14:45:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 14:40:00 stop = 24/03/2018 15:05:00 title = Эксклюзивное интервью
-      Replaces ----- start = 24/03/2018 14:15:00 stop = 24/03/2018 14:45:00 title = Токарев. Дело
-      Replaces ----- start = 24/03/2018 14:45:00 stop = 24/03/2018 15:10:00 title = Общество потребления
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 15:05:00 stop = 24/03/2018 15:35:00 title = Левченко. Ракурс
-      Replaces ----- start = 24/03/2018 14:45:00 stop = 24/03/2018 15:10:00 title = Общество потребления
-      Replaces ----- start = 24/03/2018 15:10:00 stop = 24/03/2018 15:40:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 15:35:00 stop = 24/03/2018 15:40:00 title = Спорт
-      Replaces ----- start = 24/03/2018 15:10:00 stop = 24/03/2018 15:40:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 15:40:00 stop = 24/03/2018 16:00:00 title = Общество потребления
-      Replaces ----- start = 24/03/2018 15:40:00 stop = 24/03/2018 16:00:00 title = Спорт
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 16:00:00 stop = 24/03/2018 16:20:00 title = Главные новости
-      Replaces ----- start = 24/03/2018 16:00:00 stop = 24/03/2018 16:10:00 title = Главные новости
-      Replaces ----- start = 24/03/2018 16:10:00 stop = 24/03/2018 16:20:00 title = РБК. Эксперт
+      show with ---- start = 26/03/2018 12:00:00 stop = 26/03/2018 12:30:00 title = Испытание холодом
+      Replaces ----- start = 26/03/2018 12:00:00 stop = 26/03/2018 12:30:00 title = Без политики
 ..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 16:30:00 stop = 24/03/2018 17:45:00 title = Как это работает
-      Replaces ----- start = 24/03/2018 16:30:00 stop = 24/03/2018 17:50:00 title = Как это работает
+      show with ---- start = 26/03/2018 13:30:00 stop = 26/03/2018 14:00:00 title = Жизнь после казни
+      Replaces ----- start = 26/03/2018 13:30:00 stop = 26/03/2018 14:00:00 title = Мир
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 17:00:00 stop = 26/03/2018 17:30:00 title = Самый жаркий день в году
+      Replaces ----- start = 26/03/2018 17:00:00 stop = 26/03/2018 17:30:00 title = Без политики
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 17:45:00 stop = 24/03/2018 18:45:00 title = Мир будущего
-      Replaces ----- start = 24/03/2018 16:30:00 stop = 24/03/2018 17:50:00 title = Как это работает
-      Replaces ----- start = 24/03/2018 17:50:00 stop = 24/03/2018 18:45:00 title = Мир будущего
+      show with ---- start = 26/03/2018 17:30:00 stop = 26/03/2018 18:00:00 title = Коммунизм по-американски
+      Replaces ----- start = 26/03/2018 17:30:00 stop = 26/03/2018 18:00:00 title = Мир
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/03/2018 21:30:00 stop = 26/03/2018 22:00:00 title = Жизнь на заработках
+      Replaces ----- start = 26/03/2018 21:30:00 stop = 26/03/2018 22:00:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 18:45:00 stop = 24/03/2018 22:45:00 title = Что это значит
-      Replaces ----- start = 24/03/2018 18:45:00 stop = 24/03/2018 23:00:00 title = Что это значит
+      show with ---- start = 26/03/2018 22:00:00 stop = 26/03/2018 22:30:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 26/03/2018 22:00:00 stop = 26/03/2018 22:30:00 title = Без политики
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 22:45:00 stop = 24/03/2018 22:50:00 title = Афиша
-      Replaces ----- start = 24/03/2018 18:45:00 stop = 24/03/2018 23:00:00 title = Что это значит
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/03/2018 22:50:00 stop = 24/03/2018 23:00:00 title = #РБК
-      Replaces ----- start = 24/03/2018 18:45:00 stop = 24/03/2018 23:00:00 title = Что это значит
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 01:35:00 stop = 25/03/2018 02:00:00 title = Токарев. Дело
-      Replaces ----- start = 25/03/2018 01:35:00 stop = 25/03/2018 02:05:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 02:00:00 stop = 25/03/2018 02:25:00 title = Общество потребления
-      Replaces ----- start = 25/03/2018 01:35:00 stop = 25/03/2018 02:05:00 title = Токарев. Дело
-      Replaces ----- start = 25/03/2018 02:05:00 stop = 25/03/2018 02:30:00 title = Общество потребления
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 02:25:00 stop = 25/03/2018 02:50:00 title = Левченко. Ракурс
-      Replaces ----- start = 25/03/2018 02:05:00 stop = 25/03/2018 02:30:00 title = Общество потребления
-      Replaces ----- start = 25/03/2018 02:30:00 stop = 25/03/2018 02:55:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 02:50:00 stop = 25/03/2018 02:55:00 title = Афиша
-      Replaces ----- start = 25/03/2018 02:30:00 stop = 25/03/2018 02:55:00 title = Левченко. Ракурс
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 06:10:00 stop = 25/03/2018 06:35:00 title = Левченко. Ракурс
-      Replaces ----- start = 25/03/2018 06:10:00 stop = 25/03/2018 06:40:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 06:35:00 stop = 25/03/2018 07:05:00 title = Общество потребления
-      Replaces ----- start = 25/03/2018 06:10:00 stop = 25/03/2018 06:40:00 title = Левченко. Ракурс
-      Replaces ----- start = 25/03/2018 06:40:00 stop = 25/03/2018 07:05:00 title = Общество потребления
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 07:15:00 stop = 25/03/2018 07:40:00 title = Токарев. Дело
-      Replaces ----- start = 25/03/2018 07:15:00 stop = 25/03/2018 07:50:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 07:40:00 stop = 25/03/2018 07:50:00 title = Афиша
-      Replaces ----- start = 25/03/2018 07:15:00 stop = 25/03/2018 07:50:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 07:50:00 stop = 25/03/2018 09:55:00 title = Что это значит
-      Replaces ----- start = 25/03/2018 07:50:00 stop = 25/03/2018 10:00:00 title = Что это значит
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 09:55:00 stop = 25/03/2018 10:00:00 title = Афиша
-      Replaces ----- start = 25/03/2018 07:50:00 stop = 25/03/2018 10:00:00 title = Что это значит
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 12:20:00 stop = 25/03/2018 12:25:00 title = #РБК
-      Replaces ----- start = 25/03/2018 12:20:00 stop = 25/03/2018 12:30:00 title = #РБК
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 12:25:00 stop = 25/03/2018 12:30:00 title = Спорт
-      Replaces ----- start = 25/03/2018 12:20:00 stop = 25/03/2018 12:30:00 title = #РБК
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 12:30:00 stop = 25/03/2018 13:00:00 title = Эксклюзивное интервью
-      Replaces ----- start = 25/03/2018 12:30:00 stop = 25/03/2018 12:40:00 title = РБК. Эксперт
-      Replaces ----- start = 25/03/2018 12:40:00 stop = 25/03/2018 13:00:00 title = Спорт
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 14:30:00 stop = 25/03/2018 14:55:00 title = Общество потребления
-      Replaces ----- start = 25/03/2018 14:30:00 stop = 25/03/2018 14:40:00 title = РБК. Эксперт
-      Replaces ----- start = 25/03/2018 14:40:00 stop = 25/03/2018 15:10:00 title = Общество потребления
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 14:55:00 stop = 25/03/2018 15:25:00 title = Левченко. Ракурс
-      Replaces ----- start = 25/03/2018 14:40:00 stop = 25/03/2018 15:10:00 title = Общество потребления
-      Replaces ----- start = 25/03/2018 15:10:00 stop = 25/03/2018 15:35:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 15:25:00 stop = 25/03/2018 15:30:00 title = Спорт
-      Replaces ----- start = 25/03/2018 15:10:00 stop = 25/03/2018 15:35:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 15:30:00 stop = 25/03/2018 16:00:00 title = Токарев. Дело
-      Replaces ----- start = 25/03/2018 15:10:00 stop = 25/03/2018 15:35:00 title = Левченко. Ракурс
-      Replaces ----- start = 25/03/2018 15:35:00 stop = 25/03/2018 16:00:00 title = Спорт
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 16:00:00 stop = 25/03/2018 16:20:00 title = Главные новости
-      Replaces ----- start = 25/03/2018 16:00:00 stop = 25/03/2018 16:15:00 title = Главные новости
-      Replaces ----- start = 25/03/2018 16:15:00 stop = 25/03/2018 16:25:00 title = РБК. Эксперт
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 16:20:00 stop = 25/03/2018 16:30:00 title = РБК. Эксперт
-      Replaces ----- start = 25/03/2018 16:15:00 stop = 25/03/2018 16:25:00 title = РБК. Эксперт
-      Replaces ----- start = 25/03/2018 16:25:00 stop = 25/03/2018 16:55:00 title = Токарев. Дело
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 16:30:00 stop = 25/03/2018 16:55:00 title = Эксклюзивное интервью
-      Replaces ----- start = 25/03/2018 16:25:00 stop = 25/03/2018 16:55:00 title = Токарев. Дело
+      show with ---- start = 26/03/2018 22:30:00 stop = 26/03/2018 23:00:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 26/03/2018 22:30:00 stop = 26/03/2018 23:00:00 title = Мир
 ..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 25/03/2018 18:45:00 stop = 25/03/2018 22:45:00 title = Что это значит
-      Replaces ----- start = 25/03/2018 18:45:00 stop = 25/03/2018 23:00:00 title = Что это значит
+      show with ---- start = 27/03/2018 00:00:00 stop = 27/03/2018 00:30:00 title = Остров везения
+      Replaces ----- start = 27/03/2018 00:00:00 stop = 27/03/2018 00:30:00 title = Мир
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 25/03/2018 22:45:00 stop = 25/03/2018 23:00:00 title = #РБК
-      Replaces ----- start = 25/03/2018 18:45:00 stop = 25/03/2018 23:00:00 title = Что это значит
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 23:15:00 stop = 26/03/2018 01:05:00 title = Что это значит
-      Replaces ----- start = 25/03/2018 23:15:00 stop = 26/03/2018 01:10:00 title = Что это значит
+      show with ---- start = 27/03/2018 00:30:00 stop = 27/03/2018 01:00:00 title = Wi-Fi фобия
+      Replaces ----- start = 27/03/2018 00:30:00 stop = 27/03/2018 01:00:00 title = Избранное
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 01:05:00 stop = 26/03/2018 01:30:00 title = Левченко. Ракурс
-      Replaces ----- start = 25/03/2018 23:15:00 stop = 26/03/2018 01:10:00 title = Что это значит
-      Replaces ----- start = 26/03/2018 01:10:00 stop = 26/03/2018 01:35:00 title = Левченко. Ракурс
+      show with ---- start = 27/03/2018 01:00:00 stop = 27/03/2018 01:30:00 title = Спасение бельков
+      Replaces ----- start = 27/03/2018 01:00:00 stop = 27/03/2018 01:30:00 title = Без политики
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 01:30:00 stop = 26/03/2018 02:00:00 title = Токарев. Дело
-      Replaces ----- start = 26/03/2018 01:10:00 stop = 26/03/2018 01:35:00 title = Левченко. Ракурс
-      Replaces ----- start = 26/03/2018 01:35:00 stop = 26/03/2018 02:05:00 title = Токарев. Дело
+      show with ---- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:00:00 title = Мёртвое золото Филиппин
+      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:00:00 title = Мир
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 05:00:00 stop = 27/03/2018 05:30:00 title = Ставка на войну
+      Replaces ----- start = 27/03/2018 05:00:00 stop = 27/03/2018 05:30:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 02:00:00 stop = 26/03/2018 02:25:00 title = Общество потребления
-      Replaces ----- start = 26/03/2018 01:35:00 stop = 26/03/2018 02:05:00 title = Токарев. Дело
-      Replaces ----- start = 26/03/2018 02:05:00 stop = 26/03/2018 02:30:00 title = Общество потребления
-c
+      show with ---- start = 27/03/2018 05:30:00 stop = 27/03/2018 06:00:00 title = Испытание холодом
+      Replaces ----- start = 27/03/2018 05:30:00 stop = 27/03/2018 06:00:00 title = Без политики
+..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 02:25:00 stop = 26/03/2018 02:45:00 title = Левченко. Ракурс
-      Replaces ----- start = 26/03/2018 02:05:00 stop = 26/03/2018 02:30:00 title = Общество потребления
-      Replaces ----- start = 26/03/2018 02:30:00 stop = 26/03/2018 02:55:00 title = Левченко. Ракурс
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/03/2018 02:45:00 stop = 26/03/2018 03:00:00 title = #РБК
-      Replaces ----- start = 26/03/2018 02:30:00 stop = 26/03/2018 02:55:00 title = Левченко. Ракурс
-      Replaces ----- start = 26/03/2018 02:55:00 stop = 26/03/2018 03:00:00 title = #РБК
-.....................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 05:55:00 stop = 28/03/2018 06:00:00 title = #РБК
-      Replaces ----- start = 28/03/2018 05:55:00 stop = 28/03/2018 06:00:00 title = Афиша
-......................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  22/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  23/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii...............................................................................................................................................nnnnnnnnnnnnnnnnnnn
-
-(  24/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
-iiiiiiii...............................................................................................................................................
-
-(  25/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii...........................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 05:29:00 stop = 25/03/2018 06:00:00 title = Разные миры с Оксаной Бойко
-      Replaces ----- start = 25/03/2018 05:29:00 stop = 25/03/2018 06:00:00 title = Документалистика
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 06:00:00 stop = 25/03/2018 06:29:00 title = Уход в подполье
-      Replaces ----- start = 25/03/2018 06:00:00 stop = 25/03/2018 06:29:00 title = Отчёт Кайзера
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 06:29:00 stop = 25/03/2018 07:00:00 title = Документалистика
-      Replaces ----- start = 25/03/2018 06:29:00 stop = 25/03/2018 07:00:00 title = Разные миры с Оксаной Бойко
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 07:00:00 stop = 25/03/2018 07:29:00 title = Отчёт Кайзера
-      Replaces ----- start = 25/03/2018 07:00:00 stop = 25/03/2018 07:29:00 title = Уход в подполье
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 09:29:00 stop = 25/03/2018 10:00:00 title = Разные миры с Оксаной Бойко
-      Replaces ----- start = 25/03/2018 09:29:00 stop = 25/03/2018 10:00:00 title = Документалистика
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 10:29:00 stop = 25/03/2018 11:00:00 title = Документалистика
-      Replaces ----- start = 25/03/2018 10:29:00 stop = 25/03/2018 11:00:00 title = Разные миры с Оксаной Бойко
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 13:29:00 stop = 25/03/2018 14:00:00 title = Разные миры с Оксаной Бойко
-      Replaces ----- start = 25/03/2018 13:29:00 stop = 25/03/2018 14:00:00 title = Документалистика
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 14:29:00 stop = 25/03/2018 15:00:00 title = Документалистика
-      Replaces ----- start = 25/03/2018 14:29:00 stop = 25/03/2018 15:00:00 title = Разные миры с Оксаной Бойко
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 17:29:00 stop = 25/03/2018 18:00:00 title = Разные миры с Оксаной Бойко
-      Replaces ----- start = 25/03/2018 17:29:00 stop = 25/03/2018 18:00:00 title = Документалистика
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 18:29:00 stop = 25/03/2018 19:00:00 title = Документалистика
-      Replaces ----- start = 25/03/2018 18:29:00 stop = 25/03/2018 19:00:00 title = Разные миры с Оксаной Бойко
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 21:29:00 stop = 25/03/2018 22:00:00 title = Разные миры с Оксаной Бойко
-      Replaces ----- start = 25/03/2018 21:29:00 stop = 25/03/2018 22:00:00 title = Документалистика
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/03/2018 22:29:00 stop = 25/03/2018 23:00:00 title = Документалистика
-      Replaces ----- start = 25/03/2018 22:29:00 stop = 25/03/2018 23:00:00 title = Разные миры с Оксаной Бойко
-.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  26/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii..................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  27/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii...............................................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/03/2018 17:00:00 stop = 26/03/2018 18:00:00 title = Быстрые и громкие
-      Replaces ----- start = 26/03/2018 17:00:00 stop = 26/03/2018 17:30:00 title = В погоне за классикой
-      Replaces ----- start = 26/03/2018 17:30:00 stop = 26/03/2018 18:00:00 title = В погоне за классикой
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 00:00:00 stop = 27/03/2018 00:30:00 title = Молниеносные катастрофы
-      Replaces ----- start = 27/03/2018 00:00:00 stop = 27/03/2018 00:55:00 title = Загадки планеты Земля
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 00:30:00 stop = 27/03/2018 00:55:00 title = Молниеносные катастрофы
-      Replaces ----- start = 27/03/2018 00:00:00 stop = 27/03/2018 00:55:00 title = Загадки планеты Земля
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 00:55:00 stop = 27/03/2018 01:50:00 title = Загадки планеты Земля
-      Replaces ----- start = 27/03/2018 00:55:00 stop = 27/03/2018 01:20:00 title = Молниеносные катастрофы
-      Replaces ----- start = 27/03/2018 01:20:00 stop = 27/03/2018 01:50:00 title = Молниеносные катастрофы
+      show with ---- start = 27/03/2018 07:00:00 stop = 27/03/2018 07:30:00 title = Жизнь после казни
+      Replaces ----- start = 27/03/2018 07:00:00 stop = 27/03/2018 07:30:00 title = Мир
 ...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 03:30:00 stop = 27/03/2018 04:20:00 title = Быстрые и громкие
-      Replaces ----- start = 27/03/2018 03:30:00 stop = 27/03/2018 03:55:00 title = В погоне за классикой
-      Replaces ----- start = 27/03/2018 03:55:00 stop = 27/03/2018 04:20:00 title = В погоне за классикой
-.....................c
+      show with ---- start = 27/03/2018 08:30:00 stop = 27/03/2018 09:00:00 title = Самый жаркий день в году
+      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 09:00:00 title = Без политики
+......c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 17:00:00 stop = 27/03/2018 18:00:00 title = Быстрые и громкие
-      Replaces ----- start = 27/03/2018 17:00:00 stop = 27/03/2018 17:30:00 title = В погоне за классикой
-      Replaces ----- start = 27/03/2018 17:30:00 stop = 27/03/2018 18:00:00 title = В погоне за классикой
+      show with ---- start = 27/03/2018 12:00:00 stop = 27/03/2018 12:30:00 title = Коммунизм по-американски
+      Replaces ----- start = 27/03/2018 12:00:00 stop = 27/03/2018 12:30:00 title = Мир
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 13:30:00 stop = 27/03/2018 14:00:00 title = Жизнь на заработках
+      Replaces ----- start = 27/03/2018 13:30:00 stop = 27/03/2018 14:00:00 title = Бывший СССР
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 17:00:00 stop = 27/03/2018 17:30:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 27/03/2018 17:00:00 stop = 27/03/2018 17:30:00 title = Без политики
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 17:30:00 stop = 27/03/2018 18:00:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 27/03/2018 17:30:00 stop = 27/03/2018 18:00:00 title = Мир
 .........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 00:00:00 stop = 28/03/2018 00:30:00 title = Молниеносные катастрофы
-      Replaces ----- start = 28/03/2018 00:00:00 stop = 28/03/2018 00:55:00 title = Секреты подземелья
+      show with ---- start = 27/03/2018 22:00:00 stop = 27/03/2018 22:30:00 title = Остров везения
+      Replaces ----- start = 27/03/2018 22:00:00 stop = 27/03/2018 22:30:00 title = Мир
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 00:30:00 stop = 28/03/2018 00:55:00 title = Молниеносные катастрофы
-      Replaces ----- start = 28/03/2018 00:00:00 stop = 28/03/2018 00:55:00 title = Секреты подземелья
+      show with ---- start = 27/03/2018 22:30:00 stop = 27/03/2018 23:00:00 title = Wi-Fi фобия
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 27/03/2018 23:00:00 title = Избранное
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 28/03/2018 00:55:00 stop = 28/03/2018 01:50:00 title = Секреты подземелья
-      Replaces ----- start = 28/03/2018 00:55:00 stop = 28/03/2018 01:20:00 title = Молниеносные катастрофы
-      Replaces ----- start = 28/03/2018 01:20:00 stop = 28/03/2018 01:50:00 title = Молниеносные катастрофы
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 03:30:00 stop = 28/03/2018 04:20:00 title = Быстрые и громкие
-      Replaces ----- start = 28/03/2018 03:30:00 stop = 28/03/2018 03:55:00 title = В погоне за классикой
-      Replaces ----- start = 28/03/2018 03:55:00 stop = 28/03/2018 04:20:00 title = В погоне за классикой
-......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 17:00:00 stop = 28/03/2018 18:00:00 title = Быстрые и громкие
-      Replaces ----- start = 28/03/2018 17:00:00 stop = 28/03/2018 17:30:00 title = В погоне за классикой
-      Replaces ----- start = 28/03/2018 17:30:00 stop = 28/03/2018 18:00:00 title = В погоне за классикой
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 00:55:00 stop = 29/03/2018 01:50:00 title = Секреты подземелья
-      Replaces ----- start = 29/03/2018 00:55:00 stop = 29/03/2018 01:20:00 title = Молниеносные катастрофы
-      Replaces ----- start = 29/03/2018 01:20:00 stop = 29/03/2018 01:50:00 title = Молниеносные катастрофы
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 03:30:00 stop = 29/03/2018 04:20:00 title = Быстрые и громкие
-      Replaces ----- start = 29/03/2018 03:30:00 stop = 29/03/2018 03:55:00 title = В погоне за классикой
-      Replaces ----- start = 29/03/2018 03:55:00 stop = 29/03/2018 04:20:00 title = В погоне за классикой
-.....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/03/2018 17:00:00 stop = 29/03/2018 18:00:00 title = Быстрые и громкие
-      Replaces ----- start = 29/03/2018 17:00:00 stop = 29/03/2018 17:30:00 title = В погоне за классикой
-      Replaces ----- start = 29/03/2018 17:30:00 stop = 29/03/2018 18:00:00 title = В погоне за классикой
-........nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  28/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  29/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiic
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 01:00:00 stop = 23/03/2018 02:05:00 title = M Heat 3
-      Replaces ----- start = 23/03/2018 01:30:00 stop = 23/03/2018 02:05:00 title = Olympics Today
+      show with ---- start = 27/03/2018 23:00:00 stop = 27/03/2018 23:30:00 title = Спасение бельков
+      Replaces ----- start = 27/03/2018 23:00:00 stop = 27/03/2018 23:30:00 title = Без политики
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 02:05:00 stop = 23/03/2018 02:35:00 title = Olympics Today
-      Replaces ----- start = 23/03/2018 02:05:00 stop = 23/03/2018 03:45:00 title = Korea Republic vs Australia
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 02:35:00 stop = 23/03/2018 04:18:00 title = Syria vs Vietnam
-      Replaces ----- start = 23/03/2018 02:05:00 stop = 23/03/2018 03:45:00 title = Korea Republic vs Australia
-      Replaces ----- start = 23/03/2018 03:45:00 stop = 23/03/2018 06:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 04:18:00 stop = 23/03/2018 06:10:00 title = Snowboard
-      Replaces ----- start = 23/03/2018 03:45:00 stop = 23/03/2018 06:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 06:10:00 stop = 23/03/2018 06:39:00 title = Legends Live On
-      Replaces ----- start = 23/03/2018 03:45:00 stop = 23/03/2018 06:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-      Replaces ----- start = 23/03/2018 06:30:00 stop = 23/03/2018 07:00:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 06:39:00 stop = 23/03/2018 07:46:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 23/03/2018 06:30:00 stop = 23/03/2018 07:00:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
-      Replaces ----- start = 23/03/2018 07:00:00 stop = 23/03/2018 08:30:00 title = Chamery vs Dunkerque
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 07:46:00 stop = 23/03/2018 09:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-      Replaces ----- start = 23/03/2018 07:00:00 stop = 23/03/2018 08:30:00 title = Chamery vs Dunkerque
-      Replaces ----- start = 23/03/2018 08:30:00 stop = 23/03/2018 10:30:00 title = W Giant Slalom 1st Run
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 09:30:00 stop = 23/03/2018 11:00:00 title = Croatia vs Sweden
-      Replaces ----- start = 23/03/2018 08:30:00 stop = 23/03/2018 10:30:00 title = W Giant Slalom 1st Run
-      Replaces ----- start = 23/03/2018 10:30:00 stop = 23/03/2018 11:00:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 11:00:00 stop = 23/03/2018 11:30:00 title = Olympics Today
-      Replaces ----- start = 23/03/2018 11:00:00 stop = 23/03/2018 11:30:00 title = Patagonia Dreaming
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 11:30:00 stop = 23/03/2018 12:02:00 title = Winter Olympic Games
-      Replaces ----- start = 23/03/2018 11:30:00 stop = 23/03/2018 13:30:00 title = Valencia Basket vs Real Madrid
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 12:02:00 stop = 23/03/2018 13:10:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 23/03/2018 11:30:00 stop = 23/03/2018 13:30:00 title = Valencia Basket vs Real Madrid
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 13:10:00 stop = 23/03/2018 15:00:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-      Replaces ----- start = 23/03/2018 11:30:00 stop = 23/03/2018 13:30:00 title = Valencia Basket vs Real Madrid
-      Replaces ----- start = 23/03/2018 13:30:00 stop = 23/03/2018 15:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 15:00:00 stop = 23/03/2018 16:30:00 title = Croatia vs Sweden
-      Replaces ----- start = 23/03/2018 13:30:00 stop = 23/03/2018 15:30:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-      Replaces ----- start = 23/03/2018 15:30:00 stop = 23/03/2018 16:00:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
-      Replaces ----- start = 23/03/2018 16:00:00 stop = 23/03/2018 17:00:00 title = Transform My Meal
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/03/2018 16:30:00 stop = 23/03/2018 17:00:00 title = Legends Live On
-      Replaces ----- start = 23/03/2018 16:00:00 stop = 23/03/2018 17:00:00 title = Transform My Meal
+      show with ---- start = 27/03/2018 23:30:00 stop = 28/03/2018 00:00:00 title = Мёртвое золото Филиппин
+      Replaces ----- start = 27/03/2018 23:30:00 stop = 28/03/2018 00:00:00 title = Мир
 .c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 17:30:00 stop = 23/03/2018 19:09:00 title = W 10 km Free
-      Replaces ----- start = 23/03/2018 17:30:00 stop = 23/03/2018 19:20:00 title = Snowboard
+      show with ---- start = 28/03/2018 00:30:00 stop = 28/03/2018 01:00:00 title = Ставка на войну
+      Replaces ----- start = 28/03/2018 00:30:00 stop = 28/03/2018 01:00:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 19:09:00 stop = 23/03/2018 19:57:00 title = Classic Finals 2016 Women's Ice Hockey
-      Replaces ----- start = 23/03/2018 17:30:00 stop = 23/03/2018 19:20:00 title = Snowboard
-      Replaces ----- start = 23/03/2018 19:20:00 stop = 23/03/2018 19:45:00 title = Legends Live On
-      Replaces ----- start = 23/03/2018 19:45:00 stop = 23/03/2018 21:00:00 title = W Giant Slalom 2nd Run
+      show with ---- start = 28/03/2018 01:00:00 stop = 28/03/2018 01:30:00 title = Испытание холодом
+      Replaces ----- start = 28/03/2018 01:00:00 stop = 28/03/2018 01:30:00 title = Без политики
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:00:00 title = Жизнь после казни
+      Replaces ----- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:00:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 05:30:00 stop = 28/03/2018 06:00:00 title = Самый жаркий день в году
+      Replaces ----- start = 28/03/2018 05:30:00 stop = 28/03/2018 06:00:00 title = Без политики
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 06:30:00 stop = 28/03/2018 07:00:00 title = Коммунизм по-американски
+      Replaces ----- start = 28/03/2018 06:30:00 stop = 28/03/2018 07:00:00 title = Мир
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 08:00:00 stop = 28/03/2018 08:30:00 title = Жизнь на заработках
+      Replaces ----- start = 28/03/2018 08:00:00 stop = 28/03/2018 08:30:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 19:57:00 stop = 23/03/2018 21:55:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-      Replaces ----- start = 23/03/2018 19:45:00 stop = 23/03/2018 21:00:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 23/03/2018 21:00:00 stop = 23/03/2018 23:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+      show with ---- start = 28/03/2018 08:30:00 stop = 28/03/2018 09:00:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 28/03/2018 08:30:00 stop = 28/03/2018 09:00:00 title = Без политики
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 12:00:00 stop = 28/03/2018 12:30:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 28/03/2018 12:00:00 stop = 28/03/2018 12:30:00 title = Мир
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 17:00:00 stop = 28/03/2018 17:30:00 title = Остров везения
+      Replaces ----- start = 28/03/2018 17:00:00 stop = 28/03/2018 17:30:00 title = Мир
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 21:55:00 stop = 23/03/2018 22:25:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
-      Replaces ----- start = 23/03/2018 21:00:00 stop = 23/03/2018 23:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+      show with ---- start = 28/03/2018 17:30:00 stop = 28/03/2018 18:00:00 title = Wi-Fi фобия
+      Replaces ----- start = 28/03/2018 17:30:00 stop = 28/03/2018 18:00:00 title = Избранное
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 18:30:00 stop = 28/03/2018 19:00:00 title = Спасение бельков
+      Replaces ----- start = 28/03/2018 18:30:00 stop = 28/03/2018 19:00:00 title = Без политики
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 21:30:00 stop = 28/03/2018 22:00:00 title = Мёртвое золото Филиппин
+      Replaces ----- start = 28/03/2018 21:30:00 stop = 28/03/2018 22:00:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 28/03/2018 22:30:00 stop = 28/03/2018 23:00:00 title = Ставка на войну
+      Replaces ----- start = 28/03/2018 22:30:00 stop = 28/03/2018 23:00:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 22:25:00 stop = 23/03/2018 22:55:00 title = Special moments of the OG of Beijing 2008 The Olympic Series Golden moments of the Olympic Games
-      Replaces ----- start = 23/03/2018 21:00:00 stop = 23/03/2018 23:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+      show with ---- start = 28/03/2018 23:00:00 stop = 28/03/2018 23:30:00 title = Испытание холодом
+      Replaces ----- start = 28/03/2018 23:00:00 stop = 28/03/2018 23:30:00 title = Без политики
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 00:00:00 stop = 29/03/2018 00:30:00 title = Жизнь после казни
+      Replaces ----- start = 29/03/2018 00:00:00 stop = 29/03/2018 00:30:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 01:00:00 stop = 29/03/2018 01:30:00 title = Самый жаркий день в году
+      Replaces ----- start = 29/03/2018 01:00:00 stop = 29/03/2018 01:30:00 title = Без политики
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/03/2018 22:55:00 stop = 23/03/2018 23:59:00 title = FC Barcelona vs Baskonia Vitoria
-      Replaces ----- start = 23/03/2018 21:00:00 stop = 23/03/2018 23:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-      Replaces ----- start = 23/03/2018 23:30:00 stop = 24/03/2018 01:00:00 title = Croatia vs Sweden
+      show with ---- start = 29/03/2018 01:30:00 stop = 29/03/2018 02:00:00 title = Коммунизм по-американски
+      Replaces ----- start = 29/03/2018 01:30:00 stop = 29/03/2018 02:00:00 title = Мир
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 05:00:00 stop = 29/03/2018 05:30:00 title = Жизнь на заработках
+      Replaces ----- start = 29/03/2018 05:00:00 stop = 29/03/2018 05:30:00 title = Бывший СССР
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-      Replaces ----- start = 24/03/2018 07:35:00 stop = 24/03/2018 09:35:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-      Replaces ----- start = 24/03/2018 09:35:00 stop = 24/03/2018 11:00:00 title = Croatia vs Sweden
-      Replaces ----- start = 24/03/2018 11:00:00 stop = 24/03/2018 11:30:00 title = Olympics Today
-      Replaces ----- start = 24/03/2018 11:30:00 stop = 24/03/2018 12:00:00 title = Winter Olympic Games
-      Replaces ----- start = 24/03/2018 12:00:00 stop = 24/03/2018 13:05:00 title = W Giant Slalom 2nd Run
-      Replaces ----- start = 24/03/2018 13:05:00 stop = 24/03/2018 15:05:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-      Replaces ----- start = 24/03/2018 15:05:00 stop = 24/03/2018 16:30:00 title = Croatia vs Sweden
-      Replaces ----- start = 24/03/2018 16:30:00 stop = 24/03/2018 17:00:00 title = Legends Live On
-      Replaces ----- start = 24/03/2018 17:00:00 stop = 24/03/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 24/03/2018 17:30:00 stop = 24/03/2018 19:05:00 title = W 10 km Free
-      Replaces ----- start = 24/03/2018 19:05:00 stop = 24/03/2018 20:00:00 title = Classic Finals 2016 Women's Ice Hockey
-      Replaces ----- start = 24/03/2018 20:00:00 stop = 24/03/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-      Replaces ----- start = 24/03/2018 22:30:00 stop = 24/03/2018 23:00:00 title = Special moments of the OG of Beijing 2008 The Olympic Series Golden moments of the Olympic Games
-      Replaces ----- start = 24/03/2018 23:00:00 stop = 24/03/2018 23:59:00 title = FC Barcelona vs Baskonia Vitoria
+      show with ---- start = 29/03/2018 05:30:00 stop = 29/03/2018 06:00:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 29/03/2018 05:30:00 stop = 29/03/2018 06:00:00 title = Без политики
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 06:30:00 stop = 29/03/2018 07:00:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 29/03/2018 06:30:00 stop = 29/03/2018 07:00:00 title = Мир
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 08:30:00 stop = 29/03/2018 09:00:00 title = Остров везения
+      Replaces ----- start = 29/03/2018 08:30:00 stop = 29/03/2018 09:00:00 title = Мир
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 12:00:00 stop = 29/03/2018 12:30:00 title = Wi-Fi фобия
+      Replaces ----- start = 29/03/2018 12:00:00 stop = 29/03/2018 12:30:00 title = Избранное
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 12:30:00 stop = 29/03/2018 13:00:00 title = Спасение бельков
+      Replaces ----- start = 29/03/2018 12:30:00 stop = 29/03/2018 13:00:00 title = Без политики
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 13:30:00 stop = 29/03/2018 14:00:00 title = Мёртвое золото Филиппин
+      Replaces ----- start = 29/03/2018 13:30:00 stop = 29/03/2018 14:00:00 title = Мир
+........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 17:30:00 stop = 29/03/2018 18:00:00 title = Ставка на войну
+      Replaces ----- start = 29/03/2018 17:30:00 stop = 29/03/2018 18:00:00 title = Бывший СССР
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 18:30:00 stop = 29/03/2018 19:00:00 title = Испытание холодом
+      Replaces ----- start = 29/03/2018 18:30:00 stop = 29/03/2018 19:00:00 title = Без политики
+......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 22:00:00 stop = 29/03/2018 22:30:00 title = Жизнь после казни
+      Replaces ----- start = 29/03/2018 22:00:00 stop = 29/03/2018 22:30:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 23:00:00 stop = 29/03/2018 23:30:00 title = Самый жаркий день в году
+      Replaces ----- start = 29/03/2018 23:00:00 stop = 29/03/2018 23:30:00 title = Без политики
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/03/2018 23:30:00 stop = 30/03/2018 00:00:00 title = Коммунизм по-американски
+      Replaces ----- start = 29/03/2018 23:30:00 stop = 30/03/2018 00:00:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 00:30:00 stop = 30/03/2018 01:00:00 title = Жизнь на заработках
+      Replaces ----- start = 30/03/2018 00:30:00 stop = 30/03/2018 01:00:00 title = Бывший СССР
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 01:00:00 stop = 30/03/2018 01:30:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 30/03/2018 01:00:00 stop = 30/03/2018 01:30:00 title = Без политики
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 01:30:00 stop = 30/03/2018 02:00:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 30/03/2018 01:30:00 stop = 30/03/2018 02:00:00 title = Мир
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 05:30:00 stop = 30/03/2018 06:00:00 title = Wi-Fi фобия
+      Replaces ----- start = 30/03/2018 05:30:00 stop = 30/03/2018 06:00:00 title = Избранное
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 06:30:00 stop = 30/03/2018 07:00:00 title = Остров везения
+      Replaces ----- start = 30/03/2018 06:30:00 stop = 30/03/2018 07:00:00 title = Мир
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 08:00:00 stop = 30/03/2018 08:30:00 title = Спасение бельков
+      Replaces ----- start = 30/03/2018 08:00:00 stop = 30/03/2018 08:30:00 title = Без политики
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 08:30:00 stop = 30/03/2018 09:00:00 title = Мёртвое золото Филиппин
+      Replaces ----- start = 30/03/2018 08:30:00 stop = 30/03/2018 09:00:00 title = Мир
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 12:00:00 stop = 30/03/2018 12:30:00 title = Ставка на войну
+      Replaces ----- start = 30/03/2018 12:00:00 stop = 30/03/2018 12:30:00 title = Бывший СССР
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 12:30:00 stop = 30/03/2018 13:00:00 title = Испытание холодом
+      Replaces ----- start = 30/03/2018 12:30:00 stop = 30/03/2018 13:00:00 title = Без политики
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 17:00:00 stop = 30/03/2018 17:30:00 title = Жизнь после казни
+      Replaces ----- start = 30/03/2018 17:00:00 stop = 30/03/2018 17:30:00 title = Мир
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 18:30:00 stop = 30/03/2018 19:00:00 title = Самый жаркий день в году
+      Replaces ----- start = 30/03/2018 18:30:00 stop = 30/03/2018 19:00:00 title = Без политики
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 20:00:00 stop = 30/03/2018 20:30:00 title = Война за мир
+      Replaces ----- start = 30/03/2018 20:00:00 stop = 30/03/2018 20:30:00 title = Мир
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 21:30:00 stop = 30/03/2018 22:00:00 title = Коммунизм по-американски
+      Replaces ----- start = 30/03/2018 21:30:00 stop = 30/03/2018 22:00:00 title = Мир
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 22:30:00 stop = 30/03/2018 23:00:00 title = Жизнь на заработках
+      Replaces ----- start = 30/03/2018 22:30:00 stop = 30/03/2018 23:00:00 title = Бывший СССР
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 23:00:00 stop = 30/03/2018 23:30:00 title = Санкт-Петербург. Академия художеств
+      Replaces ----- start = 30/03/2018 23:00:00 stop = 30/03/2018 23:30:00 title = Без политики
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/03/2018 23:30:00 stop = 31/03/2018 00:00:00 title = 100% хлопок. Сделано в Индии
+      Replaces ----- start = 30/03/2018 23:30:00 stop = 31/03/2018 00:00:00 title = Мир
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  26/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+iiiiiiii.....................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  27/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+iiiiiiii...............................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  28/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiiic
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 01:00:00 stop = 24/03/2018 01:30:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
+      Replaces ----- start = 24/03/2018 01:00:00 stop = 24/03/2018 02:05:00 title = M Heat 3
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 01:30:00 stop = 24/03/2018 03:00:00 title = Qatar vs UAE
+      Replaces ----- start = 24/03/2018 01:00:00 stop = 24/03/2018 02:05:00 title = M Heat 3
+      Replaces ----- start = 24/03/2018 02:05:00 stop = 24/03/2018 02:35:00 title = Olympics Today
+      Replaces ----- start = 24/03/2018 02:35:00 stop = 24/03/2018 04:15:00 title = Syria vs Vietnam
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 03:00:00 stop = 24/03/2018 03:30:00 title = Special moments of the OG of Beijing 2008 The Olympic Series Golden moments of the Olympic Games
+      Replaces ----- start = 24/03/2018 02:35:00 stop = 24/03/2018 04:15:00 title = Syria vs Vietnam
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 03:30:00 stop = 24/03/2018 04:00:00 title = Olympics Today
+      Replaces ----- start = 24/03/2018 02:35:00 stop = 24/03/2018 04:15:00 title = Syria vs Vietnam
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 04:00:00 stop = 24/03/2018 06:00:00 title = Qatar v Palestine
+      Replaces ----- start = 24/03/2018 02:35:00 stop = 24/03/2018 04:15:00 title = Syria vs Vietnam
+      Replaces ----- start = 24/03/2018 04:15:00 stop = 24/03/2018 06:05:00 title = Snowboard
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 06:00:00 stop = 24/03/2018 06:35:00 title = Golden moments of the Olympic Games Special moments of the OG of Vancouver 2010 Vol.1
+      Replaces ----- start = 24/03/2018 04:15:00 stop = 24/03/2018 06:05:00 title = Snowboard
+      Replaces ----- start = 24/03/2018 06:05:00 stop = 24/03/2018 06:30:00 title = Legends Live On
+      Replaces ----- start = 24/03/2018 06:30:00 stop = 24/03/2018 07:35:00 title = W Giant Slalom 2nd Run
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 06:35:00 stop = 24/03/2018 08:15:00 title = W 10 km Free
+      Replaces ----- start = 24/03/2018 06:30:00 stop = 24/03/2018 07:35:00 title = W Giant Slalom 2nd Run
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 08:15:00 stop = 24/03/2018 09:10:00 title = Classic Finals 2016 Women's Ice Hockey
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 09:10:00 stop = 24/03/2018 11:00:00 title = FC Barcelona vs Baskonia Vitoria
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 11:00:00 stop = 24/03/2018 11:30:00 title = Special moments of the OG of Beijing 2008 The Olympic Series Golden moments of the Olympic Games
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 11:30:00 stop = 24/03/2018 12:00:00 title = Olympics Today
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 12:00:00 stop = 24/03/2018 12:30:00 title = Legends Live On
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 12:30:00 stop = 24/03/2018 13:00:00 title = Patagonia Dreaming
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 13:00:00 stop = 24/03/2018 15:00:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 15:00:00 stop = 24/03/2018 17:00:00 title = FC Barcelona vs Baskonia Vitoria
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 17:00:00 stop = 24/03/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 17:30:00 stop = 24/03/2018 17:57:00 title = Special moments of the OG of Vancouver 2010
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 17:57:00 stop = 24/03/2018 19:30:00 title = Kielce vs Rhein Neckar Lowen
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 19:30:00 stop = 24/03/2018 21:00:00 title = Meshkov vs Nantes
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 21:00:00 stop = 24/03/2018 21:30:00 title = The Tech Race
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 21:30:00 stop = 24/03/2018 22:50:00 title = W Giant Slalom 2nd Run
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/03/2018 22:50:00 stop = 25/03/2018 00:00:00 title = M Heat 3
+      Replaces ----- start = 24/03/2018 08:30:00 stop = 24/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 00:00:00 stop = 25/03/2018 01:15:00 title = Iran vs Oman
+      Replaces ----- start = 25/03/2018 01:00:00 stop = 25/03/2018 02:05:00 title = M Heat 3
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 01:15:00 stop = 25/03/2018 02:00:00 title = Olympics Today
+      Replaces ----- start = 25/03/2018 01:00:00 stop = 25/03/2018 02:05:00 title = M Heat 3
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 02:00:00 stop = 25/03/2018 03:45:00 title = Japan vs Uzbekistan
+      Replaces ----- start = 25/03/2018 01:00:00 stop = 25/03/2018 02:05:00 title = M Heat 3
+      Replaces ----- start = 25/03/2018 02:05:00 stop = 25/03/2018 02:35:00 title = Olympics Today
+      Replaces ----- start = 25/03/2018 02:35:00 stop = 25/03/2018 04:15:00 title = Syria vs Vietnam
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 03:45:00 stop = 25/03/2018 04:15:00 title = Special moments of the OG of Vancouver 2010
+      Replaces ----- start = 25/03/2018 02:35:00 stop = 25/03/2018 04:15:00 title = Syria vs Vietnam
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 04:15:00 stop = 25/03/2018 05:45:00 title = Kielce vs Rhein Neckar Lowen
+      Replaces ----- start = 25/03/2018 04:15:00 stop = 25/03/2018 06:05:00 title = Snowboard
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 05:45:00 stop = 25/03/2018 07:15:00 title = Meshkov vs Nantes
+      Replaces ----- start = 25/03/2018 04:15:00 stop = 25/03/2018 06:05:00 title = Snowboard
+      Replaces ----- start = 25/03/2018 06:05:00 stop = 25/03/2018 06:30:00 title = Legends Live On
+      Replaces ----- start = 25/03/2018 06:30:00 stop = 25/03/2018 07:35:00 title = W Giant Slalom 2nd Run
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 07:15:00 stop = 25/03/2018 07:45:00 title = The Tech Race
+      Replaces ----- start = 25/03/2018 06:30:00 stop = 25/03/2018 07:35:00 title = W Giant Slalom 2nd Run
+      Replaces ----- start = 25/03/2018 07:35:00 stop = 25/03/2018 09:35:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 07:45:00 stop = 25/03/2018 08:55:00 title = W Giant Slalom 2nd Run
+      Replaces ----- start = 25/03/2018 07:35:00 stop = 25/03/2018 09:35:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 08:55:00 stop = 25/03/2018 10:00:00 title = M Heat 3
+      Replaces ----- start = 25/03/2018 07:35:00 stop = 25/03/2018 09:35:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+      Replaces ----- start = 25/03/2018 09:35:00 stop = 25/03/2018 11:00:00 title = Croatia vs Sweden
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 10:00:00 stop = 25/03/2018 11:30:00 title = Iran vs Oman
+      Replaces ----- start = 25/03/2018 09:35:00 stop = 25/03/2018 11:00:00 title = Croatia vs Sweden
+      Replaces ----- start = 25/03/2018 11:00:00 stop = 25/03/2018 11:30:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 11:30:00 stop = 25/03/2018 12:00:00 title = Olympics Today
+      Replaces ----- start = 25/03/2018 11:30:00 stop = 25/03/2018 12:00:00 title = Winter Olympic Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 12:00:00 stop = 25/03/2018 12:30:00 title = Special moments of the OG of Vancouver 2010
+      Replaces ----- start = 25/03/2018 12:00:00 stop = 25/03/2018 13:05:00 title = W Giant Slalom 2nd Run
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 12:30:00 stop = 25/03/2018 14:00:00 title = Kielce vs Rhein Neckar Lowen
+      Replaces ----- start = 25/03/2018 12:00:00 stop = 25/03/2018 13:05:00 title = W Giant Slalom 2nd Run
+      Replaces ----- start = 25/03/2018 13:05:00 stop = 25/03/2018 15:05:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 14:00:00 stop = 25/03/2018 15:30:00 title = Meshkov vs Nantes
+      Replaces ----- start = 25/03/2018 13:05:00 stop = 25/03/2018 15:05:00 title = Crvena Zvezda vs Fenerbahce Istanbul
+      Replaces ----- start = 25/03/2018 15:05:00 stop = 25/03/2018 16:30:00 title = Croatia vs Sweden
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 15:30:00 stop = 25/03/2018 16:00:00 title = The Tech Race
+      Replaces ----- start = 25/03/2018 15:05:00 stop = 25/03/2018 16:30:00 title = Croatia vs Sweden
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 16:00:00 stop = 25/03/2018 17:00:00 title = M Heat 3
+      Replaces ----- start = 25/03/2018 15:05:00 stop = 25/03/2018 16:30:00 title = Croatia vs Sweden
+      Replaces ----- start = 25/03/2018 16:30:00 stop = 25/03/2018 17:00:00 title = Legends Live On
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 17:30:00 stop = 25/03/2018 18:00:00 title = Golden moments of the Olympic Games Great comebacks Vol.1
+      Replaces ----- start = 25/03/2018 17:30:00 stop = 25/03/2018 19:05:00 title = W 10 km Free
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 18:00:00 stop = 25/03/2018 19:30:00 title = Montpellier vs Barcelona
+      Replaces ----- start = 25/03/2018 17:30:00 stop = 25/03/2018 19:05:00 title = W 10 km Free
+      Replaces ----- start = 25/03/2018 19:05:00 stop = 25/03/2018 20:00:00 title = Classic Finals 2016 Women's Ice Hockey
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 19:30:00 stop = 25/03/2018 21:00:00 title = W 5000 m
+      Replaces ----- start = 25/03/2018 19:05:00 stop = 25/03/2018 20:00:00 title = Classic Finals 2016 Women's Ice Hockey
+      Replaces ----- start = 25/03/2018 20:00:00 stop = 25/03/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 21:00:00 stop = 25/03/2018 21:45:00 title = Classic Finals 2016 Women's Ice Hockey
+      Replaces ----- start = 25/03/2018 20:00:00 stop = 25/03/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/03/2018 21:45:00 stop = 25/03/2018 23:59:00 title = M 20 km Individual
+      Replaces ----- start = 25/03/2018 20:00:00 stop = 25/03/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      Replaces ----- start = 25/03/2018 22:30:00 stop = 25/03/2018 23:00:00 title = Special moments of the OG of Beijing 2008 The Olympic Series Golden moments of the Olympic Games
+      Replaces ----- start = 25/03/2018 23:00:00 stop = 25/03/2018 23:59:00 title = FC Barcelona vs Baskonia Vitoria
+n
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     21
-     new shows added           0
+     changed shows updated     43
+     new shows added           1
      unchanged shows inspected 1
-     total after update        48
+     total after update        45
 
 
 
-Job finished at 23/03/2018 03:22:11 done in 22m 0s
+Job finished at 24/03/2018 03:18:54 done in 18m 45s
