@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 26/03/2018 03:00:09
+Job started at 27/03/2018 03:00:10
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -43,7 +43,6 @@ Found existing channel (xmltv_id=Discovery Channel HD) in the config file
 Found existing channel (xmltv_id=Discovery Science HD) in the config file
 Found existing channel (xmltv_id=OlympicChannel) in the config file
 ...............................
-time offset change detected for site melita.com from: +0100 to: +0200
 
 
       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -86,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+inccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -123,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccgcccccccccccccccccccccccccccccccgcccccccccccccccccccccccccccccccgcccccccccccccccccccccccccccccccgcccccccccccccccccccccccccccccccgcccccccccccccccccccccccccccccccgccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ic...gc.ccccccc.cccccccccccccc..cccc...gc.ccccccc.cccccccccccccc..cccc...gc.ccccccc.cccccccccccccc..cccc...gc.ccccccc.cccccccccccccc..cccc...gc.ccccccc.cccccccccccccc..cccc...gc.ccccccc.cccccccccccccc..ccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -160,325 +159,344 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-in.ccccccccccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.cccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnn
+i..cc....c.....c.c.ccc..cc....c.....c.c.ccc..cc....c.....c.c.ccc..cc....c.....c.c.ccc..cc....c.....c.c.ccc..cc....c.....c.c.ccnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii................................................................................................................................................................nnn
-
-(   5/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii..............................................................................................................................................nn
-
-(   6/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnn
-
-(   7/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................nn
-
-(   8/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................nnnnnnn
-
-(   9/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii....................................................................................................................................n
-
-(  10/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii...............................................................................................................................................n
-
-(  11/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................................................................nnnnnnnn
-
-(  12/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii....................................................................................n
-
-(  13/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii..........................................................................................................................................................................nn
-
-(  14/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.........................................................................................................................................................nnnn
-
-(  15/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii.........c
+iiiiiiii
+Unable to update channel Первый
+Generic syntax exception:
+   message: 
+no index page data received from Первый
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+iiiiiiii
+Unable to update channel Россия 1
+Generic syntax exception:
+   message: 
+no index page data received from Россия 1
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+iiiiiiii
+Unable to update channel Россия 24
+Generic syntax exception:
+   message: 
+no index page data received from Россия 24
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
+iiiiiiii
+Unable to update channel НТВ
+Generic syntax exception:
+   message: 
+no index page data received from НТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+iiiiiiii
+Unable to update channel ТНТ
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii
+Unable to update channel СТС
+Generic syntax exception:
+   message: 
+no index page data received from СТС
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiii
+Unable to update channel РЕН ТВ
+Generic syntax exception:
+   message: 
+no index page data received from РЕН ТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiii
+Unable to update channel ТНТ4
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ4
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiii
+Unable to update channel Че
+Generic syntax exception:
+   message: 
+no index page data received from Че
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiii
+Unable to update channel ТВ-3
+Generic syntax exception:
+   message: 
+no index page data received from ТВ-3
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiii
+Unable to update channel ТВ Центр
+Generic syntax exception:
+   message: 
+no index page data received from ТВ Центр
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiii
+Unable to update channel Домашний
+Generic syntax exception:
+   message: 
+no index page data received from Домашний
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii
+Unable to update channel Пятница
+Generic syntax exception:
+   message: 
+no index page data received from Пятница
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiii
+Unable to update channel Ю
+Generic syntax exception:
+   message: 
+no index page data received from Ю
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii
+Unable to update channel Звезда
+Generic syntax exception:
+   message: 
+no index page data received from Звезда
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+iiiiiiii
+Unable to update channel EuroNews
+Generic syntax exception:
+   message: 
+no index page data received from EuroNews
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii
+Unable to update channel МИР
+Generic syntax exception:
+   message: 
+no index page data received from МИР
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+iiiiiiii
+Unable to update channel РБК
+Generic syntax exception:
+   message: 
+no index page data received from РБК
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+iiiiiiii
+Unable to update channel Fashion TV
+Generic syntax exception:
+   message: 
+no index page data received from Fashion TV
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+iiiiiiii
+Unable to update channel Ru.TV
+Generic syntax exception:
+   message: 
+no index page data received from Ru.TV
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+iiiiiiii
+Unable to update channel 1HD
+Generic syntax exception:
+   message: 
+no index page data received from 1HD
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+iiiiiiii
+Unable to update channel RT
+Generic syntax exception:
+   message: 
+no index page data received from RT
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+iiiiiiii
+Unable to update channel RTД
+Generic syntax exception:
+   message: 
+no index page data received from RTД
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+iiiiiiii
+Unable to update channel Discovery Channel HD
+Generic syntax exception:
+   message: 
+no index page data received from Discovery Channel HD
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+iiiiiiii
+Unable to update channel Discovery Science HD
+Generic syntax exception:
+   message: 
+no index page data received from Discovery Science HD
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiiic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 07:30:00 stop = 26/03/2018 09:30:00 title = По делам несовершеннолетних
-      Replaces ----- start = 26/03/2018 07:30:00 stop = 26/03/2018 09:25:00 title = По делам несовершеннолетних
-      Replaces ----- start = 26/03/2018 09:25:00 stop = 26/03/2018 11:25:00 title = Давай разведёмся!
+      show with ---- start = 27/03/2018 00:00:00 stop = 27/03/2018 01:17:00 title = New Zealand vs Bangladesh
+      Replaces ----- start = 27/03/2018 00:00:00 stop = 27/03/2018 01:15:00 title = New Zealand vs Bangladesh
+      Replaces ----- start = 27/03/2018 01:15:00 stop = 27/03/2018 02:00:00 title = Olympics Today
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/03/2018 09:30:00 stop = 26/03/2018 11:25:00 title = Давай разведёмся!
-      Replaces ----- start = 26/03/2018 09:25:00 stop = 26/03/2018 11:25:00 title = Давай разведёмся!
-............................................................................................................c
+      show with ---- start = 27/03/2018 01:17:00 stop = 27/03/2018 02:00:00 title = Olympics Today
+      Replaces ----- start = 27/03/2018 01:15:00 stop = 27/03/2018 02:00:00 title = Olympics Today
+....c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 31/03/2018 06:00:00 stop = 31/03/2018 06:30:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 31/03/2018 06:00:00 stop = 31/03/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
+      show with ---- start = 27/03/2018 07:30:00 stop = 27/03/2018 08:00:00 title = The Olympic On The Record
+      Replaces ----- start = 27/03/2018 07:30:00 stop = 27/03/2018 08:50:00 title = M Heat 4
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 31/03/2018 06:30:00 stop = 31/03/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 31/03/2018 06:00:00 stop = 31/03/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 31/03/2018 10:00:00 stop = 31/03/2018 13:40:00 title = Счастье есть!
-      Replaces ----- start = 31/03/2018 10:00:00 stop = 31/03/2018 14:45:00 title = Счастье есть!
+      show with ---- start = 27/03/2018 08:00:00 stop = 27/03/2018 08:50:00 title = M Heat 4
+      Replaces ----- start = 27/03/2018 07:30:00 stop = 27/03/2018 08:50:00 title = M Heat 4
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 31/03/2018 13:40:00 stop = 31/03/2018 14:45:00 title = Жизненные обстоятельства
-      Replaces ----- start = 31/03/2018 10:00:00 stop = 31/03/2018 14:45:00 title = Счастье есть!
+      show with ---- start = 27/03/2018 08:50:00 stop = 27/03/2018 10:13:00 title = Team Relay
+      Replaces ----- start = 27/03/2018 08:50:00 stop = 27/03/2018 10:15:00 title = Team Relay
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 27/03/2018 10:13:00 stop = 27/03/2018 11:30:00 title = New Zealand vs Bangladesh
+      Replaces ----- start = 27/03/2018 08:50:00 stop = 27/03/2018 10:15:00 title = Team Relay
+      Replaces ----- start = 27/03/2018 10:15:00 stop = 27/03/2018 11:30:00 title = New Zealand vs Bangladesh
 .........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 05:20:00 stop = 01/04/2018 05:35:00 title = 6 кадров
-      Replaces ----- start = 01/04/2018 05:20:00 stop = 01/04/2018 06:00:00 title = 6 кадров
+      show with ---- start = 27/03/2018 22:30:00 stop = 28/03/2018 00:00:00 title = W Alpine Combined Slalom Finals
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 05:35:00 stop = 01/04/2018 06:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 01/04/2018 05:20:00 stop = 01/04/2018 06:00:00 title = 6 кадров
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 06:30:00 stop = 01/04/2018 07:00:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 01/04/2018 06:30:00 stop = 01/04/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
+      show with ---- start = 28/03/2018 00:00:00 stop = 28/03/2018 01:15:00 title = India vs Austarlia
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 07:00:00 stop = 01/04/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-      Replaces ----- start = 01/04/2018 06:30:00 stop = 01/04/2018 07:30:00 title = Джейми Оливер. Готовим за 30 минут
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 10:25:00 stop = 01/04/2018 11:25:00 title = Нахалка
-      Replaces ----- start = 01/04/2018 10:25:00 stop = 01/04/2018 14:25:00 title = Нахалка
+      show with ---- start = 28/03/2018 01:15:00 stop = 28/03/2018 02:00:00 title = Olympics Today
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 11:25:00 stop = 01/04/2018 12:25:00 title = Нахалка
-      Replaces ----- start = 01/04/2018 10:25:00 stop = 01/04/2018 14:25:00 title = Нахалка
+      show with ---- start = 28/03/2018 02:00:00 stop = 28/03/2018 04:30:00 title = Qatar vs Vietnam
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 12:25:00 stop = 01/04/2018 13:25:00 title = Нахалка
-      Replaces ----- start = 01/04/2018 10:25:00 stop = 01/04/2018 14:25:00 title = Нахалка
+      show with ---- start = 28/03/2018 04:30:00 stop = 28/03/2018 05:45:00 title = The Nagano Tapes
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 13:25:00 stop = 01/04/2018 14:25:00 title = Нахалка
-      Replaces ----- start = 01/04/2018 10:25:00 stop = 01/04/2018 14:25:00 title = Нахалка
+      show with ---- start = 28/03/2018 05:45:00 stop = 28/03/2018 07:45:00 title = W 15 km Individual
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 01/04/2018 14:25:00 stop = 01/04/2018 15:18:00 title = Верю. Люблю. Надеюсь
-      Replaces ----- start = 01/04/2018 14:25:00 stop = 01/04/2018 18:00:00 title = Верю. Люблю. Надеюсь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 15:18:00 stop = 01/04/2018 16:12:00 title = Верю. Люблю. Надеюсь
-      Replaces ----- start = 01/04/2018 14:25:00 stop = 01/04/2018 18:00:00 title = Верю. Люблю. Надеюсь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 16:12:00 stop = 01/04/2018 17:06:00 title = Верю. Люблю. Надеюсь
-      Replaces ----- start = 01/04/2018 14:25:00 stop = 01/04/2018 18:00:00 title = Верю. Люблю. Надеюсь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 17:06:00 stop = 01/04/2018 18:00:00 title = Верю. Люблю. Надеюсь
-      Replaces ----- start = 01/04/2018 14:25:00 stop = 01/04/2018 18:00:00 title = Верю. Люблю. Надеюсь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 18:00:00 stop = 01/04/2018 21:12:00 title = 6 кадров
-      Replaces ----- start = 01/04/2018 18:00:00 stop = 01/04/2018 19:00:00 title = 6 кадров
-      Replaces ----- start = 01/04/2018 19:00:00 stop = 01/04/2018 23:25:00 title = Великолепный век
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 01/04/2018 21:12:00 stop = 01/04/2018 23:25:00 title = Великолепный век
-      Replaces ----- start = 01/04/2018 19:00:00 stop = 01/04/2018 23:25:00 title = Великолепный век
-.nnnnn
-
-(  16/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii..........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/03/2018 23:00:00 stop = 27/03/2018 00:00:00 title = Мир наизнанку
-      Replaces ----- start = 26/03/2018 23:00:00 stop = 27/03/2018 01:00:00 title = Мир наизнанку
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 00:00:00 stop = 27/03/2018 01:00:00 title = Мир наизнанку
-      Replaces ----- start = 26/03/2018 23:00:00 stop = 27/03/2018 01:00:00 title = Мир наизнанку
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 01:30:00 stop = 27/03/2018 02:35:00 title = Мир наизнанку
-      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 03:35:00 title = Мир наизнанку
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 02:35:00 stop = 27/03/2018 03:35:00 title = Мир наизнанку
-      Replaces ----- start = 27/03/2018 01:30:00 stop = 27/03/2018 03:35:00 title = Мир наизнанку
-......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 00:55:00 stop = 28/03/2018 01:30:00 title = Пятница News
-      Replaces ----- start = 28/03/2018 00:55:00 stop = 28/03/2018 02:30:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/03/2018 01:30:00 stop = 28/03/2018 02:30:00 title = Мир наизнанку
-      Replaces ----- start = 28/03/2018 00:55:00 stop = 28/03/2018 02:30:00 title = Пятница News
-................................................................................................................nnn
-
-(  17/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii.....................................................................................................................................................................................nn
-
-(  18/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................................................................................................................................nn
-
-(  19/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnn
-
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii............................................................................................................................................................................................................................nnnnnn
-
-(  21/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................................................................................................nnnnnnnnnn
-
-(  22/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-
-(  23/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii..............................................................................................................................................
-
-(  24/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
-
-(  25/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
-
-(  26/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................................................................................................................................................................
-
-(  27/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................nnnnnnnnnn
-
-(  28/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
-iiiiiiii................................................................................................................................................................................................................................................................nnnnnnn
-
-(  29/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/03/2018 22:25:00 stop = 27/03/2018 00:00:00 title = Team Relay
-      Replaces ----- start = 26/03/2018 22:25:00 stop = 26/03/2018 23:59:00 title = Team Relay
+      show with ---- start = 28/03/2018 07:45:00 stop = 28/03/2018 09:30:00 title = Germany vs Czech Republic
+      Replaces ----- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 27/03/2018 00:00:00 stop = 27/03/2018 01:15:00 title = New Zealand vs Bangladesh
-      Added before - start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 09:30:00 stop = 28/03/2018 11:00:00 title = W Alpine Combined Slalom Finals
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 27/03/2018 01:15:00 stop = 27/03/2018 02:00:00 title = Olympics Today
-      Added before - start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 11:00:00 stop = 28/03/2018 11:30:00 title = The Tech Race
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 27/03/2018 02:00:00 stop = 27/03/2018 03:45:00 title = South Korea vs Malaysia
-      Added before - start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 11:30:00 stop = 28/03/2018 12:15:00 title = Olympics Today
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 27/03/2018 03:45:00 stop = 27/03/2018 05:30:00 title = W 10 km Free
-      Added before - start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 12:15:00 stop = 28/03/2018 13:45:00 title = The Nagano Tapes
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 27/03/2018 05:30:00 stop = 27/03/2018 06:00:00 title = The Tech Race
-      Added before - start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 13:45:00 stop = 28/03/2018 15:30:00 title = W 15 km Individual
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 27/03/2018 06:00:00 stop = 27/03/2018 07:30:00 title = Spain vs Denmark
-      Added before - start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 15:30:00 stop = 28/03/2018 17:00:00 title = W Alpine Combined Slalom Finals
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 28/03/2018 17:00:00 stop = 28/03/2018 17:30:00 title = Olympics Today
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 28/03/2018 17:30:00 stop = 28/03/2018 19:05:00 title = W Slalom 1st Run
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 28/03/2018 19:05:00 stop = 28/03/2018 19:30:00 title = Golden moments of the Olympic Games Special moments of the OG of Beijing 2008
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 28/03/2018 19:30:00 stop = 28/03/2018 21:45:00 title = M 10000 m
+      Added before - start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 07:30:00 stop = 27/03/2018 08:50:00 title = M Heat 4
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
+      show with ---- start = 28/03/2018 21:45:00 stop = 28/03/2018 23:15:00 title = Ivry vs PSG
+      Replaces ----- start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/03/2018 08:50:00 stop = 27/03/2018 10:15:00 title = Team Relay
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 10:15:00 stop = 27/03/2018 11:30:00 title = New Zealand vs Bangladesh
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 11:30:00 stop = 27/03/2018 12:15:00 title = Olympics Today
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 12:15:00 stop = 27/03/2018 14:00:00 title = W 10 km Free
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 14:00:00 stop = 27/03/2018 14:45:00 title = The Tech Race
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 14:45:00 stop = 27/03/2018 16:30:00 title = Spain vs Denmark
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 16:30:00 stop = 27/03/2018 17:00:00 title = The Olympic On The Record
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 17:00:00 stop = 27/03/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 17:30:00 stop = 27/03/2018 18:45:00 title = The Nagano Tapes
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 18:45:00 stop = 27/03/2018 20:45:00 title = W 15 km Individual
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 20:45:00 stop = 27/03/2018 22:30:00 title = Germany vs Czech Republic
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/03/2018 22:30:00 stop = 28/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
-      Replaces ----- start = 27/03/2018 08:30:00 stop = 27/03/2018 23:59:00 title = Khimki Moscow vs CSKA Moscow EuroLeague Basketball 2017/2018
-nn
+      show with ---- start = 28/03/2018 23:15:00 stop = 28/03/2018 23:59:00 title = The Olympic Series The story of Women at the Games,Changing Times Vol.5
+      Replaces ----- start = 28/03/2018 22:30:00 stop = 29/03/2018 08:30:00 title = W Alpine Combined Slalom Finals
 
    Summary for update of       OlympicChannel
-     missing shows added       6
-     changed shows updated     14
-     new shows added           2
-     unchanged shows inspected 18
-     total after update        40
+     missing shows added       10
+     changed shows updated     15
+     new shows added           0
+     unchanged shows inspected 13
+     total after update        39
 
 
 
-Job finished at 26/03/2018 03:05:22 done in 5m 13s
+Job finished at 27/03/2018 03:01:51 done in 1m 41s
