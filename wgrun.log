@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 10/04/2018 03:00:10
+Job started at 11/04/2018 03:00:10
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-inccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-ic...g..cccccccccccccccccccccc..cccc...g..cccccccccccccccccccccc..cccc...g..cccccccccccccccccccccc..cccc...g..cccccccccccccccccccccc..cccc...g..cccccccccccccccccccccc..cccc...g..cccccccccccccccccccccc..ccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+icccccccccgcgcccc.cccccccccccccccccccccccgcgcccc.cccccccccccccccccccccccgcgcccc.cccccccccccccccccccccccgcgcccc.cccccccccccccccccccccccgcgcccc.cccccccccccccccccccccccgcgcccc.ccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,18 +159,10 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnn
+i........c.....cccc.c.........c.....cccc.c.........c.....cccc.c.........c.....cccc.c.........c.....cccc.c.........c.....cccc.cnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Первый
 Generic syntax exception:
    message: 
@@ -178,15 +170,7 @@ no index page data received from Первый
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Россия 1
 Generic syntax exception:
    message: 
@@ -194,15 +178,7 @@ no index page data received from Россия 1
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Россия 24
 Generic syntax exception:
    message: 
@@ -210,15 +186,7 @@ no index page data received from Россия 24
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel НТВ
 Generic syntax exception:
    message: 
@@ -226,15 +194,7 @@ no index page data received from НТВ
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel ТНТ
 Generic syntax exception:
    message: 
@@ -242,15 +202,7 @@ no index page data received from ТНТ
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel СТС
 Generic syntax exception:
    message: 
@@ -258,15 +210,7 @@ no index page data received from СТС
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel РЕН ТВ
 Generic syntax exception:
    message: 
@@ -274,15 +218,7 @@ no index page data received from РЕН ТВ
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel ТНТ4
 Generic syntax exception:
    message: 
@@ -290,15 +226,7 @@ no index page data received from ТНТ4
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Че
 Generic syntax exception:
    message: 
@@ -306,15 +234,7 @@ no index page data received from Че
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel ТВ-3
 Generic syntax exception:
    message: 
@@ -322,15 +242,7 @@ no index page data received from ТВ-3
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: Error: ConnectFailure (No route to host)
-pausing 3 of 4 times for 15 seconds before re-try.
-error downloading page: Error: ConnectFailure (No route to host)
-pausing 4 of 4 times for 20 seconds before re-try.
+iiiiiiii
 Unable to update channel ТВ Центр
 Generic syntax exception:
    message: 
@@ -338,15 +250,7 @@ no index page data received from ТВ Центр
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-i
-error downloading page: Error: ConnectFailure (No route to host)
-pausing 1 of 4 times for 5 seconds before re-try.
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Домашний
 Generic syntax exception:
    message: 
@@ -354,15 +258,7 @@ no index page data received from Домашний
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Пятница
 Generic syntax exception:
    message: 
@@ -370,15 +266,7 @@ no index page data received from Пятница
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
+iiiiiiii
 Unable to update channel Ю
 Generic syntax exception:
    message: 
@@ -386,14 +274,7 @@ no index page data received from Ю
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-iiiiiii
+iiiiiiii
 Unable to update channel Звезда
 Generic syntax exception:
    message: 
@@ -481,222 +362,23 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii.c
+
+no robots data found
+skipped robots check
+iiiiiii.....................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 10/04/2018 01:30:00 stop = 10/04/2018 02:30:00 title = Transform My Meal
-      Replaces ----- start = 10/04/2018 01:30:00 stop = 10/04/2018 02:30:00 title = The Olympic Series Road to glory
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 02:30:00 stop = 10/04/2018 04:30:00 title = Olympiacos Piraeus vs FC Barcelona
-      Replaces ----- start = 10/04/2018 02:30:00 stop = 10/04/2018 04:30:00 title = Australia vs Korea Republic
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 04:30:00 stop = 10/04/2018 05:00:00 title = History of the Olympic Games
-      Replaces ----- start = 10/04/2018 04:30:00 stop = 10/04/2018 05:15:00 title = Mutaz Barshim
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 05:00:00 stop = 10/04/2018 07:00:00 title = Philippines vs China P.R
-      Replaces ----- start = 10/04/2018 04:30:00 stop = 10/04/2018 05:15:00 title = Mutaz Barshim
-      Replaces ----- start = 10/04/2018 05:15:00 stop = 10/04/2018 06:45:00 title = Buducnost vs Gyori
-      Replaces ----- start = 10/04/2018 06:45:00 stop = 10/04/2018 08:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 07:00:00 stop = 10/04/2018 08:30:00 title = Sweden vs Norway
-      Replaces ----- start = 10/04/2018 06:45:00 stop = 10/04/2018 08:30:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 09:00:00 stop = 10/04/2018 10:00:00 title = Transform My Meal
-      Replaces ----- start = 10/04/2018 09:00:00 stop = 10/04/2018 10:45:00 title = Japan vs Vietnam
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 10:00:00 stop = 10/04/2018 12:00:00 title = Olympiacos Piraeus vs FC Barcelona
-      Replaces ----- start = 10/04/2018 09:00:00 stop = 10/04/2018 10:45:00 title = Japan vs Vietnam
-      Replaces ----- start = 10/04/2018 10:45:00 stop = 10/04/2018 12:30:00 title = Australia vs Korea Republic
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 12:00:00 stop = 10/04/2018 12:30:00 title = History of the Olympic Games
-      Replaces ----- start = 10/04/2018 10:45:00 stop = 10/04/2018 12:30:00 title = Australia vs Korea Republic
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 12:30:00 stop = 10/04/2018 14:15:00 title = Philippines vs China P.R
-      Replaces ----- start = 10/04/2018 12:30:00 stop = 10/04/2018 13:15:00 title = Mutaz Barshim
-      Replaces ----- start = 10/04/2018 13:15:00 stop = 10/04/2018 14:30:00 title = Rail Cargo vs Rostov
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 14:15:00 stop = 10/04/2018 16:00:00 title = Sweden vs Norway
-      Replaces ----- start = 10/04/2018 13:15:00 stop = 10/04/2018 14:30:00 title = Rail Cargo vs Rostov
-      Replaces ----- start = 10/04/2018 14:30:00 stop = 10/04/2018 16:15:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 16:00:00 stop = 10/04/2018 17:00:00 title = The Olympic Series Road to glory
-      Replaces ----- start = 10/04/2018 14:30:00 stop = 10/04/2018 16:15:00 title = Crvena Zvezda vs Fenerbahce Istanbul
-      Replaces ----- start = 10/04/2018 16:15:00 stop = 10/04/2018 17:00:00 title = Coming of Age
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 17:30:00 stop = 10/04/2018 19:00:00 title = The Nagano Tapes
-      Replaces ----- start = 10/04/2018 17:30:00 stop = 10/04/2018 18:30:00 title = Transform My Meal
-      Replaces ----- start = 10/04/2018 18:30:00 stop = 10/04/2018 20:30:00 title = Olympiacos Piraeus vs FC Barcelona
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 19:00:00 stop = 10/04/2018 20:15:00 title = Transform My Meal
-      Replaces ----- start = 10/04/2018 18:30:00 stop = 10/04/2018 20:30:00 title = Olympiacos Piraeus vs FC Barcelona
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 20:15:00 stop = 10/04/2018 20:45:00 title = Foul Play Episode 2
-      Replaces ----- start = 10/04/2018 18:30:00 stop = 10/04/2018 20:30:00 title = Olympiacos Piraeus vs FC Barcelona
-      Replaces ----- start = 10/04/2018 20:30:00 stop = 10/04/2018 21:00:00 title = History of the Olympic Games
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 20:45:00 stop = 10/04/2018 22:30:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 10/04/2018 20:30:00 stop = 10/04/2018 21:00:00 title = History of the Olympic Games
-      Replaces ----- start = 10/04/2018 21:00:00 stop = 10/04/2018 23:15:00 title = Philippines vs China P.R
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 10/04/2018 22:30:00 stop = 11/04/2018 00:15:00 title = PSG vs Nimes
-      Replaces ----- start = 10/04/2018 21:00:00 stop = 10/04/2018 23:15:00 title = Philippines vs China P.R
-      Replaces ----- start = 10/04/2018 23:15:00 stop = 11/04/2018 01:00:00 title = Sweden vs Norway
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/04/2018 22:30:00 stop = 12/04/2018 00:15:00 title = PSG vs Nimes
-      Replaces ----- start = 11/04/2018 23:15:00 stop = 12/04/2018 01:00:00 title = Sweden vs Norway
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 00:15:00 stop = 12/04/2018 02:00:00 title = Korea Republic vs Japan
-      Replaces ----- start = 11/04/2018 23:15:00 stop = 12/04/2018 01:00:00 title = Sweden vs Norway
-      Replaces ----- start = 12/04/2018 01:00:00 stop = 12/04/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 12/04/2018 01:30:00 stop = 12/04/2018 02:30:00 title = Transform My Meal
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 02:00:00 stop = 12/04/2018 02:30:00 title = Olympics Today
-      Replaces ----- start = 12/04/2018 01:30:00 stop = 12/04/2018 02:30:00 title = Transform My Meal
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 02:30:00 stop = 12/04/2018 04:00:00 title = The Nagano Tapes
-      Replaces ----- start = 12/04/2018 02:30:00 stop = 12/04/2018 04:30:00 title = Olympiacos Piraeus vs FC Barcelona
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 04:00:00 stop = 12/04/2018 05:15:00 title = Mutaz Barshim
-      Replaces ----- start = 12/04/2018 02:30:00 stop = 12/04/2018 04:30:00 title = Olympiacos Piraeus vs FC Barcelona
-      Replaces ----- start = 12/04/2018 04:30:00 stop = 12/04/2018 05:00:00 title = History of the Olympic Games
-      Replaces ----- start = 12/04/2018 05:00:00 stop = 12/04/2018 07:00:00 title = Philippines vs China P.R
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 05:15:00 stop = 12/04/2018 05:45:00 title = Foul Play Episode 2
-      Replaces ----- start = 12/04/2018 05:00:00 stop = 12/04/2018 07:00:00 title = Philippines vs China P.R
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 05:45:00 stop = 12/04/2018 07:30:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 12/04/2018 05:00:00 stop = 12/04/2018 07:00:00 title = Philippines vs China P.R
-      Replaces ----- start = 12/04/2018 07:00:00 stop = 12/04/2018 08:30:00 title = Sweden vs Norway
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 07:30:00 stop = 12/04/2018 09:00:00 title = PSG vs Nimes
-      Replaces ----- start = 12/04/2018 07:00:00 stop = 12/04/2018 08:30:00 title = Sweden vs Norway
-      Replaces ----- start = 12/04/2018 08:30:00 stop = 12/04/2018 09:00:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 09:00:00 stop = 12/04/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 12/04/2018 09:00:00 stop = 12/04/2018 10:00:00 title = Transform My Meal
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 09:30:00 stop = 12/04/2018 11:00:00 title = The Nagano Tapes
-      Replaces ----- start = 12/04/2018 09:00:00 stop = 12/04/2018 10:00:00 title = Transform My Meal
-      Replaces ----- start = 12/04/2018 10:00:00 stop = 12/04/2018 12:00:00 title = Olympiacos Piraeus vs FC Barcelona
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 11:00:00 stop = 12/04/2018 12:15:00 title = Transform My Meal
-      Replaces ----- start = 12/04/2018 10:00:00 stop = 12/04/2018 12:00:00 title = Olympiacos Piraeus vs FC Barcelona
-      Replaces ----- start = 12/04/2018 12:00:00 stop = 12/04/2018 12:30:00 title = History of the Olympic Games
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 12:15:00 stop = 12/04/2018 12:45:00 title = Foul Play Episode 2
-      Replaces ----- start = 12/04/2018 12:00:00 stop = 12/04/2018 12:30:00 title = History of the Olympic Games
-      Replaces ----- start = 12/04/2018 12:30:00 stop = 12/04/2018 14:15:00 title = Philippines vs China P.R
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 12:45:00 stop = 12/04/2018 14:30:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 12/04/2018 12:30:00 stop = 12/04/2018 14:15:00 title = Philippines vs China P.R
-      Replaces ----- start = 12/04/2018 14:15:00 stop = 12/04/2018 16:00:00 title = Sweden vs Norway
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 14:30:00 stop = 12/04/2018 16:00:00 title = PSG vs Nimes
-      Replaces ----- start = 12/04/2018 14:15:00 stop = 12/04/2018 16:00:00 title = Sweden vs Norway
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 16:00:00 stop = 12/04/2018 17:00:00 title = Mutaz Barshim
-      Replaces ----- start = 12/04/2018 16:00:00 stop = 12/04/2018 17:00:00 title = The Olympic Series Road to glory
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 17:30:00 stop = 12/04/2018 18:45:00 title = Camps to Champs
-      Replaces ----- start = 12/04/2018 17:30:00 stop = 12/04/2018 19:00:00 title = The Nagano Tapes
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 18:45:00 stop = 12/04/2018 20:45:00 title = Zalgiris Kaunas vs Fenerbahce Istanbul
-      Replaces ----- start = 12/04/2018 17:30:00 stop = 12/04/2018 19:00:00 title = The Nagano Tapes
-      Replaces ----- start = 12/04/2018 19:00:00 stop = 12/04/2018 20:15:00 title = Transform My Meal
-      Replaces ----- start = 12/04/2018 20:15:00 stop = 12/04/2018 20:45:00 title = Foul Play Episode 2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 20:45:00 stop = 12/04/2018 21:15:00 title = Camps to Champs
-      Replaces ----- start = 12/04/2018 20:45:00 stop = 12/04/2018 22:30:00 title = Real Madrid vs Panathinaikos Athens
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 21:15:00 stop = 12/04/2018 22:15:00 title = Every Split Second Counts
-      Replaces ----- start = 12/04/2018 20:45:00 stop = 12/04/2018 22:30:00 title = Real Madrid vs Panathinaikos Athens
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 22:15:00 stop = 12/04/2018 23:30:00 title = Rail Cargo vs Rostov
-      Replaces ----- start = 12/04/2018 20:45:00 stop = 12/04/2018 22:30:00 title = Real Madrid vs Panathinaikos Athens
-      Replaces ----- start = 12/04/2018 22:30:00 stop = 12/04/2018 23:59:00 title = PSG vs Nimes
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/04/2018 23:30:00 stop = 12/04/2018 23:59:00 title = The Games through a Lens part 2
-      Replaces ----- start = 12/04/2018 22:30:00 stop = 12/04/2018 23:59:00 title = PSG vs Nimes
+      show with ---- start = 12/04/2018 23:30:00 stop = 13/04/2018 00:00:00 title = The Games through a Lens part 2
+      Replaces ----- start = 12/04/2018 23:30:00 stop = 12/04/2018 23:59:00 title = The Games through a Lens part 2
+nnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     37
-     new shows added           0
-     unchanged shows inspected 4
-     total after update        42
+     changed shows updated     1
+     new shows added           22
+     unchanged shows inspected 21
+     total after update        44
 
 
 
-Job finished at 10/04/2018 03:14:42 done in 14m 31s
+Job finished at 11/04/2018 03:01:30 done in 1m 20s
