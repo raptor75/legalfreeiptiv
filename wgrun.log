@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 17/04/2018 03:00:15
+Job started at 18/04/2018 03:00:13
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-in......c............cc.ccc.c..cc......c............cc.ccc.c..cc......c............cc.ccc.c..cc......c............cc.ccc.c..cc......c............cc.ccc.c..cc......c............cc.ccc.c..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+icccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-ic....cc..cccccc.cccccccccccgcgc..cc....cc..cccccc.cccccccccccgcgc..cc....cc..cccccc.cccccccccccgcgc..cc....cc..cccccc.cccccccccccgcgc..cc....cc..cccccc.cccccccccccgcgc..cc....cc..cccccc.cccccccccccgcgc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ic....cc.c.ccccccccccccgcccccccc....cc.c.ccccccccccccgcccccccc....cc.c.ccccccccccccgcccccccc....cc.c.ccccccccccccgcccccccc....cc.c.ccccccccccccgcccccccc....cc.cgccccccccccccgccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i...gc.....c....gccc.....gc.....c....gccc.....gc.....c....gccc.....gc.....c....gccc.....gc.....c....gccc.....gc.....c....gccc.nnnnnnnnnnnnnnnnnnnnn
+icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiiiii
@@ -362,139 +362,123 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii.....................c
+iiiiiiinnnnnnnnnnnnnnnnnnnnnnnnc
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 17/04/2018 23:00:00 stop = 18/04/2018 01:00:00 title = Denmark vs Sweden
-      Replaces ----- start = 17/04/2018 23:00:00 stop = 18/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 18/04/2018 23:00:00 stop = 18/04/2018 23:30:00 title = Legends Live
+      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 01:00:00 title = Denmark vs Sweden
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 18/04/2018 23:00:00 stop = 19/04/2018 01:00:00 title = Denmark vs Sweden
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 18/04/2018 23:30:00 stop = 19/04/2018 00:00:00 title = Against All Odds
+      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 01:00:00 title = Denmark vs Sweden
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 01:00:00 stop = 19/04/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 00:00:00 stop = 19/04/2018 01:00:00 title = JAMAICA
+      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 01:00:00 title = Denmark vs Sweden
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/04/2018 01:30:00 stop = 19/04/2018 04:00:00 title = Fenerbahce vs Baskonia Vitoria
+      Replaces ----- start = 19/04/2018 01:30:00 stop = 19/04/2018 04:00:00 title = Cska Moscow vs Khimki Moscow
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 01:30:00 stop = 19/04/2018 04:00:00 title = Cska Moscow vs Khimki Moscow
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 04:00:00 stop = 19/04/2018 05:00:00 title = Flag and Family
+      Replaces ----- start = 19/04/2018 04:00:00 stop = 19/04/2018 05:15:00 title = The Nagano Tapes
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 04:00:00 stop = 19/04/2018 05:15:00 title = The Nagano Tapes
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 05:00:00 stop = 19/04/2018 05:30:00 title = HISTORY OF FOOTBALL IN OLYMPICS
+      Replaces ----- start = 19/04/2018 04:00:00 stop = 19/04/2018 05:15:00 title = The Nagano Tapes
+      Replaces ----- start = 19/04/2018 05:15:00 stop = 19/04/2018 05:45:00 title = Yousef El mealem
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 05:15:00 stop = 19/04/2018 05:45:00 title = Yousef El mealem
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 05:30:00 stop = 19/04/2018 06:30:00 title = Mutaz Barshim
+      Replaces ----- start = 19/04/2018 05:15:00 stop = 19/04/2018 05:45:00 title = Yousef El mealem
+      Replaces ----- start = 19/04/2018 05:45:00 stop = 19/04/2018 06:15:00 title = Heroes of the Future
+      Replaces ----- start = 19/04/2018 06:15:00 stop = 19/04/2018 08:00:00 title = Denmark vs Sweden
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 05:45:00 stop = 19/04/2018 06:15:00 title = Heroes of the Future
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 06:30:00 stop = 19/04/2018 09:00:00 title = Cska Moscow vs Khimki Moscow
+      Replaces ----- start = 19/04/2018 06:15:00 stop = 19/04/2018 08:00:00 title = Denmark vs Sweden
+      Replaces ----- start = 19/04/2018 08:00:00 stop = 19/04/2018 08:30:00 title = Hitting The Wall
+      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 09:00:00 title = The Olympic Series
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/04/2018 09:30:00 stop = 19/04/2018 12:00:00 title = Fenerbahce vs Baskonia Vitoria
+      Replaces ----- start = 19/04/2018 09:30:00 stop = 19/04/2018 12:00:00 title = Cska Moscow vs Khimki Moscow
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 06:15:00 stop = 19/04/2018 08:00:00 title = Denmark vs Sweden
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 12:00:00 stop = 19/04/2018 13:00:00 title = Flag and Family
+      Replaces ----- start = 19/04/2018 12:00:00 stop = 19/04/2018 13:15:00 title = The Nagano Tapes
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 08:00:00 stop = 19/04/2018 08:30:00 title = Hitting The Wall
-      Replaces ----- start = 18/04/2018 23:00:00 stop = 19/04/2018 08:30:00 title = Denmark vs Sweden
+      show with ---- start = 19/04/2018 13:00:00 stop = 19/04/2018 13:30:00 title = HISTORY OF FOOTBALL IN OLYMPICS
+      Replaces ----- start = 19/04/2018 12:00:00 stop = 19/04/2018 13:15:00 title = The Nagano Tapes
+      Replaces ----- start = 19/04/2018 13:15:00 stop = 19/04/2018 13:45:00 title = Yousef El mealem
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 08:30:00 stop = 19/04/2018 09:00:00 title = The Olympic Series
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 13:30:00 stop = 19/04/2018 14:30:00 title = Mutaz Barshim
+      Replaces ----- start = 19/04/2018 13:15:00 stop = 19/04/2018 13:45:00 title = Yousef El mealem
+      Replaces ----- start = 19/04/2018 13:45:00 stop = 19/04/2018 14:15:00 title = Heroes of the Future
+      Replaces ----- start = 19/04/2018 14:15:00 stop = 19/04/2018 16:00:00 title = Denmark vs Sweden
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 09:00:00 stop = 19/04/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 14:30:00 stop = 19/04/2018 17:00:00 title = Cska Moscow vs Khimki Moscow
+      Replaces ----- start = 19/04/2018 14:15:00 stop = 19/04/2018 16:00:00 title = Denmark vs Sweden
+      Replaces ----- start = 19/04/2018 16:00:00 stop = 19/04/2018 16:30:00 title = Hitting The Wall
+      Replaces ----- start = 19/04/2018 16:30:00 stop = 19/04/2018 17:00:00 title = The Olympic Series
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 09:30:00 stop = 19/04/2018 12:00:00 title = Cska Moscow vs Khimki Moscow
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 17:00:00 stop = 19/04/2018 17:45:00 title = Olympics Today
+      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 19/04/2018 17:30:00 stop = 19/04/2018 18:30:00 title = Flag and Family
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 12:00:00 stop = 19/04/2018 13:15:00 title = The Nagano Tapes
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 17:45:00 stop = 19/04/2018 20:00:00 title = Cycling Paris
+      Replaces ----- start = 19/04/2018 17:30:00 stop = 19/04/2018 18:30:00 title = Flag and Family
+      Replaces ----- start = 19/04/2018 18:30:00 stop = 19/04/2018 19:00:00 title = HISTORY OF FOOTBALL IN OLYMPICS
+      Replaces ----- start = 19/04/2018 19:00:00 stop = 19/04/2018 20:15:00 title = Mutaz Barshim
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 13:15:00 stop = 19/04/2018 13:45:00 title = Yousef El mealem
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 20:00:00 stop = 19/04/2018 22:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
+      Replaces ----- start = 19/04/2018 19:00:00 stop = 19/04/2018 20:15:00 title = Mutaz Barshim
+      Replaces ----- start = 19/04/2018 20:15:00 stop = 19/04/2018 23:00:00 title = Fenerbahce vs Baskonia Vitoria
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 13:45:00 stop = 19/04/2018 14:15:00 title = Heroes of the Future
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 22:30:00 stop = 19/04/2018 23:00:00 title = Women's struggle for Olympic participation
+      Replaces ----- start = 19/04/2018 20:15:00 stop = 19/04/2018 23:00:00 title = Fenerbahce vs Baskonia Vitoria
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 14:15:00 stop = 19/04/2018 16:00:00 title = Denmark vs Sweden
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
+      show with ---- start = 19/04/2018 23:00:00 stop = 19/04/2018 23:30:00 title = Global Games  E02
+      Replaces ----- start = 19/04/2018 23:00:00 stop = 19/04/2018 23:30:00 title = Legends Live
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 19/04/2018 16:00:00 stop = 19/04/2018 16:30:00 title = Hitting The Wall
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 16:30:00 stop = 19/04/2018 17:00:00 title = The Olympic Series
-      Replaces ----- start = 19/04/2018 08:30:00 stop = 19/04/2018 17:00:00 title = CSKA Moscow vs Olympiacos Piraeus EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 17:00:00 stop = 19/04/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 17:30:00 stop = 19/04/2018 18:30:00 title = Flag and Family
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 18:30:00 stop = 19/04/2018 19:00:00 title = HISTORY OF FOOTBALL IN OLYMPICS
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 19:00:00 stop = 19/04/2018 20:15:00 title = Mutaz Barshim
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 20:15:00 stop = 19/04/2018 23:00:00 title = Fenerbahce vs Baskonia Vitoria
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 23:00:00 stop = 19/04/2018 23:30:00 title = Legends Live
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 19/04/2018 23:30:00 stop = 19/04/2018 23:59:00 title = Against All Odds
-      Replaces ----- start = 19/04/2018 17:00:00 stop = 19/04/2018 23:59:00 title = Olympics Today
+      show with ---- start = 19/04/2018 23:30:00 stop = 19/04/2018 23:59:00 title = Heroes of the Future
+      Replaces ----- start = 19/04/2018 23:30:00 stop = 19/04/2018 23:59:00 title = Against All Odds
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     25
-     new shows added           0
-     unchanged shows inspected 21
-     total after update        47
+     changed shows updated     19
+     new shows added           24
+     unchanged shows inspected 2
+     total after update        45
 
 
 
-Job finished at 17/04/2018 03:01:53 done in 1m 38s
+Job finished at 18/04/2018 03:01:50 done in 1m 36s
