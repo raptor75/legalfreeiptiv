@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 20/04/2018 03:00:11
+Job started at 21/04/2018 03:00:18
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..cccccccccccccccccccccccccccccc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccccccccccc.ccccc.ccccccccccccccccccccccc.ccccc.ccccccccccccccccccccccc.ccccc.ccccccccccccccccccccccc.ccccc.ccccccccccccccccccccccc.ccccc.ccccccccccccccccccccccc.ccccc.ccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,1393 +159,538 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.ccccccccccccccccccccc.cccccccnnnnnnnnnnnnnnnnnnnnn
+icccccccgcccccccccccccccccccccgcccccccccccccccccccccgcccccccccccccccccccccgcccccccccccccccccccccgcccccccccccccccccccccgcccccccccccccnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii........................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnn
-
-(   5/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii..............................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 11:20:00 stop = 22/04/2018 14:10:00 title = Смеяться разрешается
-      Replaces ----- start = 22/04/2018 11:20:00 stop = 22/04/2018 14:20:00 title = Смеяться разрешается
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 14:10:00 stop = 22/04/2018 18:00:00 title = Храни тебя любовь моя
-      Replaces ----- start = 22/04/2018 11:20:00 stop = 22/04/2018 14:20:00 title = Смеяться разрешается
-      Replaces ----- start = 22/04/2018 14:20:00 stop = 22/04/2018 18:30:00 title = Храни тебя любовь моя
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 18:00:00 stop = 22/04/2018 20:00:00 title = Синяя птица-Последний богатырь
-      Replaces ----- start = 22/04/2018 14:20:00 stop = 22/04/2018 18:30:00 title = Храни тебя любовь моя
-      Replaces ----- start = 22/04/2018 18:30:00 stop = 22/04/2018 20:00:00 title = Синяя птица-Последний богатырь
-.................................................................................................nnnnnnnnnnnnnnnnnnnnnn
-
-(   6/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   7/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii...................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnn
-
-(   8/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii.....................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 13:00:00 stop = 23/04/2018 13:30:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 13:00:00 stop = 23/04/2018 13:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 13:30:00 stop = 23/04/2018 14:00:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 13:30:00 stop = 23/04/2018 14:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 14:00:00 stop = 23/04/2018 14:30:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 14:00:00 stop = 23/04/2018 14:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 14:30:00 stop = 23/04/2018 15:00:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 14:30:00 stop = 23/04/2018 15:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 15:00:00 stop = 23/04/2018 15:30:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 15:00:00 stop = 23/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 15:30:00 stop = 23/04/2018 16:00:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 15:00:00 stop = 23/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 16:00:00 stop = 23/04/2018 16:30:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 16:00:00 stop = 23/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 16:30:00 stop = 23/04/2018 17:00:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 16:00:00 stop = 23/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 17:00:00 stop = 23/04/2018 17:30:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 17:00:00 stop = 23/04/2018 18:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 17:30:00 stop = 23/04/2018 18:00:00 title = Универ. Новая общага
-      Replaces ----- start = 23/04/2018 17:00:00 stop = 23/04/2018 18:00:00 title = Comedy club
-.......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 12:30:00 stop = 24/04/2018 13:00:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 12:30:00 stop = 24/04/2018 13:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 13:00:00 stop = 24/04/2018 13:30:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 13:00:00 stop = 24/04/2018 13:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 13:30:00 stop = 24/04/2018 14:00:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 13:30:00 stop = 24/04/2018 14:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 14:00:00 stop = 24/04/2018 14:30:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 14:00:00 stop = 24/04/2018 14:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 14:30:00 stop = 24/04/2018 15:00:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 14:30:00 stop = 24/04/2018 15:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 15:00:00 stop = 24/04/2018 15:30:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 15:00:00 stop = 24/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 15:30:00 stop = 24/04/2018 16:00:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 15:00:00 stop = 24/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 16:00:00 stop = 24/04/2018 16:30:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 16:00:00 stop = 24/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 16:30:00 stop = 24/04/2018 17:00:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 16:00:00 stop = 24/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 17:00:00 stop = 24/04/2018 17:30:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 17:00:00 stop = 24/04/2018 18:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 17:30:00 stop = 24/04/2018 18:00:00 title = Универ. Новая общага
-      Replaces ----- start = 24/04/2018 17:00:00 stop = 24/04/2018 18:00:00 title = Comedy club
-.......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 12:00:00 stop = 25/04/2018 12:30:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 12:00:00 stop = 25/04/2018 12:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 12:30:00 stop = 25/04/2018 13:00:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 12:30:00 stop = 25/04/2018 13:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 13:00:00 stop = 25/04/2018 13:30:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 13:00:00 stop = 25/04/2018 13:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 13:30:00 stop = 25/04/2018 14:00:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 13:30:00 stop = 25/04/2018 14:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 14:00:00 stop = 25/04/2018 14:30:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 14:00:00 stop = 25/04/2018 14:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 14:30:00 stop = 25/04/2018 15:00:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 14:30:00 stop = 25/04/2018 15:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 15:00:00 stop = 25/04/2018 15:30:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 15:00:00 stop = 25/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 15:30:00 stop = 25/04/2018 16:00:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 15:00:00 stop = 25/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 16:00:00 stop = 25/04/2018 16:30:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 16:00:00 stop = 25/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 16:30:00 stop = 25/04/2018 17:00:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 16:00:00 stop = 25/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 17:00:00 stop = 25/04/2018 17:30:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 17:00:00 stop = 25/04/2018 18:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 17:30:00 stop = 25/04/2018 18:00:00 title = Универ. Новая общага
-      Replaces ----- start = 25/04/2018 17:00:00 stop = 25/04/2018 18:00:00 title = Comedy club
-.......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 12:00:00 stop = 26/04/2018 12:30:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 12:00:00 stop = 26/04/2018 12:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 12:30:00 stop = 26/04/2018 13:00:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 12:30:00 stop = 26/04/2018 13:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 13:00:00 stop = 26/04/2018 13:30:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 13:00:00 stop = 26/04/2018 13:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 13:30:00 stop = 26/04/2018 14:00:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 13:30:00 stop = 26/04/2018 14:00:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 14:00:00 stop = 26/04/2018 14:30:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 14:00:00 stop = 26/04/2018 14:30:00 title = СашаТаня
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 14:30:00 stop = 26/04/2018 15:00:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 14:30:00 stop = 26/04/2018 15:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 15:00:00 stop = 26/04/2018 15:30:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 15:00:00 stop = 26/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 15:30:00 stop = 26/04/2018 16:00:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 15:00:00 stop = 26/04/2018 16:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 16:00:00 stop = 26/04/2018 16:30:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 16:00:00 stop = 26/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 16:30:00 stop = 26/04/2018 17:00:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 16:00:00 stop = 26/04/2018 17:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 17:00:00 stop = 26/04/2018 17:30:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 17:00:00 stop = 26/04/2018 18:00:00 title = Comedy club
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 17:30:00 stop = 26/04/2018 18:00:00 title = Универ. Новая общага
-      Replaces ----- start = 26/04/2018 17:00:00 stop = 26/04/2018 18:00:00 title = Comedy club
-........nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   9/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.........................................................................................................................................nnnnnnnnnnnnnnnnnnn
-
-(  10/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii.........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 05:00:00 stop = 21/04/2018 08:15:00 title = Территория заблуждений
-      Replaces ----- start = 21/04/2018 05:00:00 stop = 21/04/2018 08:30:00 title = Территория заблуждений
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 08:15:00 stop = 21/04/2018 10:00:00 title = Тёрнер и Хуч
-      Replaces ----- start = 21/04/2018 05:00:00 stop = 21/04/2018 08:30:00 title = Территория заблуждений
-      Replaces ----- start = 21/04/2018 08:30:00 stop = 21/04/2018 10:00:00 title = Волки и овцы
-..................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 00:30:00 stop = 24/04/2018 02:20:00 title = В осаде
-      Replaces ----- start = 24/04/2018 00:30:00 stop = 24/04/2018 02:30:00 title = Смертельное оружие
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 02:20:00 stop = 24/04/2018 04:15:00 title = В осаде-2
-      Replaces ----- start = 24/04/2018 00:30:00 stop = 24/04/2018 02:30:00 title = Смертельное оружие
-      Replaces ----- start = 24/04/2018 02:30:00 stop = 24/04/2018 05:00:00 title = Парни из Джерси
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 04:15:00 stop = 24/04/2018 05:00:00 title = Территория заблуждений
-      Replaces ----- start = 24/04/2018 02:30:00 stop = 24/04/2018 05:00:00 title = Парни из Джерси
-....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 00:30:00 stop = 25/04/2018 02:30:00 title = Смертельное оружие
-      Replaces ----- start = 25/04/2018 00:30:00 stop = 25/04/2018 02:40:00 title = Смертельное оружие-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 02:30:00 stop = 25/04/2018 03:30:00 title = Старое ружьё
-      Replaces ----- start = 25/04/2018 00:30:00 stop = 25/04/2018 02:40:00 title = Смертельное оружие-2
-      Replaces ----- start = 25/04/2018 02:40:00 stop = 25/04/2018 04:30:00 title = Старое ружьё
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 03:30:00 stop = 25/04/2018 04:30:00 title = Старое ружьё
-      Replaces ----- start = 25/04/2018 02:40:00 stop = 25/04/2018 04:30:00 title = Старое ружьё
-.....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 00:30:00 stop = 26/04/2018 03:35:00 title = Смертельное оружие-2
-      Replaces ----- start = 26/04/2018 00:30:00 stop = 26/04/2018 02:40:00 title = Смертельное оружие-3
-      Replaces ----- start = 26/04/2018 02:40:00 stop = 26/04/2018 04:30:00 title = Старое ружьё
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 03:35:00 stop = 26/04/2018 04:30:00 title = Старое ружьё
-      Replaces ----- start = 26/04/2018 02:40:00 stop = 26/04/2018 04:30:00 title = Старое ружьё
-.....................nnnnnnnnnnnnnnnnnnnnnnn
-
-(  11/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii...........................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  12/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii..............................................................................................nnnnnnnnnnnnnnnn
-
-(  13/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii.........................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 02:00:00 stop = 22/04/2018 02:45:00 title = Зверинец
-      Replaces ----- start = 22/04/2018 02:00:00 stop = 22/04/2018 05:00:00 title = Начало
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 02:45:00 stop = 22/04/2018 03:30:00 title = Зверинец
-      Replaces ----- start = 22/04/2018 02:00:00 stop = 22/04/2018 05:00:00 title = Начало
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 03:30:00 stop = 22/04/2018 04:15:00 title = Зверинец
-      Replaces ----- start = 22/04/2018 02:00:00 stop = 22/04/2018 05:00:00 title = Начало
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 04:15:00 stop = 22/04/2018 06:00:00 title = Зверинец
-      Replaces ----- start = 22/04/2018 02:00:00 stop = 22/04/2018 05:00:00 title = Начало
-      Replaces ----- start = 22/04/2018 05:00:00 stop = 22/04/2018 06:00:00 title = Тайные знаки
-......................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  14/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii...................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnn
-
-(  15/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii...............................................................................................................................................................nnnnnnnnnnnnnnn
-
-(  16/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiiic
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 00:00:00 stop = 20/04/2018 01:00:00 title = На ножах
-      Replaces ----- start = 20/04/2018 00:35:00 stop = 20/04/2018 01:10:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 01:00:00 stop = 20/04/2018 01:30:00 title = Пятница News
-      Replaces ----- start = 20/04/2018 00:35:00 stop = 20/04/2018 01:10:00 title = Пятница News
-      Replaces ----- start = 20/04/2018 01:10:00 stop = 20/04/2018 02:00:00 title = Мир наизнанку
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 01:30:00 stop = 20/04/2018 03:00:00 title = Мир наизнанку
-      Replaces ----- start = 20/04/2018 01:10:00 stop = 20/04/2018 02:00:00 title = Мир наизнанку
-      Replaces ----- start = 20/04/2018 02:00:00 stop = 20/04/2018 02:50:00 title = Мир наизнанку
-      Replaces ----- start = 20/04/2018 02:50:00 stop = 20/04/2018 03:35:00 title = Мир наизнанку
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 03:00:00 stop = 20/04/2018 04:00:00 title = Мир наизнанку
-      Replaces ----- start = 20/04/2018 02:50:00 stop = 20/04/2018 03:35:00 title = Мир наизнанку
-      Replaces ----- start = 20/04/2018 03:35:00 stop = 20/04/2018 04:10:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 04:00:00 stop = 20/04/2018 04:30:00 title = Пятница News
-      Replaces ----- start = 20/04/2018 03:35:00 stop = 20/04/2018 04:10:00 title = Пятница News
-      Replaces ----- start = 20/04/2018 04:10:00 stop = 20/04/2018 04:35:00 title = Шоу Тома и Джерри
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 04:30:00 stop = 20/04/2018 05:00:00 title = Мультфильмы
-      Replaces ----- start = 20/04/2018 04:10:00 stop = 20/04/2018 04:35:00 title = Шоу Тома и Джерри
-      Replaces ----- start = 20/04/2018 04:35:00 stop = 20/04/2018 05:00:00 title = Шоу Тома и Джерри
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 05:00:00 stop = 20/04/2018 06:00:00 title = Орёл и решка. Шопинг
-      Replaces ----- start = 20/04/2018 05:00:00 stop = 20/04/2018 05:55:00 title = Орёл и решка. Шопинг
-      Replaces ----- start = 20/04/2018 05:55:00 stop = 20/04/2018 06:55:00 title = Орёл и решка. Шопинг
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 06:00:00 stop = 20/04/2018 06:50:00 title = Орёл и решка. Шопинг
-      Replaces ----- start = 20/04/2018 05:55:00 stop = 20/04/2018 06:55:00 title = Орёл и решка. Шопинг
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 06:50:00 stop = 20/04/2018 07:30:00 title = Школа доктора Комаровского
-      Replaces ----- start = 20/04/2018 05:55:00 stop = 20/04/2018 06:55:00 title = Орёл и решка. Шопинг
-      Replaces ----- start = 20/04/2018 06:55:00 stop = 20/04/2018 07:30:00 title = Школа доктора Комаровского
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 09:30:00 stop = 20/04/2018 10:30:00 title = Орёл и решка. Шопинг
-      Replaces ----- start = 20/04/2018 09:30:00 stop = 20/04/2018 10:00:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 10:00:00 stop = 20/04/2018 10:55:00 title = Орёл и решка. Шопинг
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 10:30:00 stop = 20/04/2018 11:30:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 10:00:00 stop = 20/04/2018 10:55:00 title = Орёл и решка. Шопинг
-      Replaces ----- start = 20/04/2018 10:55:00 stop = 20/04/2018 11:55:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 11:30:00 stop = 20/04/2018 12:30:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 10:55:00 stop = 20/04/2018 11:55:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 11:55:00 stop = 20/04/2018 12:50:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 12:30:00 stop = 20/04/2018 13:30:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 11:55:00 stop = 20/04/2018 12:50:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 12:50:00 stop = 20/04/2018 13:50:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 13:30:00 stop = 20/04/2018 14:30:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 12:50:00 stop = 20/04/2018 13:50:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 13:50:00 stop = 20/04/2018 14:45:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 14:30:00 stop = 20/04/2018 15:40:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 13:50:00 stop = 20/04/2018 14:45:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 14:45:00 stop = 20/04/2018 15:45:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 15:40:00 stop = 20/04/2018 16:40:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 14:45:00 stop = 20/04/2018 15:45:00 title = Орёл и решка
-      Replaces ----- start = 20/04/2018 15:45:00 stop = 20/04/2018 16:40:00 title = Орёл и решка
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 00:40:00 stop = 21/04/2018 03:00:00 title = Что скрывает ложь
-      Replaces ----- start = 21/04/2018 00:40:00 stop = 21/04/2018 03:15:00 title = Что скрывает ложь
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 03:00:00 stop = 21/04/2018 03:30:00 title = Пятница News
-      Replaces ----- start = 21/04/2018 00:40:00 stop = 21/04/2018 03:15:00 title = Что скрывает ложь
-      Replaces ----- start = 21/04/2018 03:15:00 stop = 21/04/2018 03:50:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 03:30:00 stop = 21/04/2018 05:00:00 title = Мультфильмы
-      Replaces ----- start = 21/04/2018 03:15:00 stop = 21/04/2018 03:50:00 title = Пятница News
-      Replaces ----- start = 21/04/2018 03:50:00 stop = 21/04/2018 04:15:00 title = Том и Джерри
-      Replaces ----- start = 21/04/2018 04:15:00 stop = 21/04/2018 04:45:00 title = Том и Джерри
-      Replaces ----- start = 21/04/2018 04:45:00 stop = 21/04/2018 05:00:00 title = Том и Джерри
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Первый
+Generic syntax exception:
+   message: 
+no index page data received from Первый
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Россия 1
+Generic syntax exception:
+   message: 
+no index page data received from Россия 1
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Россия 24
+Generic syntax exception:
+   message: 
+no index page data received from Россия 24
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel НТВ
+Generic syntax exception:
+   message: 
+no index page data received from НТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТНТ
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel СТС
+Generic syntax exception:
+   message: 
+no index page data received from СТС
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel РЕН ТВ
+Generic syntax exception:
+   message: 
+no index page data received from РЕН ТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТНТ4
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ4
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Че
+Generic syntax exception:
+   message: 
+no index page data received from Че
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТВ-3
+Generic syntax exception:
+   message: 
+no index page data received from ТВ-3
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТВ Центр
+Generic syntax exception:
+   message: 
+no index page data received from ТВ Центр
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Домашний
+Generic syntax exception:
+   message: 
+no index page data received from Домашний
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Пятница
+Generic syntax exception:
+   message: 
+no index page data received from Пятница
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Ю
+Generic syntax exception:
+   message: 
+no index page data received from Ю
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Звезда
+Generic syntax exception:
+   message: 
+no index page data received from Звезда
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel EuroNews
+Generic syntax exception:
+   message: 
+no index page data received from EuroNews
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel МИР
+Generic syntax exception:
+   message: 
+no index page data received from МИР
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel РБК
+Generic syntax exception:
+   message: 
+no index page data received from РБК
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Fashion TV
+Generic syntax exception:
+   message: 
+no index page data received from Fashion TV
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Ru.TV
+Generic syntax exception:
+   message: 
+no index page data received from Ru.TV
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel 1HD
+Generic syntax exception:
+   message: 
+no index page data received from 1HD
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel RT
+Generic syntax exception:
+   message: 
+no index page data received from RT
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel RTД
+Generic syntax exception:
+   message: 
+no index page data received from RTД
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Discovery Channel HD
+Generic syntax exception:
+   message: 
+no index page data received from Discovery Channel HD
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Discovery Science HD
+Generic syntax exception:
+   message: 
+no index page data received from Discovery Science HD
+unable to update channel, try again later
+Existing guide data restored!
+(   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiii..........................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 01:30:00 stop = 22/04/2018 02:30:00 title = The Z Team
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 02:30:00 stop = 22/04/2018 03:00:00 title = Strangest Moments
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 03:00:00 stop = 22/04/2018 05:30:00 title = Kielce vs PSG
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 05:30:00 stop = 22/04/2018 06:00:00 title = Legends Live On
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 06:00:00 stop = 22/04/2018 07:00:00 title = Asian Games
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 07:00:00 stop = 22/04/2018 07:30:00 title = The Games through a Lens part 1
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 07:30:00 stop = 22/04/2018 08:00:00 title = Core Cambodia's Search For Glory
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 08:00:00 stop = 22/04/2018 09:00:00 title = Transform My Meal
+      Replaces ----- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 09:00:00 stop = 22/04/2018 09:30:00 title = Olympics Today
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 09:30:00 stop = 22/04/2018 10:30:00 title = The Z Team
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 10:30:00 stop = 22/04/2018 11:00:00 title = Strangest Moments
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 11:00:00 stop = 22/04/2018 12:30:00 title = Kielce vs PSG
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 12:30:00 stop = 22/04/2018 14:00:00 title = Flensburg vs Montpellier
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 14:00:00 stop = 22/04/2018 15:00:00 title = Asian Games
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 15:00:00 stop = 22/04/2018 15:05:00 title = The Games through a Lens part 1
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 15:05:00 stop = 22/04/2018 15:30:00 title = Cycling
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 15:30:00 stop = 22/04/2018 16:00:00 title = Core Cambodia's Search For Glory
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 16:00:00 stop = 22/04/2018 17:00:00 title = Transform My Meal
+      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 17:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 17:00:00 stop = 22/04/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 22/04/2018 17:00:00 stop = 22/04/2018 18:00:00 title = Olympics Today
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 22/04/2018 17:30:00 stop = 22/04/2018 18:00:00 title = The Legend of Hicham El Guerrouj
+      Replaces ----- start = 22/04/2018 17:00:00 stop = 22/04/2018 18:00:00 title = Olympics Today
 .c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 21/04/2018 05:10:00 stop = 21/04/2018 06:00:00 title = Орёл и решка
-      Replaces ----- start = 21/04/2018 05:10:00 stop = 21/04/2018 05:55:00 title = Орёл и решка
-      Replaces ----- start = 21/04/2018 05:55:00 stop = 21/04/2018 06:45:00 title = Орёл и решка
+      show with ---- start = 22/04/2018 20:00:00 stop = 22/04/2018 21:45:00 title = Nantes vs Skjern
+      Replaces ----- start = 22/04/2018 20:00:00 stop = 23/04/2018 01:00:00 title = Nantes vs Skjern
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 21/04/2018 06:00:00 stop = 21/04/2018 06:50:00 title = Орёл и решка
-      Replaces ----- start = 21/04/2018 05:55:00 stop = 21/04/2018 06:45:00 title = Орёл и решка
-      Replaces ----- start = 21/04/2018 06:45:00 stop = 21/04/2018 07:15:00 title = Школа доктора Комаровского
+      show with ---- start = 22/04/2018 21:45:00 stop = 22/04/2018 22:15:00 title = Flame Catchers
+      Replaces ----- start = 22/04/2018 20:00:00 stop = 23/04/2018 01:00:00 title = Nantes vs Skjern
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 21/04/2018 06:50:00 stop = 21/04/2018 07:20:00 title = Школа доктора Комаровского
-      Replaces ----- start = 21/04/2018 06:45:00 stop = 21/04/2018 07:15:00 title = Школа доктора Комаровского
-      Replaces ----- start = 21/04/2018 07:15:00 stop = 21/04/2018 08:00:00 title = Школа доктора Комаровского
+      show with ---- start = 22/04/2018 22:15:00 stop = 23/04/2018 01:00:00 title = Cycling Paris
+      Replaces ----- start = 22/04/2018 20:00:00 stop = 23/04/2018 01:00:00 title = Nantes vs Skjern
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 21/04/2018 07:20:00 stop = 21/04/2018 08:00:00 title = Школа доктора Комаровского
-      Replaces ----- start = 21/04/2018 07:15:00 stop = 21/04/2018 08:00:00 title = Школа доктора Комаровского
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 15:50:00 stop = 21/04/2018 17:00:00 title = Орёл и решка
-      Replaces ----- start = 21/04/2018 15:50:00 stop = 21/04/2018 16:50:00 title = Орёл и решка
-      Replaces ----- start = 21/04/2018 16:50:00 stop = 21/04/2018 19:00:00 title = Голос монстра
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 17:00:00 stop = 21/04/2018 19:00:00 title = Шерлок
-      Replaces ----- start = 21/04/2018 16:50:00 stop = 21/04/2018 19:00:00 title = Голос монстра
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 22:50:00 stop = 22/04/2018 00:40:00 title = Шерлок
-      Replaces ----- start = 21/04/2018 22:50:00 stop = 22/04/2018 00:45:00 title = Шерлок
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 00:40:00 stop = 22/04/2018 02:30:00 title = Шерлок
-      Replaces ----- start = 21/04/2018 22:50:00 stop = 22/04/2018 00:45:00 title = Шерлок
-      Replaces ----- start = 22/04/2018 00:45:00 stop = 22/04/2018 02:35:00 title = Шерлок
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 02:30:00 stop = 22/04/2018 03:00:00 title = Пятница News
-      Replaces ----- start = 22/04/2018 00:45:00 stop = 22/04/2018 02:35:00 title = Шерлок
-      Replaces ----- start = 22/04/2018 02:35:00 stop = 22/04/2018 03:10:00 title = Пятница News
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 03:00:00 stop = 22/04/2018 04:00:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 02:35:00 stop = 22/04/2018 03:10:00 title = Пятница News
-      Replaces ----- start = 22/04/2018 03:10:00 stop = 22/04/2018 03:55:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 03:55:00 stop = 22/04/2018 04:45:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 04:00:00 stop = 22/04/2018 04:50:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 03:55:00 stop = 22/04/2018 04:45:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 04:45:00 stop = 22/04/2018 05:00:00 title = Том и Джерри
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 04:50:00 stop = 22/04/2018 05:00:00 title = Мультфильмы
-      Replaces ----- start = 22/04/2018 04:45:00 stop = 22/04/2018 05:00:00 title = Том и Джерри
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 05:00:00 stop = 22/04/2018 06:00:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 05:00:00 stop = 22/04/2018 05:55:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 05:55:00 stop = 22/04/2018 06:50:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 06:00:00 stop = 22/04/2018 07:20:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 05:55:00 stop = 22/04/2018 06:50:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 06:50:00 stop = 22/04/2018 07:30:00 title = Школа доктора Комаровского
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 07:20:00 stop = 22/04/2018 08:00:00 title = Школа доктора Комаровского
-      Replaces ----- start = 22/04/2018 06:50:00 stop = 22/04/2018 07:30:00 title = Школа доктора Комаровского
-      Replaces ----- start = 22/04/2018 07:30:00 stop = 22/04/2018 08:00:00 title = Школа доктора Комаровского
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 08:00:00 stop = 22/04/2018 08:30:00 title = Генеральная уборка
-      Replaces ----- start = 22/04/2018 08:00:00 stop = 22/04/2018 09:00:00 title = Мейкаперы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 08:30:00 stop = 22/04/2018 09:30:00 title = Мейкаперы
-      Replaces ----- start = 22/04/2018 08:00:00 stop = 22/04/2018 09:00:00 title = Мейкаперы
-      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 10:00:00 title = Мейкаперы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 09:30:00 stop = 22/04/2018 10:30:00 title = Мейкаперы
-      Replaces ----- start = 22/04/2018 09:00:00 stop = 22/04/2018 10:00:00 title = Мейкаперы
-      Replaces ----- start = 22/04/2018 10:00:00 stop = 22/04/2018 11:00:00 title = Близнецы
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 10:30:00 stop = 22/04/2018 11:30:00 title = Близнецы
-      Replaces ----- start = 22/04/2018 10:00:00 stop = 22/04/2018 11:00:00 title = Близнецы
-      Replaces ----- start = 22/04/2018 11:00:00 stop = 22/04/2018 11:30:00 title = Генеральная уборка
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 12:30:00 stop = 22/04/2018 13:30:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 12:30:00 stop = 22/04/2018 13:25:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 13:25:00 stop = 22/04/2018 14:30:00 title = Орёл и решка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 13:30:00 stop = 22/04/2018 14:30:00 title = Орёл и решка
-      Replaces ----- start = 22/04/2018 13:25:00 stop = 22/04/2018 14:30:00 title = Орёл и решка
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 22:50:00 stop = 23/04/2018 00:40:00 title = Голос улиц
-      Replaces ----- start = 22/04/2018 22:50:00 stop = 23/04/2018 00:50:00 title = Голос улиц
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 00:40:00 stop = 23/04/2018 03:00:00 title = Что скрывает ложь
-      Replaces ----- start = 22/04/2018 22:50:00 stop = 23/04/2018 00:50:00 title = Голос улиц
-      Replaces ----- start = 23/04/2018 00:50:00 stop = 23/04/2018 03:00:00 title = Голос монстра
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 03:00:00 stop = 23/04/2018 04:00:00 title = Верю-не верю
-      Replaces ----- start = 23/04/2018 03:00:00 stop = 23/04/2018 03:55:00 title = Верю-не верю
-      Replaces ----- start = 23/04/2018 03:55:00 stop = 23/04/2018 04:50:00 title = Верю-не верю. Фильм о фильме
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 04:00:00 stop = 23/04/2018 05:00:00 title = «Верю-не верю». Фильм о фильме
-      Replaces ----- start = 23/04/2018 03:55:00 stop = 23/04/2018 04:50:00 title = Верю-не верю. Фильм о фильме
-      Replaces ----- start = 23/04/2018 04:50:00 stop = 23/04/2018 05:00:00 title = Том и Джерри
-...................................................................nnnnnnnnnn
-
-(  17/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii...................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 11:00:00 stop = 22/04/2018 11:55:00 title = Миллионер на выданье
-      Replaces ----- start = 22/04/2018 11:00:00 stop = 22/04/2018 12:50:00 title = Реальный папа
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 11:55:00 stop = 22/04/2018 12:55:00 title = Миллионер на выданье
-      Replaces ----- start = 22/04/2018 11:00:00 stop = 22/04/2018 12:50:00 title = Реальный папа
-      Replaces ----- start = 22/04/2018 12:50:00 stop = 22/04/2018 13:45:00 title = Миллионер на выданье
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 12:55:00 stop = 22/04/2018 15:00:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 12:50:00 stop = 22/04/2018 13:45:00 title = Миллионер на выданье
-      Replaces ----- start = 22/04/2018 13:45:00 stop = 22/04/2018 14:45:00 title = Миллионер на выданье
-      Replaces ----- start = 22/04/2018 14:45:00 stop = 22/04/2018 16:40:00 title = Папа попал
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 15:00:00 stop = 22/04/2018 17:40:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 14:45:00 stop = 22/04/2018 16:40:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 16:40:00 stop = 22/04/2018 19:25:00 title = Папа попал
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 17:40:00 stop = 22/04/2018 19:35:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 16:40:00 stop = 22/04/2018 19:25:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 19:25:00 stop = 22/04/2018 21:25:00 title = Папа попал
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 19:35:00 stop = 22/04/2018 22:10:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 19:25:00 stop = 22/04/2018 21:25:00 title = Папа попал
-      Replaces ----- start = 22/04/2018 21:25:00 stop = 23/04/2018 00:00:00 title = Папа попал
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 22:10:00 stop = 23/04/2018 00:00:00 title = Реальный папа
-      Replaces ----- start = 22/04/2018 21:25:00 stop = 23/04/2018 00:00:00 title = Папа попал
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 05:30:00 stop = 23/04/2018 05:55:00 title = Самые плохие татуировки в Америке
-      Replaces ----- start = 23/04/2018 05:30:00 stop = 23/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 05:55:00 stop = 23/04/2018 06:25:00 title = Кошмарные татуировки
-      Replaces ----- start = 23/04/2018 05:30:00 stop = 23/04/2018 06:25:00 title = Кошмарные татуировки
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 06:50:00 stop = 23/04/2018 07:35:00 title = Лучший повар Америки
-      Replaces ----- start = 23/04/2018 06:50:00 stop = 23/04/2018 08:30:00 title = Лучший повар Америки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 07:35:00 stop = 23/04/2018 08:30:00 title = Лучший повар Америки
-      Replaces ----- start = 23/04/2018 06:50:00 stop = 23/04/2018 08:30:00 title = Лучший повар Америки
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 13:30:00 stop = 23/04/2018 14:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 23/04/2018 13:30:00 stop = 23/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 14:30:00 stop = 23/04/2018 15:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 23/04/2018 13:30:00 stop = 23/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 15:30:00 stop = 23/04/2018 16:30:00 title = Женись на мне
-      Replaces ----- start = 23/04/2018 15:30:00 stop = 23/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 16:30:00 stop = 23/04/2018 17:25:00 title = Женись на мне
-      Replaces ----- start = 23/04/2018 15:30:00 stop = 23/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 17:25:00 stop = 23/04/2018 18:25:00 title = Обмен жёнами
-      Replaces ----- start = 23/04/2018 17:25:00 stop = 23/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 18:25:00 stop = 23/04/2018 19:30:00 title = Обмен жёнами
-      Replaces ----- start = 23/04/2018 17:25:00 stop = 23/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 19:30:00 stop = 23/04/2018 20:20:00 title = Дикий ангел
-      Replaces ----- start = 23/04/2018 19:30:00 stop = 23/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 20:20:00 stop = 23/04/2018 21:05:00 title = Дикий ангел
-      Replaces ----- start = 23/04/2018 19:30:00 stop = 23/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 21:05:00 stop = 23/04/2018 23:00:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 23/04/2018 21:05:00 stop = 24/04/2018 00:50:00 title = Я стесняюсь своего тела
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/04/2018 23:00:00 stop = 24/04/2018 00:50:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 23/04/2018 21:05:00 stop = 24/04/2018 00:50:00 title = Я стесняюсь своего тела
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 02:15:00 stop = 24/04/2018 03:05:00 title = Мыслить как преступник
-      Replaces ----- start = 24/04/2018 02:15:00 stop = 24/04/2018 04:00:00 title = Мыслить как преступник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 03:05:00 stop = 24/04/2018 03:55:00 title = Мыслить как преступник
-      Replaces ----- start = 24/04/2018 02:15:00 stop = 24/04/2018 04:00:00 title = Мыслить как преступник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 03:55:00 stop = 24/04/2018 04:20:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 02:15:00 stop = 24/04/2018 04:00:00 title = Мыслить как преступник
-      Replaces ----- start = 24/04/2018 04:00:00 stop = 24/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 04:20:00 stop = 24/04/2018 04:40:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 04:00:00 stop = 24/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 04:40:00 stop = 24/04/2018 05:05:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 04:00:00 stop = 24/04/2018 05:00:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 05:00:00 stop = 24/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 05:05:00 stop = 24/04/2018 05:30:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 05:00:00 stop = 24/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 05:30:00 stop = 24/04/2018 05:55:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 05:00:00 stop = 24/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 05:55:00 stop = 24/04/2018 06:25:00 title = Кошмарные татуировки
-      Replaces ----- start = 24/04/2018 05:00:00 stop = 24/04/2018 06:25:00 title = Кошмарные татуировки
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 06:50:00 stop = 24/04/2018 07:35:00 title = Лучший повар Америки
-      Replaces ----- start = 24/04/2018 06:50:00 stop = 24/04/2018 08:30:00 title = Лучший повар Америки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 07:35:00 stop = 24/04/2018 08:30:00 title = Лучший повар Америки
-      Replaces ----- start = 24/04/2018 06:50:00 stop = 24/04/2018 08:30:00 title = Лучший повар Америки
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 09:00:00 stop = 24/04/2018 09:50:00 title = Папа попал
-      Replaces ----- start = 24/04/2018 09:00:00 stop = 24/04/2018 11:35:00 title = Папа попал
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 09:50:00 stop = 24/04/2018 11:35:00 title = Папа попал
-      Replaces ----- start = 24/04/2018 09:00:00 stop = 24/04/2018 11:35:00 title = Папа попал
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 13:30:00 stop = 24/04/2018 14:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 24/04/2018 13:30:00 stop = 24/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 14:30:00 stop = 24/04/2018 15:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 24/04/2018 13:30:00 stop = 24/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 15:30:00 stop = 24/04/2018 16:30:00 title = Женись на мне
-      Replaces ----- start = 24/04/2018 15:30:00 stop = 24/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 16:30:00 stop = 24/04/2018 17:25:00 title = Женись на мне
-      Replaces ----- start = 24/04/2018 15:30:00 stop = 24/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 17:25:00 stop = 24/04/2018 18:25:00 title = Обмен жёнами
-      Replaces ----- start = 24/04/2018 17:25:00 stop = 24/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 18:25:00 stop = 24/04/2018 19:30:00 title = Обмен жёнами
-      Replaces ----- start = 24/04/2018 17:25:00 stop = 24/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 19:30:00 stop = 24/04/2018 20:20:00 title = Дикий ангел
-      Replaces ----- start = 24/04/2018 19:30:00 stop = 24/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 20:20:00 stop = 24/04/2018 21:05:00 title = Дикий ангел
-      Replaces ----- start = 24/04/2018 19:30:00 stop = 24/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 21:05:00 stop = 24/04/2018 23:00:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 24/04/2018 21:05:00 stop = 25/04/2018 00:50:00 title = Я стесняюсь своего тела
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/04/2018 23:00:00 stop = 25/04/2018 00:50:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 24/04/2018 21:05:00 stop = 25/04/2018 00:50:00 title = Я стесняюсь своего тела
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 02:15:00 stop = 25/04/2018 03:05:00 title = Мыслить как преступник
-      Replaces ----- start = 25/04/2018 02:15:00 stop = 25/04/2018 04:00:00 title = Мыслить как преступник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 03:05:00 stop = 25/04/2018 03:55:00 title = Мыслить как преступник
-      Replaces ----- start = 25/04/2018 02:15:00 stop = 25/04/2018 04:00:00 title = Мыслить как преступник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 03:55:00 stop = 25/04/2018 04:20:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 02:15:00 stop = 25/04/2018 04:00:00 title = Мыслить как преступник
-      Replaces ----- start = 25/04/2018 04:00:00 stop = 25/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 04:20:00 stop = 25/04/2018 04:40:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 04:00:00 stop = 25/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 04:40:00 stop = 25/04/2018 05:05:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 04:00:00 stop = 25/04/2018 05:00:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 05:00:00 stop = 25/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 05:05:00 stop = 25/04/2018 05:30:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 05:00:00 stop = 25/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 05:30:00 stop = 25/04/2018 05:55:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 05:00:00 stop = 25/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 05:55:00 stop = 25/04/2018 06:25:00 title = Кошмарные татуировки
-      Replaces ----- start = 25/04/2018 05:00:00 stop = 25/04/2018 06:25:00 title = Кошмарные татуировки
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 06:50:00 stop = 25/04/2018 07:40:00 title = Лучший повар Америки
-      Replaces ----- start = 25/04/2018 06:50:00 stop = 25/04/2018 08:30:00 title = Лучший повар Америки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 07:40:00 stop = 25/04/2018 08:30:00 title = Лучший повар Америки
-      Replaces ----- start = 25/04/2018 06:50:00 stop = 25/04/2018 08:30:00 title = Лучший повар Америки
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 13:30:00 stop = 25/04/2018 14:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 25/04/2018 13:30:00 stop = 25/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 14:30:00 stop = 25/04/2018 15:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 25/04/2018 13:30:00 stop = 25/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 15:30:00 stop = 25/04/2018 16:30:00 title = Женись на мне
-      Replaces ----- start = 25/04/2018 15:30:00 stop = 25/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 16:30:00 stop = 25/04/2018 17:25:00 title = Женись на мне
-      Replaces ----- start = 25/04/2018 15:30:00 stop = 25/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 17:25:00 stop = 25/04/2018 18:25:00 title = Обмен жёнами
-      Replaces ----- start = 25/04/2018 17:25:00 stop = 25/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 18:25:00 stop = 25/04/2018 19:30:00 title = Обмен жёнами
-      Replaces ----- start = 25/04/2018 17:25:00 stop = 25/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 19:30:00 stop = 25/04/2018 20:20:00 title = Дикий ангел
-      Replaces ----- start = 25/04/2018 19:30:00 stop = 25/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 20:20:00 stop = 25/04/2018 21:05:00 title = Дикий ангел
-      Replaces ----- start = 25/04/2018 19:30:00 stop = 25/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 21:05:00 stop = 25/04/2018 23:00:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 25/04/2018 21:05:00 stop = 26/04/2018 01:20:00 title = Я стесняюсь своего тела
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/04/2018 23:00:00 stop = 26/04/2018 01:20:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 25/04/2018 21:05:00 stop = 26/04/2018 01:20:00 title = Я стесняюсь своего тела
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 01:50:00 stop = 26/04/2018 02:35:00 title = Мыслить как преступник
-      Replaces ----- start = 26/04/2018 01:50:00 stop = 26/04/2018 03:35:00 title = Мыслить как преступник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 02:35:00 stop = 26/04/2018 03:30:00 title = Мыслить как преступник
-      Replaces ----- start = 26/04/2018 01:50:00 stop = 26/04/2018 03:35:00 title = Мыслить как преступник
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 03:30:00 stop = 26/04/2018 04:00:00 title = Самые плохие татуировки в Америке
-      Replaces ----- start = 26/04/2018 01:50:00 stop = 26/04/2018 03:35:00 title = Мыслить как преступник
-      Replaces ----- start = 26/04/2018 03:35:00 stop = 26/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 04:00:00 stop = 26/04/2018 04:20:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 03:35:00 stop = 26/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 04:20:00 stop = 26/04/2018 04:45:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 03:35:00 stop = 26/04/2018 05:00:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 04:45:00 stop = 26/04/2018 05:05:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 03:35:00 stop = 26/04/2018 05:00:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 05:00:00 stop = 26/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 05:05:00 stop = 26/04/2018 05:30:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 05:00:00 stop = 26/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 05:30:00 stop = 26/04/2018 06:00:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 05:00:00 stop = 26/04/2018 06:25:00 title = Кошмарные татуировки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 06:00:00 stop = 26/04/2018 06:25:00 title = Кошмарные татуировки
-      Replaces ----- start = 26/04/2018 05:00:00 stop = 26/04/2018 06:25:00 title = Кошмарные татуировки
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 06:50:00 stop = 26/04/2018 07:40:00 title = Лучший повар Америки
-      Replaces ----- start = 26/04/2018 06:50:00 stop = 26/04/2018 08:30:00 title = Лучший повар Америки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 07:40:00 stop = 26/04/2018 08:30:00 title = Лучший повар Америки
-      Replaces ----- start = 26/04/2018 06:50:00 stop = 26/04/2018 08:30:00 title = Лучший повар Америки
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 13:30:00 stop = 26/04/2018 14:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 26/04/2018 13:30:00 stop = 26/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 14:30:00 stop = 26/04/2018 15:30:00 title = Моя свекровь-монстр
-      Replaces ----- start = 26/04/2018 13:30:00 stop = 26/04/2018 15:30:00 title = Моя свекровь-монстр
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 15:30:00 stop = 26/04/2018 16:30:00 title = Женись на мне
-      Replaces ----- start = 26/04/2018 15:30:00 stop = 26/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 16:30:00 stop = 26/04/2018 17:25:00 title = Женись на мне
-      Replaces ----- start = 26/04/2018 15:30:00 stop = 26/04/2018 17:25:00 title = Женись на мне
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 17:25:00 stop = 26/04/2018 18:25:00 title = Обмен жёнами
-      Replaces ----- start = 26/04/2018 17:25:00 stop = 26/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 18:25:00 stop = 26/04/2018 19:30:00 title = Обмен жёнами
-      Replaces ----- start = 26/04/2018 17:25:00 stop = 26/04/2018 19:30:00 title = Обмен жёнами
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 19:30:00 stop = 26/04/2018 20:20:00 title = Дикий ангел
-      Replaces ----- start = 26/04/2018 19:30:00 stop = 26/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 20:20:00 stop = 26/04/2018 21:05:00 title = Дикий ангел
-      Replaces ----- start = 26/04/2018 19:30:00 stop = 26/04/2018 21:05:00 title = Дикий ангел
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 21:05:00 stop = 26/04/2018 23:30:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 26/04/2018 21:05:00 stop = 27/04/2018 01:20:00 title = Я стесняюсь своего тела
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/04/2018 23:30:00 stop = 27/04/2018 01:15:00 title = Я стесняюсь своего тела
-      Replaces ----- start = 26/04/2018 21:05:00 stop = 27/04/2018 01:20:00 title = Я стесняюсь своего тела
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 01:15:00 stop = 27/04/2018 01:50:00 title = В теме
-      Replaces ----- start = 26/04/2018 21:05:00 stop = 27/04/2018 01:20:00 title = Я стесняюсь своего тела
-nnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  18/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii...................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 09:15:00 stop = 21/04/2018 09:40:00 title = Легенды музыки
-      Replaces ----- start = 21/04/2018 09:15:00 stop = 21/04/2018 09:42:00 title = Легенды музыки
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 09:40:00 stop = 21/04/2018 10:29:00 title = Последний день
-      Replaces ----- start = 21/04/2018 09:15:00 stop = 21/04/2018 09:42:00 title = Легенды музыки
-      Replaces ----- start = 21/04/2018 09:42:00 stop = 21/04/2018 10:29:00 title = Последний день
-............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 10:47:00 stop = 22/04/2018 12:00:00 title = Политический детектив
-      Replaces ----- start = 22/04/2018 10:47:00 stop = 22/04/2018 11:09:00 title = Политический детектив
-      Replaces ----- start = 22/04/2018 11:09:00 stop = 22/04/2018 12:00:00 title = Код доступа
-......................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  19/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
-iiiiiiii....................................................................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  21/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  22/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
-iiiiiiii........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................n
-error downloading page: Error getting response stream (ReadDone2): ReceiveFailure
-pausing 1 of 4 times for 5 seconds before re-try.
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  23/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
-iiiiiiii..............................................................................................................................................nnnnnnnnnnnnnnnnnnnn
-
-(  24/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
-iiiiiiii...............................................................................................................................................
-
-(  25/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  26/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
-iiiiiiii..............................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 21:30:00 stop = 20/04/2018 22:00:00 title = Наркокоролевы Бразилии
-      Replaces ----- start = 20/04/2018 21:30:00 stop = 20/04/2018 22:00:00 title = Долгая дорога в школу
-....................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  27/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
-iiiiiiii...............................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 18:00:00 stop = 21/04/2018 18:30:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 18:00:00 stop = 21/04/2018 19:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 18:30:00 stop = 21/04/2018 19:00:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 18:00:00 stop = 21/04/2018 19:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 19:00:00 stop = 21/04/2018 19:30:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 19:00:00 stop = 21/04/2018 20:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 19:30:00 stop = 21/04/2018 20:00:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 19:00:00 stop = 21/04/2018 20:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 20:00:00 stop = 21/04/2018 20:30:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 20:00:00 stop = 21/04/2018 21:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 20:30:00 stop = 21/04/2018 21:00:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 20:00:00 stop = 21/04/2018 21:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 21:00:00 stop = 21/04/2018 21:30:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 21:00:00 stop = 21/04/2018 22:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 21:30:00 stop = 21/04/2018 22:00:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 21:00:00 stop = 21/04/2018 22:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 22:00:00 stop = 21/04/2018 22:30:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 22:00:00 stop = 21/04/2018 23:00:00 title = Золотая лихорадка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 22:30:00 stop = 21/04/2018 23:00:00 title = Сделано из вторсырья
-      Replaces ----- start = 21/04/2018 22:00:00 stop = 21/04/2018 23:00:00 title = Золотая лихорадка
-.........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 16:00:00 stop = 22/04/2018 17:00:00 title = Ржавая империя
-      Replaces ----- start = 22/04/2018 16:00:00 stop = 22/04/2018 16:30:00 title = Сколько стоит моя машина?
-      Replaces ----- start = 22/04/2018 16:30:00 stop = 22/04/2018 17:00:00 title = В погоне за классикой
-......................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  28/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
-iiiiiiii..........................................................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 18:40:00 stop = 22/04/2018 19:00:00 title = Как это устроено?
-      Replaces ----- start = 22/04/2018 18:40:00 stop = 22/04/2018 19:00:00 title = Как построить... что угодно
-......................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(  29/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 02:15:00 stop = 20/04/2018 04:00:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-      Replaces ----- start = 20/04/2018 02:15:00 stop = 20/04/2018 04:40:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 04:00:00 stop = 20/04/2018 04:40:00 title = Hitting The Wall
-      Replaces ----- start = 20/04/2018 02:15:00 stop = 20/04/2018 04:40:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 06:30:00 stop = 20/04/2018 08:30:00 title = Fenerbahce vs Baskonia Vitoria
-      Replaces ----- start = 20/04/2018 06:30:00 stop = 20/04/2018 09:00:00 title = Fenerbahce vs Baskonia Vitoria
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 08:30:00 stop = 20/04/2018 09:00:00 title = Olympics Documentary Arab Taekwondo Team Olympic Results
-      Replaces ----- start = 20/04/2018 06:30:00 stop = 20/04/2018 09:00:00 title = Fenerbahce vs Baskonia Vitoria
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 09:30:00 stop = 20/04/2018 11:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-      Replaces ----- start = 20/04/2018 09:30:00 stop = 20/04/2018 12:00:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 11:30:00 stop = 20/04/2018 12:00:00 title = HISTORY OF FOOTBALL IN OLYMPICS
-      Replaces ----- start = 20/04/2018 09:30:00 stop = 20/04/2018 12:00:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 14:30:00 stop = 20/04/2018 16:30:00 title = Fenerbahce vs Baskonia Vitoria
-      Replaces ----- start = 20/04/2018 14:30:00 stop = 20/04/2018 17:00:00 title = Fenerbahce vs Baskonia Vitoria
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 16:30:00 stop = 20/04/2018 17:00:00 title = Yousef El Mealem
-      Replaces ----- start = 20/04/2018 14:30:00 stop = 20/04/2018 17:00:00 title = Fenerbahce vs Baskonia Vitoria
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 20:45:00 stop = 20/04/2018 23:00:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
-      Replaces ----- start = 20/04/2018 20:45:00 stop = 20/04/2018 23:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 20/04/2018 23:00:00 stop = 21/04/2018 00:00:00 title = The Olympic Series The story of Women at the Games,Changing Times Vol.5
-      Replaces ----- start = 20/04/2018 20:45:00 stop = 20/04/2018 23:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
-      Replaces ----- start = 20/04/2018 23:30:00 stop = 21/04/2018 01:00:00 title = Strangest Moments
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 00:00:00 stop = 21/04/2018 00:30:00 title = Heroes of the Future
-      Replaces ----- start = 20/04/2018 23:30:00 stop = 21/04/2018 01:00:00 title = Strangest Moments
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 00:30:00 stop = 21/04/2018 01:00:00 title = The Games through a Lens part 2
-      Replaces ----- start = 20/04/2018 23:30:00 stop = 21/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 01:00:00 stop = 21/04/2018 01:30:00 title = Olympics Today
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 01:30:00 stop = 21/04/2018 02:30:00 title = A Game for Two
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 02:30:00 stop = 21/04/2018 04:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 04:30:00 stop = 21/04/2018 06:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 06:30:00 stop = 21/04/2018 07:00:00 title = Strangest Moments
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 07:00:00 stop = 21/04/2018 08:30:00 title = Gyori vs Buducnost
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 08:30:00 stop = 21/04/2018 09:00:00 title = The Games through a Lens part 2
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 09:00:00 stop = 21/04/2018 09:30:00 title = Olympics Today
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 09:30:00 stop = 21/04/2018 10:30:00 title = A Game for Two
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 10:30:00 stop = 21/04/2018 12:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 12:30:00 stop = 21/04/2018 14:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 14:30:00 stop = 21/04/2018 15:00:00 title = Strangest Moments
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 15:00:00 stop = 21/04/2018 16:30:00 title = Gyori vs Buducnost
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 16:30:00 stop = 21/04/2018 17:00:00 title = The Games through a Lens part 2
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 17:00:00 stop = 21/04/2018 17:30:00 title = Olympics Today
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 17:30:00 stop = 21/04/2018 18:30:00 title = The Z Team
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 18:30:00 stop = 21/04/2018 19:00:00 title = Strangest Moments
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 19:00:00 stop = 21/04/2018 21:30:00 title = Kielce vs PSG
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 21:30:00 stop = 21/04/2018 22:00:00 title = Legends Live On
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 22:00:00 stop = 21/04/2018 23:00:00 title = Asian Games
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 21/04/2018 23:00:00 stop = 21/04/2018 23:30:00 title = The Games through a Lens part 1
-      Added before - start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 21/04/2018 23:30:00 stop = 22/04/2018 00:00:00 title = Core Cambodia's Search For Glory
-      Replaces ----- start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 00:00:00 stop = 22/04/2018 01:00:00 title = Transform My Meal
-      Replaces ----- start = 21/04/2018 23:30:00 stop = 22/04/2018 01:00:00 title = Strangest Moments
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 01:00:00 stop = 22/04/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 22/04/2018 01:00:00 stop = 22/04/2018 02:15:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 01:30:00 stop = 22/04/2018 09:00:00 title = The Z Team
-      Replaces ----- start = 22/04/2018 01:00:00 stop = 22/04/2018 02:15:00 title = Olympics Today
-      Replaces ----- start = 22/04/2018 02:15:00 stop = 22/04/2018 09:00:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 17:00:00 stop = 22/04/2018 18:00:00 title = Olympics Today
-      Replaces ----- start = 22/04/2018 17:00:00 stop = 22/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 18:00:00 stop = 22/04/2018 20:00:00 title = Kiel vs Vardar
-      Replaces ----- start = 22/04/2018 17:00:00 stop = 22/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 22/04/2018 20:00:00 stop = 23/04/2018 01:00:00 title = Nantes vs Skjern
-      Replaces ----- start = 22/04/2018 17:00:00 stop = 22/04/2018 23:59:00 title = Olympics Today
+      show with ---- start = 23/04/2018 22:15:00 stop = 24/04/2018 01:00:00 title = Cycling Paris
+      Replaces ----- start = 23/04/2018 17:00:00 stop = 23/04/2018 23:59:00 title = Olympics Today
 nnnn
 
    Summary for update of       OlympicChannel
-     missing shows added       21
-     changed shows updated     19
+     missing shows added       0
+     changed shows updated     24
      new shows added           4
-     unchanged shows inspected 10
-     total after update        57
+     unchanged shows inspected 27
+     total after update        61
 
 
 
-Job finished at 20/04/2018 03:17:24 done in 17m 12s
+Job finished at 21/04/2018 03:24:57 done in 24m 38s
