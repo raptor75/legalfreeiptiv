@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 24/04/2018 03:00:09
+Job started at 25/04/2018 03:00:09
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-in......c................cc.c..cc......c................cc.c..cc......c................cc.c..cc......c................cc.c..cc......c................cc.c..cc......c................cc.c..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+icccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-ic....cc..ccccccgcccccccccccgcgc..cc....cc..ccccccgcccccccccccgcgc..cc....cc..ccccccgcccccccccccgcgc..cc....cc..ccccccgcccccccccccgcgc..cc....cc..ccccccgcccccccccccgcgc..cc....cc..ccccccgcccccccccccgcgc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i....cc.c.ccccccccccccccccccccc....cc.c.ccccccccccccccccccccc....cc.c.ccccccccccccccccccccc....cc.c.ccccccccccccccccccccc....cc.c.ccccccccccccccccccccc....cc.cgcccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i........c.....c.c.cc.........c.....c.c.cc.........c.....c.c.cc.........c.....c.c.cc.........c.....c.c.cc.........c.....c.c.ccnnnnnnnnnnnnnnnnnnnnn
+iccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 i
@@ -562,65 +562,148 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiinnnnnnnnnnnnnnnc
+iiiiiii.c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/04/2018 15:31:00 stop = 24/04/2018 17:01:00 title = Kiel vs Vardar
-      Replaces ----- start = 24/04/2018 17:00:00 stop = 24/04/2018 17:00:00 title = Olympics Today
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 17:01:00 stop = 24/04/2018 17:30:00 title = Olympics Today
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 17:30:00 stop = 24/04/2018 18:45:00 title = The Nagano Tapes
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 18:45:00 stop = 24/04/2018 19:16:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 19:16:00 stop = 24/04/2018 20:00:00 title = Camps to Champs
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 20:00:00 stop = 24/04/2018 22:30:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 22:30:00 stop = 24/04/2018 23:00:00 title = The Olympic Series
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 24/04/2018 23:00:00 stop = 24/04/2018 23:30:00 title = Coming of Age
-      Added before - start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
+      show with ---- start = 25/04/2018 01:30:00 stop = 25/04/2018 02:45:00 title = The Nagano Tapes
+      Replaces ----- start = 25/04/2018 01:30:00 stop = 25/04/2018 02:30:00 title = The Olympic Series Road to glory
+      Replaces ----- start = 25/04/2018 02:30:00 stop = 25/04/2018 04:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Croatia vs France
-      Replaces ----- start = 24/04/2018 23:30:00 stop = 25/04/2018 01:00:00 title = Kiel vs Vardar
+      show with ---- start = 25/04/2018 02:45:00 stop = 25/04/2018 03:15:00 title = The Games of your Life  15th Asian Games, Doha 2006
+      Replaces ----- start = 25/04/2018 02:30:00 stop = 25/04/2018 04:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 25/04/2018 23:30:00 stop = 26/04/2018 01:00:00 title = Croatia vs France
-      Replaces ----- start = 25/04/2018 23:30:00 stop = 25/04/2018 23:59:00 title = Croatia vs France
-nnnnnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 25/04/2018 03:15:00 stop = 25/04/2018 04:00:00 title = Camps to Champs
+      Replaces ----- start = 25/04/2018 02:30:00 stop = 25/04/2018 04:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 04:00:00 stop = 25/04/2018 06:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
+      Replaces ----- start = 25/04/2018 02:30:00 stop = 25/04/2018 04:30:00 title = Cska Moscow vs Khimki Moscow EuroLeague Basketball 2017/2018
+      Replaces ----- start = 25/04/2018 04:30:00 stop = 25/04/2018 05:00:00 title = Women's struggle for Olympic participation
+      Replaces ----- start = 25/04/2018 05:00:00 stop = 25/04/2018 06:30:00 title = Kielce vs PSG
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 06:00:00 stop = 25/04/2018 06:30:00 title = The Games through a Lens part 2
+      Replaces ----- start = 25/04/2018 05:00:00 stop = 25/04/2018 06:30:00 title = Kielce vs PSG
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 06:30:00 stop = 25/04/2018 07:00:00 title = The Olympic Series
+      Replaces ----- start = 25/04/2018 06:30:00 stop = 25/04/2018 07:00:00 title = Best of Euro handball 2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 07:00:00 stop = 25/04/2018 07:30:00 title = Coming of Age
+      Replaces ----- start = 25/04/2018 07:00:00 stop = 25/04/2018 07:30:00 title = Legends Live On
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 07:30:00 stop = 25/04/2018 09:00:00 title = Croatia vs France
+      Replaces ----- start = 25/04/2018 07:30:00 stop = 25/04/2018 09:00:00 title = Kiel vs Vardar
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 09:30:00 stop = 25/04/2018 10:45:00 title = The Nagano Tapes
+      Replaces ----- start = 25/04/2018 09:30:00 stop = 25/04/2018 10:30:00 title = The Olympic Series Road to glory
+      Replaces ----- start = 25/04/2018 10:30:00 stop = 25/04/2018 12:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 10:45:00 stop = 25/04/2018 11:15:00 title = The Games of your Life  15th Asian Games, Doha 2006
+      Replaces ----- start = 25/04/2018 10:30:00 stop = 25/04/2018 12:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 11:15:00 stop = 25/04/2018 12:00:00 title = Camps to Champs
+      Replaces ----- start = 25/04/2018 10:30:00 stop = 25/04/2018 12:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 12:00:00 stop = 25/04/2018 14:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
+      Replaces ----- start = 25/04/2018 10:30:00 stop = 25/04/2018 12:30:00 title = Fenerbahce vs Baskonia Vitoria EuroLeague Basketball 2017/2018
+      Replaces ----- start = 25/04/2018 12:30:00 stop = 25/04/2018 13:00:00 title = Women's struggle for Olympic participation
+      Replaces ----- start = 25/04/2018 13:00:00 stop = 25/04/2018 14:30:00 title = Nantes vs Skjern
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 14:00:00 stop = 25/04/2018 14:30:00 title = The Games through a Lens part 2
+      Replaces ----- start = 25/04/2018 13:00:00 stop = 25/04/2018 14:30:00 title = Nantes vs Skjern
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 14:30:00 stop = 25/04/2018 15:00:00 title = The Olympic Series
+      Replaces ----- start = 25/04/2018 14:30:00 stop = 25/04/2018 15:00:00 title = Best of Euro handball 2018
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 15:00:00 stop = 25/04/2018 15:30:00 title = Coming of Age
+      Replaces ----- start = 25/04/2018 15:00:00 stop = 25/04/2018 15:30:00 title = Legends Live On
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 15:30:00 stop = 25/04/2018 17:00:00 title = Croatia vs France
+      Replaces ----- start = 25/04/2018 15:30:00 stop = 25/04/2018 17:00:00 title = Kiel vs Vardar
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 17:30:00 stop = 25/04/2018 18:30:00 title = Asian Games
+      Replaces ----- start = 25/04/2018 17:30:00 stop = 25/04/2018 18:45:00 title = The Nagano Tapes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 18:30:00 stop = 25/04/2018 19:30:00 title = Olympic Sports
+      Replaces ----- start = 25/04/2018 17:30:00 stop = 25/04/2018 18:45:00 title = The Nagano Tapes
+      Replaces ----- start = 25/04/2018 18:45:00 stop = 25/04/2018 19:15:00 title = The Games of your Life  15th Asian Games, Doha 2006
+      Replaces ----- start = 25/04/2018 19:15:00 stop = 25/04/2018 20:00:00 title = Camps to Champs
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 19:30:00 stop = 25/04/2018 20:00:00 title = Best of Asian Handball 2018
+      Replaces ----- start = 25/04/2018 19:15:00 stop = 25/04/2018 20:00:00 title = Camps to Champs
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 20:00:00 stop = 25/04/2018 22:00:00 title = Khimki Moscow vs CSKA Moscow
+      Replaces ----- start = 25/04/2018 20:00:00 stop = 25/04/2018 22:30:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 22:00:00 stop = 25/04/2018 22:30:00 title = The Games of your Life  15th Asian Games, Doha 2006
+      Replaces ----- start = 25/04/2018 20:00:00 stop = 25/04/2018 22:30:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 22:30:00 stop = 25/04/2018 23:00:00 title = The Tech Race
+      Replaces ----- start = 25/04/2018 22:30:00 stop = 25/04/2018 23:00:00 title = The Olympic Series
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 23:00:00 stop = 25/04/2018 23:30:00 title = Flame Catchers
+      Replaces ----- start = 25/04/2018 23:00:00 stop = 25/04/2018 23:30:00 title = Coming of Age
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/04/2018 23:30:00 stop = 26/04/2018 01:00:00 title = Croatia vs Czech republic
+      Replaces ----- start = 25/04/2018 23:30:00 stop = 26/04/2018 01:00:00 title = Croatia vs France
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 26/04/2018 23:30:00 stop = 27/04/2018 01:00:00 title = Croatia vs Czech republic
+      Replaces ----- start = 26/04/2018 23:30:00 stop = 26/04/2018 23:59:00 title = Croatia vs Czech republic
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
-     missing shows added       7
-     changed shows updated     3
-     new shows added           41
-     unchanged shows inspected 0
-     total after update        74
+     missing shows added       0
+     changed shows updated     25
+     new shows added           45
+     unchanged shows inspected 3
+     total after update        98
 
 
 
-Job finished at 24/04/2018 03:23:33 done in 23m 23s
+Job finished at 25/04/2018 03:23:39 done in 23m 29s
