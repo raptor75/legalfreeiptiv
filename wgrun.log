@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 27/04/2018 03:00:06
+Job started at 28/04/2018 03:00:08
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i.........c...........ccccccccccc.........c...........ccccccccccc.........c...........ccccccccccc.........c...........ccccccccccc.........c...........ccccccccccc.........c...........cccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.ccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnn
+icccgcgccccccccccccccccccccgcgccccccccccccccccccccgcgccccccccccccccccccccgcgccccccccccccccccccccgcgccccccccccccccccccccgcgcccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i........c..cccccccccgc........c..cccccccccgc........c..cccccccccgc........c..cccccccccgc........c..cccccccccgc........c..cccccccccnnnnnnnnnnnnnnnnnnnnnnn
+in..ccccccccccgcc.cc..ccccccccccgcc.cc..ccccccccccgcc.cc..ccccccccccgcc.cc..ccccccccccgcc.cc..ccccccccccgcc.nnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 i
@@ -562,157 +562,51 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii.c
+iiiiiiinnnnnnnnnnnnnc
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/04/2018 01:30:00 stop = 27/04/2018 02:25:00 title = The Z Team
-      Replaces ----- start = 27/04/2018 01:30:00 stop = 27/04/2018 02:30:00 title = Asian Games
+      show with ---- start = 28/04/2018 17:00:00 stop = 28/04/2018 19:00:00 title = Tennis WTA Stuttgart
+      Replaces ----- start = 28/04/2018 17:00:00 stop = 28/04/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 28/04/2018 17:30:00 stop = 28/04/2018 18:20:00 title = Transform My Meal
+      Replaces ----- start = 28/04/2018 18:20:00 stop = 28/04/2018 20:00:00 title = Slovenia vs Germany
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/04/2018 02:25:00 stop = 27/04/2018 04:00:00 title = Cycling Paris
-      Replaces ----- start = 27/04/2018 01:30:00 stop = 27/04/2018 02:30:00 title = Asian Games
-      Replaces ----- start = 27/04/2018 02:30:00 stop = 27/04/2018 03:30:00 title = Olympic Sports
-      Replaces ----- start = 27/04/2018 03:30:00 stop = 27/04/2018 04:00:00 title = Best of Asian Handball 2018
+      show with ---- start = 28/04/2018 19:00:00 stop = 28/04/2018 19:30:00 title = History of the Olympic Games
+      Replaces ----- start = 28/04/2018 18:20:00 stop = 28/04/2018 20:00:00 title = Slovenia vs Germany
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/04/2018 04:00:00 stop = 27/04/2018 06:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-      Replaces ----- start = 27/04/2018 04:00:00 stop = 27/04/2018 06:00:00 title = Khimki Moscow vs CSKA Moscow
+      show with ---- start = 28/04/2018 19:30:00 stop = 28/04/2018 21:30:00 title = Tennis WTA Stuttgart
+      Replaces ----- start = 28/04/2018 18:20:00 stop = 28/04/2018 20:00:00 title = Slovenia vs Germany
+      Replaces ----- start = 28/04/2018 20:00:00 stop = 28/04/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/04/2018 06:00:00 stop = 27/04/2018 08:00:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 27/04/2018 06:00:00 stop = 27/04/2018 08:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
+      show with ---- start = 28/04/2018 21:30:00 stop = 28/04/2018 22:00:00 title = The Legend of Hicham El Guerrouj
+      Replaces ----- start = 28/04/2018 20:00:00 stop = 28/04/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/04/2018 08:00:00 stop = 27/04/2018 08:30:00 title = Flame Catchers
-      Replaces ----- start = 27/04/2018 08:00:00 stop = 27/04/2018 08:30:00 title = The Tech Race
+      show with ---- start = 28/04/2018 22:00:00 stop = 29/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
+      Replaces ----- start = 28/04/2018 20:00:00 stop = 28/04/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow
+      Replaces ----- start = 28/04/2018 22:30:00 stop = 28/04/2018 23:00:00 title = Coming of Age
+      Replaces ----- start = 28/04/2018 23:00:00 stop = 28/04/2018 23:30:00 title = Women's struggle for Olympic participation
+      Replaces ----- start = 28/04/2018 23:30:00 stop = 29/04/2018 17:00:00 title = Yousef El Mealem
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/04/2018 08:30:00 stop = 27/04/2018 09:00:00 title = Strangest Moments
-      Replaces ----- start = 27/04/2018 08:30:00 stop = 27/04/2018 09:00:00 title = Flame Catchers
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 09:30:00 stop = 27/04/2018 10:25:00 title = The Z Team
-      Replaces ----- start = 27/04/2018 09:30:00 stop = 27/04/2018 10:30:00 title = Asian Games
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 10:25:00 stop = 27/04/2018 12:00:00 title = Cycling Paris
-      Replaces ----- start = 27/04/2018 09:30:00 stop = 27/04/2018 10:30:00 title = Asian Games
-      Replaces ----- start = 27/04/2018 10:30:00 stop = 27/04/2018 11:30:00 title = Olympic Sports
-      Replaces ----- start = 27/04/2018 11:30:00 stop = 27/04/2018 12:00:00 title = Best of Asian Handball 2018
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 12:00:00 stop = 27/04/2018 14:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-      Replaces ----- start = 27/04/2018 12:00:00 stop = 27/04/2018 14:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 14:00:00 stop = 27/04/2018 16:00:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 27/04/2018 14:00:00 stop = 27/04/2018 16:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 16:00:00 stop = 27/04/2018 16:28:00 title = Flame Catchers
-      Replaces ----- start = 27/04/2018 16:00:00 stop = 27/04/2018 16:30:00 title = The Tech Race
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 16:28:00 stop = 27/04/2018 16:56:00 title = Strangest Moments
-      Replaces ----- start = 27/04/2018 16:00:00 stop = 27/04/2018 16:30:00 title = The Tech Race
-      Replaces ----- start = 27/04/2018 16:30:00 stop = 27/04/2018 17:00:00 title = Flame Catchers
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 16:56:00 stop = 27/04/2018 17:26:00 title = Olympics Today
-      Replaces ----- start = 27/04/2018 16:30:00 stop = 27/04/2018 17:00:00 title = Flame Catchers
-      Replaces ----- start = 27/04/2018 17:00:00 stop = 27/04/2018 17:30:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 17:26:00 stop = 27/04/2018 18:19:00 title = Transform My Meal
-      Replaces ----- start = 27/04/2018 17:00:00 stop = 27/04/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 27/04/2018 17:30:00 stop = 27/04/2018 18:25:00 title = The Z Team
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 18:19:00 stop = 27/04/2018 20:00:00 title = Slovenia vs Germany
-      Replaces ----- start = 27/04/2018 17:30:00 stop = 27/04/2018 18:25:00 title = The Z Team
-      Replaces ----- start = 27/04/2018 18:25:00 stop = 27/04/2018 20:00:00 title = Cycling Paris
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 20:00:00 stop = 27/04/2018 22:00:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 27/04/2018 20:00:00 stop = 27/04/2018 22:30:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 22:00:00 stop = 27/04/2018 22:30:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Replaces ----- start = 27/04/2018 20:00:00 stop = 27/04/2018 22:30:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 22:30:00 stop = 27/04/2018 23:00:00 title = Coming of Age
-      Replaces ----- start = 27/04/2018 22:30:00 stop = 27/04/2018 23:00:00 title = Flame Catchers
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 23:00:00 stop = 27/04/2018 23:30:00 title = Women's struggle for Olympic participation
-      Replaces ----- start = 27/04/2018 23:00:00 stop = 27/04/2018 23:30:00 title = Strangest Moments
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/04/2018 23:30:00 stop = 28/04/2018 17:00:00 title = Yousef El Mealem
-      Replaces ----- start = 27/04/2018 23:30:00 stop = 28/04/2018 01:00:00 title = Kielce vs PSG
-      Replaces ----- start = 28/04/2018 01:00:00 stop = 28/04/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 28/04/2018 01:30:00 stop = 28/04/2018 02:25:00 title = The Z Team
-      Replaces ----- start = 28/04/2018 02:25:00 stop = 28/04/2018 04:00:00 title = Cycling Paris
-      Replaces ----- start = 28/04/2018 04:00:00 stop = 28/04/2018 06:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-      Replaces ----- start = 28/04/2018 06:00:00 stop = 28/04/2018 08:00:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 28/04/2018 08:00:00 stop = 28/04/2018 08:30:00 title = Flame Catchers
-      Replaces ----- start = 28/04/2018 08:30:00 stop = 28/04/2018 09:00:00 title = Strangest Moments
-      Replaces ----- start = 28/04/2018 09:00:00 stop = 28/04/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 28/04/2018 09:30:00 stop = 28/04/2018 10:25:00 title = The Z Team
-      Replaces ----- start = 28/04/2018 10:25:00 stop = 28/04/2018 12:00:00 title = Cycling Paris
-      Replaces ----- start = 28/04/2018 12:00:00 stop = 28/04/2018 14:00:00 title = Zalgiris Kaunas vs Olympiaco Piraeus
-      Replaces ----- start = 28/04/2018 14:00:00 stop = 28/04/2018 16:00:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 28/04/2018 16:00:00 stop = 28/04/2018 16:30:00 title = Flame Catchers
-      Replaces ----- start = 28/04/2018 16:30:00 stop = 28/04/2018 17:00:00 title = Strangest Moments
-.g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/04/2018 17:00:00 stop = 29/04/2018 17:00:00 title = Olympics Today
-      Added before - start = 29/04/2018 17:00:00 stop = 29/04/2018 17:30:00 title = Olympics Today
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/04/2018 17:00:00 stop = 29/04/2018 17:00:00 title = Olympics Today
-      Added before - start = 29/04/2018 17:00:00 stop = 29/04/2018 17:30:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 29/04/2018 17:00:00 stop = 29/04/2018 23:59:00 title = Olympics Today
-      Replaces ----- start = 29/04/2018 17:00:00 stop = 29/04/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 29/04/2018 17:30:00 stop = 29/04/2018 18:20:00 title = Transform My Meal
-      Replaces ----- start = 29/04/2018 18:20:00 stop = 29/04/2018 20:00:00 title = Slovenia vs Germany
-      Replaces ----- start = 29/04/2018 20:00:00 stop = 29/04/2018 22:30:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 29/04/2018 22:30:00 stop = 29/04/2018 23:00:00 title = Coming of Age
-      Replaces ----- start = 29/04/2018 23:00:00 stop = 29/04/2018 23:30:00 title = Women's struggle for Olympic participation
-      Replaces ----- start = 29/04/2018 23:30:00 stop = 30/04/2018 17:00:00 title = Yousef El Mealem
+      show with ---- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
+      Replaces ----- start = 29/04/2018 17:00:00 stop = 29/04/2018 23:59:00 title = Olympics Today
+..
 
    Summary for update of       OlympicChannel
-     missing shows added       2
-     changed shows updated     21
-     new shows added           0
-     unchanged shows inspected 3
-     total after update        34
+     missing shows added       0
+     changed shows updated     6
+     new shows added           13
+     unchanged shows inspected 2
+     total after update        23
 
 
 
-Job finished at 27/04/2018 03:23:16 done in 23m 9s
+Job finished at 28/04/2018 03:23:13 done in 23m 5s
