@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 29/04/2018 03:00:08
+Job started at 30/04/2018 03:00:07
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.ccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccgccgccccccccccccccccccgccgccccccccccccccccccgccgccccccccccccccccccgccgccccccccccccccccccgccgccccccccccccccccccgccgccccccnnnnnnnnnnnnnnnnnnnnnn
+iccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.ccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnn
+inncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 i
@@ -562,154 +562,37 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiinnnnnnnnnnnnnnnng
+iiiiiii..............c
    epg correction : 
- MISSING show added,
-      show with ---- start = 29/04/2018 17:00:00 stop = 29/04/2018 17:45:00 title = Olympics Today
-      Added before - start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/04/2018 17:45:00 stop = 29/04/2018 19:30:00 title = Skjern vs Nantes
-      Added before - start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/04/2018 19:30:00 stop = 29/04/2018 20:00:00 title = Flame Catchers
-      Added before - start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-g
-   epg correction : 
- MISSING show added,
-      show with ---- start = 29/04/2018 20:00:00 stop = 29/04/2018 21:45:00 title = Montpellier vs Flensburg
-      Added before - start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
+ CHANGED show corrected,
+      show with ---- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:28:00 title = Road to glory
+      Replaces ----- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:30:00 title = Road to glory
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/04/2018 21:45:00 stop = 29/04/2018 22:30:00 title = What You Missed In Olympic 2016
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
+      show with ---- start = 30/04/2018 18:28:00 stop = 30/04/2018 19:58:00 title = France vs Spain
+      Replaces ----- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:30:00 title = Road to glory
+      Replaces ----- start = 30/04/2018 18:30:00 stop = 30/04/2018 20:00:00 title = France vs Spain
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/04/2018 22:30:00 stop = 29/04/2018 23:00:00 title = Global Games  E02
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
+      show with ---- start = 30/04/2018 19:58:00 stop = 30/04/2018 20:30:00 title = Best of Euro handball 2018
+      Replaces ----- start = 30/04/2018 18:30:00 stop = 30/04/2018 20:00:00 title = France vs Spain
+      Replaces ----- start = 30/04/2018 20:00:00 stop = 30/04/2018 20:30:00 title = Best of Euro handball 2018
+...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/04/2018 23:00:00 stop = 30/04/2018 00:00:00 title = Camps to Champs
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 00:00:00 stop = 30/04/2018 01:00:00 title = The Z Team
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 01:00:00 stop = 30/04/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 01:30:00 stop = 30/04/2018 04:00:00 title = Tennis WTA Stuttgart
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 04:00:00 stop = 30/04/2018 05:30:00 title = Skjern vs Nantes
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 05:30:00 stop = 30/04/2018 07:00:00 title = Montpellier vs Flensburg
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 07:00:00 stop = 30/04/2018 08:00:00 title = Camps to Champs
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 08:00:00 stop = 30/04/2018 09:00:00 title = The Z Team
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 09:00:00 stop = 30/04/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 09:30:00 stop = 30/04/2018 12:00:00 title = Tennis WTA Stuttgart
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 12:00:00 stop = 30/04/2018 13:30:00 title = Skjern vs Nantes
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 13:30:00 stop = 30/04/2018 15:00:00 title = Montpellier vs Flensburg
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 15:00:00 stop = 30/04/2018 16:00:00 title = Camps to Champs
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 16:00:00 stop = 30/04/2018 17:00:00 title = The Z Team
-      Replaces ----- start = 29/04/2018 22:00:00 stop = 30/04/2018 17:00:00 title = Khimki Moscow vs CSKA Moscow
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 17:00:00 stop = 30/04/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:30:00 title = Road to glory
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 18:30:00 stop = 30/04/2018 20:00:00 title = France vs Spain
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 20:00:00 stop = 30/04/2018 20:30:00 title = Best of Euro handball 2018
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 20:30:00 stop = 30/04/2018 21:00:00 title = The Margaret Lambert Story
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 21:00:00 stop = 30/04/2018 22:00:00 title = JAMAICA
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 22:00:00 stop = 30/04/2018 22:30:00 title = Strangest Moments Love in the Cold War, USA versus Russia wrestling epic, the AndersonScheiss mara
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 30/04/2018 22:30:00 stop = 30/04/2018 23:59:00 title = Montpellier vs Flensburg
-      Replaces ----- start = 30/04/2018 17:00:00 stop = 30/04/2018 23:59:00 title = Olympics Today
+      show with ---- start = 30/04/2018 22:30:00 stop = 01/05/2018 00:00:00 title = Montpellier vs Flensburg
+      Replaces ----- start = 30/04/2018 22:30:00 stop = 30/04/2018 23:59:00 title = Montpellier vs Flensburg
+nnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
-     missing shows added       4
-     changed shows updated     24
-     new shows added           16
-     unchanged shows inspected 0
-     total after update        47
+     missing shows added       0
+     changed shows updated     4
+     new shows added           26
+     unchanged shows inspected 17
+     total after update        48
 
 
 
-Job finished at 29/04/2018 03:23:27 done in 23m 18s
+Job finished at 30/04/2018 03:23:16 done in 23m 8s
