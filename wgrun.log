@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 30/04/2018 03:00:07
+Job started at 01/05/2018 03:00:08
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.cccccccccccccccccccccc.ccccccc.ccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+incccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.cccccccccccccccccccccccccccg.ccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+incccccccccccccccccccccccccccccgc..cccccccccccccccccccccccccccccccgc..cccccccccccccccccccccccccccccccgc..cccccccccccccccccccccccccccccccgc..cccccccccccccccccccccccccccccccgc..cccccccccccccccccccccccccccccccgc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-inncccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnn
+i........c.....c.c.ccc........c.....c.c.ccc........c.....c.c.ccc........c.....c.c.ccc........c.....c.c.ccc........c.....c.c.ccnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 i
@@ -562,37 +562,47 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..............c
+iiiiiii....c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:28:00 title = Road to glory
-      Replaces ----- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:30:00 title = Road to glory
+      show with ---- start = 01/05/2018 04:00:00 stop = 01/05/2018 04:31:00 title = Best of Euro handball 2018
+      Replaces ----- start = 01/05/2018 04:00:00 stop = 01/05/2018 04:30:00 title = Best of Euro handball 2018
+      Replaces ----- start = 01/05/2018 04:30:00 stop = 01/05/2018 05:00:00 title = The Margaret Lambert Story
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 30/04/2018 18:28:00 stop = 30/04/2018 19:58:00 title = France vs Spain
-      Replaces ----- start = 30/04/2018 17:30:00 stop = 30/04/2018 18:30:00 title = Road to glory
-      Replaces ----- start = 30/04/2018 18:30:00 stop = 30/04/2018 20:00:00 title = France vs Spain
+      show with ---- start = 01/05/2018 04:31:00 stop = 01/05/2018 05:00:00 title = Foul Play Episode 1
+      Replaces ----- start = 01/05/2018 04:30:00 stop = 01/05/2018 05:00:00 title = The Margaret Lambert Story
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/05/2018 12:00:00 stop = 01/05/2018 12:31:00 title = Best of Euro handball 2018
+      Replaces ----- start = 01/05/2018 12:00:00 stop = 01/05/2018 12:30:00 title = Best of Euro handball 2018
+      Replaces ----- start = 01/05/2018 12:30:00 stop = 01/05/2018 13:00:00 title = The Margaret Lambert Story
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 30/04/2018 19:58:00 stop = 30/04/2018 20:30:00 title = Best of Euro handball 2018
-      Replaces ----- start = 30/04/2018 18:30:00 stop = 30/04/2018 20:00:00 title = France vs Spain
-      Replaces ----- start = 30/04/2018 20:00:00 stop = 30/04/2018 20:30:00 title = Best of Euro handball 2018
-...c
+      show with ---- start = 01/05/2018 12:31:00 stop = 01/05/2018 13:00:00 title = Foul Play Episode 1
+      Replaces ----- start = 01/05/2018 12:30:00 stop = 01/05/2018 13:00:00 title = The Margaret Lambert Story
+.........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 30/04/2018 22:30:00 stop = 01/05/2018 00:00:00 title = Montpellier vs Flensburg
-      Replaces ----- start = 30/04/2018 22:30:00 stop = 30/04/2018 23:59:00 title = Montpellier vs Flensburg
+      show with ---- start = 01/05/2018 20:30:00 stop = 01/05/2018 22:00:00 title = Skjern vs Nantes
+      Replaces ----- start = 01/05/2018 20:30:00 stop = 01/05/2018 23:00:00 title = Olympiacos piraeus vs Zalgiris Kaunas
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/05/2018 22:00:00 stop = 01/05/2018 23:00:00 title = Camps to Champs
+      Replaces ----- start = 01/05/2018 20:30:00 stop = 01/05/2018 23:00:00 title = Olympiacos piraeus vs Zalgiris Kaunas
 nnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     4
+     changed shows updated     6
      new shows added           26
-     unchanged shows inspected 17
-     total after update        48
+     unchanged shows inspected 20
+     total after update        53
 
 
 
-Job finished at 30/04/2018 03:23:16 done in 23m 8s
+Job finished at 01/05/2018 03:23:18 done in 23m 9s
