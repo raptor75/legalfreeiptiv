@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 02/05/2018 03:00:10
+Job started at 03/05/2018 03:00:08
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -85,7 +85,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-iccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.cccccccccccccccccccccccccccccccc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +122,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccc.cc..ccccccccccccccccccccccccc.cc..ccccccccccccccccccccccccc.cc..ccccccccccccccccccccccccc.cc..ccccccccccccccccccccccccc.cc..ccccccccccccccccccccccccc.cc..ccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+in...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,7 +159,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i........c.....cccc.c.........c.....cccc.c.........c.....cccc.c.........c.....cccc.c.........c.....cccc.c.........c.....cccc.cnnnnnnnnnnnnnnnnnnnnn
+icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
 i
@@ -562,73 +562,79 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii.....c
+iiiiiii..c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 03:45:00 stop = 02/05/2018 04:15:00 title = Camps to Champs
-      Replaces ----- start = 02/05/2018 03:45:00 stop = 02/05/2018 06:30:00 title = Camps to Champs
+      show with ---- start = 03/05/2018 01:30:00 stop = 03/05/2018 02:30:00 title = Flag and Family
+      Replaces ----- start = 03/05/2018 01:30:00 stop = 03/05/2018 04:30:00 title = Flag and Family
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 04:15:00 stop = 02/05/2018 06:00:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 02/05/2018 03:45:00 stop = 02/05/2018 06:30:00 title = Camps to Champs
+      show with ---- start = 03/05/2018 02:30:00 stop = 03/05/2018 04:30:00 title = Real Madrid vs Panathinaikos Athens EuroLeague Basketball 2017/2018
+      Replaces ----- start = 03/05/2018 01:30:00 stop = 03/05/2018 04:30:00 title = Flag and Family
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/05/2018 06:45:00 stop = 03/05/2018 07:30:00 title = Legends Live On
+      Replaces ----- start = 03/05/2018 06:45:00 stop = 03/05/2018 07:15:00 title = Legends Live On
+      Replaces ----- start = 03/05/2018 07:15:00 stop = 03/05/2018 08:10:00 title = Africa's Cycling Revolution
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 06:00:00 stop = 02/05/2018 06:30:00 title = Foul Play Episode 1
-      Replaces ----- start = 02/05/2018 03:45:00 stop = 02/05/2018 06:30:00 title = Camps to Champs
+      show with ---- start = 03/05/2018 07:30:00 stop = 03/05/2018 08:10:00 title = Africa's Cycling Revolution
+      Replaces ----- start = 03/05/2018 07:15:00 stop = 03/05/2018 08:10:00 title = Africa's Cycling Revolution
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 06:30:00 stop = 02/05/2018 07:28:00 title = Asian Games
-      Replaces ----- start = 02/05/2018 06:30:00 stop = 02/05/2018 07:30:00 title = Asian Games
+      show with ---- start = 03/05/2018 08:10:00 stop = 03/05/2018 09:30:00 title = Mutaz Barshim
+      Replaces ----- start = 03/05/2018 08:10:00 stop = 03/05/2018 09:00:00 title = Mutaz Barshim
+      Replaces ----- start = 03/05/2018 09:00:00 stop = 03/05/2018 09:30:00 title = Olympics Today
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 07:28:00 stop = 02/05/2018 08:28:00 title = The Z Team
-      Replaces ----- start = 02/05/2018 06:30:00 stop = 02/05/2018 07:30:00 title = Asian Games
-      Replaces ----- start = 02/05/2018 07:30:00 stop = 02/05/2018 08:30:00 title = The Z Team
+      show with ---- start = 03/05/2018 09:30:00 stop = 03/05/2018 10:00:00 title = Olympics Today
+      Replaces ----- start = 03/05/2018 09:30:00 stop = 03/05/2018 12:30:00 title = Flag and Family
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 08:28:00 stop = 02/05/2018 09:00:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Replaces ----- start = 02/05/2018 07:30:00 stop = 02/05/2018 08:30:00 title = The Z Team
-      Replaces ----- start = 02/05/2018 08:30:00 stop = 02/05/2018 09:00:00 title = The Games of your Life  15th Asian Games, Doha 2006
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 02/05/2018 11:45:00 stop = 02/05/2018 12:15:00 title = Camps to Champs
-      Replaces ----- start = 02/05/2018 11:45:00 stop = 02/05/2018 14:30:00 title = Camps to Champs
+      show with ---- start = 03/05/2018 10:00:00 stop = 03/05/2018 11:00:00 title = Flag and Family
+      Replaces ----- start = 03/05/2018 09:30:00 stop = 03/05/2018 12:30:00 title = Flag and Family
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 12:15:00 stop = 02/05/2018 14:30:00 title = Khimki Moscow vs CSKA Moscow
-      Replaces ----- start = 02/05/2018 11:45:00 stop = 02/05/2018 14:30:00 title = Camps to Champs
-....c
+      show with ---- start = 03/05/2018 11:00:00 stop = 03/05/2018 12:30:00 title = France vs Spain
+      Replaces ----- start = 03/05/2018 09:30:00 stop = 03/05/2018 12:30:00 title = Flag and Family
+.c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 17:30:00 stop = 02/05/2018 18:28:00 title = Flag and Family
-      Replaces ----- start = 02/05/2018 17:30:00 stop = 02/05/2018 18:30:00 title = Flag and Family
+      show with ---- start = 03/05/2018 13:00:00 stop = 03/05/2018 13:24:00 title = Women's struggle for Olympic participation
+      Replaces ----- start = 03/05/2018 13:00:00 stop = 03/05/2018 13:30:00 title = Women's struggle for Olympic participation
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 18:28:00 stop = 02/05/2018 19:15:00 title = Mutaz Barshim
-      Replaces ----- start = 02/05/2018 17:30:00 stop = 02/05/2018 18:30:00 title = Flag and Family
-      Replaces ----- start = 02/05/2018 18:30:00 stop = 02/05/2018 19:15:00 title = Mutaz Barshim
-....c
+      show with ---- start = 03/05/2018 13:24:00 stop = 03/05/2018 14:46:00 title = Nime vs Nantes
+      Replaces ----- start = 03/05/2018 13:00:00 stop = 03/05/2018 13:30:00 title = Women's struggle for Olympic participation
+      Replaces ----- start = 03/05/2018 13:30:00 stop = 03/05/2018 14:45:00 title = Nime vs Nantes
+      Replaces ----- start = 03/05/2018 14:45:00 stop = 03/05/2018 15:15:00 title = Legends Live On
+c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 02/05/2018 23:30:00 stop = 03/05/2018 00:00:00 title = Legends Live On
-      Replaces ----- start = 02/05/2018 23:30:00 stop = 02/05/2018 23:59:00 title = Legends Live On
-nnnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 03/05/2018 14:46:00 stop = 03/05/2018 15:15:00 title = Legends Live On
+      Replaces ----- start = 03/05/2018 14:45:00 stop = 03/05/2018 15:15:00 title = Legends Live On
+........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/05/2018 23:30:00 stop = 04/05/2018 00:00:00 title = The Legend of Hicham El Guerrouj
+      Replaces ----- start = 03/05/2018 23:30:00 stop = 03/05/2018 23:59:00 title = The Legend of Hicham El Guerrouj
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     11
-     new shows added           24
-     unchanged shows inspected 17
-     total after update        52
+     changed shows updated     12
+     new shows added           33
+     unchanged shows inspected 14
+     total after update        59
 
 
 
-Job finished at 02/05/2018 03:23:18 done in 23m 7s
+Job finished at 03/05/2018 03:23:24 done in 23m 15s
