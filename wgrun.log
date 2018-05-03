@@ -7,8 +7,9 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 03/05/2018 03:00:08
+Job started at 04/05/2018 00:55:30
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
+found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
 found: /data/epg/.wg++/siteini.pack/International/bein.net.ini -- Revision 13
@@ -85,7 +86,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccc.......c............cccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ic.......................c.......................c.......................c.......................c.......................c......................nnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -122,7 +123,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-in...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccc...g..cccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.c.......................c.......................c.......................c.......................c.......................c.....................nnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -159,249 +160,54 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccnnnnnnnnnnnnnnnnnnnn
+ic........gc..cc........gc..cc........gc..cc........gc..cc........gc..cc........gc..nnnnnnnnnnnnnn
 
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Первый) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Первый
-Generic syntax exception:
-   message: 
-no index page data received from Первый
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 1) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Россия 1
-Generic syntax exception:
-   message: 
-no index page data received from Россия 1
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Россия 24) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Россия 24
-Generic syntax exception:
-   message: 
-no index page data received from Россия 24
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=НТВ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel НТВ
-Generic syntax exception:
-   message: 
-no index page data received from НТВ
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТНТ
-Generic syntax exception:
-   message: 
-no index page data received from ТНТ
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=СТС) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel СТС
-Generic syntax exception:
-   message: 
-no index page data received from СТС
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel РЕН ТВ
-Generic syntax exception:
-   message: 
-no index page data received from РЕН ТВ
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТНТ4
-Generic syntax exception:
-   message: 
-no index page data received from ТНТ4
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Че) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Че
-Generic syntax exception:
-   message: 
-no index page data received from Че
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТВ-3
-Generic syntax exception:
-   message: 
-no index page data received from ТВ-3
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel ТВ Центр
-Generic syntax exception:
-   message: 
-no index page data received from ТВ Центр
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Домашний) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Домашний
-Generic syntax exception:
-   message: 
-no index page data received from Домашний
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Пятница) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Пятница
-Generic syntax exception:
-   message: 
-no index page data received from Пятница
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ю) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Ю
-Generic syntax exception:
-   message: 
-no index page data received from Ю
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Звезда) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel Звезда
-Generic syntax exception:
-   message: 
-no index page data received from Звезда
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+(   4/29  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   5/29  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   6/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   7/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   8/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(   9/29  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  10/29  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  11/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  12/29  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  13/29  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  14/29  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  15/29  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  16/29  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  17/29  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  18/29  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  19/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -417,23 +223,10 @@ Generic syntax exception:
 no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=МИР) -- mode Incremental
-i
-error downloading page: The request timed out (5sec)
-Retry 1 of 4 times
-error downloading page: The request timed out (10sec)
-Retry 2 of 4 times
-error downloading page: The request timed out (15sec)
-Retry 3 of 4 times
-error downloading page: The request timed out (20sec)
-Retry 4 of 4 times
-Unable to update channel МИР
-Generic syntax exception:
-   message: 
-no index page data received from МИР
-unable to update channel, try again later
-Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+(  19/29  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -449,7 +242,7 @@ Generic syntax exception:
 no index page data received from РБК
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -465,7 +258,7 @@ Generic syntax exception:
 no index page data received from Fashion TV
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -481,7 +274,7 @@ Generic syntax exception:
 no index page data received from Ru.TV
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -497,7 +290,7 @@ Generic syntax exception:
 no index page data received from 1HD
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -513,7 +306,7 @@ Generic syntax exception:
 no index page data received from RT
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -529,7 +322,7 @@ Generic syntax exception:
 no index page data received from RTД
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -545,7 +338,7 @@ Generic syntax exception:
 no index page data received from Discovery Channel HD
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -561,80 +354,91 @@ Generic syntax exception:
 no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
-(   4/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..c
+(  20/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiii....c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 01:30:00 stop = 03/05/2018 02:30:00 title = Flag and Family
-      Replaces ----- start = 03/05/2018 01:30:00 stop = 03/05/2018 04:30:00 title = Flag and Family
+      show with ---- start = 04/05/2018 03:25:00 stop = 04/05/2018 04:52:00 title = Nime vs Nantes
+      Replaces ----- start = 04/05/2018 03:25:00 stop = 04/05/2018 04:45:00 title = Nime vs Nantes
+      Replaces ----- start = 04/05/2018 04:45:00 stop = 04/05/2018 05:45:00 title = The Olympic Series
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 02:30:00 stop = 03/05/2018 04:30:00 title = Real Madrid vs Panathinaikos Athens EuroLeague Basketball 2017/2018
-      Replaces ----- start = 03/05/2018 01:30:00 stop = 03/05/2018 04:30:00 title = Flag and Family
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/05/2018 06:45:00 stop = 03/05/2018 07:30:00 title = Legends Live On
-      Replaces ----- start = 03/05/2018 06:45:00 stop = 03/05/2018 07:15:00 title = Legends Live On
-      Replaces ----- start = 03/05/2018 07:15:00 stop = 03/05/2018 08:10:00 title = Africa's Cycling Revolution
+      show with ---- start = 04/05/2018 04:52:00 stop = 04/05/2018 05:47:00 title = The Olympic Series
+      Replaces ----- start = 04/05/2018 04:45:00 stop = 04/05/2018 05:45:00 title = The Olympic Series
+      Replaces ----- start = 04/05/2018 05:45:00 stop = 04/05/2018 07:00:00 title = Dunkerque vs ST Raphael
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 07:30:00 stop = 03/05/2018 08:10:00 title = Africa's Cycling Revolution
-      Replaces ----- start = 03/05/2018 07:15:00 stop = 03/05/2018 08:10:00 title = Africa's Cycling Revolution
+      show with ---- start = 04/05/2018 05:47:00 stop = 04/05/2018 07:03:00 title = Dunkerque vs ST Raphael
+      Replaces ----- start = 04/05/2018 05:45:00 stop = 04/05/2018 07:00:00 title = Dunkerque vs ST Raphael
+      Replaces ----- start = 04/05/2018 07:00:00 stop = 04/05/2018 07:30:00 title = The Legend of Hicham El Guerrouj
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 08:10:00 stop = 03/05/2018 09:30:00 title = Mutaz Barshim
-      Replaces ----- start = 03/05/2018 08:10:00 stop = 03/05/2018 09:00:00 title = Mutaz Barshim
-      Replaces ----- start = 03/05/2018 09:00:00 stop = 03/05/2018 09:30:00 title = Olympics Today
+      show with ---- start = 04/05/2018 07:03:00 stop = 04/05/2018 07:30:00 title = The Legend of Hicham El Guerrouj
+      Replaces ----- start = 04/05/2018 07:00:00 stop = 04/05/2018 07:30:00 title = The Legend of Hicham El Guerrouj
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/05/2018 09:00:00 stop = 04/05/2018 09:31:00 title = Olympics Today
+      Replaces ----- start = 04/05/2018 09:00:00 stop = 04/05/2018 09:30:00 title = Olympics Today
+      Replaces ----- start = 04/05/2018 09:30:00 stop = 04/05/2018 10:30:00 title = Heroes of the Future
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 09:30:00 stop = 03/05/2018 10:00:00 title = Olympics Today
-      Replaces ----- start = 03/05/2018 09:30:00 stop = 03/05/2018 12:30:00 title = Flag and Family
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/05/2018 10:00:00 stop = 03/05/2018 11:00:00 title = Flag and Family
-      Replaces ----- start = 03/05/2018 09:30:00 stop = 03/05/2018 12:30:00 title = Flag and Family
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 03/05/2018 11:00:00 stop = 03/05/2018 12:30:00 title = France vs Spain
-      Replaces ----- start = 03/05/2018 09:30:00 stop = 03/05/2018 12:30:00 title = Flag and Family
+      show with ---- start = 04/05/2018 09:31:00 stop = 04/05/2018 10:30:00 title = Heroes of the Future
+      Replaces ----- start = 04/05/2018 09:30:00 stop = 04/05/2018 10:30:00 title = Heroes of the Future
 .c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 13:00:00 stop = 03/05/2018 13:24:00 title = Women's struggle for Olympic participation
-      Replaces ----- start = 03/05/2018 13:00:00 stop = 03/05/2018 13:30:00 title = Women's struggle for Olympic participation
+      show with ---- start = 04/05/2018 11:25:00 stop = 04/05/2018 12:53:00 title = Nime vs Nantes
+      Replaces ----- start = 04/05/2018 11:25:00 stop = 04/05/2018 12:45:00 title = Nime vs Nantes
+      Replaces ----- start = 04/05/2018 12:45:00 stop = 04/05/2018 13:45:00 title = The Olympic Series
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 13:24:00 stop = 03/05/2018 14:46:00 title = Nime vs Nantes
-      Replaces ----- start = 03/05/2018 13:00:00 stop = 03/05/2018 13:30:00 title = Women's struggle for Olympic participation
-      Replaces ----- start = 03/05/2018 13:30:00 stop = 03/05/2018 14:45:00 title = Nime vs Nantes
-      Replaces ----- start = 03/05/2018 14:45:00 stop = 03/05/2018 15:15:00 title = Legends Live On
+      show with ---- start = 04/05/2018 12:53:00 stop = 04/05/2018 13:50:00 title = The Olympic Series
+      Replaces ----- start = 04/05/2018 12:45:00 stop = 04/05/2018 13:45:00 title = The Olympic Series
+      Replaces ----- start = 04/05/2018 13:45:00 stop = 04/05/2018 15:00:00 title = Dunkerque vs ST Raphael
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 14:46:00 stop = 03/05/2018 15:15:00 title = Legends Live On
-      Replaces ----- start = 03/05/2018 14:45:00 stop = 03/05/2018 15:15:00 title = Legends Live On
-........c
+      show with ---- start = 04/05/2018 13:50:00 stop = 04/05/2018 15:04:00 title = Dunkerque vs ST Raphael
+      Replaces ----- start = 04/05/2018 13:45:00 stop = 04/05/2018 15:00:00 title = Dunkerque vs ST Raphael
+      Replaces ----- start = 04/05/2018 15:00:00 stop = 04/05/2018 15:30:00 title = The Legend of Hicham El Guerrouj
+c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 03/05/2018 23:30:00 stop = 04/05/2018 00:00:00 title = The Legend of Hicham El Guerrouj
-      Replaces ----- start = 03/05/2018 23:30:00 stop = 03/05/2018 23:59:00 title = The Legend of Hicham El Guerrouj
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 04/05/2018 15:04:00 stop = 04/05/2018 15:30:00 title = The Legend of Hicham El Guerrouj
+      Replaces ----- start = 04/05/2018 15:00:00 stop = 04/05/2018 15:30:00 title = The Legend of Hicham El Guerrouj
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/05/2018 21:00:00 stop = 04/05/2018 21:50:00 title = Legends Live On
+      Replaces ----- start = 04/05/2018 21:00:00 stop = 04/05/2018 21:30:00 title = Legends Live On
+      Replaces ----- start = 04/05/2018 21:30:00 stop = 04/05/2018 22:00:00 title = Athens the Original Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 04/05/2018 21:50:00 stop = 05/05/2018 17:00:00 title = Township Rollers BOT vs Kampala UGA
+      Replaces ----- start = 04/05/2018 21:30:00 stop = 04/05/2018 22:00:00 title = Athens the Original Games
+      Replaces ----- start = 04/05/2018 22:00:00 stop = 04/05/2018 23:30:00 title = Dunkerque vs ST Raphael
+      Replaces ----- start = 04/05/2018 23:30:00 stop = 05/05/2018 17:00:00 title = Linear The Olympic On The Record
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 05/05/2018 21:50:00 stop = 06/05/2018 17:00:00 title = Township Rollers BOT vs Kampala UGA
+      Replaces ----- start = 05/05/2018 23:30:00 stop = 06/05/2018 17:00:00 title = Linear The Olympic On The Record
+....
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     12
-     new shows added           33
-     unchanged shows inspected 14
-     total after update        59
+     changed shows updated     13
+     new shows added           0
+     unchanged shows inspected 18
+     total after update        28
 
 
 
-Job finished at 03/05/2018 03:23:24 done in 23m 15s
+Job finished at 04/05/2018 01:10:44 done in 15m 14s
