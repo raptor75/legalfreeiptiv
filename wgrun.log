@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 23/05/2018 03:00:09
+Job started at 24/05/2018 03:00:07
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
@@ -62,6 +62,15 @@ i
 it is advised to disable this channel / site from your channel list
 
 i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+
+  !! -- WARNING : melita.com doesn't allow epg grabbing !!
+it is advised to disable this channel / site from your channel list
+
+i
+error downloading page: Error getting response stream (ReadDone2): ReceiveFailure
+pausing 1 of 4 times for 5 seconds before re-try.
 
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
@@ -81,12 +90,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i
-
-  !! -- WARNING : melita.com doesn't allow epg grabbing !!
-it is advised to disable this channel / site from your channel list
-
-i.........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc...........c..............c.c.cc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i.........c............cccc.c.cccc.........c............cccc.c.cccc.........c............cccc.c.cccc.........c............cccc.c.cccc.........c............cccc.c.cccc.........c............cccc.c.ccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -123,7 +127,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i....cc..c.ccc.ccccccccc.ccccccc....cc..c.ccc.ccccccccc.ccccccc....cc..c.ccc.ccccccccc.ccccccc....cc..c.ccc.ccccccccc.ccccccc....cc..c.ccc.ccccccccc.ccccccc....cc..c.ccc.ccccccccc.ccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+in....cc..cc.ccc.ccccccccc.cccc..cc....cc..cc.ccc.ccccccccc.cccc..cc....cc..cc.ccc.ccccccccc.cccc..cc....cc..cc.ccc.ccccccccc.cccc..cc....cc..cc.ccc.ccccccccc.cccc..cc....cc..cc.ccc.ccccccccc.cccc..nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -151,416 +155,163 @@ i
 it is advised to disable this channel / site from your channel list
 
 i
-
-  !! -- WARNING : melita.com doesn't allow epg grabbing !!
-it is advised to disable this channel / site from your channel list
-
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: Error: ConnectFailure (No route to host)
+pausing 4 of 4 times for 20 seconds before re-try.
+Unable to update channel NET TV
+Generic syntax exception:
+   message: 
+no index page data received from NET TV
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
 i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Первый
+Generic syntax exception:
+   message: 
+no index page data received from Первый
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Россия 1
+Generic syntax exception:
+   message: 
+no index page data received from Россия 1
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel Россия 24
+Generic syntax exception:
+   message: 
+no index page data received from Россия 24
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel НТВ
+Generic syntax exception:
+   message: 
+no index page data received from НТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТНТ
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel СТС
+Generic syntax exception:
+   message: 
+no index page data received from СТС
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel РЕН ТВ
+Generic syntax exception:
+   message: 
+no index page data received from РЕН ТВ
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+error downloading page: The request timed out (15sec)
+Retry 3 of 4 times
+error downloading page: The request timed out (20sec)
+Retry 4 of 4 times
+Unable to update channel ТНТ4
+Generic syntax exception:
+   message: 
+no index page data received from ТНТ4
+unable to update channel, try again later
+Existing guide data restored!
+(   3/29  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+i
+error downloading page: The request timed out (5sec)
+Retry 1 of 4 times
+error downloading page: The request timed out (10sec)
+Retry 2 of 4 times
+iiiiii....................................................
 
-  !! -- WARNING : melita.com doesn't allow epg grabbing !!
-it is advised to disable this channel / site from your channel list
-
-i.........c.....c.cc...........c.....c.cc...........c.....c.cc...........c.....c.cc...........c.....c.cc...........c.....c.cc.nnnnnnnnnnnnnnnnnnnnn
-
-(   4/29  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii...............................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 21:30:00 stop = 25/05/2018 23:30:00 title = Три аккорда
-      Replaces ----- start = 25/05/2018 21:30:00 stop = 25/05/2018 23:30:00 title = Три аккорда
-........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 23:00:00 stop = 27/05/2018 00:35:00 title = Танцовщик
-      Replaces ----- start = 26/05/2018 23:00:00 stop = 27/05/2018 00:35:00 title = Танцовщик
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 16:50:00 stop = 27/05/2018 19:25:00 title = Ледниковый период. Дети
-      Replaces ----- start = 27/05/2018 16:50:00 stop = 27/05/2018 19:25:00 title = Ледниковый период. Дети
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 19:25:00 stop = 27/05/2018 21:00:00 title = Премьера. "Старше всех!"
-      Replaces ----- start = 27/05/2018 19:25:00 stop = 27/05/2018 21:00:00 title = Премьера. "Старше всех!"
-...
-
-(   5/29  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii..................................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 04:50:00 stop = 26/05/2018 06:35:00 title = Срочно в номер-2
-      Replaces ----- start = 26/05/2018 04:50:00 stop = 26/05/2018 06:35:00 title = Срочно в номер-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 06:35:00 stop = 26/05/2018 07:10:00 title = Мульт-утро
-      Replaces ----- start = 26/05/2018 06:35:00 stop = 26/05/2018 07:10:00 title = Мульт-утро
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 11:40:00 stop = 26/05/2018 14:00:00 title = Юмор! Юмор! Юмор!!!
-      Replaces ----- start = 26/05/2018 11:40:00 stop = 26/05/2018 14:00:00 title = Юмор! Юмор! Юмор!!!
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 04:55:00 stop = 27/05/2018 06:45:00 title = Срочно в номер-2
-      Replaces ----- start = 27/05/2018 04:55:00 stop = 27/05/2018 06:45:00 title = Срочно в номер-2
-...............
-
-(   6/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................
-
-(   7/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 09:00:00 stop = 23/05/2018 10:00:00 title = Мухтар. Новый след
-      Replaces ----- start = 23/05/2018 09:00:00 stop = 23/05/2018 10:00:00 title = Мухтар. Новый след
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 11:20:00 stop = 23/05/2018 13:00:00 title = Лесник
-      Replaces ----- start = 23/05/2018 11:20:00 stop = 23/05/2018 13:00:00 title = Лесник
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 19:40:00 stop = 23/05/2018 21:30:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 23/05/2018 19:40:00 stop = 23/05/2018 21:30:00 title = Морские дьяволы. Смерч-2
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 05:00:00 stop = 24/05/2018 06:00:00 title = Дорожный патруль-2
-      Replaces ----- start = 24/05/2018 05:00:00 stop = 24/05/2018 06:00:00 title = Дорожный патруль-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 06:05:00 stop = 24/05/2018 07:00:00 title = Дорожный патруль-2
-      Replaces ----- start = 24/05/2018 06:05:00 stop = 24/05/2018 07:00:00 title = Дорожный патруль-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 09:00:00 stop = 24/05/2018 10:00:00 title = Мухтар. Новый след
-      Replaces ----- start = 24/05/2018 09:00:00 stop = 24/05/2018 10:00:00 title = Мухтар. Новый след
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 11:20:00 stop = 24/05/2018 13:00:00 title = Лесник
-      Replaces ----- start = 24/05/2018 11:20:00 stop = 24/05/2018 13:00:00 title = Лесник
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 19:40:00 stop = 24/05/2018 21:30:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 24/05/2018 19:40:00 stop = 24/05/2018 21:30:00 title = Морские дьяволы. Смерч-2
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 05:00:00 stop = 25/05/2018 06:00:00 title = Дорожный патруль-2
-      Replaces ----- start = 25/05/2018 05:00:00 stop = 25/05/2018 06:00:00 title = Дорожный патруль-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 06:05:00 stop = 25/05/2018 07:00:00 title = Дорожный патруль-2
-      Replaces ----- start = 25/05/2018 06:05:00 stop = 25/05/2018 07:00:00 title = Дорожный патруль-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 09:00:00 stop = 25/05/2018 10:00:00 title = Мухтар. Новый след
-      Replaces ----- start = 25/05/2018 09:00:00 stop = 25/05/2018 10:00:00 title = Мухтар. Новый след
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 11:20:00 stop = 25/05/2018 13:00:00 title = Лесник
-      Replaces ----- start = 25/05/2018 11:20:00 stop = 25/05/2018 13:00:00 title = Лесник
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 19:40:00 stop = 25/05/2018 21:30:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 25/05/2018 19:40:00 stop = 25/05/2018 21:30:00 title = Морские дьяволы. Смерч-2
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 00:30:00 stop = 26/05/2018 01:30:00 title = Мы и наука. Наука и мы
-      Replaces ----- start = 26/05/2018 00:30:00 stop = 26/05/2018 01:30:00 title = Мы и наука. Наука и мы
-.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 09:10:00 stop = 26/05/2018 10:00:00 title = Кто в доме хозяин?
-      Replaces ----- start = 26/05/2018 09:10:00 stop = 26/05/2018 10:00:00 title = Кто в доме хозяин?
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 13:05:00 stop = 26/05/2018 14:00:00 title = Поедем, поедим!
-      Replaces ----- start = 26/05/2018 13:05:00 stop = 26/05/2018 14:00:00 title = Поедем, поедим!
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 20:00:00 stop = 26/05/2018 23:05:00 title = Ты супер!
-      Replaces ----- start = 26/05/2018 20:00:00 stop = 26/05/2018 23:05:00 title = Ты супер!
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 14:00:00 stop = 27/05/2018 15:05:00 title = Лотерея "У нас выигрывают!"
-      Replaces ----- start = 27/05/2018 14:00:00 stop = 27/05/2018 15:05:00 title = Лотерея "У нас выигрывают!"
-..........
-
-(   8/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii.........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 22:00:00 stop = 23/05/2018 23:00:00 title = Где логика?
-      Replaces ----- start = 23/05/2018 22:00:00 stop = 23/05/2018 23:00:00 title = Где логика?
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 00:00:00 stop = 24/05/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 24/05/2018 00:00:00 stop = 24/05/2018 01:00:00 title = Дом-2. После заката
-..................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 00:00:00 stop = 25/05/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 25/05/2018 00:00:00 stop = 25/05/2018 01:00:00 title = Дом-2. После заката
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 02:55:00 stop = 25/05/2018 03:00:00 title = ТНТ-Club
-      Replaces ----- start = 25/05/2018 02:55:00 stop = 25/05/2018 03:00:00 title = ТНТ-Club
-...............................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 00:00:00 stop = 26/05/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 26/05/2018 00:00:00 stop = 26/05/2018 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 01:00:00 stop = 26/05/2018 01:30:00 title = Такое Кино!
-      Replaces ----- start = 26/05/2018 01:00:00 stop = 26/05/2018 01:30:00 title = Такое Кино!
-..............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 13:30:00 stop = 26/05/2018 14:00:00 title = Однажды в России
-      Replaces ----- start = 26/05/2018 13:00:00 stop = 26/05/2018 14:00:00 title = Однажды в России
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 16:00:00 stop = 26/05/2018 17:00:00 title = Однажды в России
-      Replaces ----- start = 26/05/2018 16:00:00 stop = 26/05/2018 18:00:00 title = Пиксели
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 17:00:00 stop = 26/05/2018 17:30:00 title = СашаТаня
-      Replaces ----- start = 26/05/2018 16:00:00 stop = 26/05/2018 18:00:00 title = Пиксели
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 17:30:00 stop = 26/05/2018 18:00:00 title = СашаТаня
-      Replaces ----- start = 26/05/2018 16:00:00 stop = 26/05/2018 18:00:00 title = Пиксели
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 19:00:00 stop = 26/05/2018 21:00:00 title = Управление гневом
-      Replaces ----- start = 26/05/2018 19:00:00 stop = 26/05/2018 19:30:00 title = СашаТаня
-      Replaces ----- start = 26/05/2018 19:30:00 stop = 26/05/2018 20:00:00 title = СашаТаня
-      Replaces ----- start = 26/05/2018 20:00:00 stop = 26/05/2018 21:00:00 title = Песни. Спецвыпуск
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 00:00:00 stop = 27/05/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 27/05/2018 00:00:00 stop = 27/05/2018 01:00:00 title = Дом-2. После заката
-................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 14:30:00 stop = 27/05/2018 16:30:00 title = Управление гневом
-      Replaces ----- start = 27/05/2018 14:30:00 stop = 27/05/2018 16:30:00 title = Пиксели
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 16:30:00 stop = 27/05/2018 18:10:00 title = Час пик-3
-      Replaces ----- start = 27/05/2018 16:30:00 stop = 27/05/2018 18:15:00 title = Час пик-3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 18:10:00 stop = 27/05/2018 19:00:00 title = Комеди Клаб
-      Replaces ----- start = 27/05/2018 16:30:00 stop = 27/05/2018 18:15:00 title = Час пик-3
-      Replaces ----- start = 27/05/2018 18:15:00 stop = 27/05/2018 19:00:00 title = Комеди Клаб
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 00:00:00 stop = 28/05/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 28/05/2018 00:00:00 stop = 28/05/2018 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 01:00:00 stop = 28/05/2018 01:30:00 title = Такое Кино!
-      Replaces ----- start = 28/05/2018 01:00:00 stop = 28/05/2018 01:30:00 title = Такое Кино!
-.....
-
-(   9/29  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 21:00:00 stop = 23/05/2018 22:00:00 title = Девочки не сдаются
-      Replaces ----- start = 23/05/2018 21:00:00 stop = 23/05/2018 22:00:00 title = Девочки не сдаются
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 02:00:00 stop = 24/05/2018 03:50:00 title = Кунг-фу Кролик: Повелитель огня
-      Replaces ----- start = 24/05/2018 02:00:00 stop = 24/05/2018 03:50:00 title = Кунг-фу Кролик: Повелитель огня
-.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 21:00:00 stop = 24/05/2018 22:00:00 title = Девочки не сдаются
-      Replaces ----- start = 24/05/2018 21:00:00 stop = 24/05/2018 22:00:00 title = Девочки не сдаются
-.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 20:30:00 stop = 25/05/2018 22:00:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 25/05/2018 20:30:00 stop = 25/05/2018 22:00:00 title = Шоу "Уральских пельменей"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 25/05/2018 22:00:00 stop = 25/05/2018 23:00:00 title = Шоу выходного дня
-      Replaces ----- start = 25/05/2018 22:00:00 stop = 25/05/2018 23:00:00 title = Шоу выходного дня
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 01:55:00 stop = 26/05/2018 03:30:00 title = Животное
-      Replaces ----- start = 26/05/2018 01:55:00 stop = 26/05/2018 04:20:00 title = Ночной дозор
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 03:30:00 stop = 26/05/2018 05:30:00 title = Девушка из Джерси
-      Replaces ----- start = 26/05/2018 01:55:00 stop = 26/05/2018 04:20:00 title = Ночной дозор
-      Replaces ----- start = 26/05/2018 04:20:00 stop = 26/05/2018 04:50:00 title = Это любовь
-      Replaces ----- start = 26/05/2018 04:50:00 stop = 26/05/2018 06:00:00 title = Ералаш
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 05:30:00 stop = 26/05/2018 05:50:00 title = Ералаш
-      Replaces ----- start = 26/05/2018 04:50:00 stop = 26/05/2018 06:00:00 title = Ералаш
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 05:50:00 stop = 26/05/2018 06:00:00 title = Музыка на СТС
-      Replaces ----- start = 26/05/2018 04:50:00 stop = 26/05/2018 06:00:00 title = Ералаш
-..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 17:00:00 stop = 26/05/2018 19:00:00 title = Взвешенные и счастливые люди
-      Replaces ----- start = 26/05/2018 17:00:00 stop = 26/05/2018 19:00:00 title = Взвешенные и счастливые люди
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 22:50:00 stop = 27/05/2018 00:35:00 title = Ускорение
-      Replaces ----- start = 26/05/2018 22:50:00 stop = 27/05/2018 01:20:00 title = Враг государства
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 00:35:00 stop = 27/05/2018 03:05:00 title = Ночной дозор
-      Replaces ----- start = 26/05/2018 22:50:00 stop = 27/05/2018 01:20:00 title = Враг государства
-      Replaces ----- start = 27/05/2018 01:20:00 stop = 27/05/2018 04:05:00 title = Дневной дозор
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 03:05:00 stop = 27/05/2018 04:50:00 title = Ямакаси, или Новые самураи
-      Replaces ----- start = 27/05/2018 01:20:00 stop = 27/05/2018 04:05:00 title = Дневной дозор
-      Replaces ----- start = 27/05/2018 04:05:00 stop = 27/05/2018 05:50:00 title = Ямакаси, или Новые самураи
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 04:50:00 stop = 27/05/2018 05:20:00 title = Это любовь
-      Replaces ----- start = 27/05/2018 04:05:00 stop = 27/05/2018 05:50:00 title = Ямакаси, или Новые самураи
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 05:20:00 stop = 27/05/2018 05:50:00 title = Ералаш
-      Replaces ----- start = 27/05/2018 04:05:00 stop = 27/05/2018 05:50:00 title = Ямакаси, или Новые самураи
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 08:30:00 stop = 27/05/2018 09:15:00 title = Уральские пельмени. Любимое
-      Replaces ----- start = 27/05/2018 08:30:00 stop = 27/05/2018 09:35:00 title = Шоу "Уральских пельменей"
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 09:15:00 stop = 27/05/2018 10:45:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 27/05/2018 08:30:00 stop = 27/05/2018 09:35:00 title = Шоу "Уральских пельменей"
-      Replaces ----- start = 27/05/2018 09:35:00 stop = 27/05/2018 11:50:00 title = Таймлесс-2: Сапфировая книга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 10:45:00 stop = 27/05/2018 11:45:00 title = Шоу выходного дня
-      Replaces ----- start = 27/05/2018 09:35:00 stop = 27/05/2018 11:50:00 title = Таймлесс-2: Сапфировая книга
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 11:45:00 stop = 27/05/2018 14:00:00 title = Таймлесс-2: Сапфировая книга
-      Replaces ----- start = 27/05/2018 09:35:00 stop = 27/05/2018 11:50:00 title = Таймлесс-2: Сапфировая книга
-      Replaces ----- start = 27/05/2018 11:50:00 stop = 27/05/2018 14:00:00 title = Таймлесс-3: Изумрудная книга
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 21:00:00 stop = 27/05/2018 23:25:00 title = Мир Юрского периода
-      Replaces ----- start = 27/05/2018 21:00:00 stop = 27/05/2018 23:25:00 title = Мир Юрского периода
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 23:25:00 stop = 28/05/2018 02:15:00 title = Дневной дозор
-      Replaces ----- start = 27/05/2018 23:25:00 stop = 28/05/2018 01:05:00 title = Животное
-      Replaces ----- start = 28/05/2018 01:05:00 stop = 28/05/2018 02:55:00 title = Это всё она
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 02:15:00 stop = 28/05/2018 04:10:00 title = Это всё она
-      Replaces ----- start = 28/05/2018 01:05:00 stop = 28/05/2018 02:55:00 title = Это всё она
-      Replaces ----- start = 28/05/2018 02:55:00 stop = 28/05/2018 05:30:00 title = Враг государства
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 04:10:00 stop = 28/05/2018 05:10:00 title = Это любовь
-      Replaces ----- start = 28/05/2018 02:55:00 stop = 28/05/2018 05:30:00 title = Враг государства
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 05:10:00 stop = 28/05/2018 05:50:00 title = Ералаш
-      Replaces ----- start = 28/05/2018 02:55:00 stop = 28/05/2018 05:30:00 title = Враг государства
-
-(  10/29  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii..........................................................................................
-
-(  11/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.............................................................................................................................................................................
-
-(  12/29  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii...................................................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 08:00:00 stop = 26/05/2018 09:30:00 title = Улетное видео
-      Replaces ----- start = 26/05/2018 08:00:00 stop = 26/05/2018 10:30:00 title = Улетное видео
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 09:30:00 stop = 26/05/2018 10:30:00 title = Программа испытаний
-      Replaces ----- start = 26/05/2018 08:00:00 stop = 26/05/2018 10:30:00 title = Улетное видео
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 26/05/2018 10:30:00 stop = 26/05/2018 11:30:00 title = Что скрывают...?
-      Replaces ----- start = 26/05/2018 10:30:00 stop = 26/05/2018 11:30:00 title = Программа испытаний
-..............
-
-(  13/29  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
+(   4/29  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 11:30:00 stop = 23/05/2018 12:30:00 title = Не ври мне!
-      Replaces ----- start = 23/05/2018 11:30:00 stop = 23/05/2018 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 12:30:00 stop = 23/05/2018 13:30:00 title = Не ври мне!
-      Replaces ----- start = 23/05/2018 12:30:00 stop = 23/05/2018 13:30:00 title = Не ври мне!
-..........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 24/05/2018 11:30:00 stop = 24/05/2018 12:30:00 title = Не ври мне!
@@ -587,13 +338,8 @@ c
       Replaces ----- start = 25/05/2018 22:00:00 stop = 25/05/2018 23:00:00 title = Арзамас
 ................................
 
-(  14/29  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
+(   5/29  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
 iiiiiiii...................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 24/05/2018 00:00:00 stop = 24/05/2018 00:35:00 title = События. 25-й час
-      Replaces ----- start = 24/05/2018 00:00:00 stop = 24/05/2018 00:35:00 title = События. 25-й час
-.......................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 25/05/2018 00:00:00 stop = 25/05/2018 00:35:00 title = События. 25-й час
@@ -610,34 +356,24 @@ iiiiiiii...................c
       Replaces ----- start = 25/05/2018 22:30:00 stop = 26/05/2018 00:00:00 title = Жена. История любви
 ........................................................
 
-(  15/29  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
+(   6/29  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 09:45:00 stop = 23/05/2018 11:45:00 title = Давай разведёмся!
-      Replaces ----- start = 23/05/2018 09:45:00 stop = 23/05/2018 11:45:00 title = Давай разведёмся!
-................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 24/05/2018 09:50:00 stop = 24/05/2018 11:50:00 title = Давай разведёмся!
       Replaces ----- start = 24/05/2018 09:50:00 stop = 24/05/2018 11:50:00 title = Давай разведёмся!
 ...................................................
 
-(  16/29  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii.................................................c
+(   7/29  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii....................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 26/05/2018 12:00:00 stop = 26/05/2018 13:00:00 title = Еда, я люблю тебя!
       Replaces ----- start = 26/05/2018 12:00:00 stop = 26/05/2018 13:00:00 title = Еда, я люблю тебя!
 ....................
 
-(  17/29  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
+(   8/29  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
 iiiiiiii......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 12:35:00 stop = 23/05/2018 13:30:00 title = Беременна в 16: Дочки-матери
-      Replaces ----- start = 23/05/2018 12:35:00 stop = 23/05/2018 13:30:00 title = Беременна в 16: Дочки-матери
-...............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 24/05/2018 12:35:00 stop = 24/05/2018 13:30:00 title = Беременна в 16: Дочки-матери
@@ -649,20 +385,15 @@ iiiiiiii......c
       Replaces ----- start = 25/05/2018 12:35:00 stop = 25/05/2018 13:30:00 title = Беременна в 16: Дочки-матери
 ..............................
 
-(  18/29  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 23/05/2018 18:40:00 stop = 23/05/2018 19:35:00 title = Непобедимая и легендарная
-      Replaces ----- start = 23/05/2018 18:40:00 stop = 23/05/2018 19:35:00 title = Непобедимая и легендарная
-..........................................................c
+(   9/29  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
+iiiiiiii................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 26/05/2018 10:30:00 stop = 26/05/2018 11:00:00 title = Не факт!
       Replaces ----- start = 26/05/2018 10:30:00 stop = 26/05/2018 11:00:00 title = Не факт!
 .............................
 
-(  19/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
+(  10/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -678,15 +409,15 @@ Generic syntax exception:
 no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
-(  19/29  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii......................................................................c
+(  10/29  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
+iiiiiiii..........................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 26/05/2018 07:30:00 stop = 26/05/2018 08:00:00 title = Союзники
-      Replaces ----- start = 26/05/2018 07:30:00 stop = 26/05/2018 08:00:00 title = Союзники
-.............................
+      show with ---- start = 26/05/2018 03:00:00 stop = 26/05/2018 03:30:00 title = Любимые актеры 2.0
+      Replaces ----- start = 26/05/2018 03:00:00 stop = 26/05/2018 03:30:00 title = Наше кино. История большой любви
+..................................
 
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -702,7 +433,7 @@ Generic syntax exception:
 no index page data received from РБК
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=Fashion TV) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -718,7 +449,7 @@ Generic syntax exception:
 no index page data received from Fashion TV
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=Ru.TV) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -734,7 +465,7 @@ Generic syntax exception:
 no index page data received from Ru.TV
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=1HD) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -750,7 +481,7 @@ Generic syntax exception:
 no index page data received from 1HD
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -766,7 +497,7 @@ Generic syntax exception:
 no index page data received from RT
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=RTД) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -782,7 +513,7 @@ Generic syntax exception:
 no index page data received from RTД
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Channel HD) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -798,7 +529,7 @@ Generic syntax exception:
 no index page data received from Discovery Channel HD
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
+(  11/29  ) TVIZ.TV -- chan. (xmltv_id=Discovery Science HD) -- mode Incremental
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -814,27 +545,133 @@ Generic syntax exception:
 no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
-(  20/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnc
+(  11/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+iiiiiii.c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 23/05/2018 23:30:00 stop = 24/05/2018 01:00:00 title = Asian Games
-      Replaces ----- start = 23/05/2018 23:45:00 stop = 24/05/2018 00:10:00 title = Heroes of the Future
-      Replaces ----- start = 24/05/2018 00:10:00 stop = 24/05/2018 01:00:00 title = Best Moment of Rio
+      show with ---- start = 24/05/2018 01:30:00 stop = 24/05/2018 02:30:00 title = The Olympic Spirit
+      Replaces ----- start = 24/05/2018 01:30:00 stop = 24/05/2018 02:45:00 title = The Nagano Tapes
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 24/05/2018 23:30:00 stop = 25/05/2018 01:00:00 title = Asian Games
-      Replaces ----- start = 24/05/2018 23:30:00 stop = 24/05/2018 23:59:00 title = Asian Games
-nnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 24/05/2018 02:30:00 stop = 24/05/2018 03:00:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 24/05/2018 01:30:00 stop = 24/05/2018 02:45:00 title = The Nagano Tapes
+      Replaces ----- start = 24/05/2018 02:45:00 stop = 24/05/2018 04:00:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 03:00:00 stop = 24/05/2018 05:00:00 title = OFFICIAL FILMS 2002 Salt Lake City
+      Replaces ----- start = 24/05/2018 02:45:00 stop = 24/05/2018 04:00:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 04:00:00 stop = 24/05/2018 05:00:00 title = The Olympic Series Stars of Athens 2004
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 05:00:00 stop = 24/05/2018 05:55:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 05:00:00 stop = 24/05/2018 05:30:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 05:30:00 stop = 24/05/2018 06:00:00 title = The Great Powers in Asia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 05:55:00 stop = 24/05/2018 07:30:00 title = St Rapahel vs Montpellier
+      Replaces ----- start = 24/05/2018 05:30:00 stop = 24/05/2018 06:00:00 title = The Great Powers in Asia
+      Replaces ----- start = 24/05/2018 06:00:00 stop = 24/05/2018 07:45:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 07:30:00 stop = 24/05/2018 09:00:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 06:00:00 stop = 24/05/2018 07:45:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 07:45:00 stop = 24/05/2018 08:10:00 title = Heroes of the Future
+      Replaces ----- start = 24/05/2018 08:10:00 stop = 24/05/2018 09:00:00 title = Best Moment of Rio
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 09:30:00 stop = 24/05/2018 10:30:00 title = The Olympic Spirit
+      Replaces ----- start = 24/05/2018 09:30:00 stop = 24/05/2018 10:45:00 title = The Nagano Tapes
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 10:30:00 stop = 24/05/2018 11:00:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 24/05/2018 09:30:00 stop = 24/05/2018 10:45:00 title = The Nagano Tapes
+      Replaces ----- start = 24/05/2018 10:45:00 stop = 24/05/2018 12:00:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 11:00:00 stop = 24/05/2018 13:00:00 title = OFFICIAL FILMS 2002 Salt Lake City
+      Replaces ----- start = 24/05/2018 10:45:00 stop = 24/05/2018 12:00:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 12:00:00 stop = 24/05/2018 13:00:00 title = The Olympic Series Stars of Athens 2004
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 13:00:00 stop = 24/05/2018 13:55:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 13:00:00 stop = 24/05/2018 13:30:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 13:30:00 stop = 24/05/2018 14:00:00 title = The Great Powers in Asia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 13:55:00 stop = 24/05/2018 15:30:00 title = St Rapahel vs Montpellier
+      Replaces ----- start = 24/05/2018 13:30:00 stop = 24/05/2018 14:00:00 title = The Great Powers in Asia
+      Replaces ----- start = 24/05/2018 14:00:00 stop = 24/05/2018 15:45:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 15:30:00 stop = 24/05/2018 17:00:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 14:00:00 stop = 24/05/2018 15:45:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 15:45:00 stop = 24/05/2018 16:10:00 title = Heroes of the Future
+      Replaces ----- start = 24/05/2018 16:10:00 stop = 24/05/2018 17:00:00 title = Best Moment of Rio
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 17:30:00 stop = 24/05/2018 18:25:00 title = The Z Team
+      Replaces ----- start = 24/05/2018 17:30:00 stop = 24/05/2018 18:30:00 title = The Olympic Series The Olympic spirit
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 18:25:00 stop = 24/05/2018 19:29:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 17:30:00 stop = 24/05/2018 18:30:00 title = The Olympic Series The Olympic spirit
+      Replaces ----- start = 24/05/2018 18:30:00 stop = 24/05/2018 19:00:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 24/05/2018 19:00:00 stop = 24/05/2018 21:00:00 title = OFFICIAL FILMS 2002 Salt Lake City
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 19:29:00 stop = 24/05/2018 20:31:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 19:00:00 stop = 24/05/2018 21:00:00 title = OFFICIAL FILMS 2002 Salt Lake City
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 20:31:00 stop = 24/05/2018 21:00:00 title = Against All Odds
+      Replaces ----- start = 24/05/2018 19:00:00 stop = 24/05/2018 21:00:00 title = OFFICIAL FILMS 2002 Salt Lake City
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 21:00:00 stop = 24/05/2018 21:45:00 title = What You Missed In Olympic 2016
+      Replaces ----- start = 24/05/2018 21:00:00 stop = 24/05/2018 21:50:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 21:45:00 stop = 24/05/2018 23:33:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 21:00:00 stop = 24/05/2018 21:50:00 title = Asian Games
+      Replaces ----- start = 24/05/2018 21:50:00 stop = 24/05/2018 22:45:00 title = The Olympic Series Stars of Athens 2004
+      Replaces ----- start = 24/05/2018 22:45:00 stop = 24/05/2018 23:30:00 title = The Great Powers in Asia
+      Replaces ----- start = 24/05/2018 23:30:00 stop = 25/05/2018 01:00:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 24/05/2018 23:33:00 stop = 25/05/2018 01:00:00 title = OFFICIAL FILMS 1992 Albertville
+      Replaces ----- start = 24/05/2018 23:30:00 stop = 25/05/2018 01:00:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 25/05/2018 23:33:00 stop = 26/05/2018 01:00:00 title = OFFICIAL FILMS 1992 Albertville
+      Replaces ----- start = 25/05/2018 23:30:00 stop = 25/05/2018 23:59:00 title = OFFICIAL FILMS 1992 Albertville
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     2
-     new shows added           47
-     unchanged shows inspected 0
-     total after update        74
+     changed shows updated     20
+     new shows added           89
+     unchanged shows inspected 3
+     total after update        133
 
 
 
-Job finished at 23/05/2018 03:10:27 done in 10m 18s
+Job finished at 24/05/2018 03:18:04 done in 17m 56s
