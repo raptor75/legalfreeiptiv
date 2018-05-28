@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 27/05/2018 03:00:08
+Job started at 28/05/2018 03:00:11
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
@@ -86,7 +86,14 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icccccc
+i
+no shows in indexpage!
+Cannot find any shows on the Index Page !
+
+   Summary for update of       TVM
+     no changes, no update necessary !
+     unchanged shows inspected 0
+     total after update        164
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -123,7 +130,14 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-innnnnn
+i
+no shows in indexpage!
+Cannot find any shows on the Index Page !
+
+   Summary for update of       TVM2
+     no changes, no update necessary !
+     unchanged shows inspected 0
+     total after update        159
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -167,20 +181,10 @@ Cannot find any shows on the Index Page !
    Summary for update of       NET TV
      no changes, no update necessary !
      unchanged shows inspected 0
-     total after update        119
+     total after update        99
 
 (   4/29  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 16:50:00 stop = 27/05/2018 19:25:00 title = Ледниковый период. Дети
-      Replaces ----- start = 27/05/2018 16:50:00 stop = 27/05/2018 19:25:00 title = Ледниковый период. Дети
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 19:25:00 stop = 27/05/2018 21:00:00 title = Премьера. "Старше всех!"
-      Replaces ----- start = 27/05/2018 19:25:00 stop = 27/05/2018 21:00:00 title = Премьера. "Старше всех!"
-....................c
+iiiiiiii................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 21:30:00 stop = 28/05/2018 23:25:00 title = Гурзуф
@@ -205,15 +209,10 @@ c
  CHANGED show corrected,
       show with ---- start = 01/06/2018 21:30:00 stop = 01/06/2018 23:30:00 title = Три аккорда
       Replaces ----- start = 01/06/2018 21:30:00 stop = 01/06/2018 23:30:00 title = Три аккорда
-........................nnnnnnnnnnnnnnnnnnnnnn
+..............................................nn
 
 (   5/29  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiiic
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 04:55:00 stop = 27/05/2018 06:45:00 title = Срочно в номер-2
-      Replaces ----- start = 27/05/2018 04:55:00 stop = 27/05/2018 06:45:00 title = Срочно в номер-2
-............................................................................................................................c
+iiiiiiii............................................................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/06/2018 04:45:00 stop = 02/06/2018 06:35:00 title = Срочно в номер-2
@@ -228,18 +227,18 @@ c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 11:40:00 stop = 02/06/2018 14:00:00 title = Юмор! Юмор! Юмор!!!
       Replaces ----- start = 02/06/2018 11:40:00 stop = 02/06/2018 14:00:00 title = Юмор! Юмор! Юмор!!!
-....nnnnnnnnnnnnnnnn
-
-(   6/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   7/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii...........c
+......c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/05/2018 14:00:00 stop = 27/05/2018 15:05:00 title = Лотерея "У нас выигрывают!"
-      Replaces ----- start = 27/05/2018 14:00:00 stop = 27/05/2018 15:05:00 title = Лотерея "У нас выигрывают!"
-...........c
+      show with ---- start = 03/06/2018 04:55:00 stop = 03/06/2018 06:45:00 title = Срочно в номер-2
+      Replaces ----- start = 03/06/2018 04:55:00 stop = 03/06/2018 06:45:00 title = Срочно в номер-2
+.............nn
+
+(   6/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
+
+(   7/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
+iiiiiiiic
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 05:00:00 stop = 28/05/2018 06:00:00 title = Дорожный патруль-2
@@ -394,20 +393,20 @@ c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 13:05:00 stop = 02/06/2018 14:00:00 title = Поедем, поедим!
       Replaces ----- start = 02/06/2018 13:05:00 stop = 02/06/2018 14:00:00 title = Поедем, поедим!
-........nnnnnnnnnnnnnnnnnnnnnnnn
+...........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/06/2018 04:05:00 stop = 03/06/2018 05:00:00 title = ППС-2
+      Replaces ----- start = 03/06/2018 04:05:00 stop = 03/06/2018 05:00:00 title = ППС-2
+...........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/06/2018 14:00:00 stop = 03/06/2018 15:05:00 title = Лотерея "У нас выигрывают!"
+      Replaces ----- start = 03/06/2018 14:00:00 stop = 03/06/2018 15:05:00 title = Лотерея "У нас выигрывают!"
+........nn
 
 (   8/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii...................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 00:00:00 stop = 28/05/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 28/05/2018 00:00:00 stop = 28/05/2018 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/05/2018 01:00:00 stop = 28/05/2018 01:30:00 title = Такое Кино!
-      Replaces ----- start = 28/05/2018 01:00:00 stop = 28/05/2018 01:30:00 title = Такое Кино!
-...............................c
+iiiiiiii.........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 21:00:00 stop = 28/05/2018 22:00:00 title = Где логика?
@@ -452,20 +451,20 @@ c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 01:00:00 stop = 02/06/2018 01:35:00 title = Такое Кино!
       Replaces ----- start = 02/06/2018 01:00:00 stop = 02/06/2018 01:35:00 title = Такое Кино!
-............................nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+............................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/06/2018 00:00:00 stop = 03/06/2018 01:00:00 title = Дом-2. После заката
+      Replaces ----- start = 03/06/2018 00:00:00 stop = 03/06/2018 01:00:00 title = Дом-2. После заката
+................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/06/2018 14:30:00 stop = 03/06/2018 15:30:00 title = Где логика?
+      Replaces ----- start = 03/06/2018 14:30:00 stop = 03/06/2018 15:30:00 title = Где логика?
+..........nnnnnnn
 
 (   9/29  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 11:45:00 stop = 27/05/2018 14:00:00 title = Таймлесс-2: Сапфировая книга
-      Replaces ----- start = 27/05/2018 11:45:00 stop = 27/05/2018 14:00:00 title = Таймлесс-2: Сапфировая книга
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 21:00:00 stop = 27/05/2018 23:25:00 title = Мир Юрского периода
-      Replaces ----- start = 27/05/2018 21:00:00 stop = 27/05/2018 23:25:00 title = Мир Юрского периода
-.......c
+iiiiiiii..c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 06:40:00 stop = 28/05/2018 08:30:00 title = Кунг-фу Кролик: Повелитель огня
@@ -510,24 +509,29 @@ c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 17:00:00 stop = 02/06/2018 19:00:00 title = Взвешенные и счастливые люди
       Replaces ----- start = 02/06/2018 17:00:00 stop = 02/06/2018 19:00:00 title = Взвешенные и счастливые люди
-...nnnnnnnnnnnnnnnnnnnn
+......................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/06/2018 23:00:00 stop = 04/06/2018 01:00:00 title = Национальная телевизионная премия "Дай пять!"-2018
+      Replaces ----- start = 03/06/2018 23:00:00 stop = 04/06/2018 01:00:00 title = Национальная телевизионная премия "Дай пять!"-2018
+nnn
 
 (  10/29  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii.......................................................................................................................................nnnnnnn
+iiiiiiii....................................................................................................................................n
 
 (  11/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii.......................................................................................................................................................................................................................................................nnnnnnnn
 
 (  12/29  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii..............................................................................c
+iiiiiiii.........................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/06/2018 01:45:00 stop = 02/06/2018 04:00:00 title = Американская история Икс
       Replaces ----- start = 02/06/2018 01:45:00 stop = 02/06/2018 04:00:00 title = Американская история Икс
-..............nnnnnnnn
+......................nn
 
 (  13/29  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii....................c
+iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 11:30:00 stop = 28/05/2018 12:30:00 title = Не ври мне!
@@ -587,10 +591,10 @@ c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 00:00:00 stop = 02/06/2018 01:00:00 title = Арзамас
       Replaces ----- start = 02/06/2018 00:00:00 stop = 02/06/2018 01:00:00 title = Арзамас
-............nnnnnnnnnnnnnn
+..........................nn
 
 (  14/29  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii............................................c
+iiiiiiii...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 29/05/2018 00:00:00 stop = 29/05/2018 00:35:00 title = События. 25-й час
@@ -630,10 +634,10 @@ iiiiiiii............................................c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 05:05:00 stop = 02/06/2018 05:40:00 title = Осторожно, мошенники!
       Replaces ----- start = 02/06/2018 05:05:00 stop = 02/06/2018 05:40:00 title = Осторожно, мошенники!
-....................nnnnnnnnnnnnnnnnnnnnnnnn
+............................................nnnn
 
 (  15/29  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii...............c
+iiiiiiii....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 09:55:00 stop = 28/05/2018 11:55:00 title = Давай разведёмся!
@@ -653,10 +657,10 @@ iiiiiiii...............c
  CHANGED show corrected,
       show with ---- start = 31/05/2018 09:50:00 stop = 31/05/2018 11:50:00 title = Давай разведёмся!
       Replaces ----- start = 31/05/2018 09:50:00 stop = 31/05/2018 11:50:00 title = Давай разведёмся!
-..................................nnnnnnnnnnnnn
+...............................................nnn
 
 (  16/29  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii.................c
+iiiiiiii.......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 19:00:00 stop = 28/05/2018 20:00:00 title = Орел и решка. Америка
@@ -676,13 +680,13 @@ c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 12:00:00 stop = 02/06/2018 13:00:00 title = Еда, я люблю тебя!
       Replaces ----- start = 02/06/2018 12:00:00 stop = 02/06/2018 13:00:00 title = Еда, я люблю тебя!
-........nnnnnnnnnn
+..................nn
 
 (  17/29  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii.....................................................................................................nnnnnnnnnn
+iiiiiiii..................................................................................................nnn
 
 (  18/29  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii..............................c
+iiiiiiii..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/05/2018 19:45:00 stop = 28/05/2018 20:20:00 title = Не факт!
@@ -697,7 +701,7 @@ iiiiiiii..............................c
  CHANGED show corrected,
       show with ---- start = 02/06/2018 10:30:00 stop = 02/06/2018 11:00:00 title = Не факт!
       Replaces ----- start = 02/06/2018 10:30:00 stop = 02/06/2018 11:00:00 title = Не факт!
-.........nnnnnnnnnnnnnnnnn
+..........................nn
 
 (  19/29  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 i
@@ -716,7 +720,12 @@ no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
 (  19/29  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.....................................................................................................................................................nnnnnnnnnnnnnnn
+iiiiiiii.......................................................................................................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/06/2018 05:40:00 stop = 03/06/2018 06:00:00 title = Любимые актеры 2.0
+      Replaces ----- start = 03/06/2018 05:40:00 stop = 03/06/2018 06:00:00 title = Любимые актеры 2.0
+.............n
 
 (  20/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
@@ -847,49 +856,138 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (  20/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiii..c
+iiiiiii.....................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/05/2018 01:30:00 stop = 27/05/2018 05:03:00 title = Nantes vs PSG
-      Replaces ----- start = 27/05/2018 01:30:00 stop = 27/05/2018 04:45:00 title = Nantes vs PSG
-      Replaces ----- start = 27/05/2018 04:45:00 stop = 27/05/2018 06:45:00 title = Vardar vs  Montpellier
+      show with ---- start = 28/05/2018 23:45:00 stop = 29/05/2018 01:00:00 title = Asian Games
+      Replaces ----- start = 28/05/2018 23:45:00 stop = 28/05/2018 23:59:00 title = Asian Games
+      Replaces ----- start = 29/05/2018 00:00:00 stop = 29/05/2018 01:00:00 title = The Olympic Series Olympic Sports Athletics
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/05/2018 05:03:00 stop = 27/05/2018 07:00:00 title = Vardar vs  Montpellier
-      Replaces ----- start = 27/05/2018 04:45:00 stop = 27/05/2018 06:45:00 title = Vardar vs  Montpellier
-      Replaces ----- start = 27/05/2018 06:45:00 stop = 27/05/2018 07:45:00 title = The Olympic Series Road to glory
+      show with ---- start = 29/05/2018 23:45:00 stop = 30/05/2018 01:00:00 title = Asian Games
+      Replaces ----- start = 29/05/2018 23:30:00 stop = 30/05/2018 00:00:00 title = Arab Stars Saeed Aouita
+      Replaces ----- start = 30/05/2018 00:00:00 stop = 30/05/2018 01:00:00 title = The Olympic Series The story of Women at the Games,Changing Times Vol.5
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 01:30:00 stop = 30/05/2018 03:15:00 title = The Final
+      Replaces ----- start = 30/05/2018 01:30:00 stop = 30/05/2018 03:45:00 title = TBC   x  TBC
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/05/2018 07:00:00 stop = 27/05/2018 07:55:00 title = The Olympic Series Road to glory
-      Replaces ----- start = 27/05/2018 06:45:00 stop = 27/05/2018 07:45:00 title = The Olympic Series Road to glory
-      Replaces ----- start = 27/05/2018 07:45:00 stop = 27/05/2018 09:00:00 title = Asian Games
+      show with ---- start = 30/05/2018 03:15:00 stop = 30/05/2018 04:15:00 title = The Olympic Series Stars of Torino 2006
+      Replaces ----- start = 30/05/2018 01:30:00 stop = 30/05/2018 03:45:00 title = TBC   x  TBC
+      Replaces ----- start = 30/05/2018 03:45:00 stop = 30/05/2018 06:30:00 title = The Final
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/05/2018 07:55:00 stop = 27/05/2018 09:00:00 title = Asian Games
-      Replaces ----- start = 27/05/2018 07:45:00 stop = 27/05/2018 09:00:00 title = Asian Games
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/05/2018 11:45:00 stop = 27/05/2018 13:25:00 title = Vardar vs  Montpellier
-      Replaces ----- start = 27/05/2018 11:45:00 stop = 27/05/2018 13:30:00 title = Vardar vs  Montpellier
+      show with ---- start = 30/05/2018 04:15:00 stop = 30/05/2018 05:15:00 title = the general highlights of the Incheon 2014
+      Replaces ----- start = 30/05/2018 03:45:00 stop = 30/05/2018 06:30:00 title = The Final
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/05/2018 13:25:00 stop = 27/05/2018 14:00:00 title = The Great Powers in Asia
-      Replaces ----- start = 27/05/2018 11:45:00 stop = 27/05/2018 13:30:00 title = Vardar vs  Montpellier
-      Replaces ----- start = 27/05/2018 13:30:00 stop = 27/05/2018 14:00:00 title = The Great Powers in Asia
-...............................
+      show with ---- start = 30/05/2018 05:15:00 stop = 30/05/2018 06:15:00 title = The Olympic Series Olympic Sports Athletics
+      Replaces ----- start = 30/05/2018 03:45:00 stop = 30/05/2018 06:30:00 title = The Final
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 06:15:00 stop = 30/05/2018 07:45:00 title = OFFICIAL FILMS Bud Greenspan
+      Replaces ----- start = 30/05/2018 03:45:00 stop = 30/05/2018 06:30:00 title = The Final
+      Replaces ----- start = 30/05/2018 06:30:00 stop = 30/05/2018 07:00:00 title = The Games of your Life  15th Asian Games, Doha 2006
+      Replaces ----- start = 30/05/2018 07:00:00 stop = 30/05/2018 08:00:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 07:45:00 stop = 30/05/2018 09:00:00 title = Asian Games
+      Replaces ----- start = 30/05/2018 07:00:00 stop = 30/05/2018 08:00:00 title = Asian Games
+      Replaces ----- start = 30/05/2018 08:00:00 stop = 30/05/2018 09:00:00 title = A Game for Two
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 09:00:00 stop = 30/05/2018 09:30:00 title = Olympics Today
+      Replaces ----- start = 30/05/2018 09:00:00 stop = 30/05/2018 09:30:00 title = Arab Stars Saeed Aouita
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 09:30:00 stop = 30/05/2018 10:30:00 title = The Olympic Series Stars of Torino 2006
+      Replaces ----- start = 30/05/2018 09:30:00 stop = 30/05/2018 10:00:00 title = Olympics Today
+      Replaces ----- start = 30/05/2018 10:00:00 stop = 30/05/2018 11:45:00 title = TBC   x  TBC
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 10:30:00 stop = 30/05/2018 11:30:00 title = the general highlights of the Incheon 2014
+      Replaces ----- start = 30/05/2018 10:00:00 stop = 30/05/2018 11:45:00 title = TBC   x  TBC
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 11:30:00 stop = 30/05/2018 12:30:00 title = The Olympic Series Olympic Sports Athletics
+      Replaces ----- start = 30/05/2018 10:00:00 stop = 30/05/2018 11:45:00 title = TBC   x  TBC
+      Replaces ----- start = 30/05/2018 11:45:00 stop = 30/05/2018 13:30:00 title = The Final
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 12:30:00 stop = 30/05/2018 14:15:00 title = The Final
+      Replaces ----- start = 30/05/2018 11:45:00 stop = 30/05/2018 13:30:00 title = The Final
+      Replaces ----- start = 30/05/2018 13:30:00 stop = 30/05/2018 14:00:00 title = The Games of your Life  15th Asian Games, Doha 2006
+      Replaces ----- start = 30/05/2018 14:00:00 stop = 30/05/2018 15:00:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 14:15:00 stop = 30/05/2018 15:45:00 title = OFFICIAL FILMS Bud Greenspan
+      Replaces ----- start = 30/05/2018 14:00:00 stop = 30/05/2018 15:00:00 title = Asian Games
+      Replaces ----- start = 30/05/2018 15:00:00 stop = 30/05/2018 16:00:00 title = A Game for Two
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 15:45:00 stop = 30/05/2018 17:00:00 title = Asian Games
+      Replaces ----- start = 30/05/2018 15:00:00 stop = 30/05/2018 16:00:00 title = A Game for Two
+      Replaces ----- start = 30/05/2018 16:00:00 stop = 30/05/2018 17:00:00 title = The Olympic Series The story of Women at the Games,Changing Times Vol.5
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 17:30:00 stop = 30/05/2018 18:45:00 title = The Nagano Tapes
+      Replaces ----- start = 30/05/2018 17:30:00 stop = 30/05/2018 18:30:00 title = The Olympic Series Stars of Torino 2006
+      Replaces ----- start = 30/05/2018 18:30:00 stop = 30/05/2018 19:30:00 title = the general highlights of the Incheon 2014
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 18:45:00 stop = 30/05/2018 20:20:00 title = Asian Games
+      Replaces ----- start = 30/05/2018 18:30:00 stop = 30/05/2018 19:30:00 title = the general highlights of the Incheon 2014
+      Replaces ----- start = 30/05/2018 19:30:00 stop = 30/05/2018 21:15:00 title = The Final
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 20:20:00 stop = 30/05/2018 21:15:00 title = The Olympic Series
+      Replaces ----- start = 30/05/2018 19:30:00 stop = 30/05/2018 21:15:00 title = The Final
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 21:15:00 stop = 30/05/2018 21:45:00 title = Olympics – History  Stars
+      Replaces ----- start = 30/05/2018 21:15:00 stop = 30/05/2018 22:15:00 title = The Olympic Series Olympic Sports Athletics
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 21:45:00 stop = 30/05/2018 22:15:00 title = Against All Odds
+      Replaces ----- start = 30/05/2018 21:15:00 stop = 30/05/2018 22:15:00 title = The Olympic Series Olympic Sports Athletics
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 22:15:00 stop = 30/05/2018 23:45:00 title = Asian Games
+      Replaces ----- start = 30/05/2018 22:15:00 stop = 30/05/2018 23:45:00 title = OFFICIAL FILMS Bud Greenspan
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/05/2018 23:45:00 stop = 30/05/2018 23:59:00 title = OFFICIAL FILMS 1956 Cortina
+      Replaces ----- start = 30/05/2018 23:45:00 stop = 30/05/2018 23:59:00 title = Asian Games
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     6
+     changed shows updated     22
      new shows added           0
-     unchanged shows inspected 36
-     total after update        84
+     unchanged shows inspected 23
+     total after update        63
 
 
 
-Job finished at 27/05/2018 03:10:57 done in 10m 49s
+Job finished at 28/05/2018 03:10:32 done in 10m 20s
