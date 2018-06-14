@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 13/06/2018 03:00:08
+Job started at 14/06/2018 03:00:12
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
@@ -86,11 +86,10 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icc..c...c..........ccc.c.c.cc.ccc..c...c..........ccc.c.c.cc.ccc..c...c..........ccc.c.c.cc.ccc..c...c..........ccc.c.c.cc.ccc..c...c..........ccc.c.c.cc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i........c..ccccccccccc.c.cccc........c..ccccccccccc.c.cccc........c..ccccccccccc.c.cccc........c..ccccccccccc.c.cccc........c..ccccccccccc.c.cccc........c..ccccccccccc.c.ccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
-
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
@@ -124,7 +123,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-in.c.cc..c.ccc.cccc.ccccccccc.c.cc..c.ccc.cccc.ccccccccc.c.cc..c.ccc.cccc.ccccccccc.c.cc..c.ccc.cccc.ccccccccc.c.cc..c.ccc.cccc.cccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+icc...cc..cc.ccccccccccccccccccccccc...cc..cc.ccccccccccccccccccccccc...cc..cc.ccccccccccccccccccccccc...cc..cc.ccccccccccccccccccccccc...cc..cc.ccccccccccccccccccccccc...cc..cc.cccccccccccccccccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -161,10 +160,10 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-ic................c.cc.cc................c.cc.cc................c.cc.cc................c.cc.cc................c.cc.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i............c..c.c.c............c..c.c.c............c..c.c.c............c..c.c.c............c..c.c.c............c..c.c.nnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii.................................c
+iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/06/2018 17:30:00 stop = 14/06/2018 20:00:00 title = Чемпионат мира по футболу-2018. Матч открытия. Прямой эфир из Москвы
@@ -184,7 +183,12 @@ iiiiiiii.................................c
  CHANGED show corrected,
       show with ---- start = 16/06/2018 15:40:00 stop = 16/06/2018 18:00:00 title = Чемпионат мира по футболу-2018. Прямой эфир из Москвы
       Replaces ----- start = 16/06/2018 15:40:00 stop = 16/06/2018 18:00:00 title = Чемпионат мира по футболу-2018. Прямой эфир из Москвы
-.......................c
+.............c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 17/06/2018 07:50:00 stop = 17/06/2018 08:20:00 title = Часовой
+      Replaces ----- start = 17/06/2018 07:50:00 stop = 17/06/2018 08:20:00 title = Часовой
+.........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 17/06/2018 17:40:00 stop = 17/06/2018 20:00:00 title = Чемпионат мира по футболу-2018. Прямой эфир из Москвы
@@ -202,7 +206,7 @@ iiiiiiii.................................c
 .
 
 (   5/29  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii...............................................................c
+iiiiiiii.........................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/06/2018 04:45:00 stop = 16/06/2018 06:35:00 title = Срочно в номер. На службе закона
@@ -220,45 +224,10 @@ c
 ..............
 
 (   6/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................
+iiiiiiii...............................................................................................................................................................................................
 
 (   7/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiii.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 05:35:00 stop = 13/06/2018 06:00:00 title = Дорожный патруль-4
-      Replaces ----- start = 13/06/2018 05:35:00 stop = 13/06/2018 06:00:00 title = Дорожный патруль-4
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 06:05:00 stop = 13/06/2018 06:30:00 title = Дорожный патруль-4
-      Replaces ----- start = 13/06/2018 06:05:00 stop = 13/06/2018 06:30:00 title = Дорожный патруль-4
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 08:30:00 stop = 13/06/2018 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 13/06/2018 08:30:00 stop = 13/06/2018 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 10:25:00 stop = 13/06/2018 11:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 13/06/2018 10:25:00 stop = 13/06/2018 11:00:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 11:00:00 stop = 13/06/2018 13:00:00 title = Лесник
-      Replaces ----- start = 13/06/2018 11:00:00 stop = 13/06/2018 13:00:00 title = Лесник
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 19:40:00 stop = 13/06/2018 23:30:00 title = Морские дьяволы. Смерч-2
-      Replaces ----- start = 13/06/2018 19:40:00 stop = 13/06/2018 23:30:00 title = Морские дьяволы. Смерч-2
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/06/2018 03:05:00 stop = 14/06/2018 05:00:00 title = ППС-2
-      Replaces ----- start = 14/06/2018 03:05:00 stop = 14/06/2018 05:00:00 title = ППС-2
-.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/06/2018 05:35:00 stop = 14/06/2018 06:00:00 title = Дорожный патруль-4
@@ -356,27 +325,7 @@ c
 ..........
 
 (   8/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii..........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 22:00:00 stop = 13/06/2018 23:00:00 title = Где логика?
-      Replaces ----- start = 13/06/2018 22:00:00 stop = 13/06/2018 23:00:00 title = Где логика?
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/06/2018 00:00:00 stop = 14/06/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 14/06/2018 00:00:00 stop = 14/06/2018 01:00:00 title = Дом-2. После заката
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/06/2018 04:00:00 stop = 14/06/2018 05:00:00 title = Где логика?
-      Replaces ----- start = 14/06/2018 04:00:00 stop = 14/06/2018 05:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/06/2018 05:00:00 stop = 14/06/2018 06:00:00 title = Где логика?
-      Replaces ----- start = 14/06/2018 05:00:00 stop = 14/06/2018 06:00:00 title = Где логика?
-..............................c
+iiiiiiii............................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/06/2018 00:00:00 stop = 15/06/2018 01:00:00 title = Дом-2. После заката
@@ -437,11 +386,6 @@ c
 iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/06/2018 23:20:00 stop = 14/06/2018 00:20:00 title = Девочки не сдаются
-      Replaces ----- start = 13/06/2018 23:20:00 stop = 14/06/2018 00:20:00 title = Девочки не сдаются
-...............c
-   epg correction : 
- CHANGED show corrected,
       show with ---- start = 14/06/2018 23:25:00 stop = 15/06/2018 00:30:00 title = Девочки не сдаются
       Replaces ----- start = 14/06/2018 23:25:00 stop = 15/06/2018 00:30:00 title = Девочки не сдаются
 ................c
@@ -467,7 +411,7 @@ c
 ....
 
 (  10/29  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii...........................................................c
+iiiiiiii..................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/06/2018 22:30:00 stop = 17/06/2018 00:30:00 title = Район №9
@@ -484,23 +428,13 @@ iiiiiiii...........................................................c
       Replaces ----- start = 18/06/2018 00:00:00 stop = 18/06/2018 02:10:00 title = Соль. Классика
 
 (  11/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................
+iiiiiiii.......................................................................................................................................
 
 (  12/29  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii..................................................................
+iiiiiiii...................................................
 
 (  13/29  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 11:30:00 stop = 13/06/2018 12:30:00 title = Не ври мне!
-      Replaces ----- start = 13/06/2018 11:30:00 stop = 13/06/2018 12:30:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 12:30:00 stop = 13/06/2018 13:30:00 title = Не ври мне!
-      Replaces ----- start = 13/06/2018 12:30:00 stop = 13/06/2018 13:30:00 title = Не ври мне!
-..........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/06/2018 11:30:00 stop = 14/06/2018 12:30:00 title = Не ври мне!
@@ -528,12 +462,7 @@ c
 .....................................
 
 (  14/29  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/06/2018 00:00:00 stop = 14/06/2018 00:35:00 title = События. 25-й час
-      Replaces ----- start = 14/06/2018 00:00:00 stop = 14/06/2018 00:35:00 title = События. 25-й час
-......................c
+iiiiiiii.................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/06/2018 00:00:00 stop = 15/06/2018 00:35:00 title = События. 25-й час
@@ -549,16 +478,6 @@ iiiiiiii..................c
 iiiiiiii....c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/06/2018 09:40:00 stop = 13/06/2018 11:40:00 title = Давай разведёмся!
-      Replaces ----- start = 13/06/2018 09:40:00 stop = 13/06/2018 11:40:00 title = Давай разведёмся!
-........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/06/2018 00:30:00 stop = 14/06/2018 01:25:00 title = Глухарь. Продолжение
-      Replaces ----- start = 14/06/2018 00:30:00 stop = 14/06/2018 01:25:00 title = Глухарь. Продолжение
-........c
-   epg correction : 
- CHANGED show corrected,
       show with ---- start = 14/06/2018 09:40:00 stop = 14/06/2018 11:40:00 title = Давай разведёмся!
       Replaces ----- start = 14/06/2018 09:40:00 stop = 14/06/2018 11:40:00 title = Давай разведёмся!
 ................c
@@ -569,7 +488,7 @@ iiiiiiii....c
 ...................................
 
 (  16/29  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii...................................................c
+iiiiiiii....................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/06/2018 12:00:00 stop = 16/06/2018 13:00:00 title = Еда, я люблю тебя!
@@ -582,10 +501,10 @@ iiiiiiii...................................................c
 ...........
 
 (  17/29  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii..................................................................
+iiiiiiii...................................................
 
 (  18/29  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii...............................................................c
+iiiiiiii...........................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 16/06/2018 10:30:00 stop = 16/06/2018 11:00:00 title = Не факт!
@@ -619,17 +538,7 @@ no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
 (  19/29  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii...........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 17:10:00 stop = 13/06/2018 18:05:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 13/06/2018 17:10:00 stop = 13/06/2018 18:05:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/06/2018 18:05:00 stop = 13/06/2018 19:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 13/06/2018 18:05:00 stop = 13/06/2018 19:00:00 title = Возвращение Мухтара-2
-......................c
+iiiiiiii............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/06/2018 17:10:00 stop = 14/06/2018 18:05:00 title = Возвращение Мухтара-2
@@ -706,9 +615,6 @@ no index page data received from 1HD
 unable to update channel, try again later
 Existing guide data restored!
 (  20/29  ) TVIZ.TV -- chan. (xmltv_id=RT) -- mode Incremental
-
-no robots data found
-skipped robots check
 i
 error downloading page: The request timed out (5sec)
 Retry 1 of 4 times
@@ -773,15 +679,27 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (  20/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+no robots data found
+skipped robots check
+iiiiiiinnnnnnnnnnnnnnnnnnnnnnnnnnnc
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/06/2018 23:00:00 stop = 14/06/2018 23:30:00 title = Legends Live On
+      Replaces ----- start = 14/06/2018 23:15:00 stop = 15/06/2018 00:30:00 title = Transform My Meal
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/06/2018 23:30:00 stop = 14/06/2018 23:59:00 title = JAMAICA
+      Replaces ----- start = 14/06/2018 23:15:00 stop = 15/06/2018 00:30:00 title = Transform My Meal
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     0
-     new shows added           55
+     changed shows updated     2
+     new shows added           27
      unchanged shows inspected 0
-     total after update        55
+     total after update        58
 
 
 
-Job finished at 13/06/2018 03:10:26 done in 10m 18s
+Job finished at 14/06/2018 03:10:16 done in 10m 4s
