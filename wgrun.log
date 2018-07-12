@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 11/07/2018 03:00:07
+Job started at 12/07/2018 03:00:08
 found: /data/epg/.wg++/siteini.pack/Malta/melita.com.ini -- Revision 00
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
@@ -86,7 +86,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i..cc..ccc...ccc.c.c.c.cc.c..cccc..c.cccc..cc..ccc...ccc.c.c.c.cc.c..cccc..c.cccc..cc..ccc...ccc.c.c.c.cc.c..cccc..c.cccc..cc..ccc...ccc.c.c.c.cc.c..cccc..c.cccc..cc..ccc...ccc.c.c.c.cc.c..cccc..c.cccc..cc..ccc...ccc.c.c.c.cc.c..cccc..c.ccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i..cc..ccc..cc.c.c.c.c.cc.c..ccc.c.c......cc..ccc..cc.c.c.c.c.cc.c..ccc.c.c......cc..ccc..cc.c.c.c.c.cc.c..ccc.c.c......cc..ccc..cc.c.c.c.c.cc.c..ccc.c.c......cc..ccc..cc.c.c.c.c.cc.c..ccc.c.c......cc..ccc..cc.c.c.c.c.cc.c..ccc.c.c...nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   2/29  ) MELITA.COM -- chan. (xmltv_id=TVM2) -- mode Incremental
 
@@ -123,7 +123,7 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-i...ccccccc.c............c....c.......ccccccc.c............c....c.......ccccccc.c............c....c.......ccccccc.c............c....c.......ccccccc.c............c....c.......ccccccc.c............c....c...nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+i...ccccccccc..............cccccc.c...ccccccccc..............cccccc.c...ccccccccc..............cccccc.c...ccccccccc..............cccccc.c...ccccccccc..............cccccc.c...ccccccccc..............cccccc.cnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   3/29  ) MELITA.COM -- chan. (xmltv_id=NET TV) -- mode Incremental
 
@@ -160,25 +160,19 @@ i
   !! -- WARNING : melita.com doesn't allow epg grabbing !!
 it is advised to disable this channel / site from your channel list
 
-icc.cccc.c...........c.c..cc.cccc.c...........c.c..cc.cccc.c...........c.c..cc.cccc.c...........c.c..cc.cccc.c...........c.c..cc.cccc.c...........c.c.nnnnnnnnnnnnnnnnnnnnnnnnn
+i...ccc..c...........c.c.....ccc..c...........c.c.....ccc..c...........c.c.....ccc..c...........c.c.....ccc..c...........c.c.....ccc..c...........c.c.nnnnnnnnnnnnnnnnnnnnnnnnn
 
 (   4/29  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 23:40:00 stop = 12/07/2018 00:40:00 title = Sпарта
-      Replaces ----- start = 11/07/2018 23:40:00 stop = 12/07/2018 00:40:00 title = Sпарта
-......................c
+iiiiiiii................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 21:35:00 stop = 12/07/2018 23:50:00 title = После тебя
-      Replaces ----- start = 12/07/2018 21:35:00 stop = 12/07/2018 23:30:00 title = После тебя
-      Replaces ----- start = 12/07/2018 23:30:00 stop = 13/07/2018 00:50:00 title = Sпарта
+      Replaces ----- start = 12/07/2018 21:35:00 stop = 12/07/2018 23:50:00 title = После тебя
 c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 23:50:00 stop = 13/07/2018 00:50:00 title = Sпарта
-      Replaces ----- start = 12/07/2018 23:30:00 stop = 13/07/2018 00:50:00 title = Sпарта
+      Replaces ----- start = 12/07/2018 23:50:00 stop = 13/07/2018 00:50:00 title = Sпарта
 ......................c
    epg correction : 
  CHANGED show corrected,
@@ -187,12 +181,7 @@ c
 .................................................
 
 (   5/29  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 20:45:00 stop = 11/07/2018 22:55:00 title = Футбол. Чемпионат мира-2018. 1/2 финала. Прямая трансляция из Москвы
-      Replaces ----- start = 11/07/2018 20:45:00 stop = 11/07/2018 22:55:00 title = Футбол. Чемпионат мира-2018. 1/2 финала. Прямая трансляция из Москвы
-..............................................c
+iiiiiiii...........................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/07/2018 05:20:00 stop = 14/07/2018 07:10:00 title = Срочно в номер. На службе закона
@@ -205,30 +194,10 @@ iiiiiiii.................c
 ............
 
 (   6/29  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................
+iiiiiiii...............................................................................................................................................................................................
 
 (   7/29  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii..............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 18:00:00 stop = 11/07/2018 19:00:00 title = Морские дьяволы-2
-      Replaces ----- start = 11/07/2018 18:00:00 stop = 11/07/2018 19:00:00 title = Морские дьяволы-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 19:40:00 stop = 11/07/2018 23:30:00 title = Морские дьяволы-2
-      Replaces ----- start = 11/07/2018 19:40:00 stop = 11/07/2018 23:30:00 title = Морские дьяволы-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 23:30:00 stop = 12/07/2018 00:30:00 title = Свидетели-2
-      Replaces ----- start = 11/07/2018 23:30:00 stop = 12/07/2018 00:30:00 title = Свидетели-2
-....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 03:50:00 stop = 12/07/2018 04:50:00 title = Дорожный патруль-4
-      Replaces ----- start = 12/07/2018 03:50:00 stop = 12/07/2018 04:50:00 title = Дорожный патруль-4
-.....c
+iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 08:30:00 stop = 12/07/2018 10:00:00 title = Возвращение Мухтара-2
@@ -311,67 +280,7 @@ c
 ........
 
 (   8/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 14:00:00 stop = 11/07/2018 14:30:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 14:00:00 stop = 11/07/2018 14:30:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 14:30:00 stop = 11/07/2018 15:00:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 14:30:00 stop = 11/07/2018 15:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 15:00:00 stop = 11/07/2018 16:00:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 15:00:00 stop = 11/07/2018 16:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 16:00:00 stop = 11/07/2018 17:00:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 16:00:00 stop = 11/07/2018 17:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 17:00:00 stop = 11/07/2018 18:00:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 17:00:00 stop = 11/07/2018 18:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 18:00:00 stop = 11/07/2018 19:00:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 18:00:00 stop = 11/07/2018 19:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 19:00:00 stop = 11/07/2018 19:30:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 19:00:00 stop = 11/07/2018 19:30:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 19:30:00 stop = 11/07/2018 20:00:00 title = Где логика?
-      Replaces ----- start = 11/07/2018 19:30:00 stop = 11/07/2018 20:00:00 title = Где логика?
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 00:00:00 stop = 12/07/2018 01:05:00 title = Дом-2. После заката
-      Replaces ----- start = 12/07/2018 00:00:00 stop = 12/07/2018 01:05:00 title = Дом-2. После заката
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 03:05:00 stop = 12/07/2018 04:00:00 title = Где логика?
-      Replaces ----- start = 12/07/2018 03:05:00 stop = 12/07/2018 04:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 04:00:00 stop = 12/07/2018 05:00:00 title = Где логика?
-      Replaces ----- start = 12/07/2018 04:00:00 stop = 12/07/2018 05:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 05:00:00 stop = 12/07/2018 06:00:00 title = Где логика?
-      Replaces ----- start = 12/07/2018 05:00:00 stop = 12/07/2018 06:00:00 title = Где логика?
-........................c
+iiiiiiii......................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 13/07/2018 00:00:00 stop = 13/07/2018 01:05:00 title = Дом-2. После заката
@@ -439,7 +348,7 @@ c
 .
 
 (   9/29  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.............................................................c
+iiiiiiii..........................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/07/2018 12:00:00 stop = 14/07/2018 13:40:00 title = Дикие предки
@@ -452,59 +361,26 @@ iiiiiiii.............................................................c
 ......................
 
 (  10/29  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii.............................................................................................
+iiiiiiii.....................................................................
 
 (  11/29  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................
+iiiiiiii.......................................................................................................................................
 
 (  12/29  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii............c
+iiiiiiii.............g
    epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 00:00:00 stop = 12/07/2018 01:45:00 title = 24
-      Replaces ----- start = 12/07/2018 00:00:00 stop = 12/07/2018 01:40:00 title = 24
-      Replaces ----- start = 12/07/2018 01:40:00 stop = 12/07/2018 04:00:00 title = Затойчи
+ MISSING show added,
+      show with ---- start = 13/07/2018 01:50:00 stop = 13/07/2018 03:30:00 title = Тиран
+      Added before - start = 13/07/2018 03:50:00 stop = 13/07/2018 04:00:00 title = Улетное видео
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 12/07/2018 01:45:00 stop = 12/07/2018 03:40:00 title = На игле
-      Replaces ----- start = 12/07/2018 01:40:00 stop = 12/07/2018 04:00:00 title = Затойчи
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 03:40:00 stop = 12/07/2018 04:30:00 title = Улетное видео
-      Replaces ----- start = 12/07/2018 01:40:00 stop = 12/07/2018 04:00:00 title = Затойчи
-      Replaces ----- start = 12/07/2018 04:00:00 stop = 12/07/2018 04:30:00 title = Улетное видео
-.............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/07/2018 00:00:00 stop = 13/07/2018 01:50:00 title = 24
-      Replaces ----- start = 13/07/2018 00:00:00 stop = 13/07/2018 01:45:00 title = 24
-      Replaces ----- start = 13/07/2018 01:45:00 stop = 13/07/2018 03:30:00 title = На игле
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/07/2018 03:50:00 stop = 13/07/2018 04:00:00 title = Улетное видео
-      Replaces ----- start = 13/07/2018 03:30:00 stop = 13/07/2018 04:00:00 title = Улетное видео
+      show with ---- start = 13/07/2018 03:30:00 stop = 13/07/2018 04:00:00 title = Улетное видео
+      Replaces ----- start = 13/07/2018 03:50:00 stop = 13/07/2018 04:00:00 title = Улетное видео
 ...................................
 
 (  13/29  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 12:00:00 stop = 11/07/2018 13:00:00 title = Не ври мне!
-      Replaces ----- start = 11/07/2018 12:00:00 stop = 11/07/2018 13:00:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 13:00:00 stop = 11/07/2018 14:00:00 title = Не ври мне!
-      Replaces ----- start = 11/07/2018 13:00:00 stop = 11/07/2018 14:00:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 14:00:00 stop = 11/07/2018 15:00:00 title = Не ври мне!
-      Replaces ----- start = 11/07/2018 14:00:00 stop = 11/07/2018 15:00:00 title = Не ври мне!
-.............................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 12:00:00 stop = 12/07/2018 13:00:00 title = Не ври мне!
@@ -537,12 +413,7 @@ c
 ........................................
 
 (  14/29  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii..................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 00:00:00 stop = 12/07/2018 00:35:00 title = События. 25-й час
-      Replaces ----- start = 12/07/2018 00:00:00 stop = 12/07/2018 00:35:00 title = События. 25-й час
-.........................c
+iiiiiiii...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 13/07/2018 00:00:00 stop = 13/07/2018 00:35:00 title = События. 25-й час
@@ -551,11 +422,6 @@ iiiiiiii..................c
 
 (  15/29  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 09:45:00 stop = 11/07/2018 11:45:00 title = Давай разведёмся!
-      Replaces ----- start = 11/07/2018 09:45:00 stop = 11/07/2018 11:45:00 title = Давай разведёмся!
-..................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 09:45:00 stop = 12/07/2018 11:45:00 title = Давай разведёмся!
@@ -568,37 +434,7 @@ iiiiiiii....c
 ..
 
 (  16/29  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 09:00:00 stop = 11/07/2018 12:15:00 title = На ножах. Отели
-      Replaces ----- start = 11/07/2018 09:00:00 stop = 11/07/2018 13:10:00 title = На ножах. Отели
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 12:15:00 stop = 12/07/2018 00:00:00 title = На ножах
-      Replaces ----- start = 11/07/2018 09:00:00 stop = 11/07/2018 13:10:00 title = На ножах. Отели
-      Replaces ----- start = 11/07/2018 13:10:00 stop = 12/07/2018 00:00:00 title = На ножах
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 07:00:00 stop = 12/07/2018 07:40:00 title = Школа доктора Комаровского
-      Replaces ----- start = 12/07/2018 07:00:00 stop = 12/07/2018 07:30:00 title = Школа доктора Комаровского
-      Replaces ----- start = 12/07/2018 07:30:00 stop = 12/07/2018 09:15:00 title = Битва салонов
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 07:40:00 stop = 12/07/2018 09:30:00 title = Битва салонов
-      Replaces ----- start = 12/07/2018 07:30:00 stop = 12/07/2018 09:15:00 title = Битва салонов
-      Replaces ----- start = 12/07/2018 09:15:00 stop = 12/07/2018 13:00:00 title = Орел и решка. Перезагрузка
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 09:30:00 stop = 12/07/2018 17:00:00 title = На ножах
-      Replaces ----- start = 12/07/2018 09:15:00 stop = 12/07/2018 13:00:00 title = Орел и решка. Перезагрузка
-      Replaces ----- start = 12/07/2018 13:00:00 stop = 12/07/2018 15:00:00 title = Орел и решка. По морям
-      Replaces ----- start = 12/07/2018 15:00:00 stop = 12/07/2018 17:00:00 title = Орел и решка. Юбилейный
-.................c
+iiiiiiii.....................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 13/07/2018 23:00:00 stop = 14/07/2018 00:00:00 title = Пятница с Региной Тодоренко
@@ -611,15 +447,10 @@ c
 .....
 
 (  17/29  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii........................................................
+iiiiiiii...........................................
 
 (  18/29  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 20:10:00 stop = 11/07/2018 20:40:00 title = Не факт!
-      Replaces ----- start = 11/07/2018 20:10:00 stop = 11/07/2018 20:40:00 title = Не факт!
-.........................c
+iiiiiiii................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 20:10:00 stop = 12/07/2018 20:40:00 title = Не факт!
@@ -658,17 +489,7 @@ no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
 (  19/29  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 17:10:00 stop = 11/07/2018 18:05:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 11/07/2018 17:10:00 stop = 11/07/2018 18:05:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 18:05:00 stop = 11/07/2018 19:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 11/07/2018 18:05:00 stop = 11/07/2018 19:00:00 title = Возвращение Мухтара-2
-.....................c
+iiiiiiii...........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 12/07/2018 17:10:00 stop = 12/07/2018 18:05:00 title = Возвращение Мухтара-2
@@ -683,7 +504,30 @@ c
  CHANGED show corrected,
       show with ---- start = 14/07/2018 00:05:00 stop = 14/07/2018 01:35:00 title = Торжественная церемония открытия ХХVII Международного фестиваля "Славянский базар в Витебске"
       Replaces ----- start = 14/07/2018 00:05:00 stop = 14/07/2018 01:35:00 title = Торжественная церемония открытия ХХVII Международного фестиваля "Славянский базар в Витебске"
-..........................................
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/07/2018 02:05:00 stop = 14/07/2018 03:55:00 title = Злоключения Альфреда
+      Replaces ----- start = 14/07/2018 02:05:00 stop = 14/07/2018 04:05:00 title = Злоключения Альфреда
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/07/2018 03:55:00 stop = 14/07/2018 06:00:00 title = Сокровища О.К.
+      Replaces ----- start = 14/07/2018 02:05:00 stop = 14/07/2018 04:05:00 title = Злоключения Альфреда
+      Replaces ----- start = 14/07/2018 04:05:00 stop = 14/07/2018 06:05:00 title = Сокровища О.К.
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/07/2018 06:00:00 stop = 14/07/2018 06:30:00 title = Как в ресторане
+      Replaces ----- start = 14/07/2018 04:05:00 stop = 14/07/2018 06:05:00 title = Сокровища О.К.
+      Replaces ----- start = 14/07/2018 06:05:00 stop = 14/07/2018 06:35:00 title = Как в ресторане
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 14/07/2018 06:30:00 stop = 14/07/2018 07:30:00 title = Мультфильмы
+      Replaces ----- start = 14/07/2018 06:05:00 stop = 14/07/2018 06:35:00 title = Как в ресторане
+      Replaces ----- start = 14/07/2018 06:35:00 stop = 14/07/2018 07:30:00 title = Мультфильмы
+.....................................
 
 (  20/29  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
@@ -814,181 +658,37 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (  20/29  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiic
+iiiiiii.......c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 11/07/2018 00:30:00 stop = 11/07/2018 01:30:00 title = VIVA
-      Replaces ----- start = 11/07/2018 00:30:00 stop = 11/07/2018 01:00:00 title = Barshim
-      Replaces ----- start = 11/07/2018 01:00:00 stop = 11/07/2018 03:00:00 title = Egypt vs Morocco
+      show with ---- start = 12/07/2018 10:30:00 stop = 12/07/2018 11:50:00 title = Asian Games
+      Replaces ----- start = 12/07/2018 10:30:00 stop = 12/07/2018 11:45:00 title = Asian Games
+      Replaces ----- start = 12/07/2018 11:45:00 stop = 12/07/2018 13:00:00 title = Best Moments of Asian Games Incheon 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 11/07/2018 01:30:00 stop = 11/07/2018 02:25:00 title = The Olympic Series
-      Replaces ----- start = 11/07/2018 01:00:00 stop = 11/07/2018 03:00:00 title = Egypt vs Morocco
+      show with ---- start = 12/07/2018 11:50:00 stop = 12/07/2018 13:00:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 12/07/2018 11:45:00 stop = 12/07/2018 13:00:00 title = Best Moments of Asian Games Incheon 2014
+.......c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/07/2018 23:00:00 stop = 13/07/2018 00:30:00 title = Tunisia vs Guinea
+      Replaces ----- start = 12/07/2018 23:00:00 stop = 12/07/2018 23:59:00 title = Tunisia vs Guinea
+      Replaces ----- start = 13/07/2018 00:15:00 stop = 13/07/2018 00:45:00 title = The Great Powers in Asia
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 11/07/2018 02:25:00 stop = 11/07/2018 02:55:00 title = Barshim
-      Replaces ----- start = 11/07/2018 01:00:00 stop = 11/07/2018 03:00:00 title = Egypt vs Morocco
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 02:55:00 stop = 11/07/2018 03:25:00 title = Olympics Today
-      Replaces ----- start = 11/07/2018 01:00:00 stop = 11/07/2018 03:00:00 title = Egypt vs Morocco
-      Replaces ----- start = 11/07/2018 03:00:00 stop = 11/07/2018 03:30:00 title = Olympics Today
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 03:25:00 stop = 11/07/2018 08:33:00 title = La Baule / Sarzeau
-      Replaces ----- start = 11/07/2018 03:00:00 stop = 11/07/2018 03:30:00 title = Olympics Today
-      Replaces ----- start = 11/07/2018 03:30:00 stop = 11/07/2018 08:30:00 title = MouilleronSaintGermain / La RochesurYon
-      Replaces ----- start = 11/07/2018 08:30:00 stop = 11/07/2018 09:00:00 title = The Tech Race
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 08:33:00 stop = 11/07/2018 09:00:00 title = History of the Olympic Games
-      Replaces ----- start = 11/07/2018 08:30:00 stop = 11/07/2018 09:00:00 title = The Tech Race
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 09:30:00 stop = 11/07/2018 11:00:00 title = Five Rings Film
-      Replaces ----- start = 11/07/2018 09:30:00 stop = 11/07/2018 10:30:00 title = The Olympic spirit De Coubertin's vision
-      Replaces ----- start = 11/07/2018 10:30:00 stop = 11/07/2018 11:30:00 title = Asian Games
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 11:00:00 stop = 11/07/2018 12:00:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 11/07/2018 10:30:00 stop = 11/07/2018 11:30:00 title = Asian Games
-      Replaces ----- start = 11/07/2018 11:30:00 stop = 11/07/2018 12:00:00 title = Qatar National Athletics Achievements 2014
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 12:00:00 stop = 11/07/2018 12:40:00 title = Asian Sports disciplines
-      Replaces ----- start = 11/07/2018 12:00:00 stop = 11/07/2018 13:15:00 title = FINA Diving World Cup, Wuhan
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 12:40:00 stop = 11/07/2018 13:20:00 title = The Great Powers in Asia
-      Replaces ----- start = 11/07/2018 12:00:00 stop = 11/07/2018 13:15:00 title = FINA Diving World Cup, Wuhan
-      Replaces ----- start = 11/07/2018 13:15:00 stop = 11/07/2018 13:45:00 title = The Tech Race
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 13:20:00 stop = 11/07/2018 19:00:00 title = Lorient / Quimper
-      Replaces ----- start = 11/07/2018 13:15:00 stop = 11/07/2018 13:45:00 title = The Tech Race
-      Replaces ----- start = 11/07/2018 13:45:00 stop = 11/07/2018 15:35:00 title = Egypt vs Morocco
-      Replaces ----- start = 11/07/2018 15:35:00 stop = 11/07/2018 16:00:00 title = Barshim
-      Replaces ----- start = 11/07/2018 16:00:00 stop = 11/07/2018 19:00:00 title = Cholet / Cholet
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 19:30:00 stop = 11/07/2018 20:30:00 title = The Z Team
-      Replaces ----- start = 11/07/2018 19:30:00 stop = 11/07/2018 20:30:00 title = Transform My Meal
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 20:30:00 stop = 11/07/2018 21:45:00 title = Asian Games
-      Replaces ----- start = 11/07/2018 20:30:00 stop = 11/07/2018 22:00:00 title = Asian Games
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 21:45:00 stop = 11/07/2018 22:45:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 11/07/2018 20:30:00 stop = 11/07/2018 22:00:00 title = Asian Games
-      Replaces ----- start = 11/07/2018 22:00:00 stop = 11/07/2018 22:30:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Replaces ----- start = 11/07/2018 22:32:00 stop = 12/07/2018 00:05:00 title = China vs Korea
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 11/07/2018 22:45:00 stop = 12/07/2018 00:00:00 title = FINA Diving World Cup, Wuhan
-      Replaces ----- start = 11/07/2018 22:32:00 stop = 12/07/2018 00:05:00 title = China vs Korea
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 00:00:00 stop = 12/07/2018 00:30:00 title = The Tech Race
-      Replaces ----- start = 11/07/2018 22:32:00 stop = 12/07/2018 00:05:00 title = China vs Korea
-      Replaces ----- start = 12/07/2018 00:05:00 stop = 12/07/2018 01:00:00 title = VIVA
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 00:30:00 stop = 12/07/2018 01:00:00 title = The Legend of Hicham El Guerrouj
-      Replaces ----- start = 12/07/2018 00:05:00 stop = 12/07/2018 01:00:00 title = VIVA
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 01:00:00 stop = 12/07/2018 03:00:00 title = Asian Games
-      Replaces ----- start = 12/07/2018 01:00:00 stop = 12/07/2018 01:30:00 title = History of the Olympic Games
-      Replaces ----- start = 12/07/2018 01:30:00 stop = 12/07/2018 02:30:00 title = The Olympic Series
-      Replaces ----- start = 12/07/2018 02:30:00 stop = 12/07/2018 03:00:00 title = Barshim
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 03:30:00 stop = 12/07/2018 09:00:00 title = Lorient / Quimper
-      Replaces ----- start = 12/07/2018 03:30:00 stop = 12/07/2018 08:35:00 title = La Baule / Sarzeau
-      Replaces ----- start = 12/07/2018 08:35:00 stop = 12/07/2018 09:00:00 title = History of the Olympic Games
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 09:30:00 stop = 12/07/2018 10:30:00 title = The Z Team
-      Replaces ----- start = 12/07/2018 09:30:00 stop = 12/07/2018 11:00:00 title = Five Rings Film
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 10:30:00 stop = 12/07/2018 11:45:00 title = Asian Games
-      Replaces ----- start = 12/07/2018 09:30:00 stop = 12/07/2018 11:00:00 title = Five Rings Film
-      Replaces ----- start = 12/07/2018 11:00:00 stop = 12/07/2018 12:00:00 title = the general highlights of the Incheon 2014
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 11:45:00 stop = 12/07/2018 13:00:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 12/07/2018 11:00:00 stop = 12/07/2018 12:00:00 title = the general highlights of the Incheon 2014
-      Replaces ----- start = 12/07/2018 12:00:00 stop = 12/07/2018 12:30:00 title = Asian Sports disciplines
-      Replaces ----- start = 12/07/2018 12:30:00 stop = 12/07/2018 13:20:00 title = The Great Powers in Asia
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 13:00:00 stop = 12/07/2018 13:30:00 title = The Tech Race
-      Replaces ----- start = 12/07/2018 12:30:00 stop = 12/07/2018 13:20:00 title = The Great Powers in Asia
-      Replaces ----- start = 12/07/2018 13:20:00 stop = 12/07/2018 19:00:00 title = Lorient / Quimper
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 13:30:00 stop = 12/07/2018 14:00:00 title = The Legend of Hicham El Guerrouj
-      Replaces ----- start = 12/07/2018 13:20:00 stop = 12/07/2018 19:00:00 title = Lorient / Quimper
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 14:00:00 stop = 12/07/2018 19:00:00 title = Brest / Mur de Bretagne Guerledan
-      Replaces ----- start = 12/07/2018 13:20:00 stop = 12/07/2018 19:00:00 title = Lorient / Quimper
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 19:30:00 stop = 12/07/2018 20:30:00 title = Design Focus
-      Replaces ----- start = 12/07/2018 19:30:00 stop = 12/07/2018 20:30:00 title = The Z Team
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 20:30:00 stop = 12/07/2018 22:30:00 title = Asian Games
-      Replaces ----- start = 12/07/2018 20:30:00 stop = 12/07/2018 21:45:00 title = Asian Games
-      Replaces ----- start = 12/07/2018 21:45:00 stop = 12/07/2018 22:45:00 title = the general highlights of the Incheon 2014
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 22:30:00 stop = 12/07/2018 23:00:00 title = Athletes Under Fire
-      Replaces ----- start = 12/07/2018 21:45:00 stop = 12/07/2018 22:45:00 title = the general highlights of the Incheon 2014
-      Replaces ----- start = 12/07/2018 22:45:00 stop = 12/07/2018 23:59:00 title = FINA Diving World Cup, Wuhan
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 12/07/2018 23:00:00 stop = 12/07/2018 23:59:00 title = Tunisia vs Guinea
-      Replaces ----- start = 12/07/2018 22:45:00 stop = 12/07/2018 23:59:00 title = FINA Diving World Cup, Wuhan
+      show with ---- start = 13/07/2018 23:00:00 stop = 14/07/2018 00:30:00 title = Tunisia vs Guinea
+      Replaces ----- start = 13/07/2018 22:30:00 stop = 13/07/2018 23:59:00 title = China vs Korea
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     29
-     new shows added           0
-     unchanged shows inspected 5
-     total after update        53
+     changed shows updated     4
+     new shows added           51
+     unchanged shows inspected 14
+     total after update        86
 
 
 
-Job finished at 11/07/2018 03:10:25 done in 10m 18s
+Job finished at 12/07/2018 03:10:28 done in 10m 19s
