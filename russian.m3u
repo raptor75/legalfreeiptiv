@@ -20,13 +20,13 @@ http://50.7.136.50:8081/che/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/tv3.png" tvg-ID="ТВ-3" tvg-name="ТВ-3",ТВ-3
 http://50.7.136.50:8081/tv3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/tvc.png" tvg-ID="ТВ Центр" tvg-name="ТВ Центр",ТВЦ
-http://50.7.136.50:8081/tvc/index.m3u8
+http://50.7.136.50:8081/tvts/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/domashniy1.png" tvg-ID="Домашний" tvg-name="Домашний",Домашний
-http://pl.kineskop.tv/site/315/315.m3u8?id=_STA267065&watch_time=300&watch_start=1529355484&p=8d9809d64e4f9d82
+http://50.7.136.50:8081/domashni/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/pyatnica.png" tvg-ID="Пятница" tvg-name="Пятница",Пятница
 http://pl.kineskop.tv/site/273/273.m3u8?id=_STA232524&watch_time=300&watch_start=1529355424&p=301d23505b81744f
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/yu.png" tvg-ID="Ю" tvg-name="Ю",Ю
-http://pl.kineskop.tv/site/220/220.m3u8?id=_STA117495&watch_time=300&watch_start=1529355602&p=7eea8418414db4fd
+http://50.7.136.50:8081/yu/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/zvezda.png" tvg-ID="Звезда" tvg-name="Звезда",Звезда
 http://pl.kineskop.tv/site/49/49.m3u8?id=_STA200797&watch_time=300&watch_start=1529355454&p=d84e19796f2a376e
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/euronews1.png" tvg-ID="EuroNews" tvg-name="Euronews",Euronews
@@ -44,7 +44,8 @@ https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/russiatoday.png" tvg-ID="RT" tvg-name="RT",Russia Today
 https://secure-streams.akamaized.net/rt/index2500.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/rtd.png" tvg-ID="RTД" tvg-name="RTД",RTД
-https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+http://50.7.136.50:8081/russia_today/index.m3u8
+#https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/discovery_hd.png" tvg-ID="Discovery Channel HD" tvg-name="Discovery Channel HD",Discovery Channel HD
 http://pl.kineskop.tv/site/177/177.m3u8?id=_STA727994&watch_time=300&watch_start=1529355784&p=9a18d2f05ed591e2
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/discovery_science.png" tvg-ID="Discovery Science HD" tvg-name="Discovery Science HD",Discovery Science HD
