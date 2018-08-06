@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 05/08/2018 03:00:09
+Job started at 06/08/2018 03:00:07
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -48,12 +48,7 @@ Found existing channel (xmltv_id=OlympicChannel) in the config file
 Group (0) :
 update requested for - 26 - out of - 26 - channels for 8 day(s)
 (   1/26  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiiic
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/08/2018 05:00:00 stop = 05/08/2018 06:40:00 title = Бокс. Бой за титул чемпиона мира
-      Replaces ----- start = 05/08/2018 05:00:00 stop = 05/08/2018 06:40:00 title = Бокс. Бой за титул чемпиона мира
-...........................c
+iiiiiiii.........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 16:00:00 stop = 06/08/2018 17:00:00 title = Мужское / Женское
@@ -133,15 +128,10 @@ c
  CHANGED show corrected,
       show with ---- start = 11/08/2018 23:00:00 stop = 12/08/2018 00:30:00 title = "КВН". Премьер-лига
       Replaces ----- start = 11/08/2018 23:00:00 stop = 12/08/2018 00:30:00 title = "КВН". Премьер-лига
-nnnnnnnnnnnnnnnnnnnnn
+.....................nnn
 
 (   2/26  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/08/2018 00:30:00 stop = 06/08/2018 01:25:00 title = Действующие лица с Наилей Аскер-заде
-      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 01:25:00 title = Действующие лица с Наилей Аскер-заде
-............c
+iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 15:00:00 stop = 06/08/2018 17:00:00 title = Косатка
@@ -171,28 +161,13 @@ iiiiiiii............c
  CHANGED show corrected,
       show with ---- start = 11/08/2018 11:40:00 stop = 11/08/2018 13:55:00 title = Юмор! Юмор! Юмор!!!
       Replaces ----- start = 11/08/2018 11:40:00 stop = 11/08/2018 13:55:00 title = Юмор! Юмор! Юмор!!!
-....nnnnnnnnnnnnn
+.................nn
 
 (   3/26  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
 
 (   4/26  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
-iiiiiiii..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/08/2018 14:00:00 stop = 05/08/2018 15:05:00 title = Лотерея "У нас выигрывают!"
-      Replaces ----- start = 05/08/2018 14:00:00 stop = 05/08/2018 15:05:00 title = Лотерея "У нас выигрывают!"
-.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/08/2018 19:40:00 stop = 05/08/2018 23:30:00 title = Шаман. Новая угроза
-      Replaces ----- start = 05/08/2018 19:40:00 stop = 05/08/2018 23:30:00 title = Шаман. Новая угроза
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/08/2018 03:10:00 stop = 06/08/2018 04:50:00 title = Дорожный патруль-4
-      Replaces ----- start = 06/08/2018 03:10:00 stop = 06/08/2018 04:50:00 title = Дорожный патруль-4
-.....c
+iiiiiiii.....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 08:30:00 stop = 06/08/2018 10:00:00 title = Возвращение Мухтара-2
@@ -397,25 +372,30 @@ c
  CHANGED show corrected,
       show with ---- start = 11/08/2018 05:30:00 stop = 11/08/2018 08:00:00 title = Ты супер!
       Replaces ----- start = 11/08/2018 05:30:00 stop = 11/08/2018 08:00:00 title = Ты супер!
-..................nnnnnnnnnnnnnnnnnnnnnn
+....................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 03:00:00 stop = 12/08/2018 04:50:00 title = Гражданка начальница. Продолжение
+      Replaces ----- start = 12/08/2018 03:00:00 stop = 12/08/2018 04:50:00 title = Гражданка начальница. Продолжение
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 05:25:00 stop = 12/08/2018 08:00:00 title = Ты супер!
+      Replaces ----- start = 12/08/2018 05:25:00 stop = 12/08/2018 08:00:00 title = Ты супер!
+.........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 14:00:00 stop = 12/08/2018 15:05:00 title = Лотерея "У нас выигрывают!"
+      Replaces ----- start = 12/08/2018 14:00:00 stop = 12/08/2018 15:05:00 title = Лотерея "У нас выигрывают!"
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 19:40:00 stop = 12/08/2018 23:30:00 title = Шаман. Новая угроза
+      Replaces ----- start = 12/08/2018 19:40:00 stop = 12/08/2018 23:30:00 title = Шаман. Новая угроза
+.
 
 (   5/26  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/08/2018 00:00:00 stop = 06/08/2018 01:00:00 title = Дом-2. После заката
-      Replaces ----- start = 06/08/2018 00:00:00 stop = 06/08/2018 01:00:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/08/2018 01:00:00 stop = 06/08/2018 01:25:00 title = Такое Кино!
-      Replaces ----- start = 06/08/2018 01:00:00 stop = 06/08/2018 01:25:00 title = Такое Кино!
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 06/08/2018 05:00:00 stop = 06/08/2018 06:00:00 title = Где логика?
-      Replaces ----- start = 06/08/2018 05:00:00 stop = 06/08/2018 06:00:00 title = Где логика?
-.....................c
+iiiiiiii...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 21:00:00 stop = 06/08/2018 22:00:00 title = Где логика?
@@ -535,15 +515,20 @@ c
  CHANGED show corrected,
       show with ---- start = 11/08/2018 05:00:00 stop = 11/08/2018 06:00:00 title = Где логика?
       Replaces ----- start = 11/08/2018 05:00:00 stop = 11/08/2018 06:00:00 title = Где логика?
-.................................nnnnnnnnnnnnnnnnnnnnnnnnn
-
-(   6/26  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii.......c
+.................................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 09:30:00 stop = 05/08/2018 12:00:00 title = Три икса
-      Replaces ----- start = 05/08/2018 09:30:00 stop = 05/08/2018 12:00:00 title = Три икса
-....................c
+      show with ---- start = 12/08/2018 00:00:00 stop = 12/08/2018 01:05:00 title = Дом-2. После заката
+      Replaces ----- start = 12/08/2018 00:00:00 stop = 12/08/2018 01:05:00 title = Дом-2. После заката
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 05:00:00 stop = 12/08/2018 06:00:00 title = Где логика?
+      Replaces ----- start = 12/08/2018 05:00:00 stop = 12/08/2018 06:00:00 title = Где логика?
+....................nnnnnnn
+
+(   6/26  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii.........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 23:15:00 stop = 06/08/2018 23:45:00 title = Новый человек
@@ -563,19 +548,24 @@ iiiiiiii.......c
  CHANGED show corrected,
       show with ---- start = 09/08/2018 23:20:00 stop = 09/08/2018 23:50:00 title = Новый человек
       Replaces ----- start = 09/08/2018 23:20:00 stop = 09/08/2018 23:50:00 title = Новый человек
-...........................................nnnnnnnnnnnnnnnnnnnn
+............................................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 19:05:00 stop = 12/08/2018 21:00:00 title = Стань легендой! Бигфут младший
+      Replaces ----- start = 12/08/2018 19:05:00 stop = 12/08/2018 21:00:00 title = Стань легендой! Бигфут младший
+..nnn
 
 (   7/26  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii..............................................................................................................................nnnn
+iiiiiiii..............................................................................................................................n
 
 (   8/26  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.........................................................................................................................................................................................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+iiiiiiii........................................................................................................................................................................................................................................................nnnnnnnn
 
 (   9/26  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii..............................................................................................nnnnnnnnnn
+iiiiiiii...............................................................................................n
 
 (  10/26  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
-iiiiiiii......................c
+iiiiiiii......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 12:00:00 stop = 06/08/2018 13:00:00 title = Не ври мне!
@@ -650,10 +640,10 @@ c
  CHANGED show corrected,
       show with ---- start = 10/08/2018 14:00:00 stop = 10/08/2018 15:00:00 title = Не ври мне!
       Replaces ----- start = 10/08/2018 14:00:00 stop = 10/08/2018 15:00:00 title = Не ври мне!
-.......................nnnnnnnnnnnnnnnn
+.......................................nn
 
 (  11/26  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.............................................c
+iiiiiiii....................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 07/08/2018 00:00:00 stop = 07/08/2018 00:35:00 title = События. 25-й час
@@ -688,10 +678,10 @@ iiiiiiii.............................................c
  CHANGED show corrected,
       show with ---- start = 11/08/2018 05:05:00 stop = 11/08/2018 05:40:00 title = Осторожно, мошенники!
       Replaces ----- start = 11/08/2018 05:05:00 stop = 11/08/2018 05:40:00 title = Осторожно, мошенники!
-.....................nnnnnnnnnnnnnnnnnnnnnnnn
+.............................................nnnnnnn
 
 (  12/26  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
-iiiiiiii..................c
+iiiiiiii....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 09:40:00 stop = 06/08/2018 10:40:00 title = Давай разведёмся!
@@ -716,26 +706,21 @@ iiiiiiii..................c
  CHANGED show corrected,
       show with ---- start = 10/08/2018 09:40:00 stop = 10/08/2018 18:00:00 title = Ой, ма-моч-ки!-2
       Replaces ----- start = 10/08/2018 09:40:00 stop = 10/08/2018 18:00:00 title = Ой, ма-моч-ки!-2
-.................nnnnnnnnnnnnnn
+...............................nnnn
 
 (  13/26  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/08/2018 12:00:00 stop = 05/08/2018 13:00:00 title = Пятница с Региной Тодоренко
-      Replaces ----- start = 05/08/2018 12:00:00 stop = 05/08/2018 13:00:00 title = Пятница с Региной Тодоренко
-.................c
+iiiiiiii..........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 23:00:00 stop = 07/08/2018 00:00:00 title = Пятница с Региной Тодоренко
       Replaces ----- start = 06/08/2018 23:00:00 stop = 07/08/2018 00:00:00 title = Пятница с Региной Тодоренко
-.......................................................................nnnnnnnnnnnn
+...................................................................................nn
 
 (  14/26  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii...............................................................................nnnnnnnnnn
+iiiiiiii..............................................................................nn
 
 (  15/26  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii.....................................c
+iiiiiiii................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 06/08/2018 18:55:00 stop = 06/08/2018 19:45:00 title = Битва за небо. История военной авиации России
@@ -780,7 +765,17 @@ c
  CHANGED show corrected,
       show with ---- start = 11/08/2018 10:30:00 stop = 11/08/2018 11:35:00 title = Не факт!
       Replaces ----- start = 11/08/2018 10:30:00 stop = 11/08/2018 11:35:00 title = Не факт!
-..............nnnnnnnnnnnnnnnnnnn
+.................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 06:25:00 stop = 12/08/2018 07:25:00 title = Подарите мне аэроплан!
+      Replaces ----- start = 12/08/2018 06:25:00 stop = 12/08/2018 07:25:00 title = Подарите мне аэроплан!
+.............c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 12/08/2018 21:55:00 stop = 12/08/2018 23:35:00 title = История воздушного боя
+      Replaces ----- start = 12/08/2018 21:55:00 stop = 12/08/2018 23:35:00 title = История воздушного боя
+.n
 
 (  16/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 i
@@ -799,7 +794,7 @@ no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
 (  16/26  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii..................................................................................................................................................nnnnnnnnnnnnnn
+iiiiiiii.................................................................................................................................................n
 
 (  17/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
@@ -933,133 +928,117 @@ Existing guide data restored!
 iiiiiiic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 01:01:00 stop = 05/08/2018 01:33:00 title = Olympics Today
-      Replaces ----- start = 05/08/2018 01:00:00 stop = 05/08/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 05/08/2018 01:30:00 stop = 05/08/2018 02:30:00 title = Design Focus
+      show with ---- start = 06/08/2018 00:35:00 stop = 06/08/2018 01:01:00 title = Qatar Handball
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 01:33:00 stop = 05/08/2018 03:15:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 01:30:00 stop = 05/08/2018 02:30:00 title = Design Focus
-      Replaces ----- start = 05/08/2018 02:30:00 stop = 05/08/2018 04:45:00 title = Asian Games
+      show with ---- start = 06/08/2018 01:01:00 stop = 06/08/2018 01:28:00 title = Olympics Today
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 03:15:00 stop = 05/08/2018 03:45:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Replaces ----- start = 05/08/2018 02:30:00 stop = 05/08/2018 04:45:00 title = Asian Games
+      show with ---- start = 06/08/2018 01:28:00 stop = 06/08/2018 03:50:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 03:45:00 stop = 05/08/2018 05:20:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 02:30:00 stop = 05/08/2018 04:45:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 04:45:00 stop = 05/08/2018 05:15:00 title = Asian Sports disciplines
-      Replaces ----- start = 05/08/2018 05:15:00 stop = 05/08/2018 06:20:00 title = FINA Diving World Cup, Wuhan
+      show with ---- start = 06/08/2018 03:50:00 stop = 06/08/2018 04:22:00 title = Arabs Participation in Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 05:20:00 stop = 05/08/2018 06:15:00 title = Olympic Sports
-      Replaces ----- start = 05/08/2018 05:15:00 stop = 05/08/2018 06:20:00 title = FINA Diving World Cup, Wuhan
+      show with ---- start = 06/08/2018 04:22:00 stop = 06/08/2018 05:48:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 06:15:00 stop = 05/08/2018 07:15:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 05:15:00 stop = 05/08/2018 06:20:00 title = FINA Diving World Cup, Wuhan
-      Replaces ----- start = 05/08/2018 06:20:00 stop = 05/08/2018 06:50:00 title = Arabs Participation in Asian Games
-      Replaces ----- start = 05/08/2018 06:50:00 stop = 05/08/2018 09:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 05:48:00 stop = 06/08/2018 06:42:00 title = The Olympic Series Olympicpeaks
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 07:15:00 stop = 05/08/2018 07:45:00 title = History of the Asian Games
-      Replaces ----- start = 05/08/2018 06:50:00 stop = 05/08/2018 09:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 06:42:00 stop = 06/08/2018 08:43:00 title = QATAR 2006 OPENER
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 07:45:00 stop = 05/08/2018 08:58:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 06:50:00 stop = 05/08/2018 09:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 08:43:00 stop = 06/08/2018 09:09:00 title = Qatar Handball
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 08:58:00 stop = 05/08/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 05/08/2018 06:50:00 stop = 05/08/2018 09:00:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 09:00:00 stop = 05/08/2018 09:30:00 title = Olympics Today
+      show with ---- start = 06/08/2018 09:09:00 stop = 06/08/2018 09:36:00 title = Olympics Today
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 09:30:00 stop = 05/08/2018 11:15:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 09:30:00 stop = 05/08/2018 10:00:00 title = Athletes Under Fire
-      Replaces ----- start = 05/08/2018 10:00:00 stop = 05/08/2018 10:30:00 title = Olympics Today
-      Replaces ----- start = 05/08/2018 10:30:00 stop = 05/08/2018 11:30:00 title = Design Focus
+      show with ---- start = 06/08/2018 09:36:00 stop = 06/08/2018 11:58:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 11:15:00 stop = 05/08/2018 11:45:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Replaces ----- start = 05/08/2018 10:30:00 stop = 05/08/2018 11:30:00 title = Design Focus
-      Replaces ----- start = 05/08/2018 11:30:00 stop = 05/08/2018 14:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 11:58:00 stop = 06/08/2018 12:30:00 title = Arabs Participation in Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 11:45:00 stop = 05/08/2018 13:20:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 11:30:00 stop = 05/08/2018 14:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 12:30:00 stop = 06/08/2018 14:00:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 13:20:00 stop = 05/08/2018 14:15:00 title = Olympic Sports
-      Replaces ----- start = 05/08/2018 11:30:00 stop = 05/08/2018 14:00:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 14:00:00 stop = 05/08/2018 15:05:00 title = FINA Diving World Cup, Wuhan
+      show with ---- start = 06/08/2018 14:00:00 stop = 06/08/2018 15:00:00 title = The Olympic Series Olympicpeaks
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 14:15:00 stop = 05/08/2018 15:15:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 14:00:00 stop = 05/08/2018 15:05:00 title = FINA Diving World Cup, Wuhan
-      Replaces ----- start = 05/08/2018 15:05:00 stop = 05/08/2018 17:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 15:00:00 stop = 06/08/2018 17:01:00 title = QATAR 2006 OPENER
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 15:15:00 stop = 05/08/2018 15:45:00 title = History of the Asian Games
-      Replaces ----- start = 05/08/2018 15:05:00 stop = 05/08/2018 17:00:00 title = Asian Games
+      show with ---- start = 06/08/2018 17:01:00 stop = 06/08/2018 17:26:00 title = Olympics Today
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 15:45:00 stop = 05/08/2018 17:00:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 15:05:00 stop = 05/08/2018 17:00:00 title = Asian Games
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 05/08/2018 17:30:00 stop = 05/08/2018 19:53:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 17:30:00 stop = 05/08/2018 18:30:00 title = Heroes of the Future
-      Replaces ----- start = 05/08/2018 18:30:00 stop = 05/08/2018 19:15:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 19:15:00 stop = 05/08/2018 19:45:00 title = Qatar National Athletics Achievements 2014
-      Replaces ----- start = 05/08/2018 19:45:00 stop = 05/08/2018 21:30:00 title = Asian Games
+      show with ---- start = 06/08/2018 17:26:00 stop = 06/08/2018 19:50:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 19:53:00 stop = 05/08/2018 20:25:00 title = Arabs Participation in Asian Games
-      Replaces ----- start = 05/08/2018 19:45:00 stop = 05/08/2018 21:30:00 title = Asian Games
+      show with ---- start = 06/08/2018 19:50:00 stop = 06/08/2018 20:50:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 20:25:00 stop = 05/08/2018 21:51:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 19:45:00 stop = 05/08/2018 21:30:00 title = Asian Games
-      Replaces ----- start = 05/08/2018 21:30:00 stop = 05/08/2018 22:30:00 title = Olympic Sports Road to glory
+      show with ---- start = 06/08/2018 20:50:00 stop = 06/08/2018 22:40:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 21:51:00 stop = 05/08/2018 22:45:00 title = The Olympic Series Olympicpeaks
-      Replaces ----- start = 05/08/2018 21:30:00 stop = 05/08/2018 22:30:00 title = Olympic Sports Road to glory
-      Replaces ----- start = 05/08/2018 22:30:00 stop = 06/08/2018 00:30:00 title = Asian Games
+      show with ---- start = 06/08/2018 22:40:00 stop = 06/08/2018 23:34:00 title = The Olympic Series
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 05/08/2018 22:45:00 stop = 05/08/2018 23:59:00 title = QATAR 2006 OPENER
-      Replaces ----- start = 05/08/2018 22:30:00 stop = 06/08/2018 00:30:00 title = Asian Games
+      show with ---- start = 06/08/2018 23:34:00 stop = 07/08/2018 00:30:00 title = Asian Games
+      Replaces ----- start = 06/08/2018 00:30:00 stop = 06/08/2018 23:59:00 title = Squash Asian
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 07/08/2018 23:34:00 stop = 08/08/2018 00:30:00 title = Asian Games
+      Replaces ----- start = 07/08/2018 00:30:00 stop = 07/08/2018 23:59:00 title = Squash Asian
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
      changed shows updated     21
-     new shows added           0
-     unchanged shows inspected 1
-     total after update        25
+     new shows added           46
+     unchanged shows inspected 0
+     total after update        67
 
 
 
-Job finished at 05/08/2018 03:11:35 done in 11m 26s
+Job finished at 06/08/2018 03:10:49 done in 10m 42s
