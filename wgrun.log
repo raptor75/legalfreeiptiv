@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 13/08/2018 03:00:08
+Job started at 14/08/2018 03:00:06
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -49,21 +49,6 @@ Group (0) :
 update requested for - 26 - out of - 26 - channels for 8 day(s)
 (   1/26  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
 iiiiiiii............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 18:25:00 stop = 13/08/2018 19:00:00 title = Видели видео?
-      Replaces ----- start = 13/08/2018 18:25:00 stop = 13/08/2018 19:00:00 title = Видели видео?
-...c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 21:35:00 stop = 13/08/2018 23:30:00 title = Любовь по приказу
-      Replaces ----- start = 13/08/2018 21:35:00 stop = 13/08/2018 23:30:00 title = Любовь по приказу
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 23:30:00 stop = 14/08/2018 00:30:00 title = Красные браслеты
-      Replaces ----- start = 13/08/2018 23:30:00 stop = 14/08/2018 00:30:00 title = Красные браслеты
-...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 18:25:00 stop = 14/08/2018 19:00:00 title = Видели видео?
@@ -118,15 +103,21 @@ c
  CHANGED show corrected,
       show with ---- start = 18/08/2018 23:00:00 stop = 19/08/2018 00:30:00 title = "КВН". Премьер-лига
       Replaces ----- start = 18/08/2018 23:00:00 stop = 19/08/2018 00:30:00 title = "КВН". Премьер-лига
-.......................nnn
+...........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/08/2018 10:00:00 stop = 19/08/2018 10:10:00 title = Новости с субтитрами
+      Replaces ----- start = 19/08/2018 10:00:00 stop = 19/08/2018 10:15:00 title = Новости с субтитрами
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 19/08/2018 10:10:00 stop = 19/08/2018 11:15:00 title = Маргарита Терехова. Отцы и дети
+      Replaces ----- start = 19/08/2018 10:00:00 stop = 19/08/2018 10:15:00 title = Новости с субтитрами
+      Replaces ----- start = 19/08/2018 10:15:00 stop = 19/08/2018 11:15:00 title = Наталья Варлей. "Свадьбы не будет!"
+.............
 
 (   2/26  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
 iiiiiiii..........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 15:00:00 stop = 13/08/2018 17:00:00 title = Косатка
-      Replaces ----- start = 13/08/2018 15:00:00 stop = 13/08/2018 17:00:00 title = Косатка
-....................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 15:00:00 stop = 14/08/2018 17:00:00 title = Косатка
@@ -151,43 +142,13 @@ iiiiiiii..........c
  CHANGED show corrected,
       show with ---- start = 17/08/2018 21:00:00 stop = 17/08/2018 23:00:00 title = Петросян-шоу
       Replaces ----- start = 17/08/2018 21:00:00 stop = 17/08/2018 23:00:00 title = Петросян-шоу
-.............................nn
+...............................
 
 (   3/26  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
+iiiiiiii...............................................................................................................................................................................................................................................................................................
 
 (   4/26  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiii.....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 08:30:00 stop = 13/08/2018 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 13/08/2018 08:30:00 stop = 13/08/2018 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 10:25:00 stop = 13/08/2018 13:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 13/08/2018 10:25:00 stop = 13/08/2018 13:00:00 title = Возвращение Мухтара-2
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 18:25:00 stop = 13/08/2018 19:00:00 title = Морские дьяволы-5
-      Replaces ----- start = 13/08/2018 18:25:00 stop = 13/08/2018 19:00:00 title = Морские дьяволы-5
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 19:40:00 stop = 13/08/2018 22:00:00 title = Морские дьяволы-5
-      Replaces ----- start = 13/08/2018 19:40:00 stop = 13/08/2018 22:00:00 title = Морские дьяволы-5
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 22:00:00 stop = 14/08/2018 00:10:00 title = Лесник. Своя земля
-      Replaces ----- start = 13/08/2018 22:00:00 stop = 14/08/2018 00:10:00 title = Лесник. Своя земля
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/08/2018 00:10:00 stop = 14/08/2018 02:05:00 title = Свидетели-2
-      Replaces ----- start = 14/08/2018 00:10:00 stop = 14/08/2018 02:05:00 title = Свидетели-2
-.......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 08:30:00 stop = 14/08/2018 10:00:00 title = Возвращение Мухтара-2
@@ -335,27 +296,7 @@ c
 .
 
 (   5/26  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii...........................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/08/2018 00:00:00 stop = 14/08/2018 01:05:00 title = Дом-2. После заката
-      Replaces ----- start = 14/08/2018 00:00:00 stop = 14/08/2018 01:05:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/08/2018 01:05:00 stop = 14/08/2018 02:05:00 title = Не спать!
-      Replaces ----- start = 14/08/2018 01:05:00 stop = 14/08/2018 02:05:00 title = Не спать!
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/08/2018 04:00:00 stop = 14/08/2018 05:00:00 title = Где логика?
-      Replaces ----- start = 14/08/2018 04:00:00 stop = 14/08/2018 05:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/08/2018 05:00:00 stop = 14/08/2018 06:00:00 title = Где логика?
-      Replaces ----- start = 14/08/2018 05:00:00 stop = 14/08/2018 06:00:00 title = Где логика?
-............................c
+iiiiiiii..........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/08/2018 00:00:00 stop = 15/08/2018 01:05:00 title = Дом-2. После заката
@@ -440,62 +381,102 @@ c
  CHANGED show corrected,
       show with ---- start = 19/08/2018 05:00:00 stop = 19/08/2018 06:00:00 title = Где логика?
       Replaces ----- start = 19/08/2018 05:00:00 stop = 19/08/2018 06:00:00 title = Где логика?
-...................nnnnnnn
+...................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/08/2018 00:00:00 stop = 20/08/2018 01:05:00 title = Дом-2. После заката
+      Replaces ----- start = 20/08/2018 00:00:00 stop = 20/08/2018 01:05:00 title = Дом-2. После заката
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/08/2018 01:05:00 stop = 20/08/2018 01:40:00 title = Такое Кино!
+      Replaces ----- start = 20/08/2018 01:05:00 stop = 20/08/2018 01:40:00 title = Такое Кино!
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 20/08/2018 05:00:00 stop = 20/08/2018 06:00:00 title = Где логика?
+      Replaces ----- start = 20/08/2018 05:00:00 stop = 20/08/2018 06:00:00 title = Где логика?
+.
 
 (   6/26  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
 iiiiiiii.........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 23:50:00 stop = 14/08/2018 00:20:00 title = Новый человек
-      Replaces ----- start = 13/08/2018 23:50:00 stop = 14/08/2018 00:20:00 title = Новый человек
-................c
+      show with ---- start = 14/08/2018 19:00:00 stop = 14/08/2018 21:00:00 title = Инопланетное вторжение. Битва за Лос-Анджелес
+      Replaces ----- start = 14/08/2018 19:00:00 stop = 14/08/2018 21:00:00 title = Напролом
+.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 23:20:00 stop = 15/08/2018 00:20:00 title = Новый человек
       Replaces ----- start = 14/08/2018 23:20:00 stop = 15/08/2018 00:20:00 title = Новый человек
-...................c
+.................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 19:00:00 stop = 15/08/2018 21:00:00 title = Механик: Воскрешение
+      Replaces ----- start = 15/08/2018 19:00:00 stop = 15/08/2018 21:00:00 title = Турист
+.c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 15/08/2018 23:30:00 stop = 16/08/2018 00:30:00 title = Новый человек
       Replaces ----- start = 15/08/2018 23:30:00 stop = 16/08/2018 00:30:00 title = Новый человек
-..................c
+.............c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 16/08/2018 23:00:00 stop = 17/08/2018 00:00:00 title = Новый человек
+      show with ---- start = 16/08/2018 09:30:00 stop = 16/08/2018 11:20:00 title = Механик: Воскрешение
+      Replaces ----- start = 16/08/2018 09:30:00 stop = 16/08/2018 11:25:00 title = Турист
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 16/08/2018 11:20:00 stop = 16/08/2018 14:00:00 title = Штурм Белого дома
+      Replaces ----- start = 16/08/2018 09:30:00 stop = 16/08/2018 11:25:00 title = Турист
+      Replaces ----- start = 16/08/2018 11:25:00 stop = 16/08/2018 14:00:00 title = Штурм Белого дома
+..c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 16/08/2018 21:00:00 stop = 16/08/2018 23:30:00 title = Мистер и миссис Смит
+      Replaces ----- start = 16/08/2018 21:00:00 stop = 16/08/2018 23:00:00 title = Быстрее пули
       Replaces ----- start = 16/08/2018 23:00:00 stop = 17/08/2018 00:00:00 title = Новый человек
-........................................................c
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 16/08/2018 23:30:00 stop = 17/08/2018 00:30:00 title = Новый человек
+      Replaces ----- start = 16/08/2018 23:00:00 stop = 17/08/2018 00:00:00 title = Новый человек
+      Replaces ----- start = 17/08/2018 00:00:00 stop = 17/08/2018 01:00:00 title = Уральские пельмени
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 17/08/2018 00:30:00 stop = 17/08/2018 01:00:00 title = Уральские пельмени
+      Replaces ----- start = 17/08/2018 00:00:00 stop = 17/08/2018 01:00:00 title = Уральские пельмени
+..........c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 17/08/2018 09:30:00 stop = 17/08/2018 11:40:00 title = Леон
+      Replaces ----- start = 17/08/2018 09:30:00 stop = 17/08/2018 09:40:00 title = Уральские пельмени
+      Replaces ----- start = 17/08/2018 09:40:00 stop = 17/08/2018 12:00:00 title = Леон
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 17/08/2018 11:40:00 stop = 17/08/2018 14:00:00 title = Мистер и миссис Смит
+      Replaces ----- start = 17/08/2018 09:40:00 stop = 17/08/2018 12:00:00 title = Леон
+      Replaces ----- start = 17/08/2018 12:00:00 stop = 17/08/2018 14:00:00 title = Быстрее пули
+..........................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 19/08/2018 19:30:00 stop = 19/08/2018 21:00:00 title = Союзники
       Replaces ----- start = 19/08/2018 19:30:00 stop = 19/08/2018 21:00:00 title = Союзники
-..nnn
+.....
 
 (   7/26  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii...............................................................................................................................
+iiiiiiii.......................................................................................................
 
 (   8/26  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.......................................................................................................................................................................................................................................................nnnnnnnn
+iiiiiiii.......................................................................................................................................................................................................................
 
 (   9/26  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii...............................................................................................nn
+iiiiiiii...................................................................................
 
 (  10/26  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 12:00:00 stop = 13/08/2018 13:00:00 title = Не ври мне!
-      Replaces ----- start = 13/08/2018 12:00:00 stop = 13/08/2018 13:00:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 13:00:00 stop = 13/08/2018 14:00:00 title = Не ври мне!
-      Replaces ----- start = 13/08/2018 13:00:00 stop = 13/08/2018 14:00:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 14:00:00 stop = 13/08/2018 15:00:00 title = Не ври мне!
-      Replaces ----- start = 13/08/2018 14:00:00 stop = 13/08/2018 15:00:00 title = Не ври мне!
-.......................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 12:00:00 stop = 14/08/2018 13:00:00 title = Не ври мне!
@@ -555,15 +536,10 @@ c
  CHANGED show corrected,
       show with ---- start = 17/08/2018 14:00:00 stop = 17/08/2018 15:00:00 title = Не ври мне!
       Replaces ----- start = 17/08/2018 14:00:00 stop = 17/08/2018 15:00:00 title = Не ври мне!
-...................................nn
+.....................................
 
 (  11/26  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii.....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 14/08/2018 00:00:00 stop = 14/08/2018 00:35:00 title = События. 25-й час
-      Replaces ----- start = 14/08/2018 00:00:00 stop = 14/08/2018 00:35:00 title = События. 25-й час
-.........................c
+iiiiiiii...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 22:30:00 stop = 14/08/2018 23:05:00 title = Осторожно, мошенники!
@@ -603,15 +579,10 @@ c
  CHANGED show corrected,
       show with ---- start = 19/08/2018 03:30:00 stop = 19/08/2018 04:15:00 title = 90-е. Лужа и Черкизон
       Replaces ----- start = 19/08/2018 03:30:00 stop = 19/08/2018 04:15:00 title = 90-е. Лужа и Черкизон
-....................nnnnnnn
+...........................
 
 (  12/26  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 09:45:00 stop = 13/08/2018 10:45:00 title = Давай разведёмся!
-      Replaces ----- start = 13/08/2018 09:45:00 stop = 13/08/2018 10:45:00 title = Давай разведёмся!
-................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 09:30:00 stop = 14/08/2018 10:30:00 title = Давай разведёмся!
@@ -641,36 +612,21 @@ iiiiiiii..c
  CHANGED show corrected,
       show with ---- start = 17/08/2018 14:25:00 stop = 17/08/2018 18:00:00 title = Женить миллионера!
       Replaces ----- start = 17/08/2018 14:25:00 stop = 17/08/2018 18:00:00 title = Женить миллионера!
-.................................nnn
+....................................
 
 (  13/26  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii.......................................................................................................c
+iiiiiiii.....................................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 19/08/2018 23:00:00 stop = 20/08/2018 01:00:00 title = Заклятие
       Replaces ----- start = 19/08/2018 23:00:00 stop = 20/08/2018 01:00:00 title = Заклятие
-nnn
+...
 
 (  14/26  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii................................................................................n
+iiiiiiii.....................................................................
 
 (  15/26  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii...............c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 18:35:00 stop = 13/08/2018 19:20:00 title = Сталинград. Победа, изменившая мир
-      Replaces ----- start = 13/08/2018 18:35:00 stop = 13/08/2018 19:20:00 title = Сталинград. Победа, изменившая мир
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 19:20:00 stop = 13/08/2018 20:10:00 title = Сталинград. Победа, изменившая мир
-      Replaces ----- start = 13/08/2018 19:20:00 stop = 13/08/2018 20:10:00 title = Сталинград. Победа, изменившая мир
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 13/08/2018 20:10:00 stop = 13/08/2018 20:40:00 title = Не факт!
-      Replaces ----- start = 13/08/2018 20:10:00 stop = 13/08/2018 20:40:00 title = Не факт!
-......................c
+iiiiiiii..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 14/08/2018 18:35:00 stop = 14/08/2018 19:20:00 title = Сталинград. Победа, изменившая мир
@@ -730,7 +686,7 @@ c
  CHANGED show corrected,
       show with ---- start = 18/08/2018 23:20:00 stop = 19/08/2018 03:30:00 title = Дума о Ковпаке
       Replaces ----- start = 18/08/2018 23:20:00 stop = 19/08/2018 03:30:00 title = Дума о Ковпаке
-.............n
+..............
 
 (  16/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 i
@@ -749,7 +705,7 @@ no index page data received from EuroNews
 unable to update channel, try again later
 Existing guide data restored!
 (  16/26  ) S-TV.RU -- chan. (xmltv_id=МИР) -- mode Incremental
-iiiiiiii.............................................................................................................................................n
+iiiiiiii......................................................................................................................
 
 (  17/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
@@ -880,410 +836,429 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (  17/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
+
+no robots data found
+skipped robots check
 iiiiiiic
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 01:00:00 stop = 13/08/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 01:00:00 stop = 14/08/2018 01:30:00 title = Olympics Today
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 01:30:00 stop = 13/08/2018 03:15:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 01:30:00 stop = 14/08/2018 02:30:00 title = VIVA
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 03:15:00 stop = 13/08/2018 03:45:00 title = Qatar Olympic national team in Asian Games 2018
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 02:30:00 stop = 14/08/2018 03:45:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 03:45:00 stop = 13/08/2018 05:20:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 03:45:00 stop = 14/08/2018 04:15:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 05:20:00 stop = 13/08/2018 06:15:00 title = Olympic Sports
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 04:15:00 stop = 14/08/2018 04:45:00 title = The Olympic On The Record
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 06:15:00 stop = 13/08/2018 07:15:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 04:45:00 stop = 14/08/2018 05:45:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 07:15:00 stop = 13/08/2018 07:45:00 title = History of the Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 05:45:00 stop = 14/08/2018 07:15:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 01:00:00 stop = 14/08/2018 07:00:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 07:00:00 stop = 14/08/2018 09:00:00 title = India vs Chinese Taipei
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 07:45:00 stop = 13/08/2018 09:00:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 07:15:00 stop = 14/08/2018 07:35:00 title = Qatar Olympic national team in Asian Games 2018
+      Replaces ----- start = 14/08/2018 07:00:00 stop = 14/08/2018 09:00:00 title = India vs Chinese Taipei
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 09:00:00 stop = 13/08/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 07:35:00 stop = 14/08/2018 08:30:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 07:00:00 stop = 14/08/2018 09:00:00 title = India vs Chinese Taipei
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 09:30:00 stop = 13/08/2018 11:05:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 08:30:00 stop = 14/08/2018 09:00:00 title = Camps to Champs
+      Replaces ----- start = 14/08/2018 07:00:00 stop = 14/08/2018 09:00:00 title = India vs Chinese Taipei
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 11:05:00 stop = 13/08/2018 11:35:00 title = The Games of your Life  15th Asian Games, Doha 2006
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 09:00:00 stop = 14/08/2018 09:30:00 title = Olympics Today
+      Replaces ----- start = 14/08/2018 09:00:00 stop = 14/08/2018 10:00:00 title = Welcome Jakarta
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 11:35:00 stop = 13/08/2018 13:05:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 09:30:00 stop = 14/08/2018 10:30:00 title = VIVA
+      Replaces ----- start = 14/08/2018 09:00:00 stop = 14/08/2018 10:00:00 title = Welcome Jakarta
+      Replaces ----- start = 14/08/2018 10:00:00 stop = 14/08/2018 12:00:00 title = Iraq vs Bahrain
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 13:05:00 stop = 13/08/2018 14:00:00 title = Olympic Sports
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 10:30:00 stop = 14/08/2018 11:45:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 10:00:00 stop = 14/08/2018 12:00:00 title = Iraq vs Bahrain
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 14:00:00 stop = 13/08/2018 14:30:00 title = Squash Asian
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 11:45:00 stop = 14/08/2018 12:15:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 14/08/2018 10:00:00 stop = 14/08/2018 12:00:00 title = Iraq vs Bahrain
+      Replaces ----- start = 14/08/2018 12:00:00 stop = 14/08/2018 14:00:00 title = Malaysa vs Qatar
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 14:30:00 stop = 13/08/2018 15:30:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 12:15:00 stop = 14/08/2018 12:45:00 title = The Olympic On The Record
+      Replaces ----- start = 14/08/2018 12:00:00 stop = 14/08/2018 14:00:00 title = Malaysa vs Qatar
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 15:30:00 stop = 13/08/2018 15:50:00 title = Qatar Olympic national team in Asian Games 2018
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 12:45:00 stop = 14/08/2018 13:45:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 14/08/2018 12:00:00 stop = 14/08/2018 14:00:00 title = Malaysa vs Qatar
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 15:50:00 stop = 13/08/2018 17:00:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 00:00:00 stop = 13/08/2018 17:00:00 title = The Great Powers in Asia
+      show with ---- start = 14/08/2018 13:45:00 stop = 14/08/2018 15:15:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 12:00:00 stop = 14/08/2018 14:00:00 title = Malaysa vs Qatar
+      Replaces ----- start = 14/08/2018 14:00:00 stop = 14/08/2018 17:00:00 title = Pakistan vs South Africa
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 17:00:00 stop = 13/08/2018 17:30:00 title = Olympics Today
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 15:15:00 stop = 14/08/2018 15:45:00 title = Patagonia Dreaming
+      Replaces ----- start = 14/08/2018 14:00:00 stop = 14/08/2018 17:00:00 title = Pakistan vs South Africa
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 17:30:00 stop = 13/08/2018 18:30:00 title = VIVA
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 15:45:00 stop = 14/08/2018 16:35:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 14:00:00 stop = 14/08/2018 17:00:00 title = Pakistan vs South Africa
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 18:30:00 stop = 13/08/2018 19:45:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 16:35:00 stop = 14/08/2018 17:00:00 title = Camps to Champs
+      Replaces ----- start = 14/08/2018 14:00:00 stop = 14/08/2018 17:00:00 title = Pakistan vs South Africa
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 19:45:00 stop = 13/08/2018 20:15:00 title = Qatar National Athletics Achievements 2014
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 17:00:00 stop = 14/08/2018 17:30:00 title = Olympics Today
+      Replaces ----- start = 14/08/2018 17:00:00 stop = 14/08/2018 18:00:00 title = Welcome Jakarta
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 20:15:00 stop = 13/08/2018 20:45:00 title = The Olympic On The Record
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 17:30:00 stop = 14/08/2018 19:00:00 title = Five Rings Film
+      Replaces ----- start = 14/08/2018 17:00:00 stop = 14/08/2018 18:00:00 title = Welcome Jakarta
+      Replaces ----- start = 14/08/2018 18:00:00 stop = 14/08/2018 18:30:00 title = The Great Powers in Asia
+      Replaces ----- start = 14/08/2018 18:30:00 stop = 14/08/2018 19:30:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 20:45:00 stop = 13/08/2018 21:45:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 19:00:00 stop = 14/08/2018 20:00:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 14/08/2018 18:30:00 stop = 14/08/2018 19:30:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 19:30:00 stop = 14/08/2018 20:00:00 title = The Games of your Life  15th Asian Games, Doha 2006
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 21:45:00 stop = 13/08/2018 23:15:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 20:00:00 stop = 14/08/2018 20:30:00 title = Asian Sports disciplines
+      Replaces ----- start = 14/08/2018 20:00:00 stop = 14/08/2018 21:45:00 title = Malaysa vs Qatar
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 23:15:00 stop = 13/08/2018 23:45:00 title = Patagonia Dreaming
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 20:30:00 stop = 14/08/2018 21:00:00 title = Athletes Under Fire
+      Replaces ----- start = 14/08/2018 20:00:00 stop = 14/08/2018 21:45:00 title = Malaysa vs Qatar
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 13/08/2018 23:45:00 stop = 14/08/2018 00:45:00 title = Asian Games
-      Replaces ----- start = 13/08/2018 17:00:00 stop = 14/08/2018 01:00:00 title = Welcome Jakarta
+      show with ---- start = 14/08/2018 21:00:00 stop = 14/08/2018 21:30:00 title = The Great Powers in Asia
+      Replaces ----- start = 14/08/2018 20:00:00 stop = 14/08/2018 21:45:00 title = Malaysa vs Qatar
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 14/08/2018 23:45:00 stop = 15/08/2018 00:45:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 14/08/2018 21:30:00 stop = 14/08/2018 22:30:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 20:00:00 stop = 14/08/2018 21:45:00 title = Malaysa vs Qatar
+      Replaces ----- start = 14/08/2018 21:45:00 stop = 14/08/2018 23:45:00 title = QATAR 2006 OPENER
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 00:45:00 stop = 15/08/2018 01:00:00 title = Camps to Champs
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 14/08/2018 22:30:00 stop = 14/08/2018 23:30:00 title = The Olympic Series Stars of Beijing 2008
+      Replaces ----- start = 14/08/2018 21:45:00 stop = 14/08/2018 23:45:00 title = QATAR 2006 OPENER
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 01:00:00 stop = 15/08/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 14/08/2018 23:30:00 stop = 15/08/2018 00:00:00 title = Asian Games
+      Replaces ----- start = 14/08/2018 21:45:00 stop = 14/08/2018 23:45:00 title = QATAR 2006 OPENER
+      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 00:45:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 01:30:00 stop = 15/08/2018 02:30:00 title = VIVA
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 00:00:00 stop = 15/08/2018 01:00:00 title = Heroes of the Future
+      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 00:45:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 00:45:00 stop = 15/08/2018 01:00:00 title = Camps to Champs
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 01:30:00 stop = 15/08/2018 03:00:00 title = Five Rings Film
+      Replaces ----- start = 15/08/2018 01:30:00 stop = 15/08/2018 02:30:00 title = VIVA
+      Replaces ----- start = 15/08/2018 02:30:00 stop = 15/08/2018 03:45:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 02:30:00 stop = 15/08/2018 03:45:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 03:00:00 stop = 15/08/2018 04:00:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 15/08/2018 02:30:00 stop = 15/08/2018 03:45:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 03:45:00 stop = 15/08/2018 04:15:00 title = Qatar National Athletics Achievements 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 03:45:00 stop = 15/08/2018 04:15:00 title = Qatar National Athletics Achievements 2014
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 04:00:00 stop = 15/08/2018 04:30:00 title = Asian Sports disciplines
+      Replaces ----- start = 15/08/2018 03:45:00 stop = 15/08/2018 04:15:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 15/08/2018 04:15:00 stop = 15/08/2018 04:45:00 title = The Olympic On The Record
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 04:15:00 stop = 15/08/2018 04:45:00 title = The Olympic On The Record
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 04:30:00 stop = 15/08/2018 05:00:00 title = Athletes Under Fire
+      Replaces ----- start = 15/08/2018 04:15:00 stop = 15/08/2018 04:45:00 title = The Olympic On The Record
+      Replaces ----- start = 15/08/2018 04:45:00 stop = 15/08/2018 05:45:00 title = Best Moments of Asian Games Incheon 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 04:45:00 stop = 15/08/2018 05:45:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 05:00:00 stop = 15/08/2018 05:30:00 title = The Great Powers in Asia
+      Replaces ----- start = 15/08/2018 04:45:00 stop = 15/08/2018 05:45:00 title = Best Moments of Asian Games Incheon 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 05:45:00 stop = 15/08/2018 07:15:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 05:30:00 stop = 15/08/2018 06:30:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 04:45:00 stop = 15/08/2018 05:45:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 15/08/2018 05:45:00 stop = 15/08/2018 07:15:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 07:15:00 stop = 15/08/2018 07:35:00 title = Qatar Olympic national team in Asian Games 2018
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 06:30:00 stop = 15/08/2018 07:25:00 title = The Olympic Series Stars of Beijing 2008
+      Replaces ----- start = 15/08/2018 05:45:00 stop = 15/08/2018 07:15:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 07:15:00 stop = 15/08/2018 07:35:00 title = Qatar Olympic national team in Asian Games 2018
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 07:35:00 stop = 15/08/2018 08:30:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 07:25:00 stop = 15/08/2018 08:00:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 07:15:00 stop = 15/08/2018 07:35:00 title = Qatar Olympic national team in Asian Games 2018
+      Replaces ----- start = 15/08/2018 07:35:00 stop = 15/08/2018 08:30:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 08:30:00 stop = 15/08/2018 09:00:00 title = Camps to Champs
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 08:00:00 stop = 15/08/2018 09:00:00 title = Heroes of the Future
+      Replaces ----- start = 15/08/2018 07:35:00 stop = 15/08/2018 08:30:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 08:30:00 stop = 15/08/2018 09:00:00 title = Camps to Champs
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 09:30:00 stop = 15/08/2018 11:00:00 title = Five Rings Film
+      Replaces ----- start = 15/08/2018 09:30:00 stop = 15/08/2018 10:30:00 title = VIVA
+      Replaces ----- start = 15/08/2018 10:30:00 stop = 15/08/2018 11:45:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 09:00:00 stop = 15/08/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 11:00:00 stop = 15/08/2018 12:00:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 15/08/2018 10:30:00 stop = 15/08/2018 11:45:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 11:45:00 stop = 15/08/2018 12:15:00 title = Qatar National Athletics Achievements 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 09:30:00 stop = 15/08/2018 10:30:00 title = VIVA
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 12:00:00 stop = 15/08/2018 12:30:00 title = Asian Sports disciplines
+      Replaces ----- start = 15/08/2018 11:45:00 stop = 15/08/2018 12:15:00 title = Qatar National Athletics Achievements 2014
+      Replaces ----- start = 15/08/2018 12:15:00 stop = 15/08/2018 12:45:00 title = The Olympic On The Record
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 10:30:00 stop = 15/08/2018 11:45:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 12:30:00 stop = 15/08/2018 13:00:00 title = Athletes Under Fire
+      Replaces ----- start = 15/08/2018 12:15:00 stop = 15/08/2018 12:45:00 title = The Olympic On The Record
+      Replaces ----- start = 15/08/2018 12:45:00 stop = 15/08/2018 13:45:00 title = Best Moments of Asian Games Incheon 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 11:45:00 stop = 15/08/2018 12:15:00 title = Qatar National Athletics Achievements 2014
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 13:00:00 stop = 15/08/2018 13:30:00 title = The Great Powers in Asia
+      Replaces ----- start = 15/08/2018 12:45:00 stop = 15/08/2018 13:45:00 title = Best Moments of Asian Games Incheon 2014
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 12:15:00 stop = 15/08/2018 12:45:00 title = The Olympic On The Record
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 13:30:00 stop = 15/08/2018 14:30:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 12:45:00 stop = 15/08/2018 13:45:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 15/08/2018 13:45:00 stop = 15/08/2018 15:15:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 12:45:00 stop = 15/08/2018 13:45:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 14:30:00 stop = 15/08/2018 15:30:00 title = The Olympic Series Stars of Beijing 2008
+      Replaces ----- start = 15/08/2018 13:45:00 stop = 15/08/2018 15:15:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 15:15:00 stop = 15/08/2018 15:45:00 title = Patagonia Dreaming
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 13:45:00 stop = 15/08/2018 15:15:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 15:30:00 stop = 15/08/2018 16:00:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 15:15:00 stop = 15/08/2018 15:45:00 title = Patagonia Dreaming
+      Replaces ----- start = 15/08/2018 15:45:00 stop = 15/08/2018 16:35:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 15:15:00 stop = 15/08/2018 15:45:00 title = Patagonia Dreaming
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 16:00:00 stop = 15/08/2018 16:30:00 title = The Olympic On The Record
+      Replaces ----- start = 15/08/2018 15:45:00 stop = 15/08/2018 16:35:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 15:45:00 stop = 15/08/2018 16:35:00 title = Asian Games
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 16:30:00 stop = 15/08/2018 17:00:00 title = Squash Asian
+      Replaces ----- start = 15/08/2018 15:45:00 stop = 15/08/2018 16:35:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 16:35:00 stop = 15/08/2018 17:00:00 title = Camps to Champs
+.c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 17:30:00 stop = 15/08/2018 18:25:00 title = The Olympic Series Road to glory
+      Replaces ----- start = 15/08/2018 17:30:00 stop = 15/08/2018 19:00:00 title = Five Rings Film
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 16:35:00 stop = 15/08/2018 17:00:00 title = Camps to Champs
-      Replaces ----- start = 14/08/2018 23:45:00 stop = 15/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 15/08/2018 18:25:00 stop = 15/08/2018 21:00:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 17:30:00 stop = 15/08/2018 19:00:00 title = Five Rings Film
+      Replaces ----- start = 15/08/2018 19:00:00 stop = 15/08/2018 20:00:00 title = Best Moments of Asian Games Incheon 2014
+      Replaces ----- start = 15/08/2018 20:00:00 stop = 15/08/2018 20:30:00 title = Asian Sports disciplines
+      Replaces ----- start = 15/08/2018 20:30:00 stop = 15/08/2018 21:00:00 title = Athletes Under Fire
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 21:00:00 stop = 15/08/2018 21:30:00 title = History of the Asian Games
+      Replaces ----- start = 15/08/2018 21:00:00 stop = 15/08/2018 21:30:00 title = The Great Powers in Asia
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 21:30:00 stop = 15/08/2018 22:30:00 title = Flag and Family
+      Replaces ----- start = 15/08/2018 21:30:00 stop = 15/08/2018 22:30:00 title = Asian Games
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 22:30:00 stop = 15/08/2018 23:00:00 title = The Great Powers in Asia
+      Replaces ----- start = 15/08/2018 22:30:00 stop = 15/08/2018 23:30:00 title = The Olympic Series Stars of Beijing 2008
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 15/08/2018 23:00:00 stop = 16/08/2018 01:00:00 title = Asian Games
+      Replaces ----- start = 15/08/2018 22:30:00 stop = 15/08/2018 23:30:00 title = The Olympic Series Stars of Beijing 2008
+      Replaces ----- start = 15/08/2018 23:30:00 stop = 16/08/2018 00:00:00 title = Asian Games
+      Replaces ----- start = 16/08/2018 00:00:00 stop = 16/08/2018 01:00:00 title = Heroes of the Future
+.g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 01:00:00 stop = 17/08/2018 01:30:00 title = Olympics Today
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 17:00:00 stop = 15/08/2018 17:30:00 title = Olympics Today
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 01:30:00 stop = 17/08/2018 02:30:00 title = The Olympic Series Road to glory
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 17:30:00 stop = 15/08/2018 19:00:00 title = Five Rings Film
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 02:30:00 stop = 17/08/2018 05:05:00 title = Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 19:00:00 stop = 15/08/2018 20:00:00 title = Best Moments of Asian Games Incheon 2014
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 05:05:00 stop = 17/08/2018 05:35:00 title = History of the Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 20:00:00 stop = 15/08/2018 20:30:00 title = Asian Sports disciplines
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 05:35:00 stop = 17/08/2018 06:35:00 title = Flag and Family
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 20:30:00 stop = 15/08/2018 21:00:00 title = Athletes Under Fire
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 06:35:00 stop = 17/08/2018 07:05:00 title = The Great Powers in Asia
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 21:00:00 stop = 15/08/2018 21:30:00 title = The Great Powers in Asia
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 07:05:00 stop = 17/08/2018 09:00:00 title = Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 21:30:00 stop = 15/08/2018 22:30:00 title = Asian Games
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 09:00:00 stop = 17/08/2018 09:30:00 title = Olympics Today
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 g
    epg correction : 
  MISSING show added,
-      show with ---- start = 15/08/2018 22:30:00 stop = 15/08/2018 23:30:00 title = The Olympic Series Stars of Beijing 2008
-      Added before - start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 09:30:00 stop = 17/08/2018 10:30:00 title = The Olympic Series Road to glory
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 10:30:00 stop = 17/08/2018 13:05:00 title = Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 13:05:00 stop = 17/08/2018 13:35:00 title = History of the Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 13:35:00 stop = 17/08/2018 14:35:00 title = Flag and Family
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 14:35:00 stop = 17/08/2018 15:05:00 title = The Great Powers in Asia
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 15:05:00 stop = 17/08/2018 17:00:00 title = Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 17:00:00 stop = 17/08/2018 17:30:00 title = Olympics Today
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 17:30:00 stop = 17/08/2018 18:30:00 title = Design Focus
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 18:30:00 stop = 17/08/2018 20:45:00 title = Asian Games
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 20:45:00 stop = 17/08/2018 21:15:00 title = Squash Asian
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
+g
+   epg correction : 
+ MISSING show added,
+      show with ---- start = 17/08/2018 21:15:00 stop = 17/08/2018 22:30:00 title = FINA Diving World Cup, Wuhan
+      Added before - start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 15/08/2018 23:30:00 stop = 16/08/2018 00:00:00 title = Asian Games
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
+      show with ---- start = 17/08/2018 22:30:00 stop = 18/08/2018 00:30:00 title = Asian Games
+      Replaces ----- start = 17/08/2018 23:00:00 stop = 18/08/2018 01:00:00 title = Asian Games
 c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 16/08/2018 00:00:00 stop = 16/08/2018 01:00:00 title = Heroes of the Future
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 01:00:00 stop = 16/08/2018 01:30:00 title = Olympics Today
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 01:30:00 stop = 16/08/2018 03:00:00 title = Five Rings Film
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 03:00:00 stop = 16/08/2018 04:00:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 04:00:00 stop = 16/08/2018 04:30:00 title = Asian Sports disciplines
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 04:30:00 stop = 16/08/2018 05:00:00 title = Athletes Under Fire
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 05:00:00 stop = 16/08/2018 05:30:00 title = The Great Powers in Asia
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 05:30:00 stop = 16/08/2018 06:30:00 title = Asian Games
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 06:30:00 stop = 16/08/2018 07:25:00 title = The Olympic Series Stars of Beijing 2008
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 07:25:00 stop = 16/08/2018 08:00:00 title = Asian Games
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 08:00:00 stop = 16/08/2018 09:00:00 title = Heroes of the Future
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 09:00:00 stop = 16/08/2018 09:30:00 title = Olympics Today
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 09:30:00 stop = 16/08/2018 11:00:00 title = Five Rings Film
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 11:00:00 stop = 16/08/2018 12:00:00 title = Best Moments of Asian Games Incheon 2014
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 12:00:00 stop = 16/08/2018 12:30:00 title = Asian Sports disciplines
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 12:30:00 stop = 16/08/2018 13:00:00 title = Athletes Under Fire
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 13:00:00 stop = 16/08/2018 13:30:00 title = The Great Powers in Asia
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 13:30:00 stop = 16/08/2018 14:30:00 title = Asian Games
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 14:30:00 stop = 16/08/2018 15:30:00 title = The Olympic Series Stars of Beijing 2008
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 15:30:00 stop = 16/08/2018 16:00:00 title = Asian Games
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 16:00:00 stop = 16/08/2018 16:30:00 title = The Olympic On The Record
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 16/08/2018 16:30:00 stop = 16/08/2018 17:00:00 title = Squash Asian
-      Replaces ----- start = 15/08/2018 23:45:00 stop = 16/08/2018 17:00:00 title = Pakistan vs South Africa
-nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+      show with ---- start = 18/08/2018 22:30:00 stop = 19/08/2018 00:30:00 title = Asian Games
+      Replaces ----- start = 18/08/2018 22:30:00 stop = 18/08/2018 23:59:00 title = Asian Games
+nnnnnnnnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
-     missing shows added       8
-     changed shows updated     71
-     new shows added           28
-     unchanged shows inspected 0
-     total after update        121
+     missing shows added       19
+     changed shows updated     57
+     new shows added           22
+     unchanged shows inspected 4
+     total after update        150
 
 
 
-Job finished at 13/08/2018 03:10:16 done in 10m 7s
+Job finished at 14/08/2018 03:10:03 done in 9m 56s
