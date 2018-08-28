@@ -7,7 +7,7 @@
             thanks to Paul Weterings and all the contributing users             
 --------------------------------------------------------------------------------
 
-Job started at 27/08/2018 03:00:09
+Job started at 28/08/2018 03:00:06
 found: /data/epg/.wg++/siteini.pack/Russia/s-tv.ru.ini -- Revision 01
 found: /data/epg/.wg++/siteini.pack/Russia/tviz.tv.ini -- Revision 02
 timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
@@ -48,17 +48,7 @@ Found existing channel (xmltv_id=OlympicChannel) in the config file
 Group (0) :
 update requested for - 26 - out of - 26 - channels for 8 day(s)
 (   1/26  ) S-TV.RU -- chan. (xmltv_id=Первый) -- mode Incremental
-iiiiiiii.........c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 16:00:00 stop = 27/08/2018 17:00:00 title = Мужское / Женское
-      Replaces ----- start = 27/08/2018 16:00:00 stop = 27/08/2018 17:00:00 title = Мужское / Женское
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 23:35:00 stop = 28/08/2018 00:35:00 title = Курортный роман
-      Replaces ----- start = 27/08/2018 23:35:00 stop = 28/08/2018 00:35:00 title = Курортный роман
-........................c
+iiiiiiii.................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 23:35:00 stop = 29/08/2018 00:35:00 title = Курортный роман
@@ -93,10 +83,10 @@ c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 19:25:00 stop = 02/09/2018 21:00:00 title = Лучше всех!
       Replaces ----- start = 02/09/2018 19:25:00 stop = 02/09/2018 21:00:00 title = Лучше всех!
-..nnn
+.....
 
 (   2/26  ) S-TV.RU -- chan. (xmltv_id=Россия 1) -- mode Incremental
-iiiiiiii.................................................................................................................................................c
+iiiiiiii.........................................................................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/09/2018 11:20:00 stop = 02/09/2018 12:20:00 title = Сваты-4
@@ -106,38 +96,13 @@ c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 12:20:00 stop = 02/09/2018 13:25:00 title = Сваты-4
       Replaces ----- start = 02/09/2018 12:20:00 stop = 02/09/2018 13:25:00 title = Сваты-4
-....nn
+......
 
 (   3/26  ) S-TV.RU -- chan. (xmltv_id=Россия 24) -- mode Incremental
-iiiiiiii...............................................................................................................................................................................................................................................................................................................................................
+iiiiiiii...............................................................................................................................................................................................................................................................................................
 
 (   4/26  ) S-TV.RU -- chan. (xmltv_id=НТВ) -- mode Incremental
 iiiiiiii....c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 08:20:00 stop = 27/08/2018 10:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 27/08/2018 08:20:00 stop = 27/08/2018 10:00:00 title = Возвращение Мухтара-2
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 10:20:00 stop = 27/08/2018 12:00:00 title = Пасечник
-      Replaces ----- start = 27/08/2018 10:20:00 stop = 27/08/2018 12:00:00 title = Пасечник
-.......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 18:15:00 stop = 27/08/2018 19:00:00 title = Ментовские войны-10
-      Replaces ----- start = 27/08/2018 18:15:00 stop = 27/08/2018 19:00:00 title = Ментовские войны-10
-.c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 19:40:00 stop = 27/08/2018 21:00:00 title = Ментовские войны-10
-      Replaces ----- start = 27/08/2018 19:40:00 stop = 27/08/2018 21:00:00 title = Ментовские войны-10
-......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/08/2018 03:15:00 stop = 28/08/2018 05:05:00 title = Москва. Три вокзала-2
-      Replaces ----- start = 28/08/2018 03:15:00 stop = 28/08/2018 05:05:00 title = Москва. Три вокзала-2
-....c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 08:20:00 stop = 28/08/2018 10:00:00 title = Возвращение Мухтара-2
@@ -157,10 +122,27 @@ iiiiiiii....c
  CHANGED show corrected,
       show with ---- start = 28/08/2018 19:40:00 stop = 28/08/2018 21:00:00 title = Ментовские войны-10
       Replaces ----- start = 28/08/2018 19:40:00 stop = 28/08/2018 21:00:00 title = Ментовские войны-10
-.....c
+...c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 29/08/2018 03:15:00 stop = 29/08/2018 05:05:00 title = Москва. Три вокзала-2
+      show with ---- start = 29/08/2018 00:10:00 stop = 29/08/2018 00:30:00 title = Без купюр
+      Replaces ----- start = 29/08/2018 00:10:00 stop = 29/08/2018 02:10:00 title = Свидетели
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/08/2018 00:30:00 stop = 29/08/2018 02:25:00 title = Свидетели
+      Replaces ----- start = 29/08/2018 00:10:00 stop = 29/08/2018 02:10:00 title = Свидетели
+      Replaces ----- start = 29/08/2018 02:10:00 stop = 29/08/2018 03:15:00 title = Квартирный вопрос
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/08/2018 02:25:00 stop = 29/08/2018 03:25:00 title = Квартирный вопрос
+      Replaces ----- start = 29/08/2018 02:10:00 stop = 29/08/2018 03:15:00 title = Квартирный вопрос
+      Replaces ----- start = 29/08/2018 03:15:00 stop = 29/08/2018 05:05:00 title = Москва. Три вокзала-2
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/08/2018 03:25:00 stop = 29/08/2018 05:05:00 title = Москва. Три вокзала-2
       Replaces ----- start = 29/08/2018 03:15:00 stop = 29/08/2018 05:05:00 title = Москва. Три вокзала-2
 ....c
    epg correction : 
@@ -257,7 +239,18 @@ iiiiiiii....c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 04:05:00 stop = 02/09/2018 05:05:00 title = Москва. Три вокзала-2
       Replaces ----- start = 02/09/2018 04:05:00 stop = 02/09/2018 05:05:00 title = Москва. Три вокзала-2
-...........c
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 02/09/2018 05:05:00 stop = 02/09/2018 06:10:00 title = Жизнь и смерть Жени Белоусова
+      Replaces ----- start = 02/09/2018 05:05:00 stop = 02/09/2018 06:05:00 title = Квартирный вопрос
+      Replaces ----- start = 02/09/2018 06:05:00 stop = 02/09/2018 08:00:00 title = "Ты супер!" До и после
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 02/09/2018 06:10:00 stop = 02/09/2018 08:00:00 title = "Ты супер!" До и после
+      Replaces ----- start = 02/09/2018 06:05:00 stop = 02/09/2018 08:00:00 title = "Ты супер!" До и после
+.........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/09/2018 14:00:00 stop = 02/09/2018 15:05:00 title = Лотерея "У нас выигрывают!"
@@ -267,35 +260,10 @@ iiiiiiii....c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 23:00:00 stop = 03/09/2018 00:50:00 title = Шаман. Новая угроза
       Replaces ----- start = 02/09/2018 23:00:00 stop = 03/09/2018 00:50:00 title = Шаман. Новая угроза
-nn
+..
 
 (   5/26  ) S-TV.RU -- chan. (xmltv_id=ТНТ) -- mode Incremental
-iiiiiiii......................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 21:00:00 stop = 27/08/2018 22:00:00 title = Где логика?
-      Replaces ----- start = 27/08/2018 21:00:00 stop = 27/08/2018 22:00:00 title = Где логика?
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/08/2018 00:00:00 stop = 28/08/2018 01:05:00 title = Дом-2. После заката
-      Replaces ----- start = 28/08/2018 00:00:00 stop = 28/08/2018 01:05:00 title = Дом-2. После заката
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/08/2018 01:05:00 stop = 28/08/2018 02:05:00 title = Не спать!
-      Replaces ----- start = 28/08/2018 01:05:00 stop = 28/08/2018 02:05:00 title = Не спать!
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/08/2018 04:00:00 stop = 28/08/2018 05:00:00 title = Где логика?
-      Replaces ----- start = 28/08/2018 04:00:00 stop = 28/08/2018 05:00:00 title = Где логика?
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/08/2018 05:00:00 stop = 28/08/2018 06:00:00 title = Где логика?
-      Replaces ----- start = 28/08/2018 05:00:00 stop = 28/08/2018 06:00:00 title = Где логика?
-...........................c
+iiiiiiii.........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 29/08/2018 00:00:00 stop = 29/08/2018 01:05:00 title = Дом-2. После заката
@@ -370,7 +338,24 @@ c
  CHANGED show corrected,
       show with ---- start = 01/09/2018 01:00:00 stop = 01/09/2018 01:35:00 title = Такое Кино!
       Replaces ----- start = 01/09/2018 01:00:00 stop = 01/09/2018 01:35:00 title = Такое Кино!
-...........................c
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 01:35:00 stop = 01/09/2018 03:45:00 title = Особо опасен
+      Replaces ----- start = 01/09/2018 01:35:00 stop = 01/09/2018 03:30:00 title = Дрянные девчонки
+      Replaces ----- start = 01/09/2018 03:30:00 stop = 01/09/2018 05:20:00 title = Луни Тюнз: Снова в деле
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 03:45:00 stop = 01/09/2018 05:30:00 title = Луни Тюнз: Снова в деле
+      Replaces ----- start = 01/09/2018 03:30:00 stop = 01/09/2018 05:20:00 title = Луни Тюнз: Снова в деле
+      Replaces ----- start = 01/09/2018 05:20:00 stop = 01/09/2018 06:00:00 title = Импровизация
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 05:30:00 stop = 01/09/2018 06:00:00 title = Импровизация
+      Replaces ----- start = 01/09/2018 05:20:00 stop = 01/09/2018 06:00:00 title = Импровизация
+........................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 02/09/2018 00:00:00 stop = 02/09/2018 01:05:00 title = Дом-2. После заката
@@ -380,15 +365,25 @@ c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 05:00:00 stop = 02/09/2018 06:00:00 title = Где логика?
       Replaces ----- start = 02/09/2018 05:00:00 stop = 02/09/2018 06:00:00 title = Где логика?
-......................nnnnnnn
-
-(   6/26  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
-iiiiiiii........c
+......................c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/08/2018 19:30:00 stop = 27/08/2018 21:00:00 title = Большая игра
-      Replaces ----- start = 27/08/2018 19:30:00 stop = 27/08/2018 21:00:00 title = Большая игра
-....................c
+      show with ---- start = 03/09/2018 00:00:00 stop = 03/09/2018 01:00:00 title = Дом-2. После заката
+      Replaces ----- start = 03/09/2018 00:00:00 stop = 03/09/2018 01:00:00 title = Дом-2. После заката
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/09/2018 01:00:00 stop = 03/09/2018 01:35:00 title = Такое Кино!
+      Replaces ----- start = 03/09/2018 01:00:00 stop = 03/09/2018 01:35:00 title = Такое Кино!
+...c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 03/09/2018 05:00:00 stop = 03/09/2018 06:00:00 title = Где логика?
+      Replaces ----- start = 03/09/2018 05:00:00 stop = 03/09/2018 06:00:00 title = Где логика?
+.
+
+(   6/26  ) S-TV.RU -- chan. (xmltv_id=СТС) -- mode Incremental
+iiiiiiii...........c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 19:30:00 stop = 28/08/2018 21:00:00 title = Большая игра
@@ -403,7 +398,17 @@ iiiiiiii........c
  CHANGED show corrected,
       show with ---- start = 30/08/2018 20:00:00 stop = 30/08/2018 21:00:00 title = Большая игра
       Replaces ----- start = 30/08/2018 20:00:00 stop = 30/08/2018 21:00:00 title = Большая игра
-........................................c
+.................................c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 10:00:00 stop = 01/09/2018 10:30:00 title = Премьера! "ПроСТО кухня"
+      Replaces ----- start = 01/09/2018 10:00:00 stop = 01/09/2018 11:30:00 title = Премьера! "ПроСТО кухня"
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 10:30:00 stop = 01/09/2018 11:30:00 title = Успеть за 24 часа
+      Replaces ----- start = 01/09/2018 10:00:00 stop = 01/09/2018 11:30:00 title = Премьера! "ПроСТО кухня"
+......c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 01/09/2018 23:05:00 stop = 02/09/2018 01:00:00 title = Обитель зла 2: Апокалипсис
@@ -418,10 +423,10 @@ c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 21:00:00 stop = 02/09/2018 23:20:00 title = Конг. Остров черепа
       Replaces ----- start = 02/09/2018 21:00:00 stop = 02/09/2018 23:20:00 title = Конг. Остров черепа
-.nnn
+....
 
 (   7/26  ) S-TV.RU -- chan. (xmltv_id=РЕН ТВ) -- mode Incremental
-iiiiiiii.....................................................................................................c
+iiiiiiii..............................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 31/08/2018 18:00:00 stop = 31/08/2018 19:00:00 title = Документальный спецпроект
@@ -429,28 +434,13 @@ iiiiiiii........................................................................
 .......................
 
 (   8/26  ) S-TV.RU -- chan. (xmltv_id=ТНТ4) -- mode Incremental
-iiiiiiii.................................................................................................................................................................................................................................................nnnnnnnn
+iiiiiiii..................................................................................................................................................................................................................
 
 (   9/26  ) S-TV.RU -- chan. (xmltv_id=Че) -- mode Incremental
-iiiiiiii.................................................................................................................nn
+iiiiiiii...............................................................................................
 
 (  10/26  ) S-TV.RU -- chan. (xmltv_id=ТВ-3) -- mode Incremental
 iiiiiiii......c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 12:00:00 stop = 27/08/2018 13:00:00 title = Не ври мне!
-      Replaces ----- start = 27/08/2018 12:00:00 stop = 27/08/2018 13:00:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 13:00:00 stop = 27/08/2018 14:00:00 title = Не ври мне!
-      Replaces ----- start = 27/08/2018 13:00:00 stop = 27/08/2018 14:00:00 title = Не ври мне!
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 14:00:00 stop = 27/08/2018 15:00:00 title = Не ври мне!
-      Replaces ----- start = 27/08/2018 14:00:00 stop = 27/08/2018 15:00:00 title = Не ври мне!
-.......................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 12:00:00 stop = 28/08/2018 13:00:00 title = Не ври мне!
@@ -510,15 +500,10 @@ c
  CHANGED show corrected,
       show with ---- start = 31/08/2018 14:00:00 stop = 31/08/2018 15:00:00 title = Не ври мне!
       Replaces ----- start = 31/08/2018 14:00:00 stop = 31/08/2018 15:00:00 title = Не ври мне!
-.......................................nn
+.........................................
 
 (  11/26  ) S-TV.RU -- chan. (xmltv_id=ТВ Центр) -- mode Incremental
-iiiiiiii....................c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 28/08/2018 00:00:00 stop = 28/08/2018 00:35:00 title = События. 25-й час
-      Replaces ----- start = 28/08/2018 00:00:00 stop = 28/08/2018 00:35:00 title = События. 25-й час
-.........................c
+iiiiiiii...................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 22:30:00 stop = 28/08/2018 23:05:00 title = Осторожно, мошенники!
@@ -563,15 +548,10 @@ c
  CHANGED show corrected,
       show with ---- start = 01/09/2018 15:58:00 stop = 01/09/2018 17:15:00 title = Где живет Надежда?
       Replaces ----- start = 01/09/2018 15:58:00 stop = 01/09/2018 17:15:00 title = Где живет Надежда?
-..............................nnnn
+..................................
 
 (  12/26  ) S-TV.RU -- chan. (xmltv_id=Домашний) -- mode Incremental
 iiiiiiii..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 09:40:00 stop = 27/08/2018 10:40:00 title = Давай разведёмся!
-      Replaces ----- start = 27/08/2018 09:40:00 stop = 27/08/2018 10:40:00 title = Давай разведёмся!
-...............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 09:30:00 stop = 28/08/2018 10:30:00 title = Давай разведёмся!
@@ -596,15 +576,14 @@ iiiiiiii..c
  CHANGED show corrected,
       show with ---- start = 01/09/2018 10:45:00 stop = 01/09/2018 14:10:00 title = Откройте, это я!
       Replaces ----- start = 01/09/2018 10:45:00 stop = 01/09/2018 14:10:00 title = Откройте, это я!
-...............n
-
-(  13/26  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
-iiiiiiii..............c
+...............c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/08/2018 22:00:00 stop = 27/08/2018 23:00:00 title = Ревизорро с Настасьей Самбурской
-      Replaces ----- start = 27/08/2018 22:00:00 stop = 27/08/2018 23:00:00 title = Ревизорро с Настасьей Самбурской
-......................................................................c
+      show with ---- start = 03/09/2018 01:10:00 stop = 03/09/2018 04:35:00 title = Откройте, это я!
+      Replaces ----- start = 03/09/2018 01:10:00 stop = 03/09/2018 04:35:00 title = Откройте, это я!
+
+(  13/26  ) S-TV.RU -- chan. (xmltv_id=Пятница) -- mode Incremental
+iiiiiiii.................................................................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 01/09/2018 12:00:00 stop = 01/09/2018 13:00:00 title = Еда, я люблю тебя!
@@ -614,13 +593,13 @@ iiiiiiii..............c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 12:00:00 stop = 02/09/2018 13:00:00 title = Ревизорро с Настасьей Самбурской
       Replaces ----- start = 02/09/2018 12:00:00 stop = 02/09/2018 13:00:00 title = Ревизорро с Настасьей Самбурской
-....nn
+......
 
 (  14/26  ) S-TV.RU -- chan. (xmltv_id=Ю) -- mode Incremental
-iiiiiiii..........................................................................nn
+iiiiiiii.................................................................
 
 (  15/26  ) S-TV.RU -- chan. (xmltv_id=Звезда) -- mode Incremental
-iiiiiiii..................................c
+iiiiiiii............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 28/08/2018 17:25:00 stop = 28/08/2018 18:00:00 title = Не факт!
@@ -635,7 +614,7 @@ iiiiiiii..................................c
  CHANGED show corrected,
       show with ---- start = 01/09/2018 10:30:00 stop = 01/09/2018 11:05:00 title = Не факт!
       Replaces ----- start = 01/09/2018 10:30:00 stop = 01/09/2018 11:05:00 title = Не факт!
-...............................nn
+.................................
 
 (  16/26  ) TVIZ.TV -- chan. (xmltv_id=EuroNews) -- mode Incremental
 i
@@ -657,16 +636,6 @@ Existing guide data restored!
 iiiiiiii.............c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/08/2018 17:10:00 stop = 27/08/2018 18:05:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 27/08/2018 17:10:00 stop = 27/08/2018 18:05:00 title = Возвращение Мухтара-2
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 18:05:00 stop = 27/08/2018 19:00:00 title = Возвращение Мухтара-2
-      Replaces ----- start = 27/08/2018 18:05:00 stop = 27/08/2018 19:00:00 title = Возвращение Мухтара-2
-......................c
-   epg correction : 
- CHANGED show corrected,
       show with ---- start = 28/08/2018 17:10:00 stop = 28/08/2018 18:05:00 title = Возвращение Мухтара-2
       Replaces ----- start = 28/08/2018 17:10:00 stop = 28/08/2018 18:05:00 title = Возвращение Мухтара-2
 c
@@ -674,7 +643,17 @@ c
  CHANGED show corrected,
       show with ---- start = 28/08/2018 18:05:00 stop = 28/08/2018 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 28/08/2018 18:05:00 stop = 28/08/2018 19:00:00 title = Возвращение Мухтара-2
-.....................c
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/08/2018 01:05:00 stop = 29/08/2018 02:00:00 title = Дела семейные. Битва за будущее
+      Replaces ----- start = 29/08/2018 01:05:00 stop = 29/08/2018 02:00:00 title = Зал суда. Битва за деньги
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 29/08/2018 02:00:00 stop = 29/08/2018 03:00:00 title = Зал суда. Битва за деньги
+      Replaces ----- start = 29/08/2018 02:00:00 stop = 29/08/2018 03:00:00 title = Дела семейные. Битва за будущее
+..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 29/08/2018 17:10:00 stop = 29/08/2018 18:05:00 title = Возвращение Мухтара-2
@@ -684,7 +663,17 @@ c
  CHANGED show corrected,
       show with ---- start = 29/08/2018 18:05:00 stop = 29/08/2018 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 29/08/2018 18:05:00 stop = 29/08/2018 19:00:00 title = Возвращение Мухтара-2
-.....................c
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/08/2018 01:05:00 stop = 30/08/2018 02:00:00 title = Дела семейные. Битва за будущее
+      Replaces ----- start = 30/08/2018 01:05:00 stop = 30/08/2018 02:00:00 title = Зал суда. Битва за деньги
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 30/08/2018 02:00:00 stop = 30/08/2018 03:00:00 title = Зал суда. Битва за деньги
+      Replaces ----- start = 30/08/2018 02:00:00 stop = 30/08/2018 03:00:00 title = Дела семейные. Битва за будущее
+..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 30/08/2018 17:10:00 stop = 30/08/2018 18:05:00 title = Возвращение Мухтара-2
@@ -694,7 +683,17 @@ c
  CHANGED show corrected,
       show with ---- start = 30/08/2018 18:05:00 stop = 30/08/2018 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 30/08/2018 18:05:00 stop = 30/08/2018 19:00:00 title = Возвращение Мухтара-2
-.....................c
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 31/08/2018 01:05:00 stop = 31/08/2018 02:00:00 title = Дела семейные. Битва за будущее
+      Replaces ----- start = 31/08/2018 01:05:00 stop = 31/08/2018 02:00:00 title = Зал суда. Битва за деньги
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 31/08/2018 02:00:00 stop = 31/08/2018 03:00:00 title = Зал суда. Битва за деньги
+      Replaces ----- start = 31/08/2018 02:00:00 stop = 31/08/2018 03:00:00 title = Дела семейные. Битва за будущее
+..............c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 31/08/2018 17:10:00 stop = 31/08/2018 18:05:00 title = Возвращение Мухтара-2
@@ -704,7 +703,17 @@ c
  CHANGED show corrected,
       show with ---- start = 31/08/2018 18:05:00 stop = 31/08/2018 19:00:00 title = Возвращение Мухтара-2
       Replaces ----- start = 31/08/2018 18:05:00 stop = 31/08/2018 19:00:00 title = Возвращение Мухтара-2
-.......................c
+.....c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 01:05:00 stop = 01/09/2018 02:00:00 title = Дела семейные. Битва за будущее
+      Replaces ----- start = 01/09/2018 01:05:00 stop = 01/09/2018 02:00:00 title = Зал суда. Битва за деньги
+c
+   epg correction : 
+ CHANGED show corrected,
+      show with ---- start = 01/09/2018 02:00:00 stop = 01/09/2018 03:00:00 title = Зал суда. Битва за деньги
+      Replaces ----- start = 01/09/2018 02:00:00 stop = 01/09/2018 03:00:00 title = Дела семейные. Битва за будущее
+................c
    epg correction : 
  CHANGED show corrected,
       show with ---- start = 01/09/2018 17:45:00 stop = 01/09/2018 19:00:00 title = Гардемарины, вперед!
@@ -719,7 +728,7 @@ c
  CHANGED show corrected,
       show with ---- start = 02/09/2018 05:10:00 stop = 02/09/2018 06:00:00 title = Наше кино. История большой любви
       Replaces ----- start = 02/09/2018 05:10:00 stop = 02/09/2018 06:00:00 title = Наше кино. История большой любви
-...............nnn
+..................
 
 (  17/26  ) TVIZ.TV -- chan. (xmltv_id=РБК) -- mode Incremental
 i
@@ -850,62 +859,31 @@ no index page data received from Discovery Science HD
 unable to update channel, try again later
 Existing guide data restored!
 (  17/26  ) BEIN.NET -- chan. (xmltv_id=OlympicChannel) -- mode Incremental
-iiiiiiic
+iiiiiii.c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/08/2018 03:00:00 stop = 27/08/2018 03:28:00 title = History of the Asian Games
-      Replaces ----- start = 27/08/2018 03:00:00 stop = 27/08/2018 03:30:00 title = History of the Asian Games
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 03:28:00 stop = 27/08/2018 04:00:00 title = Asian Sports disciplines
-      Replaces ----- start = 27/08/2018 03:00:00 stop = 27/08/2018 03:30:00 title = History of the Asian Games
-      Replaces ----- start = 27/08/2018 03:30:00 stop = 27/08/2018 04:00:00 title = Asian Sports disciplines
-..c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 07:00:00 stop = 27/08/2018 08:45:00 title = Korea  vs Thailand
-      Replaces ----- start = 27/08/2018 07:00:00 stop = 27/08/2018 08:45:00 title = 1st G.A   x   2nd G.B  Semifinal 1 Women's Handball
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 08:45:00 stop = 27/08/2018 09:30:00 title = Iran vs Taipei
-      Replaces ----- start = 27/08/2018 08:45:00 stop = 27/08/2018 10:00:00 title = Basketball  3x3 Men's  +  Women's QuarterFinals 3, 4 Basketball 3x3
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 09:30:00 stop = 27/08/2018 10:00:00 title = History of the Asian Games
-      Replaces ----- start = 27/08/2018 08:45:00 stop = 27/08/2018 10:00:00 title = Basketball  3x3 Men's  +  Women's QuarterFinals 3, 4 Basketball 3x3
+      show with ---- start = 28/08/2018 00:30:00 stop = 28/08/2018 04:00:00 title = Cycling
+      Replaces ----- start = 28/08/2018 00:30:00 stop = 28/08/2018 03:30:00 title = Cycling
+      Replaces ----- start = 28/08/2018 03:30:00 stop = 28/08/2018 04:00:00 title = The Achievments of Asian Arab Women
 .....c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/08/2018 16:00:00 stop = 27/08/2018 20:30:00 title = Cycling
-      Replaces ----- start = 27/08/2018 16:00:00 stop = 27/08/2018 19:00:00 title = Cycling
-      Replaces ----- start = 27/08/2018 19:00:00 stop = 27/08/2018 20:30:00 title = Water Polo Men's Preliminaries Kasakhstan vs Singapore
-c
+      show with ---- start = 28/08/2018 12:00:00 stop = 28/08/2018 14:00:00 title = Philippines vs TBC
+      Replaces ----- start = 28/08/2018 12:00:00 stop = 28/08/2018 14:00:00 title = Rank 1 Men's Basketball
+........c
    epg correction : 
  CHANGED show corrected,
-      show with ---- start = 27/08/2018 20:30:00 stop = 27/08/2018 22:00:00 title = Oman  vs  Kazakhstan Hockey Men
-      Replaces ----- start = 27/08/2018 20:30:00 stop = 27/08/2018 22:30:00 title = Oman  vs  Kazakhstan Hockey Men
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 22:00:00 stop = 27/08/2018 22:30:00 title = Women in Asian Games
-      Replaces ----- start = 27/08/2018 20:30:00 stop = 27/08/2018 22:30:00 title = Oman  vs  Kazakhstan Hockey Men
-c
-   epg correction : 
- CHANGED show corrected,
-      show with ---- start = 27/08/2018 22:30:00 stop = 28/08/2018 00:00:00 title = China vs Hong Kong
-      Replaces ----- start = 27/08/2018 22:30:00 stop = 27/08/2018 23:59:00 title = China vs Hong Kong
-nnnnnnnnnnnnnnnnnn
+      show with ---- start = 28/08/2018 23:30:00 stop = 29/08/2018 00:00:00 title = Arabs Participation in Asian Games
+      Replaces ----- start = 28/08/2018 23:30:00 stop = 28/08/2018 23:59:00 title = Arabs Participation in Asian Games
+nnnnnnnnnnnnnnnn
 
    Summary for update of       OlympicChannel
      missing shows added       0
-     changed shows updated     9
-     new shows added           18
-     unchanged shows inspected 7
-     total after update        35
+     changed shows updated     3
+     new shows added           16
+     unchanged shows inspected 14
+     total after update        33
 
 
 
-Job finished at 27/08/2018 03:10:13 done in 10m 4s
+Job finished at 28/08/2018 03:09:58 done in 9m 51s
