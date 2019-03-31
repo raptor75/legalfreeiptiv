@@ -1,12 +1,12 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/raptor75/legalfreeiptiv/master/guide.xml"
+#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/perviy.png" tvg-ID="Первый" tvg-name="Первый",Первый
 http://pl.kineskop.tv/site/250/250.m3u8?id=_STA100270&watch_time=300&watch_start=1529354576&p=4a99ba598d403f2b
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/rossia1.png" tvg-ID="Россия 1" tvg-name="Россия 1",Россия 1
-http://50.7.136.50:8081/ros_1/index.m3u8
+https://a3569455845-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/rossia24.png" tvg-ID="Россия 24" tvg-name="Россия 24",Россия 24
-http://pl.kineskop.tv/site/80/80.m3u8?id=_STA640036&watch_time=300&watch_start=1529355703&p=33c30b7ec769d3cf
+https://youtu.be/8T9SFZDP60Q
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/ntv.png" tvg-ID="НТВ" tvg-name="НТВ",НТВ
-https://live-4-202.rutube.ru/live-hls/DevkC2hpHCRC6aIdCETDXQ/1533588430/49/51859/move/four/dirs/upper/720p.m3u8?i=1280x720_3600000
+https://live-4-201.rutube.ru/stream/10213616/42a58f895935bbf495089a2e1fe15e46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/tnt.png" tvg-ID="ТНТ" tvg-name="ТНТ",ТНТ
 http://50.7.136.50:8081/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/sts.png" tvg-ID="СТС" tvg-name="СТС",СТС
