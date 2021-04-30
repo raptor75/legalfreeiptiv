@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/perviy.png" tvg-ID="Первый" tvg-name="Первый",Первый
-http://pl.kineskop.tv/site/250/250.m3u8?id=_STA100270&watch_time=300&watch_start=1529354576&p=4a99ba598d403f2b
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/rossia1.png" tvg-ID="Россия 1" tvg-name="Россия 1",Россия 1
-https://a3569455845-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/rossia24.png" tvg-ID="Россия 24" tvg-name="Россия 24",Россия 24
-https://www.youtube.com/watch?v=8T9SFZDP60Q
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/ntv.png" tvg-ID="НТВ" tvg-name="НТВ",НТВ
 https://live-4-201.rutube.ru/stream/10213616/42a58f895935bbf495089a2e1fe15e46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/tnt.png" tvg-ID="ТНТ" tvg-name="ТНТ",ТНТ
-http://50.7.136.50:8081/tnt/index.m3u8
+http://147.135.210.90:8081/tv/tnt/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/sts.png" tvg-ID="СТС" tvg-name="СТС",СТС
 http://50.7.136.50:8081/sts/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/rentv.png" tvg-ID="РЕН ТВ" tvg-name="РЕН ТВ",РЕН ТВ
-http://50.7.136.50:8081/rentv/index.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/comedy.png" tvg-ID="ТНТ4" tvg-name="ТНТ4",ТНТ4
 https://live-4-202.rutube.ru/live-hls/CaVqNuW7R9F7fw5NJQtiGg/1533588575/50/51446/move/four/dirs/upper/720p.m3u8?i=1280x720_3600000
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/che.png" tvg-ID="Че" tvg-name="Че",Че
@@ -26,7 +26,7 @@ http://50.7.136.50:8081/domashni/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/pyatnica.png" tvg-ID="Пятница" tvg-name="Пятница",Пятница
 http://50.7.127.60:8081/pjatnica/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgga2b34208c99aa2e61b754ee48a4c7ce8T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/yu.png" tvg-ID="Ю" tvg-name="Ю",Ю
-http://50.7.136.50:8081/yu/index.m3u8
+http://51.68.141.106:8081/tv/u-3sa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/zvezda.png" tvg-ID="Звезда" tvg-name="Звезда",Звезда
 http://pl.kineskop.tv/site/49/49.m3u8?id=_STA200797&watch_time=300&watch_start=1529355454&p=d84e19796f2a376e
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/euronews1.png" tvg-ID="EuroNews" tvg-name="Euronews",Euronews
@@ -34,17 +34,17 @@ http://pl.kineskop.tv/site/241/241.m3u8?id=_STA929580&watch_time=300&watch_start
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/mir.png" tvg-ID="МИР" tvg-name="МИР",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/rbk.png" tvg-ID="РБК" tvg-name="РБК",РБК
-http://online-video.rbc.ru/online/rbctv.m3u8
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/fashiontv.png" tvg-ID="Fashion TV" tvg-name="Fashion TV",Fashion TV
 http://stream-09.ix7.dailymotion.com/05/dm/3/x3m6nld/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/ru.png" tvg-ID="Ru.TV" tvg-name="Ru.TV",Ru.TV
-https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/1hd.png" tvg-ID="1HD" tvg-name="1HD",1HD
-https://cdn-01.bonus-tv.ru:8090/1HDmusic/tracks-v2a1/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/russiatoday.png" tvg-ID="RT" tvg-name="RT",Russia Today
-https://secure-streams.akamaized.net/rt/index2500.m3u8
+https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 tvg-logo="https://www.tviz.tv/gfx/tviz_b/rtd.png" tvg-ID="RTД" tvg-name="RTД",RTД
-http://50.7.136.50:8081/russia_today/index.m3u8
+https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/discovery_hd.png" tvg-ID="Discovery Channel HD" tvg-name="Discovery Channel HD",Discovery Channel HD
 http://pl.kineskop.tv/site/177/177.m3u8?id=_STA727994&watch_time=300&watch_start=1529355784&p=9a18d2f05ed591e2
 #EXTINF:-1 tvg-logo="http://epg.hayastantv.com/logos/discovery_science.png" tvg-ID="Discovery Science HD" tvg-name="Discovery Science HD",Discovery Science HD
